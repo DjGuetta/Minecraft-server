@@ -1,17 +1,16 @@
-[14:12:51] [main/INFO]: Loading Minecraft 1.20.1 with Fabric Loader 0.16.10
-[14:12:51] [main/INFO]: Fabric is preparing JARs on first launch, this may take a few seconds...
-[14:12:51] [ForkJoinPool-1-worker-2/WARN]: The mod "openblocks" contains invalid entries in its mod json:
+[19:36:37] [main/INFO]: Loading Minecraft 1.20.1 with Fabric Loader 0.16.10
+[19:36:37] [ForkJoinPool-1-worker-4/WARN]: The mod "openblocks" contains invalid entries in its mod json:
 - Unsupported root entry "client" at line 24 column 11
-[14:12:51] [ForkJoinPool-1-worker-3/WARN]: Mod tectonic uses the version 2.4.1b which isn't compatible with Loader's extended semantic version format (Could not parse version number component '1b'!), SemVer is recommended for reliably evaluating dependencies and prioritizing newer version
-[14:12:52] [ForkJoinPool-1-worker-4/WARN]: Mod mr_dungeons_andtaverns uses the version 3.0.3.f which isn't compatible with Loader's extended semantic version format (Could not parse version number component 'f'!), SemVer is recommended for reliably evaluating dependencies and prioritizing newer version
-[14:12:52] [main/WARN]: Warnings were found!
+[19:36:37] [ForkJoinPool-1-worker-3/WARN]: Mod tectonic uses the version 2.4.1b which isn't compatible with Loader's extended semantic version format (Could not parse version number component '1b'!), SemVer is recommended for reliably evaluating dependencies and prioritizing newer version
+[19:36:38] [ForkJoinPool-1-worker-3/WARN]: Mod mr_dungeons_andtaverns uses the version 3.0.3.f which isn't compatible with Loader's extended semantic version format (Could not parse version number component 'f'!), SemVer is recommended for reliably evaluating dependencies and prioritizing newer version
+[19:36:38] [main/WARN]: Warnings were found!
  - Mod 'Dynamic Lights' (dynamiclights) 1.8.3+mod recommends any version of modmenu, which is missing!
 	 - You should install any version of modmenu for the optimal experience.
  - Mod 'Dynamic Lights' (dynamiclights) 1.8.3+mod recommends any version of modmenu-badges-lib, which is missing!
 	 - You should install any version of modmenu-badges-lib for the optimal experience.
  - Mod 'Simply Swords' (simplyswords) 1.56.0-1.20.1 recommends version 1.7.2 or later of bettercombat, which is missing!
 	 - You should install version 1.7.2 or later of bettercombat for the optimal experience.
-[14:12:52] [main/INFO]: Loading 235 mods:
+[19:36:38] [main/INFO]: Loading 234 mods:
 	- ae2 15.3.3
 	   \-- team_reborn_energy 3.0.0
 	- almanac 1.0.2
@@ -19,7 +18,6 @@
 	   \-- mixinextras 0.4.1
 	- antixray 1.4.6
 	   \-- com_moandjiezana_toml_toml4j 0.7.2
-	- appleskin 2.5.1+mc1.20
 	- aquamirae 6
 	- architectury 9.2.14
 	- artifacts 9.5.13
@@ -290,158 +288,158 @@
 	- yungsapi 1.20-Fabric-4.0.6
 	   |-- org_javassist_javassist 3.29.2-GA
 	   \-- org_reflections_reflections 0.10.2
-[14:12:52] [main/WARN]: Found 2 non-fabric mods:
+[19:36:38] [main/WARN]: Found 2 non-fabric mods:
 	- spark-1.10.53-forge.jar
 	- another_furniture-forge-1.20.1-3.0.2.jar
-[14:12:52] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/minecraft-server/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.15.4+mixin.0.8.7/sponge-mixin-0.15.4+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
-[14:12:52] [main/INFO]: Compatibility level set to JAVA_11
-[14:12:52] [main/INFO]: Compatibility level set to JAVA_17
-[14:12:52] [main/WARN]: Reference map 'create_connected-refmap.json' for create_connected.mixins.json could not be read. If this is a development environment you can ignore this message
-[14:12:52] [main/WARN]: Reference map 'createdeco-fabric-refmap.json' for createdeco.mixins.json could not be read. If this is a development environment you can ignore this message
-[14:12:52] [main/WARN]: Reference map 'graveyard-FABRIC-fabric-refmap.json' for graveyard-fabric.mixins.json could not be read. If this is a development environment you can ignore this message
-[14:12:52] [main/WARN]: Reference map 'lookinsharp-fabric-1.20.1-fabric-refmap.json' for lookinsharp.mixins.json could not be read. If this is a development environment you can ignore this message
-[14:12:52] [main/WARN]: Reference map 'memoryleakfix-fabric-1.17+-fabric-refmap.json' for memoryleakfix-fabric.mixins.json could not be read. If this is a development environment you can ignore this message
-[14:12:53] [main/INFO]: Loaded configuration file for ModernFix 5.20.2+mc1.20.1: 64 options available, 0 override(s) found
-[14:12:53] [main/INFO]: Applying Nashorn fix
-[14:12:53] [main/WARN]: Reference map 'OctoLib-COMMON-common-refmap.json' for octolib.mixins.json could not be read. If this is a development environment you can ignore this message
-[14:12:53] [main/WARN]: Reference map 'rechiseled.mixins.refmap.json' for rechiseled.mixins.json could not be read. If this is a development environment you can ignore this message
-[14:12:53] [main/WARN]: Reference map 'simplyswords-fabric-refmap.json' for simplyswords.mixins.json could not be read. If this is a development environment you can ignore this message
-[14:12:53] [main/WARN]: Reference map 'supermartijn642configlib.mixins.refmap.json' for supermartijn642configlib.mixins.json could not be read. If this is a development environment you can ignore this message
-[14:12:53] [main/WARN]: Error loading class: net/minecraft/class_881 (java.lang.ClassNotFoundException: net/minecraft/class_881)
-[14:12:53] [main/WARN]: @Mixin target net.minecraft.class_881 was not found porting_lib_base.mixins.json:client.BoatRendererMixin from mod porting_lib_base
-[14:12:53] [main/WARN]: Error loading class: net/minecraft/class_525 (java.lang.ClassNotFoundException: net/minecraft/class_525)
-[14:12:53] [main/WARN]: @Mixin target net.minecraft.class_525 was not found porting_lib_base.mixins.json:client.CreateWorldScreenMixin from mod porting_lib_base
-[14:12:53] [main/WARN]: Error loading class: net/minecraft/class_906 (java.lang.ClassNotFoundException: net/minecraft/class_906)
-[14:12:53] [main/WARN]: @Mixin target net.minecraft.class_906 was not found porting_lib_tool_actions.mixins.json:FishingHookRendererMixin from mod porting_lib_tool_actions
-[14:12:53] [main/WARN]: Error loading class: net/minecraft/class_793 (java.lang.ClassNotFoundException: net/minecraft/class_793)
-[14:12:53] [main/WARN]: @Mixin target net.minecraft.class_793 was not found twilight.mixins.json:BlockModelAccessor from mod twilightforest
-[14:12:53] [main/WARN]: Error loading class: fr/catcore/server/translations/api/resource/language/SystemDelegatedLanguage (java.lang.ClassNotFoundException: fr/catcore/server/translations/api/resource/language/SystemDelegatedLanguage)
-[14:12:53] [main/WARN]: Error loading class: vectorwing/farmersdelight/common/block/TomatoVineBlock (java.lang.ClassNotFoundException: vectorwing/farmersdelight/common/block/TomatoVineBlock)
-[14:12:53] [main/WARN]: Error loading class: me/jellysquid/mods/sodium/client/render/chunk/compile/pipeline/FluidRenderer (java.lang.ClassNotFoundException: me/jellysquid/mods/sodium/client/render/chunk/compile/pipeline/FluidRenderer)
-[14:12:53] [main/WARN]: Error loading class: io/wispforest/accessories/impl/AccessoriesEventHandler (java.lang.ClassNotFoundException: io/wispforest/accessories/impl/AccessoriesEventHandler)
-[14:12:53] [main/WARN]: @Mixin target io.wispforest.accessories.impl.AccessoriesEventHandler was not found travelersbackpack.mixins.json:AccessoriesEventHandlerMixin from mod travelersbackpack
-[14:12:53] [main/WARN]: Error loading class: com/beansgalaxy/backpacks/compat/TrinketsRegistry$1 (java.lang.ClassNotFoundException: com/beansgalaxy/backpacks/compat/TrinketsRegistry$1)
-[14:12:53] [main/WARN]: Error loading class: io/github/apace100/apoli/power/KeepInventoryPower (java.lang.ClassNotFoundException: io/github/apace100/apoli/power/KeepInventoryPower)
-[14:12:53] [main/INFO]: [MemoryLeakFix] Will be applying 1 memory leak fixes!
-[14:12:53] [main/INFO]: [MemoryLeakFix] Currently enabled memory leak fixes: [biomeTemperatureLeak]
-[14:12:53] [main/WARN]: Error loading class: net/fabricmc/fabric/api/client/rendering/v1/EntityModelLayerRegistry$TexturedModelDataProvider (java.lang.ClassNotFoundException: net/fabricmc/fabric/api/client/rendering/v1/EntityModelLayerRegistry$TexturedModelDataProvider)
-[14:12:54] [main/WARN]: Error loading class: net/minecraft/class_1163 (java.lang.ClassNotFoundException: net/minecraft/class_1163)
-[14:12:54] [main/WARN]: @Mixin target net.minecraft.class_1163 was not found mixins.mm.json:net.minecraft.class_1163 from mod mm
-[14:12:54] [main/WARN]: Error loading class: net/minecraft/class_1142 (java.lang.ClassNotFoundException: net/minecraft/class_1142)
-[14:12:54] [main/WARN]: @Mixin target net.minecraft.class_1142 was not found mixins.mm.json:net.minecraft.class_1142 from mod mm
-[14:12:54] [main/WARN]: Error loading class: net/minecraft/class_898 (java.lang.ClassNotFoundException: net/minecraft/class_898)
-[14:12:54] [main/WARN]: @Mixin target net.minecraft.class_898 was not found mixins.mm.json:net.minecraft.class_898 from mod mm
-[14:12:54] [main/WARN]: Error loading class: net/minecraft/class_761 (java.lang.ClassNotFoundException: net/minecraft/class_761)
-[14:12:54] [main/WARN]: @Mixin target net.minecraft.class_761 was not found mixins.mm.json:net.minecraft.class_761 from mod mm
-[14:12:54] [main/WARN]: Error loading class: net/minecraft/class_759 (java.lang.ClassNotFoundException: net/minecraft/class_759)
-[14:12:54] [main/WARN]: @Mixin target net.minecraft.class_759 was not found mixins.mm.json:net.minecraft.class_759 from mod mm
-[14:12:54] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
-[14:12:57] [main/INFO]: Injecting BlockStateBase cache population hook into getOpacityIfCached from ca.spottedleaf.starlight.mixin.common.blockstate.BlockStateBaseMixin
-[14:12:57] [main/INFO]: Injecting BlockStateBase cache population hook into isConditionallyFullOpaque from ca.spottedleaf.starlight.mixin.common.blockstate.BlockStateBaseMixin
-[14:13:01] [main/WARN]: Static binding violation: PRIVATE @Overwrite method method_21740 in modernfix-common.mixins.json:perf.remove_biome_temperature_cache.BiomeMixin from mod modernfix cannot reduce visibiliy of PUBLIC target method, visibility will be upgraded.
-[14:13:01] [main/INFO]: Vanilla bootstrap took 7040 milliseconds
-[14:13:01] [main/INFO]: Loaded config for: cupboard.json
-[14:13:02] [main/INFO]: Loaded config amendments-common.json
-[14:13:02] [main/INFO]: Successfully initialized antixray for fabric
-[14:13:02] [main/INFO]: Registering C2S receiver with id artifacts:networking_channel/42a7ad70b1cc371599a0eff744096b8a
-[14:13:02] [main/INFO]: Registering C2S receiver with id artifacts:networking_channel/74a5e841822a3a87854ae896a33430d6
-[14:13:02] [main/INFO]: Registering C2S receiver with id artifacts:networking_channel/eb3d1e2748533430848cadf0f37c7e9c
-[14:13:02] [main/INFO]: Registering C2S receiver with id artifacts:networking_channel/91c8520f19f93b3e8b6a727568e194ab
-[14:13:02] [main/INFO]: Registering C2S receiver with id artifacts:networking_channel/8c2784d778293fd482ed84b8aa5fedb9
-[14:13:02] [main/INFO]: Registering C2S receiver with id artifacts:networking_channel/ea038224ea783d40b2863f52239e2604
-[14:13:02] [main/INFO]: Registering C2S receiver with id artifacts:networking_channel/97ad64b7ecaf33209991c4f031501a58
-[14:13:02] [main/INFO]: Registering Item Groups for bellsandwhistles
-[14:13:02] [main/INFO]: Create addon mod [Create: Bells & Whistles] is loading alongside Create [0.5.1d]!
-[14:13:02] [main/INFO]: Create: Bells & Whistles is accessinsg Porting Lib from the server!
-[14:13:02] [main/INFO]: Better Archeology says Hello
-[14:13:03] [main/INFO]: Registering Items from betterarcheology
-[14:13:03] [main/INFO]: Registering Blocks from betterarcheology
-[14:13:03] [main/INFO]: ModEntityTypes of betterarcheology registered.
-[14:13:03] [main/INFO]: Registering JEI Recipe Serializers for betterarcheology
-[14:13:03] [main/INFO]: Registering Enchantments for betterarcheology
-[14:13:03] [main/INFO]: Brutal bosses initialized
-[14:13:03] [main/INFO]: Loading Collective version 7.93.
-[14:13:05] [main/INFO]: Initializing CreateCopperAndZincMod
-[14:13:05] [main/INFO]: Registering items for Create Deco
-[14:13:05] [main/INFO]: Registering blocks for Create Deco
-[14:13:05] [main/INFO]: Create Deco is accessing Porting Lib on a Fabric server!
-[14:13:05] [main/INFO]: placard tooltip was null
-[14:13:05] [main/INFO]: placard tooltip was null
-[14:13:05] [main/INFO]: placard tooltip was null
-[14:13:05] [main/INFO]: placard tooltip was null
-[14:13:05] [main/INFO]: placard tooltip was null
-[14:13:05] [main/INFO]: placard tooltip was null
-[14:13:05] [main/INFO]: placard tooltip was null
-[14:13:05] [main/INFO]: placard tooltip was null
-[14:13:05] [main/INFO]: placard tooltip was null
-[14:13:05] [main/INFO]: placard tooltip was null
-[14:13:05] [main/INFO]: placard tooltip was null
-[14:13:05] [main/INFO]: placard tooltip was null
-[14:13:05] [main/INFO]: placard tooltip was null
-[14:13:05] [main/INFO]: placard tooltip was null
-[14:13:05] [main/INFO]: placard tooltip was null
-[14:13:05] [main/INFO]: Bypassed Mojang DFU
-[14:13:05] [main/INFO]: Instantiating Mojang DFU
-[14:13:06] [main/ERROR]: No data fixer registered for crystallized_amber
-[14:13:06] [main/ERROR]: No data fixer registered for sculk_jaw
-[14:13:06] [main/INFO]: Constructing common components for diagonalblocks:main
-[14:13:06] [main/INFO]: Constructing common components for diagonalfences:main
-[14:13:06] [main/INFO]: Constructing shapes for DiagonalFenceBlock[NodeWidth=2.0,ExtensionWidth=2.0,NodeTop=24.0,ExtensionBottom=0.0,ExtensionTop=24.0] took 158ms
-[14:13:06] [main/INFO]: Constructing shapes for DiagonalFenceBlock[NodeWidth=2.0,ExtensionWidth=2.0,NodeTop=16.0,ExtensionBottom=0.0,ExtensionTop=16.0] took 55ms
-[14:13:07] [main/INFO]: Constructing shapes for DiagonalFenceBlock[NodeWidth=2.0,ExtensionWidth=1.0,NodeTop=16.0,ExtensionBottom=6.0,ExtensionTop=15.0] took 127ms
-[14:13:07] [main/INFO]: [Dynamic Lights] MidnightLib detected!
-[14:13:07] [main/INFO]: [Dynamic Lights] Registering server started event...
-[14:13:07] [main/INFO]: [Dynamic Lights] Loaded Dynamic Lights by Tschipcraft successfully!
-[14:13:07] [main/INFO]: Constructing common components for easyanvils:main
-[14:13:07] [main/INFO]: Constructing common components for easymagic:main
-[14:13:07] [main/INFO]: ExpandAbility here, who dis?
-[14:13:07] [main/ERROR]: No data fixer registered for anomaly
-[14:13:07] [main/INFO]: Registered JSON trade offer adapter.
-[14:13:07] [main/INFO]: Ice And Fire common config version match.
-[14:13:08] [main/INFO]: Registering C2S receiver with id iceandfire:myrmex_sync
-[14:13:08] [main/INFO]: Registering C2S receiver with id iceandfire:dragon_control
-[14:13:08] [main/INFO]: Registering C2S receiver with id iceandfire:multipart_interact
-[14:13:08] [main/INFO]: Registering C2S receiver with id iceandfire:player_hit_multipart
-[14:13:08] [main/INFO]: Registering C2S receiver with id iceandfire:start_riding_mob_c2s
-[14:13:08] [main/INFO]: [STDOUT]: Registering Sounds for Infinity Buttons
-[14:13:08] [main/INFO]: Registering Particle Types
-[14:13:08] [main/INFO]: Initializing ServerSide Packet Registries
-[14:13:08] [main/INFO]: 1 Jupiter entrypoint(s) detected: jupiter:jupiter
-[14:13:08] [main/INFO]: Initialize mod Library Ferret
-[14:13:08] [main/INFO]: Initialized mod Library Ferret
-[14:13:09] [main/INFO]: Definitely not up to no good
-[14:13:09] [main/INFO]: Giving mobs a fresh coat of paint...
-[14:13:09] [main/INFO]: [STDOUT]: All 1 have been set properly
-[14:13:09] [main/INFO]: Don't trust naschhorn, the Master of Taglocks, around you or your bed
-[14:13:09] [main/INFO]: Constructing common components for puzzleslib:main
-[14:13:09] [main/INFO]: [STDOUT]: /workspaces/minecraft-server/servidor_minecraft/config
-[14:13:09] [Thread-5/INFO]: Starting to fetch sponsor list.
-[14:13:09] [main/INFO]: Loaded config supplementaries-common.json
-[14:13:10] [Thread-5/INFO]: Successfully fetch sponsor list.
-[14:13:10] [main/INFO]: Registered region minecraft:overworld to index 0 for type OVERWORLD
-[14:13:10] [main/INFO]: Registered region minecraft:nether to index 0 for type NETHER
-[14:13:10] [main/INFO]: Registered region biomesoplenty:overworld_primary to index 1 for type OVERWORLD
-[14:13:10] [main/INFO]: Registered region biomesoplenty:overworld_secondary to index 2 for type OVERWORLD
-[14:13:10] [main/INFO]: Registered region biomesoplenty:overworld_rare to index 3 for type OVERWORLD
-[14:13:10] [main/INFO]: Registered region biomesoplenty:nether_common to index 1 for type NETHER
-[14:13:10] [main/INFO]: Registered region biomesoplenty:nether_rare to index 2 for type NETHER
-[14:13:10] [main/INFO]: Registered the FluidEffect with Unique ID of minecraft:water for minecraft:water 81000 with the ID 0
-[14:13:10] [main/INFO]: Registered the FluidEffect with Unique ID of minecraft:lava for minecraft:lava 81000 with the ID 1
-[14:13:10] [main/INFO]: Registered the FluidEffect with Unique ID of travelersbackpack:potion for travelersbackpack:potion_still 27000 with the ID 2
-[14:13:10] [main/INFO]: Registered the FluidEffect with Unique ID of travelersbackpack:milk for travelersbackpack:milk_still 81000 with the ID 3
-[14:13:11] [main/INFO]: Registered JSON trade offer adapter.
-[14:13:11] [main/INFO]: Reflections took 51 ms to scan 1 urls, producing 1 keys and 4 values
-[14:13:11] [main/INFO]: Reflections took 5 ms to scan 1 urls, producing 1 keys and 4 values
-[14:13:12] [main/INFO]: Initialized block sets in 25ms
-[14:13:12] [main/INFO]: Loaded config moonlight-common.json
-[14:13:12] [main/INFO]: Initialized color sets in 76ms
-[14:13:12] [main/INFO]: Finished mod setup in: [5, 0, 0, 0, 0, 0, 11, 5, 0] ms
-[14:13:12] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[14:13:13] [main/INFO]: Generated runtime SERVER_DATA for pack Supplementaries Generated Pack (supplementaries) in: 23 ms
-[14:13:15] [main/INFO]: [fabric-registry-sync] Loaded registry data [file 1/4]
-[14:13:16] [Worker-Main-1/ERROR]: Couldn't load tag supplementaries:lunch_basket_blacklist as it is missing following references: potionbundles:potion_bundle (from fabric)
-[14:13:16] [Worker-Main-2/ERROR]: Couldn't load tag create:safe_nbt as it is missing following references: create_connected:linked_stone_button (from fabric), create_connected:linked_polished_blackstone_button (from fabric), create_connected:linked_oak_button (from fabric), create_connected:linked_spruce_button (from fabric), create_connected:linked_birch_button (from fabric), create_connected:linked_acacia_button (from fabric), create_connected:linked_cherry_button (from fabric), create_connected:linked_jungle_button (from fabric), create_connected:linked_dark_oak_button (from fabric), create_connected:linked_crimson_button (from fabric), create_connected:linked_warped_button (from fabric), create_connected:linked_mangrove_button (from fabric), create_connected:linked_bamboo_button (from fabric), create_connected:linked_lever (from fabric), create_connected:linked_analog_lever (from fabric)
-[14:13:17] [Worker-Main-1/ERROR]: Couldn't parse element loot_tables:create_connected:blocks/encased_chain_cogwheel
+[19:36:38] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/minecraft-server/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.15.4+mixin.0.8.7/sponge-mixin-0.15.4+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
+[19:36:38] [main/INFO]: Compatibility level set to JAVA_11
+[19:36:38] [main/INFO]: Compatibility level set to JAVA_17
+[19:36:39] [main/WARN]: Reference map 'create_connected-refmap.json' for create_connected.mixins.json could not be read. If this is a development environment you can ignore this message
+[19:36:39] [main/WARN]: Reference map 'createdeco-fabric-refmap.json' for createdeco.mixins.json could not be read. If this is a development environment you can ignore this message
+[19:36:39] [main/WARN]: Reference map 'graveyard-FABRIC-fabric-refmap.json' for graveyard-fabric.mixins.json could not be read. If this is a development environment you can ignore this message
+[19:36:39] [main/WARN]: Reference map 'lookinsharp-fabric-1.20.1-fabric-refmap.json' for lookinsharp.mixins.json could not be read. If this is a development environment you can ignore this message
+[19:36:39] [main/WARN]: Reference map 'memoryleakfix-fabric-1.17+-fabric-refmap.json' for memoryleakfix-fabric.mixins.json could not be read. If this is a development environment you can ignore this message
+[19:36:39] [main/INFO]: Loaded configuration file for ModernFix 5.20.2+mc1.20.1: 64 options available, 0 override(s) found
+[19:36:39] [main/INFO]: Applying Nashorn fix
+[19:36:39] [main/WARN]: Reference map 'OctoLib-COMMON-common-refmap.json' for octolib.mixins.json could not be read. If this is a development environment you can ignore this message
+[19:36:39] [main/WARN]: Reference map 'rechiseled.mixins.refmap.json' for rechiseled.mixins.json could not be read. If this is a development environment you can ignore this message
+[19:36:39] [main/WARN]: Reference map 'simplyswords-fabric-refmap.json' for simplyswords.mixins.json could not be read. If this is a development environment you can ignore this message
+[19:36:39] [main/WARN]: Reference map 'supermartijn642configlib.mixins.refmap.json' for supermartijn642configlib.mixins.json could not be read. If this is a development environment you can ignore this message
+[19:36:39] [main/WARN]: Error loading class: net/minecraft/class_881 (java.lang.ClassNotFoundException: net/minecraft/class_881)
+[19:36:39] [main/WARN]: @Mixin target net.minecraft.class_881 was not found porting_lib_base.mixins.json:client.BoatRendererMixin from mod porting_lib_base
+[19:36:39] [main/WARN]: Error loading class: net/minecraft/class_525 (java.lang.ClassNotFoundException: net/minecraft/class_525)
+[19:36:39] [main/WARN]: @Mixin target net.minecraft.class_525 was not found porting_lib_base.mixins.json:client.CreateWorldScreenMixin from mod porting_lib_base
+[19:36:39] [main/WARN]: Error loading class: net/minecraft/class_906 (java.lang.ClassNotFoundException: net/minecraft/class_906)
+[19:36:39] [main/WARN]: @Mixin target net.minecraft.class_906 was not found porting_lib_tool_actions.mixins.json:FishingHookRendererMixin from mod porting_lib_tool_actions
+[19:36:39] [main/WARN]: Error loading class: net/minecraft/class_793 (java.lang.ClassNotFoundException: net/minecraft/class_793)
+[19:36:39] [main/WARN]: @Mixin target net.minecraft.class_793 was not found twilight.mixins.json:BlockModelAccessor from mod twilightforest
+[19:36:40] [main/WARN]: Error loading class: fr/catcore/server/translations/api/resource/language/SystemDelegatedLanguage (java.lang.ClassNotFoundException: fr/catcore/server/translations/api/resource/language/SystemDelegatedLanguage)
+[19:36:40] [main/WARN]: Error loading class: vectorwing/farmersdelight/common/block/TomatoVineBlock (java.lang.ClassNotFoundException: vectorwing/farmersdelight/common/block/TomatoVineBlock)
+[19:36:40] [main/WARN]: Error loading class: me/jellysquid/mods/sodium/client/render/chunk/compile/pipeline/FluidRenderer (java.lang.ClassNotFoundException: me/jellysquid/mods/sodium/client/render/chunk/compile/pipeline/FluidRenderer)
+[19:36:40] [main/WARN]: Error loading class: io/wispforest/accessories/impl/AccessoriesEventHandler (java.lang.ClassNotFoundException: io/wispforest/accessories/impl/AccessoriesEventHandler)
+[19:36:40] [main/WARN]: @Mixin target io.wispforest.accessories.impl.AccessoriesEventHandler was not found travelersbackpack.mixins.json:AccessoriesEventHandlerMixin from mod travelersbackpack
+[19:36:40] [main/WARN]: Error loading class: com/beansgalaxy/backpacks/compat/TrinketsRegistry$1 (java.lang.ClassNotFoundException: com/beansgalaxy/backpacks/compat/TrinketsRegistry$1)
+[19:36:40] [main/WARN]: Error loading class: io/github/apace100/apoli/power/KeepInventoryPower (java.lang.ClassNotFoundException: io/github/apace100/apoli/power/KeepInventoryPower)
+[19:36:40] [main/INFO]: [MemoryLeakFix] Will be applying 1 memory leak fixes!
+[19:36:40] [main/INFO]: [MemoryLeakFix] Currently enabled memory leak fixes: [biomeTemperatureLeak]
+[19:36:40] [main/WARN]: Error loading class: net/fabricmc/fabric/api/client/rendering/v1/EntityModelLayerRegistry$TexturedModelDataProvider (java.lang.ClassNotFoundException: net/fabricmc/fabric/api/client/rendering/v1/EntityModelLayerRegistry$TexturedModelDataProvider)
+[19:36:40] [main/WARN]: Error loading class: net/minecraft/class_1163 (java.lang.ClassNotFoundException: net/minecraft/class_1163)
+[19:36:40] [main/WARN]: @Mixin target net.minecraft.class_1163 was not found mixins.mm.json:net.minecraft.class_1163 from mod mm
+[19:36:40] [main/WARN]: Error loading class: net/minecraft/class_1142 (java.lang.ClassNotFoundException: net/minecraft/class_1142)
+[19:36:40] [main/WARN]: @Mixin target net.minecraft.class_1142 was not found mixins.mm.json:net.minecraft.class_1142 from mod mm
+[19:36:40] [main/WARN]: Error loading class: net/minecraft/class_898 (java.lang.ClassNotFoundException: net/minecraft/class_898)
+[19:36:40] [main/WARN]: @Mixin target net.minecraft.class_898 was not found mixins.mm.json:net.minecraft.class_898 from mod mm
+[19:36:40] [main/WARN]: Error loading class: net/minecraft/class_761 (java.lang.ClassNotFoundException: net/minecraft/class_761)
+[19:36:40] [main/WARN]: @Mixin target net.minecraft.class_761 was not found mixins.mm.json:net.minecraft.class_761 from mod mm
+[19:36:40] [main/WARN]: Error loading class: net/minecraft/class_759 (java.lang.ClassNotFoundException: net/minecraft/class_759)
+[19:36:40] [main/WARN]: @Mixin target net.minecraft.class_759 was not found mixins.mm.json:net.minecraft.class_759 from mod mm
+[19:36:41] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
+[19:36:44] [main/INFO]: Injecting BlockStateBase cache population hook into getOpacityIfCached from ca.spottedleaf.starlight.mixin.common.blockstate.BlockStateBaseMixin
+[19:36:44] [main/INFO]: Injecting BlockStateBase cache population hook into isConditionallyFullOpaque from ca.spottedleaf.starlight.mixin.common.blockstate.BlockStateBaseMixin
+[19:36:47] [main/WARN]: Static binding violation: PRIVATE @Overwrite method method_21740 in modernfix-common.mixins.json:perf.remove_biome_temperature_cache.BiomeMixin from mod modernfix cannot reduce visibiliy of PUBLIC target method, visibility will be upgraded.
+[19:36:47] [main/INFO]: Vanilla bootstrap took 5839 milliseconds
+[19:36:47] [main/INFO]: Loaded config for: cupboard.json
+[19:36:48] [main/INFO]: Loaded config amendments-common.json
+[19:36:48] [main/INFO]: Successfully initialized antixray for fabric
+[19:36:48] [main/INFO]: Registering C2S receiver with id artifacts:networking_channel/42a7ad70b1cc371599a0eff744096b8a
+[19:36:48] [main/INFO]: Registering C2S receiver with id artifacts:networking_channel/74a5e841822a3a87854ae896a33430d6
+[19:36:48] [main/INFO]: Registering C2S receiver with id artifacts:networking_channel/eb3d1e2748533430848cadf0f37c7e9c
+[19:36:48] [main/INFO]: Registering C2S receiver with id artifacts:networking_channel/91c8520f19f93b3e8b6a727568e194ab
+[19:36:48] [main/INFO]: Registering C2S receiver with id artifacts:networking_channel/8c2784d778293fd482ed84b8aa5fedb9
+[19:36:48] [main/INFO]: Registering C2S receiver with id artifacts:networking_channel/ea038224ea783d40b2863f52239e2604
+[19:36:48] [main/INFO]: Registering C2S receiver with id artifacts:networking_channel/97ad64b7ecaf33209991c4f031501a58
+[19:36:48] [main/INFO]: Registering Item Groups for bellsandwhistles
+[19:36:48] [main/INFO]: Create addon mod [Create: Bells & Whistles] is loading alongside Create [0.5.1d]!
+[19:36:48] [main/INFO]: Create: Bells & Whistles is accessinsg Porting Lib from the server!
+[19:36:48] [main/INFO]: Better Archeology says Hello
+[19:36:48] [main/INFO]: Registering Items from betterarcheology
+[19:36:48] [main/INFO]: Registering Blocks from betterarcheology
+[19:36:48] [main/INFO]: ModEntityTypes of betterarcheology registered.
+[19:36:48] [main/INFO]: Registering JEI Recipe Serializers for betterarcheology
+[19:36:48] [main/INFO]: Registering Enchantments for betterarcheology
+[19:36:48] [main/INFO]: Brutal bosses initialized
+[19:36:48] [main/INFO]: Loading Collective version 7.93.
+[19:36:50] [main/INFO]: Initializing CreateCopperAndZincMod
+[19:36:50] [main/INFO]: Registering items for Create Deco
+[19:36:50] [main/INFO]: Registering blocks for Create Deco
+[19:36:50] [main/INFO]: Create Deco is accessing Porting Lib on a Fabric server!
+[19:36:50] [main/INFO]: placard tooltip was null
+[19:36:50] [main/INFO]: placard tooltip was null
+[19:36:50] [main/INFO]: placard tooltip was null
+[19:36:50] [main/INFO]: placard tooltip was null
+[19:36:50] [main/INFO]: placard tooltip was null
+[19:36:50] [main/INFO]: placard tooltip was null
+[19:36:50] [main/INFO]: placard tooltip was null
+[19:36:50] [main/INFO]: placard tooltip was null
+[19:36:50] [main/INFO]: placard tooltip was null
+[19:36:50] [main/INFO]: placard tooltip was null
+[19:36:50] [main/INFO]: placard tooltip was null
+[19:36:50] [main/INFO]: placard tooltip was null
+[19:36:50] [main/INFO]: placard tooltip was null
+[19:36:50] [main/INFO]: placard tooltip was null
+[19:36:50] [main/INFO]: placard tooltip was null
+[19:36:50] [main/INFO]: Bypassed Mojang DFU
+[19:36:50] [main/INFO]: Instantiating Mojang DFU
+[19:36:51] [main/ERROR]: No data fixer registered for crystallized_amber
+[19:36:51] [main/ERROR]: No data fixer registered for sculk_jaw
+[19:36:51] [main/INFO]: Constructing common components for diagonalblocks:main
+[19:36:51] [main/INFO]: Constructing common components for diagonalfences:main
+[19:36:51] [main/INFO]: Constructing shapes for DiagonalFenceBlock[NodeWidth=2.0,ExtensionWidth=2.0,NodeTop=24.0,ExtensionBottom=0.0,ExtensionTop=24.0] took 138ms
+[19:36:51] [main/INFO]: Constructing shapes for DiagonalFenceBlock[NodeWidth=2.0,ExtensionWidth=2.0,NodeTop=16.0,ExtensionBottom=0.0,ExtensionTop=16.0] took 82ms
+[19:36:51] [main/INFO]: Constructing shapes for DiagonalFenceBlock[NodeWidth=2.0,ExtensionWidth=1.0,NodeTop=16.0,ExtensionBottom=6.0,ExtensionTop=15.0] took 82ms
+[19:36:51] [main/INFO]: [Dynamic Lights] MidnightLib detected!
+[19:36:51] [main/INFO]: [Dynamic Lights] Registering server started event...
+[19:36:51] [main/INFO]: [Dynamic Lights] Loaded Dynamic Lights by Tschipcraft successfully!
+[19:36:51] [main/INFO]: Constructing common components for easyanvils:main
+[19:36:51] [main/INFO]: Constructing common components for easymagic:main
+[19:36:51] [main/INFO]: ExpandAbility here, who dis?
+[19:36:51] [main/ERROR]: No data fixer registered for anomaly
+[19:36:52] [main/INFO]: Registered JSON trade offer adapter.
+[19:36:52] [main/INFO]: Ice And Fire common config version match.
+[19:36:52] [main/INFO]: Registering C2S receiver with id iceandfire:myrmex_sync
+[19:36:52] [main/INFO]: Registering C2S receiver with id iceandfire:dragon_control
+[19:36:52] [main/INFO]: Registering C2S receiver with id iceandfire:multipart_interact
+[19:36:52] [main/INFO]: Registering C2S receiver with id iceandfire:player_hit_multipart
+[19:36:52] [main/INFO]: Registering C2S receiver with id iceandfire:start_riding_mob_c2s
+[19:36:52] [main/INFO]: [STDOUT]: Registering Sounds for Infinity Buttons
+[19:36:52] [main/INFO]: Registering Particle Types
+[19:36:52] [main/INFO]: Initializing ServerSide Packet Registries
+[19:36:52] [main/INFO]: 1 Jupiter entrypoint(s) detected: jupiter:jupiter
+[19:36:52] [main/INFO]: Initialize mod Library Ferret
+[19:36:52] [main/INFO]: Initialized mod Library Ferret
+[19:36:52] [main/INFO]: Definitely not up to no good
+[19:36:52] [main/INFO]: Giving mobs a fresh coat of paint...
+[19:36:53] [main/INFO]: [STDOUT]: All 1 have been set properly
+[19:36:53] [main/INFO]: Noaaan: It's surprising how much knowledge is lost by the simple fact that people don't know it
+[19:36:53] [main/INFO]: Constructing common components for puzzleslib:main
+[19:36:54] [main/INFO]: [STDOUT]: /workspaces/minecraft-server/servidor_minecraft/config
+[19:36:54] [Thread-5/INFO]: Starting to fetch sponsor list.
+[19:36:54] [main/INFO]: Loaded config supplementaries-common.json
+[19:36:54] [main/INFO]: Registered region minecraft:overworld to index 0 for type OVERWORLD
+[19:36:54] [main/INFO]: Registered region minecraft:nether to index 0 for type NETHER
+[19:36:54] [main/INFO]: Registered region biomesoplenty:overworld_primary to index 1 for type OVERWORLD
+[19:36:54] [main/INFO]: Registered region biomesoplenty:overworld_secondary to index 2 for type OVERWORLD
+[19:36:54] [main/INFO]: Registered region biomesoplenty:overworld_rare to index 3 for type OVERWORLD
+[19:36:54] [main/INFO]: Registered region biomesoplenty:nether_common to index 1 for type NETHER
+[19:36:54] [main/INFO]: Registered region biomesoplenty:nether_rare to index 2 for type NETHER
+[19:36:54] [Thread-5/INFO]: Successfully fetch sponsor list.
+[19:36:55] [main/INFO]: Registered the FluidEffect with Unique ID of minecraft:water for minecraft:water 81000 with the ID 0
+[19:36:55] [main/INFO]: Registered the FluidEffect with Unique ID of minecraft:lava for minecraft:lava 81000 with the ID 1
+[19:36:55] [main/INFO]: Registered the FluidEffect with Unique ID of travelersbackpack:potion for travelersbackpack:potion_still 27000 with the ID 2
+[19:36:55] [main/INFO]: Registered the FluidEffect with Unique ID of travelersbackpack:milk for travelersbackpack:milk_still 81000 with the ID 3
+[19:36:56] [main/INFO]: Registered JSON trade offer adapter.
+[19:36:56] [main/INFO]: Reflections took 58 ms to scan 1 urls, producing 1 keys and 4 values
+[19:36:56] [main/INFO]: Reflections took 5 ms to scan 1 urls, producing 1 keys and 4 values
+[19:36:57] [main/INFO]: Initialized block sets in 25ms
+[19:36:57] [main/INFO]: Loaded config moonlight-common.json
+[19:36:57] [main/INFO]: Initialized color sets in 65ms
+[19:36:57] [main/INFO]: Finished mod setup in: [5, 0, 0, 0, 0, 0, 12, 5, 0] ms
+[19:36:57] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[19:36:57] [main/INFO]: Generated runtime SERVER_DATA for pack Supplementaries Generated Pack (supplementaries) in: 32 ms
+[19:37:00] [main/INFO]: [fabric-registry-sync] Loaded registry data [file 1/4]
+[19:37:01] [Worker-Main-1/ERROR]: Couldn't load tag supplementaries:lunch_basket_blacklist as it is missing following references: potionbundles:potion_bundle (from fabric)
+[19:37:01] [Worker-Main-2/ERROR]: Couldn't load tag create:safe_nbt as it is missing following references: create_connected:linked_stone_button (from fabric), create_connected:linked_polished_blackstone_button (from fabric), create_connected:linked_oak_button (from fabric), create_connected:linked_spruce_button (from fabric), create_connected:linked_birch_button (from fabric), create_connected:linked_acacia_button (from fabric), create_connected:linked_cherry_button (from fabric), create_connected:linked_jungle_button (from fabric), create_connected:linked_dark_oak_button (from fabric), create_connected:linked_crimson_button (from fabric), create_connected:linked_warped_button (from fabric), create_connected:linked_mangrove_button (from fabric), create_connected:linked_bamboo_button (from fabric), create_connected:linked_lever (from fabric), create_connected:linked_analog_lever (from fabric)
+[19:37:02] [Worker-Main-2/ERROR]: Couldn't parse element loot_tables:create_connected:blocks/encased_chain_cogwheel
 com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown string 'create_connected:encased_chain_cogwheel'
 	at net.minecraft.class_3518.method_17995(class_3518.java:145) ~[server-intermediary.jar:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -492,7 +490,7 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
-[14:13:22] [main/ERROR]: Parsing error loading recipe iceandfire:delight/pixie_dust_milky_tea
+[19:37:06] [main/ERROR]: Parsing error loading recipe iceandfire:delight/pixie_dust_milky_tea
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'farmersdelight:cooking'
 	at net.minecraft.class_1863.method_17875(class_1863.java:134) ~[server-intermediary.jar:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -511,7 +509,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'farmers
 	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) ~[fabric-loader-0.16.10.jar:?]
 	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) ~[fabric-loader-0.16.10.jar:?]
 	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) ~[fabric-server-launch.jar:1.0.1]
-[14:13:22] [main/ERROR]: Parsing error loading recipe lookinsharp:vitalium_sword
+[19:37:06] [main/ERROR]: Parsing error loading recipe lookinsharp:vitalium_sword
 com.google.gson.JsonSyntaxException: Unknown item 'lookinsharp:vitalium_ingot'
 	at net.minecraft.class_1869.method_17878(class_1869.java:272) ~[server-intermediary.jar:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -536,7 +534,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'lookinsharp:vitalium_ingot'
 	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) ~[fabric-loader-0.16.10.jar:?]
 	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) ~[fabric-loader-0.16.10.jar:?]
 	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) ~[fabric-server-launch.jar:1.0.1]
-[14:13:22] [main/ERROR]: Parsing error loading recipe lookinsharp:forging/vitalium_swords
+[19:37:06] [main/ERROR]: Parsing error loading recipe lookinsharp:forging/vitalium_swords
 com.google.gson.JsonSyntaxException: Unknown item 'lookinsharp:vitalium_sword'
 	at net.minecraft.class_1869.method_17878(class_1869.java:272) ~[server-intermediary.jar:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -579,7 +577,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'lookinsharp:vitalium_sword'
 	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) ~[fabric-loader-0.16.10.jar:?]
 	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) ~[fabric-loader-0.16.10.jar:?]
 	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) ~[fabric-server-launch.jar:1.0.1]
-[14:13:22] [main/ERROR]: Parsing error loading recipe iceandfire:delight/cooked_rice_with_fire_dragon_meat
+[19:37:06] [main/ERROR]: Parsing error loading recipe iceandfire:delight/cooked_rice_with_fire_dragon_meat
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'farmersdelight:cooking'
 	at net.minecraft.class_1863.method_17875(class_1863.java:134) ~[server-intermediary.jar:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -598,7 +596,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'farmers
 	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) ~[fabric-loader-0.16.10.jar:?]
 	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) ~[fabric-loader-0.16.10.jar:?]
 	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) ~[fabric-server-launch.jar:1.0.1]
-[14:13:22] [main/ERROR]: Parsing error loading recipe iceandfire:delight/cooked_rice_with_ice_dragon_meat
+[19:37:06] [main/ERROR]: Parsing error loading recipe iceandfire:delight/cooked_rice_with_ice_dragon_meat
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'farmersdelight:cooking'
 	at net.minecraft.class_1863.method_17875(class_1863.java:134) ~[server-intermediary.jar:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -617,7 +615,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'farmers
 	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) ~[fabric-loader-0.16.10.jar:?]
 	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) ~[fabric-loader-0.16.10.jar:?]
 	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) ~[fabric-server-launch.jar:1.0.1]
-[14:13:22] [main/ERROR]: Parsing error loading recipe lookinsharp:vitalium_ingot
+[19:37:06] [main/ERROR]: Parsing error loading recipe lookinsharp:vitalium_ingot
 com.google.gson.JsonSyntaxException: Unknown item 'lookinsharp:vitalium_ingot'
 	at net.minecraft.class_1869.method_17878(class_1869.java:272) ~[server-intermediary.jar:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -640,7 +638,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'lookinsharp:vitalium_ingot'
 	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) ~[fabric-loader-0.16.10.jar:?]
 	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) ~[fabric-loader-0.16.10.jar:?]
 	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) ~[fabric-server-launch.jar:1.0.1]
-[14:13:22] [main/ERROR]: Parsing error loading recipe create_connected:crafting/shapeless/linked_transmitter_from_conversion
+[19:37:06] [main/ERROR]: Parsing error loading recipe create_connected:crafting/shapeless/linked_transmitter_from_conversion
 com.google.gson.JsonSyntaxException: Unknown item 'create_connected:linked_transmitter'
 	at net.minecraft.class_1869.method_17878(class_1869.java:272) ~[server-intermediary.jar:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -663,7 +661,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'create_connected:linked_trans
 	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) ~[fabric-loader-0.16.10.jar:?]
 	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) ~[fabric-loader-0.16.10.jar:?]
 	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) ~[fabric-server-launch.jar:1.0.1]
-[14:13:22] [main/ERROR]: Parsing error loading recipe iceandfire:delight/cooked_rice_with_lightning_dragon_meat
+[19:37:06] [main/ERROR]: Parsing error loading recipe iceandfire:delight/cooked_rice_with_lightning_dragon_meat
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'farmersdelight:cooking'
 	at net.minecraft.class_1863.method_17875(class_1863.java:134) ~[server-intermediary.jar:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -682,7 +680,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'farmers
 	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) ~[fabric-loader-0.16.10.jar:?]
 	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) ~[fabric-loader-0.16.10.jar:?]
 	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) ~[fabric-server-launch.jar:1.0.1]
-[14:13:22] [main/ERROR]: Parsing error loading recipe create_connected:crafting/shapeless/redstone_link_from_conversion
+[19:37:06] [main/ERROR]: Parsing error loading recipe create_connected:crafting/shapeless/redstone_link_from_conversion
 com.google.gson.JsonSyntaxException: Unknown item 'create_connected:linked_transmitter'
 	at net.minecraft.class_1869.method_17878(class_1869.java:272) ~[server-intermediary.jar:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -707,7 +705,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'create_connected:linked_trans
 	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) ~[fabric-loader-0.16.10.jar:?]
 	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) ~[fabric-loader-0.16.10.jar:?]
 	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) ~[fabric-server-launch.jar:1.0.1]
-[14:13:22] [main/ERROR]: Parsing error loading recipe create_connected:crafting/shapeless/encased_chain_cogwheel
+[19:37:06] [main/ERROR]: Parsing error loading recipe create_connected:crafting/shapeless/encased_chain_cogwheel
 com.google.gson.JsonSyntaxException: Unknown item 'create_connected:encased_chain_cogwheel'
 	at net.minecraft.class_1869.method_17878(class_1869.java:272) ~[server-intermediary.jar:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -730,7 +728,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'create_connected:encased_chai
 	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) ~[fabric-loader-0.16.10.jar:?]
 	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) ~[fabric-loader-0.16.10.jar:?]
 	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) ~[fabric-server-launch.jar:1.0.1]
-[14:13:22] [main/ERROR]: Parsing error loading recipe iceandfire:delight/ghost_cream
+[19:37:06] [main/ERROR]: Parsing error loading recipe iceandfire:delight/ghost_cream
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'farmersdelight:cooking'
 	at net.minecraft.class_1863.method_17875(class_1863.java:134) ~[server-intermediary.jar:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -749,150 +747,128 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'farmers
 	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) ~[fabric-loader-0.16.10.jar:?]
 	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) ~[fabric-loader-0.16.10.jar:?]
 	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) ~[fabric-server-launch.jar:1.0.1]
-[14:13:22] [main/INFO]: Loaded 35 recipes
-[14:13:22] [main/ERROR]: Parsing error loading custom advancement supplementaries:recipes/planter_rich: Unknown item id 'farmersdelight:rich_soil'
-[14:13:23] [main/INFO]: Loaded 6693 advancements
-[14:13:23] [main/ERROR]: Ice And Fire compatibility is not enabled for Better Village and Ice And Fire is present in your mod list.
+[19:37:06] [main/INFO]: Loaded 35 recipes
+[19:37:07] [main/ERROR]: Parsing error loading custom advancement supplementaries:recipes/planter_rich: Unknown item id 'farmersdelight:rich_soil'
+[19:37:07] [main/INFO]: Loaded 6693 advancements
+[19:37:07] [main/ERROR]: Ice And Fire compatibility is not enabled for Better Village and Ice And Fire is present in your mod list.
      - Please install the datapack for better compatibility between Better Villages and Ice And Fire.
      - You can find the datapack URL in the `compatibility` section of the Better Villages description.
      - URL=https://www.curseforge.com/minecraft/mc-mods/better-village-fabric
-[14:13:23] [main/INFO]: Loaded boss variant for: minecraft:drowned
-[14:13:23] [main/INFO]: Loaded boss variant for: minecraft:iron_golem
-[14:13:23] [main/INFO]: Loaded boss variant for: minecraft:snow_golem
-[14:13:23] [main/INFO]: Loaded boss variant for: minecraft:zombie
-[14:13:23] [main/INFO]: Loaded boss variant for: minecraft:skeleton
-[14:13:23] [main/INFO]: Loaded boss variant for: minecraft:pillager
-[14:13:23] [main/INFO]: Loaded boss variant for: minecraft:vex
-[14:13:23] [main/INFO]: Loaded boss variant for: minecraft:evoker
-[14:13:23] [main/INFO]: Loaded boss variant for: minecraft:zombie
-[14:13:23] [main/INFO]: Loaded boss variant for: minecraft:vindicator
-[14:13:23] [main/INFO]: Loaded boss variant for: minecraft:wither_skeleton
-[14:13:23] [main/INFO]: Loaded boss variant for: minecraft:wither_skeleton
-[14:13:23] [main/INFO]: Loaded boss variant for: minecraft:cave_spider
-[14:13:23] [main/INFO]: Loaded boss variant for: minecraft:zombie
-[14:13:23] [main/INFO]: Loaded boss variant for: minecraft:husk
-[14:13:23] [main/INFO]: Loaded boss variant for: minecraft:evoker
-[14:13:23] [main/INFO]: Loaded boss variant for: minecraft:wandering_trader
-[14:13:23] [main/INFO]: Loaded boss variant for: minecraft:guardian
-[14:13:23] [main/INFO]: Loaded boss variant for: minecraft:vindicator
-[14:13:23] [main/INFO]: Loaded boss variant for: minecraft:shulker
-[14:13:23] [main/INFO]: Loaded boss variant for: minecraft:zoglin
-[14:13:23] [main/INFO]: Loaded boss variant for: minecraft:chicken
-[14:13:23] [main/INFO]: Loaded boss variant for: minecraft:blaze
-[14:13:23] [main/INFO]: Loaded boss variant for: minecraft:witch
-[14:13:23] [main/INFO]: Loaded boss variant for: minecraft:phantom
-[14:13:23] [main/INFO]: Loaded boss variant for: minecraft:mooshroom
-[14:13:23] [main/INFO]: Loaded boss variant for: minecraft:rabbit
-[14:13:23] [main/INFO]: Loaded boss variant for: minecraft:piglin_brute
-[14:13:23] [main/INFO]: Loaded boss variant for: minecraft:ghast
-[14:13:23] [main/INFO]: Loaded boss variant for: minecraft:stray
-[14:13:23] [main/INFO]: Ice And Fire common config version match.
-[14:13:23] [main/INFO]: Successfully reload 2 server config(s).
-[14:13:23] [main/INFO]: Reloading config...
-[14:13:23] [main/WARN]: Could not decode GlobalLootModifier with json id supplementaries:ash_from_burning_mobs - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: moonlight:add_item
-[14:13:23] [main/WARN]: Could not decode GlobalLootModifier with json id supplementaries:straw_from_flax - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: moonlight:add_item
-[14:13:23] [main/WARN]: Could not decode GlobalLootModifier with json id supplementaries:fishing_antique_ink - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: moonlight:add_item
-[14:13:23] [main/WARN]: Could not decode GlobalLootModifier with json id supplementaries:fishing_antique_ink_treasure - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: moonlight:add_item
-[14:13:23] [main/WARN]: Could not decode GlobalLootModifier with json id supplementaries:replace_rope - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: supplementaries:replace_rope
-[14:13:23] [main/INFO]: Loaded 44 chiseling recipes
-[14:13:23] [main/INFO]: Loaded 27 flute songs
-[14:13:23] [main/INFO]: Loaded 9 Stalactite configs!
-[14:13:23] [main/INFO]: Deserializing default trades of profession: villagersplus:alchemist
-[14:13:23] [main/INFO]: Deserializing default trades of profession: villagersplus:horticulturist
-[14:13:23] [main/INFO]: Deserializing default trades of profession: villagersplus:occultist
-[14:13:23] [main/INFO]: Deserializing default trades of profession: villagersplus:oceanographer
-[14:13:23] [main/INFO]: Reloading grave shape (server)
-[14:13:23] [main/INFO]: Grave model and shape reload successful (server)
-[14:13:23] [main/INFO]: Reloading YIGD graveyard data (server)
-[14:13:23] [main/INFO]: Graveyard data successfully reloaded (server)
-[14:13:23] [main/INFO]: Reloading YIGD grave area overrides (server)
-[14:13:23] [main/INFO]: Grave area overrides successfully reloaded (server)
-[14:13:23] [main/INFO]: Applied 7 data villager trades
-[14:13:23] [main/INFO]: Finished additional setup in 0 ms
-[14:13:24] [main/INFO]: Initialized TerraBlender biomes for level stem minecraft:overworld
-[14:13:24] [main/INFO]: Initialized TerraBlender biomes for level stem minecraft:the_nether
-[14:13:25] [main/INFO]: Applied 5408 biome modifications to 277 of 277 new biomes in 111.7 ms
-[14:13:25] [Server thread/INFO]: Loading server config for easyanvils
-[14:13:25] [Thread-3/INFO]: Reloading server config for easyanvils
-[14:13:25] [Server thread/INFO]: Loading server config for easymagic
-[14:13:25] [Thread-3/INFO]: Reloading server config for easyanvils
-[14:13:25] [Server thread/INFO]: Scanning class appeng.server.testplots.TestPlots for plots
-[14:13:25] [Server thread/INFO]: Scanning class appeng.server.testplots.AutoCraftingTestPlots for plots
-[14:13:25] [Server thread/INFO]: Scanning class appeng.server.testplots.InscriberTestPlots for plots
-[14:13:25] [Server thread/INFO]: Scanning class appeng.server.testplots.P2PTestPlots for plots
-[14:13:25] [Server thread/INFO]: Scanning class appeng.server.testplots.ItemP2PTestPlots for plots
-[14:13:25] [Server thread/INFO]: Scanning class appeng.server.testplots.MemoryCardTestPlots for plots
-[14:13:25] [Server thread/INFO]: Scanning class appeng.server.testplots.PatternProviderLockModePlots for plots
-[14:13:25] [Server thread/INFO]: Scanning class appeng.server.testplots.PatternProviderPlots for plots
-[14:13:25] [Server thread/INFO]: Scanning class appeng.server.testplots.SpatialTestPlots for plots
-[14:13:25] [Server thread/INFO]: Scanning class appeng.server.testplots.QnbTestPlots for plots
-[14:13:25] [Server thread/INFO]: Scanning class appeng.server.testplots.GuidebookPlot for plots
-[14:13:25] [Server thread/INFO]: Scanning class appeng.server.testplots.SubnetPlots for plots
-[14:13:25] [Server thread/INFO]: Scanning class appeng.server.testplots.ChannelTests for plots
-[14:13:25] [Server thread/INFO]: Scanning class appeng.server.testplots.AnnihilationPlaneTests for plots
-[14:13:25] [Server thread/INFO]: Starting minecraft server version 1.20.1
-[14:13:25] [Server thread/INFO]: Loading properties
-[14:13:25] [Server thread/INFO]: Default game type: SURVIVAL
-[14:13:25] [Server thread/INFO]: Generating keypair
-[14:13:25] [Server thread/INFO]: Starting Minecraft server on *:25565
-[14:13:25] [Server thread/INFO]: Using epoll channel type
-[14:13:25] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[14:13:25] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[14:13:25] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[14:13:25] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[14:13:25] [Server thread/INFO]: Preparing level "world"
-[14:13:33] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[14:13:35] [Server thread/INFO]: Preparing spawn area: 0%
-[14:13:35] [Server thread/INFO]: Preparing spawn area: 0%
-[14:13:35] [Server thread/INFO]: Preparing spawn area: 0%
-[14:13:35] [Server thread/INFO]: Preparing spawn area: 0%
-[14:13:35] [Server thread/INFO]: Preparing spawn area: 41%
-[14:13:35] [Server thread/INFO]: Loaded config for: brutalbosses.json
-[14:13:35] [Server thread/INFO]: Time elapsed: 2330 ms
-[14:13:35] [Server thread/INFO]: Done (10.362s)! For help, type "help"
-[14:13:35] [Server thread/WARN]: Dedicated server took 50.547 seconds to load
-[14:13:36] [Server thread/INFO]: [Dynamic Lights] Sending global config to server...
-[14:13:36] [Server thread/INFO]: [STDOUT]: PREPARING FOR RELOAD
-[14:13:36] [Server thread/INFO]: Start loading plugin from Applied Energistics 2
-[14:13:36] [Server thread/INFO]: Start loading plugin from Ice And Fire Community Edition
-[14:13:36] [Server thread/INFO]: Start loading plugin from Infinity Buttons
-[14:13:36] [Server thread/INFO]: Start loading plugin from Jade
-[14:13:36] [Server thread/INFO]: Start loading plugin from Jade
-[14:13:36] [Server thread/INFO]: Start loading plugin from Jade
-[14:13:36] [Server thread/INFO]: Start loading plugin from Supplementaries
-[14:13:36] [Server thread/INFO]: Start loading plugin from HT's TreeChop
-[14:13:36] [Server thread/INFO]: Start loading plugin from The Twilight Forest
-[14:13:36] [Server thread/INFO]: Start loading plugin from Waystones
-[14:13:36] [Server thread/INFO]: UDP server is started on /[0:0:0:0:0:0:0:0]:25565
-[14:15:20] [Server thread/INFO]: DjGuetta11[/100.71.91.78:60922] logged in with entity id 45 at (-685.214827185531, 162.0, 11.35664620392046)
-[14:15:20] [Server thread/INFO]: Syncing config to DjGuetta11 (02ab1a57-0edd-3713-9f58-15ec834d0062)
-[14:15:20] [Server thread/INFO]: Loading config from file...
-[14:15:20] [Server thread/INFO]: DjGuetta11 joined the game
-[14:15:21] [Netty Epoll Server IO #2/INFO]: Priority overwritten for player DjGuetta11. Claiming: GRAVE / Robbing: INVENTORY
-[14:15:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6123ms or 122 ticks behind
-[14:15:40] [Server thread/INFO]: DjGuetta11 lost connection: Disconnected
-[14:15:40] [Server thread/INFO]: DjGuetta11 left the game
-[14:15:45] [Server thread/INFO]: Stopping the server
-[14:15:45] [Server thread/INFO]: UDP server is stopped
-[14:15:45] [Server thread/INFO]: Stopping server
-[14:15:45] [Server thread/INFO]: Saving players
-[14:15:45] [Server thread/INFO]: Saving worlds
-[14:15:45] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[14:15:45] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/the_bumblezone:the_bumblezone
-[14:15:45] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/twilightforest:twilight_forest
-[14:15:45] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/deeperdarker:otherside
-[14:15:45] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/iceandfire:dread_land
-[14:15:45] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[14:15:45] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/graveyard:past
-[14:15:45] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[14:15:45] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/ae2:spatial_storage
-[14:15:45] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[14:15:45] [Server thread/INFO]: ThreadedAnvilChunkStorage (the_bumblezone): All chunks are saved
-[14:15:45] [Server thread/INFO]: ThreadedAnvilChunkStorage (twilight_forest): All chunks are saved
-[14:15:45] [Server thread/INFO]: ThreadedAnvilChunkStorage (otherside): All chunks are saved
-[14:15:45] [Server thread/INFO]: ThreadedAnvilChunkStorage (dread_land): All chunks are saved
-[14:15:45] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[14:15:45] [Server thread/INFO]: ThreadedAnvilChunkStorage (past): All chunks are saved
-[14:15:45] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[14:15:45] [Server thread/INFO]: ThreadedAnvilChunkStorage (spatial_storage): All chunks are saved
-[14:15:45] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[19:37:07] [main/INFO]: Loaded boss variant for: minecraft:drowned
+[19:37:07] [main/INFO]: Loaded boss variant for: minecraft:iron_golem
+[19:37:07] [main/INFO]: Loaded boss variant for: minecraft:snow_golem
+[19:37:07] [main/INFO]: Loaded boss variant for: minecraft:zombie
+[19:37:07] [main/INFO]: Loaded boss variant for: minecraft:skeleton
+[19:37:07] [main/INFO]: Loaded boss variant for: minecraft:pillager
+[19:37:07] [main/INFO]: Loaded boss variant for: minecraft:vex
+[19:37:07] [main/INFO]: Loaded boss variant for: minecraft:evoker
+[19:37:07] [main/INFO]: Loaded boss variant for: minecraft:zombie
+[19:37:07] [main/INFO]: Loaded boss variant for: minecraft:vindicator
+[19:37:07] [main/INFO]: Loaded boss variant for: minecraft:wither_skeleton
+[19:37:07] [main/INFO]: Loaded boss variant for: minecraft:wither_skeleton
+[19:37:07] [main/INFO]: Loaded boss variant for: minecraft:cave_spider
+[19:37:07] [main/INFO]: Loaded boss variant for: minecraft:zombie
+[19:37:07] [main/INFO]: Loaded boss variant for: minecraft:husk
+[19:37:07] [main/INFO]: Loaded boss variant for: minecraft:evoker
+[19:37:07] [main/INFO]: Loaded boss variant for: minecraft:wandering_trader
+[19:37:07] [main/INFO]: Loaded boss variant for: minecraft:guardian
+[19:37:07] [main/INFO]: Loaded boss variant for: minecraft:vindicator
+[19:37:07] [main/INFO]: Loaded boss variant for: minecraft:shulker
+[19:37:07] [main/INFO]: Loaded boss variant for: minecraft:zoglin
+[19:37:07] [main/INFO]: Loaded boss variant for: minecraft:chicken
+[19:37:07] [main/INFO]: Loaded boss variant for: minecraft:blaze
+[19:37:07] [main/INFO]: Loaded boss variant for: minecraft:witch
+[19:37:07] [main/INFO]: Loaded boss variant for: minecraft:phantom
+[19:37:07] [main/INFO]: Loaded boss variant for: minecraft:mooshroom
+[19:37:07] [main/INFO]: Loaded boss variant for: minecraft:rabbit
+[19:37:07] [main/INFO]: Loaded boss variant for: minecraft:piglin_brute
+[19:37:07] [main/INFO]: Loaded boss variant for: minecraft:ghast
+[19:37:07] [main/INFO]: Loaded boss variant for: minecraft:stray
+[19:37:07] [main/INFO]: Ice And Fire common config version match.
+[19:37:07] [main/INFO]: Successfully reload 2 server config(s).
+[19:37:07] [main/INFO]: Reloading config...
+[19:37:07] [main/WARN]: Could not decode GlobalLootModifier with json id supplementaries:ash_from_burning_mobs - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: moonlight:add_item
+[19:37:07] [main/WARN]: Could not decode GlobalLootModifier with json id supplementaries:straw_from_flax - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: moonlight:add_item
+[19:37:07] [main/WARN]: Could not decode GlobalLootModifier with json id supplementaries:fishing_antique_ink - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: moonlight:add_item
+[19:37:07] [main/WARN]: Could not decode GlobalLootModifier with json id supplementaries:fishing_antique_ink_treasure - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: moonlight:add_item
+[19:37:07] [main/WARN]: Could not decode GlobalLootModifier with json id supplementaries:replace_rope - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: supplementaries:replace_rope
+[19:37:07] [main/INFO]: Loaded 44 chiseling recipes
+[19:37:07] [main/INFO]: Loaded 27 flute songs
+[19:37:07] [main/INFO]: Loaded 9 Stalactite configs!
+[19:37:07] [main/INFO]: Deserializing default trades of profession: villagersplus:alchemist
+[19:37:07] [main/INFO]: Deserializing default trades of profession: villagersplus:horticulturist
+[19:37:07] [main/INFO]: Deserializing default trades of profession: villagersplus:occultist
+[19:37:07] [main/INFO]: Deserializing default trades of profession: villagersplus:oceanographer
+[19:37:07] [main/INFO]: Reloading grave shape (server)
+[19:37:07] [main/INFO]: Grave model and shape reload successful (server)
+[19:37:07] [main/INFO]: Reloading YIGD graveyard data (server)
+[19:37:07] [main/INFO]: Graveyard data successfully reloaded (server)
+[19:37:07] [main/INFO]: Reloading YIGD grave area overrides (server)
+[19:37:07] [main/INFO]: Grave area overrides successfully reloaded (server)
+[19:37:07] [main/INFO]: Applied 7 data villager trades
+[19:37:07] [main/INFO]: Finished additional setup in 0 ms
+[19:37:08] [main/INFO]: Initialized TerraBlender biomes for level stem minecraft:overworld
+[19:37:08] [main/INFO]: Initialized TerraBlender biomes for level stem minecraft:the_nether
+[19:37:08] [main/INFO]: Applied 5408 biome modifications to 277 of 277 new biomes in 178.2 ms
+[19:37:08] [Server thread/INFO]: Loading server config for easyanvils
+[19:37:08] [Server thread/INFO]: Loading server config for easymagic
+[19:37:08] [Thread-3/INFO]: Reloading server config for easyanvils
+[19:37:08] [Thread-3/INFO]: Reloading server config for easyanvils
+[19:37:08] [Thread-3/INFO]: Reloading server config for easymagic
+[19:37:09] [Server thread/INFO]: Scanning class appeng.server.testplots.TestPlots for plots
+[19:37:09] [Server thread/INFO]: Scanning class appeng.server.testplots.AutoCraftingTestPlots for plots
+[19:37:09] [Server thread/INFO]: Scanning class appeng.server.testplots.InscriberTestPlots for plots
+[19:37:09] [Server thread/INFO]: Scanning class appeng.server.testplots.P2PTestPlots for plots
+[19:37:09] [Server thread/INFO]: Scanning class appeng.server.testplots.ItemP2PTestPlots for plots
+[19:37:09] [Server thread/INFO]: Scanning class appeng.server.testplots.MemoryCardTestPlots for plots
+[19:37:09] [Server thread/INFO]: Scanning class appeng.server.testplots.PatternProviderLockModePlots for plots
+[19:37:09] [Server thread/INFO]: Scanning class appeng.server.testplots.PatternProviderPlots for plots
+[19:37:09] [Server thread/INFO]: Scanning class appeng.server.testplots.SpatialTestPlots for plots
+[19:37:09] [Server thread/INFO]: Scanning class appeng.server.testplots.QnbTestPlots for plots
+[19:37:09] [Server thread/INFO]: Scanning class appeng.server.testplots.GuidebookPlot for plots
+[19:37:09] [Server thread/INFO]: Scanning class appeng.server.testplots.SubnetPlots for plots
+[19:37:09] [Server thread/INFO]: Scanning class appeng.server.testplots.ChannelTests for plots
+[19:37:09] [Server thread/INFO]: Scanning class appeng.server.testplots.AnnihilationPlaneTests for plots
+[19:37:09] [Server thread/INFO]: Starting minecraft server version 1.20.1
+[19:37:09] [Server thread/INFO]: Loading properties
+[19:37:09] [Server thread/INFO]: Default game type: SURVIVAL
+[19:37:09] [Server thread/INFO]: Generating keypair
+[19:37:09] [Server thread/INFO]: Starting Minecraft server on *:25565
+[19:37:09] [Server thread/INFO]: Using epoll channel type
+[19:37:09] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[19:37:09] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[19:37:09] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[19:37:09] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[19:37:09] [Server thread/INFO]: Preparing level "world"
+[19:37:16] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[19:37:18] [Server thread/INFO]: Preparing spawn area: 0%
+[19:37:18] [Server thread/INFO]: Preparing spawn area: 0%
+[19:37:18] [Server thread/INFO]: Preparing spawn area: 0%
+[19:37:18] [Server thread/INFO]: Preparing spawn area: 0%
+[19:37:18] [Server thread/INFO]: Preparing spawn area: 25%
+[19:37:19] [Server thread/INFO]: Loaded config for: brutalbosses.json
+[19:37:19] [Server thread/INFO]: Time elapsed: 2454 ms
+[19:37:19] [Server thread/INFO]: Done (9.921s)! For help, type "help"
+[19:37:19] [Server thread/WARN]: Dedicated server took 43.062 seconds to load
+[19:37:19] [Server thread/INFO]: [Dynamic Lights] Sending global config to server...
+[19:37:19] [Server thread/INFO]: [STDOUT]: PREPARING FOR RELOAD
+[19:37:19] [Server thread/INFO]: Start loading plugin from Applied Energistics 2
+[19:37:19] [Server thread/INFO]: Start loading plugin from Ice And Fire Community Edition
+[19:37:19] [Server thread/INFO]: Start loading plugin from Infinity Buttons
+[19:37:19] [Server thread/INFO]: Start loading plugin from Jade
+[19:37:19] [Server thread/INFO]: Start loading plugin from Jade
+[19:37:19] [Server thread/INFO]: Start loading plugin from Jade
+[19:37:19] [Server thread/INFO]: Start loading plugin from Supplementaries
+[19:37:19] [Server thread/INFO]: Start loading plugin from HT's TreeChop
+[19:37:19] [Server thread/INFO]: Start loading plugin from The Twilight Forest
+[19:37:19] [Server thread/INFO]: Start loading plugin from Waystones
+[19:37:19] [Server thread/INFO]: UDP server is started on /[0:0:0:0:0:0:0:0]:25565
+[19:38:46] [Server thread/INFO]: DjGuetta11[/100.71.91.78:50192] logged in with entity id 46 at (-684.8625603225204, 162.0, 12.373819131994466)
+[19:38:46] [Server thread/INFO]: Syncing config to DjGuetta11 (02ab1a57-0edd-3713-9f58-15ec834d0062)
+[19:38:46] [Server thread/INFO]: Loading config from file...
+[19:38:46] [Server thread/INFO]: DjGuetta11 joined the game
+[19:38:48] [Netty Epoll Server IO #2/INFO]: Priority overwritten for player DjGuetta11. Claiming: GRAVE / Robbing: INVENTORY
+[19:38:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6176ms or 123 ticks behind
+[19:39:35] [Server thread/WARN]: DjGuetta11 moved wrongly!
+[19:39:36] [Server thread/WARN]: DjGuetta11 moved wrongly!
+[19:45:48] [Server thread/ERROR]: POI data mismatch: already registered at class_2338{x=-94, y=15, z=452}
