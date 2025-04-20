@@ -884,3 +884,31 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'farmers
 [20:10:22] [Server thread/WARN]: DjGuetta11 moved wrongly!
 [20:13:29] [Server thread/WARN]: DjGuetta11 moved wrongly!
 [20:13:30] [Server thread/WARN]: DjGuetta11 moved wrongly!
+[20:23:29] [Server thread/WARN]: DjGuetta11 moved wrongly!
+[20:23:29] [Server thread/WARN]: DjGuetta11 moved wrongly!
+[20:23:49] [Server thread/INFO]: DjGuetta11 lost connection: Disconnected
+[20:23:49] [Server thread/INFO]: DjGuetta11 left the game
+[20:24:05] [Server thread/INFO]: Stopping the server
+[20:24:05] [Server thread/INFO]: UDP server is stopped
+[20:24:05] [Server thread/INFO]: Stopping server
+[20:24:05] [Server thread/INFO]: Saving players
+[20:24:05] [Server thread/INFO]: Saving worlds
+[20:24:05] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[20:24:05] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/iceandfire:dread_land
+[20:24:05] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[20:24:05] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/deeperdarker:otherside
+[20:24:05] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/the_bumblezone:the_bumblezone
+[20:24:05] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/graveyard:past
+[20:24:05] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/twilightforest:twilight_forest
+[20:24:05] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[20:24:05] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/ae2:spatial_storage
+[20:24:05] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[20:24:05] [Server thread/INFO]: ThreadedAnvilChunkStorage (dread_land): All chunks are saved
+[20:24:05] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[20:24:05] [Server thread/INFO]: ThreadedAnvilChunkStorage (otherside): All chunks are saved
+[20:24:05] [Server thread/INFO]: ThreadedAnvilChunkStorage (the_bumblezone): All chunks are saved
+[20:24:05] [Server thread/INFO]: ThreadedAnvilChunkStorage (past): All chunks are saved
+[20:24:05] [Server thread/INFO]: ThreadedAnvilChunkStorage (twilight_forest): All chunks are saved
+[20:24:05] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[20:24:05] [Server thread/INFO]: ThreadedAnvilChunkStorage (spatial_storage): All chunks are saved
+[20:24:05] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
