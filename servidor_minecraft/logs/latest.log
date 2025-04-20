@@ -872,3 +872,5 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'farmers
 [19:39:35] [Server thread/WARN]: DjGuetta11 moved wrongly!
 [19:39:36] [Server thread/WARN]: DjGuetta11 moved wrongly!
 [19:45:48] [Server thread/ERROR]: POI data mismatch: already registered at class_2338{x=-94, y=15, z=452}
+[19:47:10] [Server thread/ERROR]: POI data mismatch: already registered at class_2338{x=-424, y=-42, z=544}
+[19:50:06] [Server thread/WARN]: DjGuetta11 moved wrongly!
