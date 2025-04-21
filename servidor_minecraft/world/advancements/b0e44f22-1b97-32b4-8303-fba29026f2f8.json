@@ -71,6 +71,7 @@
       "volcanic_plains": "2025-02-17 05:40:36 +0000",
       "lavender_field": "2025-02-17 04:47:24 +0000",
       "prairie": "2025-02-17 05:05:27 +0000",
+      "tundra": "2025-04-21 08:24:38 +0000",
       "glowing_grotto": "2025-04-14 02:34:15 +0000",
       "gravel_beach": "2025-04-19 00:07:33 +0000",
       "rainforest": "2025-02-17 05:36:28 +0000",
@@ -1843,6 +1844,7 @@
       "minecraft:swamp": "2025-04-18 21:51:36 +0000",
       "minecraft:forest": "2025-02-26 03:51:20 +0000",
       "minecraft:lush_caves": "2025-02-26 04:25:03 +0000",
+      "minecraft:ice_spikes": "2025-04-21 08:49:58 +0000",
       "minecraft:desert": "2025-04-13 03:01:09 +0000",
       "minecraft:windswept_forest": "2025-04-18 23:46:49 +0000",
       "minecraft:ocean": "2025-02-17 05:19:04 +0000",
@@ -9421,6 +9423,36 @@
   "iceandfire:recipes/building_blocks/silver_nugget_to_silver_ingot": {
     "criteria": {
       "has_silver_nugget": "2025-04-21 07:51:16 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_white_helmet": {
+    "criteria": {
+      "has_item": "2025-04-21 08:47:13 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_white_chestplate": {
+    "criteria": {
+      "has_item": "2025-04-21 08:47:13 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_white_boots": {
+    "criteria": {
+      "has_item": "2025-04-21 08:47:13 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_white_leggings": {
+    "criteria": {
+      "has_item": "2025-04-21 08:47:13 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonscales_white_to_dragonscale_white": {
+    "criteria": {
+      "has_dragonscales_white": "2025-04-21 08:47:13 +0000"
     },
     "done": true
   },
