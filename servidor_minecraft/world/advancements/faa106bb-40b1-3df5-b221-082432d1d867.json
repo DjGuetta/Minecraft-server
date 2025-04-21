@@ -5006,12 +5006,6 @@
     },
     "done": true
   },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "requirement": "2025-04-21 07:41:08 +0000"
-    },
-    "done": false
-  },
   "biomesoplenty:recipes/building_blocks/cut_orange_sandstone_slab_from_orange_sandstone_stonecutting": {
     "criteria": {
       "has_orange_sandstone": "2025-04-21 04:00:43 +0000"
@@ -5081,6 +5075,12 @@
   "minecraft:adventure/shoot_arrow": {
     "criteria": {
       "shot_arrow": "2025-04-21 05:11:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_chestplate": "2025-04-21 07:47:39 +0000"
     },
     "done": true
   },
@@ -5312,9 +5312,21 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/snow": {
+    "criteria": {
+      "has_snowball": "2025-04-21 07:47:54 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/decorations/orange_sandstone_wall": {
     "criteria": {
       "has_orange_sandstone": "2025-04-21 04:00:43 +0000"
+    },
+    "done": true
+  },
+  "infinitybuttons:recipes/redstone/bookshelf_secret_button": {
+    "criteria": {
+      "has_thing": "2025-04-21 07:44:41 +0000"
     },
     "done": true
   },
@@ -5363,6 +5375,12 @@
   "biomesoplenty:recipes/building_blocks/orange_sandstone_stairs": {
     "criteria": {
       "has_orange_sandstone": "2025-04-21 04:00:43 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/silver_nugget_to_silver_ingot": {
+    "criteria": {
+      "has_silver_nugget": "2025-04-21 07:52:04 +0000"
     },
     "done": true
   },
@@ -5459,6 +5477,18 @@
   "minecraft:recipes/building_blocks/green_terracotta": {
     "criteria": {
       "has_terracotta": "2025-04-21 04:19:54 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/dragon_ice": {
+    "criteria": {
+      "has_item": "2025-04-21 07:50:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/snow": {
+    "criteria": {
+      "has_snowball": "2025-04-21 07:47:54 +0000"
     },
     "done": true
   },
@@ -5777,6 +5807,12 @@
   "minecraft:recipes/decorations/scaffolding": {
     "criteria": {
       "has_bamboo": "2025-04-21 04:34:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/snow_block": {
+    "criteria": {
+      "has_snowball": "2025-04-21 07:47:54 +0000"
     },
     "done": true
   },
