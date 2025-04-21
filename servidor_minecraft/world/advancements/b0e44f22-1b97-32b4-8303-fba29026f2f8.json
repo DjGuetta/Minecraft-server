@@ -8703,6 +8703,12 @@
     },
     "done": true
   },
+  "createdeco:recipes/decorations/light_blue_shipping_container": {
+    "criteria": {
+      "has_item": "2025-04-21 06:11:26 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/misc/dragon_bone_wall": {
     "criteria": {
       "has_item": "2025-04-21 04:41:34 +0000"
@@ -8715,6 +8721,42 @@
     },
     "done": true
   },
+  "createdeco:recipes/decorations/decal_up": {
+    "criteria": {
+      "has_item": "2025-04-21 06:11:26 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/red_shipping_container": {
+    "criteria": {
+      "has_item": "2025-04-21 06:11:26 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/decal_warning": {
+    "criteria": {
+      "has_item": "2025-04-21 06:11:26 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/gray_shipping_container": {
+    "criteria": {
+      "has_item": "2025-04-21 06:11:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/oak_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2025-04-21 06:14:17 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/decal_electrical": {
+    "criteria": {
+      "has_item": "2025-04-21 06:11:26 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/building_blocks/maple_slab": {
     "criteria": {
       "has_planks": "2025-04-21 04:20:12 +0000"
@@ -8724,6 +8766,30 @@
   "biomesoplenty:recipes/decorations/maple_sign": {
     "criteria": {
       "has_planks": "2025-04-21 04:20:12 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/decal_down": {
+    "criteria": {
+      "has_item": "2025-04-21 06:11:26 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/white_shipping_container": {
+    "criteria": {
+      "has_item": "2025-04-21 06:11:26 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/decal_cross": {
+    "criteria": {
+      "has_item": "2025-04-21 06:11:26 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/lime_shipping_container": {
+    "criteria": {
+      "has_item": "2025-04-21 06:11:26 +0000"
     },
     "done": true
   },
@@ -8745,6 +8811,42 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/propeller": {
+    "criteria": {
+      "has_item": "2025-04-21 06:11:26 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/decal_no_entry": {
+    "criteria": {
+      "has_item": "2025-04-21 06:11:26 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/blue_iron_lamp": {
+    "criteria": {
+      "has_item": "2025-04-21 06:11:26 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/decal_left": {
+    "criteria": {
+      "has_item": "2025-04-21 06:11:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_oak_wood": {
+    "criteria": {
+      "has_log": "2025-04-21 06:14:17 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/encased_fan": {
+    "criteria": {
+      "has_item": "2025-04-21 06:11:26 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/small_crimsite_bricks_from_stone_types_crimsite_stonecutting": {
     "criteria": {
       "has_stone_types_crimsite": "2025-04-21 04:15:01 +0000"
@@ -8757,9 +8859,45 @@
     },
     "done": true
   },
+  "createdeco:recipes/decorations/decal_right": {
+    "criteria": {
+      "has_item": "2025-04-21 06:11:26 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/green_iron_lamp": {
+    "criteria": {
+      "has_item": "2025-04-21 06:11:26 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_crimsite_brick_slab_from_stone_types_crimsite_stonecutting": {
     "criteria": {
       "has_stone_types_crimsite": "2025-04-21 04:15:01 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/iron_bars_overlay": {
+    "criteria": {
+      "has_item": "2025-04-21 06:11:26 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/decal_fire_diamond": {
+    "criteria": {
+      "has_item": "2025-04-21 06:11:26 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/purple_shipping_container": {
+    "criteria": {
+      "has_item": "2025-04-21 06:11:26 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/magenta_shipping_container": {
+    "criteria": {
+      "has_item": "2025-04-21 06:11:26 +0000"
     },
     "done": true
   },
@@ -8781,15 +8919,39 @@
     },
     "done": true
   },
+  "createdeco:recipes/decorations/cyan_shipping_container": {
+    "criteria": {
+      "has_item": "2025-04-21 06:11:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oxidized_cut_copper_stairs": {
     "criteria": {
       "has_oxidized_cut_copper": "2025-04-21 04:35:50 +0000"
     },
     "done": true
   },
+  "createdeco:recipes/decorations/decal_creeper": {
+    "criteria": {
+      "has_item": "2025-04-21 06:11:26 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/crimsite_pillar_from_stone_types_crimsite_stonecutting": {
     "criteria": {
       "has_stone_types_crimsite": "2025-04-21 04:15:01 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/decal_fire": {
+    "criteria": {
+      "has_item": "2025-04-21 06:11:26 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/decal_top_left": {
+    "criteria": {
+      "has_item": "2025-04-21 06:11:26 +0000"
     },
     "done": true
   },
@@ -8817,6 +8979,12 @@
     },
     "done": true
   },
+  "createdeco:recipes/decorations/blue_shipping_container": {
+    "criteria": {
+      "has_item": "2025-04-21 06:11:26 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/misc/dragon_horn": {
     "criteria": {
       "has_item": "2025-04-21 04:41:34 +0000"
@@ -8835,9 +9003,21 @@
     },
     "done": true
   },
+  "createdeco:recipes/decorations/iron_catwalk_railing_forge": {
+    "criteria": {
+      "has_item": "2025-04-21 06:11:26 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/polished_cut_crimsite_slab_from_stone_types_crimsite_stonecutting": {
     "criteria": {
       "has_stone_types_crimsite": "2025-04-21 04:15:01 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/super_glue": {
+    "criteria": {
+      "has_item": "2025-04-21 06:11:26 +0000"
     },
     "done": true
   },
@@ -8853,15 +9033,39 @@
     },
     "done": true
   },
+  "createdeco:recipes/decorations/iron_catwalk_forge": {
+    "criteria": {
+      "has_item": "2025-04-21 06:11:26 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/decal_down_right": {
+    "criteria": {
+      "has_item": "2025-04-21 06:11:26 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/polished_cut_crimsite_wall_from_stone_types_crimsite_stonecutting": {
     "criteria": {
       "has_stone_types_crimsite": "2025-04-21 04:15:01 +0000"
     },
     "done": true
   },
+  "biomesoplenty:recipes/misc/orange_dye_from_burning_blossom": {
+    "criteria": {
+      "has_burning_blossom": "2025-04-21 06:08:30 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/redstone/maple_door": {
     "criteria": {
       "has_planks": "2025-04-21 04:20:12 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/green_shipping_container": {
+    "criteria": {
+      "has_item": "2025-04-21 06:11:26 +0000"
     },
     "done": true
   },
@@ -8877,6 +9081,12 @@
     },
     "done": true
   },
+  "createdeco:recipes/decorations/yellow_iron_lamp": {
+    "criteria": {
+      "has_item": "2025-04-21 06:11:26 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/building_blocks/maple_wood": {
     "criteria": {
       "has_log": "2025-04-21 04:20:06 +0000"
@@ -8886,6 +9096,18 @@
   "minecraft:recipes/building_blocks/waxed_oxidized_cut_copper_slab_from_honeycomb": {
     "criteria": {
       "has_oxidized_cut_copper_slab": "2025-04-21 04:35:52 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/decal_down_left": {
+    "criteria": {
+      "has_item": "2025-04-21 06:11:26 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/iron_sheet_metal": {
+    "criteria": {
+      "has_item": "2025-04-21 06:11:26 +0000"
     },
     "done": true
   },
@@ -8913,9 +9135,33 @@
     },
     "done": true
   },
+  "createdeco:recipes/decorations/decal_skull": {
+    "criteria": {
+      "has_item": "2025-04-21 06:11:26 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/redstone/maple_pressure_plate": {
     "criteria": {
       "has_planks": "2025-04-21 04:20:12 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/decal_fluid": {
+    "criteria": {
+      "has_item": "2025-04-21 06:11:26 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/decal_ice": {
+    "criteria": {
+      "has_item": "2025-04-21 06:11:26 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/decal_flow": {
+    "criteria": {
+      "has_item": "2025-04-21 06:11:26 +0000"
     },
     "done": true
   },
@@ -8928,6 +9174,18 @@
   "create:recipes/building_blocks/small_crimsite_brick_stairs_from_stone_types_crimsite_stonecutting": {
     "criteria": {
       "has_stone_types_crimsite": "2025-04-21 04:15:01 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/decal_radioactive": {
+    "criteria": {
+      "has_item": "2025-04-21 06:11:26 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/whisk": {
+    "criteria": {
+      "has_item": "2025-04-21 06:11:26 +0000"
     },
     "done": true
   },
@@ -8961,6 +9219,12 @@
     },
     "done": true
   },
+  "createdeco:recipes/decorations/red_iron_lamp": {
+    "criteria": {
+      "has_item": "2025-04-21 06:11:26 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/decorations/maple_fence": {
     "criteria": {
       "has_planks": "2025-04-21 04:20:12 +0000"
@@ -8973,15 +9237,33 @@
     },
     "done": true
   },
+  "createdeco:recipes/decorations/yellow_shipping_container": {
+    "criteria": {
+      "has_item": "2025-04-21 06:11:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/nether_wart_block": {
     "criteria": {
       "has_nether_wart": "2025-04-21 04:00:43 +0000"
     },
     "done": true
   },
+  "createdeco:recipes/decorations/decal_top_right": {
+    "criteria": {
+      "has_item": "2025-04-21 06:11:26 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/tools/dragonbone_axe": {
     "criteria": {
       "has_item": "2025-04-21 04:41:34 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/pink_shipping_container": {
+    "criteria": {
+      "has_item": "2025-04-21 06:11:26 +0000"
     },
     "done": true
   },
@@ -9003,6 +9285,12 @@
     },
     "done": true
   },
+  "createdeco:recipes/decorations/brown_shipping_container": {
+    "criteria": {
+      "has_item": "2025-04-21 06:11:26 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/tools/dragonbone_pickaxe": {
     "criteria": {
       "has_item": "2025-04-21 04:41:34 +0000"
@@ -9015,9 +9303,27 @@
     },
     "done": true
   },
+  "createdeco:recipes/decorations/light_gray_shipping_container": {
+    "criteria": {
+      "has_item": "2025-04-21 06:11:26 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_crimsite_slab_from_stone_types_crimsite_stonecutting": {
     "criteria": {
       "has_stone_types_crimsite": "2025-04-21 04:15:01 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/black_shipping_container": {
+    "criteria": {
+      "has_item": "2025-04-21 06:11:26 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/orange_shipping_container": {
+    "criteria": {
+      "has_item": "2025-04-21 06:11:26 +0000"
     },
     "done": true
   },
@@ -9039,6 +9345,12 @@
     },
     "done": true
   },
+  "createdeco:recipes/decorations/iron_mesh_fence": {
+    "criteria": {
+      "has_item": "2025-04-21 06:11:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/waxed_oxidized_cut_copper_from_honeycomb": {
     "criteria": {
       "has_oxidized_cut_copper": "2025-04-21 04:35:50 +0000"
@@ -9048,6 +9360,12 @@
   "minecraft:recipes/building_blocks/snow_block": {
     "criteria": {
       "has_snowball": "2025-04-21 04:45:47 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/iron_support_wedge": {
+    "criteria": {
+      "has_item": "2025-04-21 06:11:26 +0000"
     },
     "done": true
   },
