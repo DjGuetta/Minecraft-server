@@ -10515,6 +10515,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/yellow_candle": {
+    "criteria": {
+      "has_yellow_dye": "2025-04-21 05:01:58 +0000"
+    },
+    "done": true
+  },
   "ae2:recipes/misc/network/cables/smart_gray": {
     "criteria": {
       "has_dyes/black": "2025-04-21 04:48:22 +0000"
@@ -10524,6 +10530,12 @@
   "createdeco:recipes/misc/industrial_iron_nugget_from_industrial_iron_ingot": {
     "criteria": {
       "has_industrial_iron_ingot": "2025-04-21 04:15:59 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/yellow_placard_from_dyeing": {
+    "criteria": {
+      "has_dye": "2025-04-21 05:01:58 +0000"
     },
     "done": true
   },
@@ -10563,9 +10575,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dye_orange_bed": {
+    "criteria": {
+      "has_needed_dye": "2025-04-21 05:02:29 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/smart_orange": {
+    "criteria": {
+      "has_dyes/black": "2025-04-21 05:02:29 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/glass_yellow": {
+    "criteria": {
+      "has_dyes/black": "2025-04-21 05:01:58 +0000"
+    },
+    "done": true
+  },
   "createdeco:recipes/decorations/industrial_iron_catwalk_stairs": {
     "criteria": {
       "has_item": "2025-04-21 04:21:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_yellow_carpet": {
+    "criteria": {
+      "has_needed_dye": "2025-04-21 05:01:58 +0000"
     },
     "done": true
   },
@@ -10581,9 +10617,21 @@
     },
     "done": true
   },
+  "ae2:recipes/misc/network/cables/dense_smart_orange": {
+    "criteria": {
+      "has_dyes/black": "2025-04-21 05:02:29 +0000"
+    },
+    "done": true
+  },
   "ae2:recipes/misc/network/cables/dense_smart_gray": {
     "criteria": {
       "has_dyes/black": "2025-04-21 04:48:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/orange_candle": {
+    "criteria": {
+      "has_orange_dye": "2025-04-21 05:02:29 +0000"
     },
     "done": true
   },
@@ -10593,15 +10641,39 @@
     },
     "done": true
   },
+  "createdeco:recipes/decorations/orange_placard_from_dyeing": {
+    "criteria": {
+      "has_dye": "2025-04-21 05:02:29 +0000"
+    },
+    "done": true
+  },
   "createdeco:recipes/misc/industrial_iron_block": {
     "criteria": {
       "has_industrial_iron_ingot": "2025-04-21 04:15:59 +0000"
     },
     "done": true
   },
+  "travelersbackpack:recipes/building_blocks/dye_orange_sleeping_bag": {
+    "criteria": {
+      "has_needed_dye": "2025-04-21 05:02:29 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/crafting/kinetics/black_seat_from_other_seat": {
     "criteria": {
       "has_seat": "2025-04-21 04:30:08 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/building_blocks/industrial_iron_window_pane": {
+    "criteria": {
+      "has_ingredient": "2025-04-21 04:56:30 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/glass_orange": {
+    "criteria": {
+      "has_dyes/black": "2025-04-21 05:02:29 +0000"
     },
     "done": true
   },
@@ -10617,15 +10689,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dye_orange_wool": {
+    "criteria": {
+      "has_needed_dye": "2025-04-21 05:02:29 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/crafting/kinetics/light_gray_seat_from_other_seat": {
     "criteria": {
       "has_seat": "2025-04-21 04:30:08 +0000"
     },
     "done": true
   },
+  "ae2:recipes/misc/network/cables/smart_yellow": {
+    "criteria": {
+      "has_dyes/black": "2025-04-21 05:01:58 +0000"
+    },
+    "done": true
+  },
+  "infinitybuttons:recipes/redstone/orange_emergency_button": {
+    "criteria": {
+      "has_thing": "2025-04-21 05:02:29 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/crafting/kinetics/brown_seat_from_other_seat": {
     "criteria": {
       "has_seat": "2025-04-21 04:30:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_yellow_bed": {
+    "criteria": {
+      "has_needed_dye": "2025-04-21 05:01:58 +0000"
     },
     "done": true
   },
@@ -10647,9 +10743,21 @@
     },
     "done": true
   },
+  "infinitybuttons:recipes/redstone/orange_safe_emergency_button": {
+    "criteria": {
+      "has_thing": "2025-04-21 05:02:29 +0000"
+    },
+    "done": true
+  },
   "createdeco:recipes/decorations/yellow_industrial_iron_lamp": {
     "criteria": {
       "has_item": "2025-04-21 04:21:29 +0000"
+    },
+    "done": true
+  },
+  "infinitybuttons:recipes/redstone/yellow_emergency_button": {
+    "criteria": {
+      "has_thing": "2025-04-21 05:01:58 +0000"
     },
     "done": true
   },
@@ -10677,9 +10785,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dye_yellow_wool": {
+    "criteria": {
+      "has_needed_dye": "2025-04-21 05:01:58 +0000"
+    },
+    "done": true
+  },
+  "infinitybuttons:recipes/redstone/yellow_safe_emergency_button": {
+    "criteria": {
+      "has_thing": "2025-04-21 05:01:58 +0000"
+    },
+    "done": true
+  },
   "createdeco:recipes/decorations/industrial_iron_catwalk_stairs_from_stonecutting": {
     "criteria": {
       "has_item": "2025-04-21 04:15:59 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/dense_covered_yellow": {
+    "criteria": {
+      "has_dyes/black": "2025-04-21 05:01:58 +0000"
     },
     "done": true
   },
@@ -10731,6 +10857,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dye_orange_carpet": {
+    "criteria": {
+      "has_needed_dye": "2025-04-21 05:02:29 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/crafting/kinetics/white_seat_from_other_seat": {
     "criteria": {
       "has_seat": "2025-04-21 04:30:08 +0000"
@@ -10764,6 +10896,12 @@
   "create:recipes/building_blocks/crafting/kinetics/lime_seat_from_other_seat": {
     "criteria": {
       "has_seat": "2025-04-21 04:30:08 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/dense_covered_orange": {
+    "criteria": {
+      "has_dyes/black": "2025-04-21 05:02:29 +0000"
     },
     "done": true
   },
@@ -10803,9 +10941,21 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/building_blocks/dye_yellow_sleeping_bag": {
+    "criteria": {
+      "has_needed_dye": "2025-04-21 05:01:58 +0000"
+    },
+    "done": true
+  },
   "createdeco:recipes/decorations/industrial_iron_sheet_metal": {
     "criteria": {
       "has_item": "2025-04-21 04:21:29 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/dense_smart_yellow": {
+    "criteria": {
+      "has_dyes/black": "2025-04-21 05:01:58 +0000"
     },
     "done": true
   },
