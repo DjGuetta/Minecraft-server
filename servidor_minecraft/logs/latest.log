@@ -1563,3 +1563,64 @@ java.lang.IllegalStateException: recursive call to sendBlockUpdated
 [04:58:04] [Server thread/WARN]: DjGuetta11 moved wrongly!
 [04:59:01] [Server thread/WARN]: DjGuetta11 moved wrongly!
 [04:59:01] [Server thread/WARN]: DjGuetta11 moved wrongly!
+[05:08:51] [Server thread/WARN]: DjGuetta11 moved wrongly!
+[05:11:08] [Server thread/WARN]: DjGuetta11 moved wrongly!
+[05:11:10] [Server thread/WARN]: DjGuetta11 moved wrongly!
+[05:11:12] [Server thread/INFO]: Gindaz has made the advancement [Take Aim]
+[05:11:43] [Server thread/WARN]: DjTwistfly moved too quickly! 0.16620470427869805,20.580000013113022,0.12668173575178088
+[05:11:43] [Server thread/WARN]: DjTwistfly moved too quickly! 0.0,20.580000013113022,0.0
+[05:11:44] [Server thread/WARN]: DjTwistfly moved too quickly! 0.0,20.580000013113022,0.0
+[05:11:44] [Server thread/WARN]: DjTwistfly moved too quickly! 0.0,19.580000013113022,0.0
+[05:19:20] [Server thread/WARN]: DjTwistfly moved wrongly!
+[05:19:21] [Server thread/WARN]: DjTwistfly moved wrongly!
+[05:19:22] [Server thread/WARN]: DjTwistfly moved too quickly! -0.05530091664604697,20.580000013113022,0.19377830523431783
+[05:19:22] [Server thread/WARN]: DjTwistfly moved too quickly! 0.0,20.580000013113022,0.0
+[05:19:23] [Server thread/WARN]: DjTwistfly moved too quickly! 0.0,20.580000013113022,0.0
+[05:19:23] [Server thread/WARN]: DjTwistfly moved too quickly! 0.0,19.580000013113022,0.0
+[05:25:52] [Server thread/INFO]: Named entity class_1634['Restless Spirit'/147283, l='ServerLevel[world]', x=-153.32, y=37.97, z=-50.06] died: Restless Spirit starved to death
+[05:25:52] [Server thread/INFO]: Named entity class_1634['Restless Spirit'/147285, l='ServerLevel[world]', x=-157.66, y=54.20, z=-64.32] died: Restless Spirit starved to death
+[05:27:34] [Server thread/WARN]: DjGuetta11 moved wrongly!
+[05:30:49] [Server thread/WARN]: DjTwistfly moved too quickly! 1.2523293765502785,4.78908491964043,9.202563077552238
+[05:32:27] [Server thread/WARN]: DjGuetta11 moved too quickly! -5.513211170270324,-7.839372982550998,4.97756138600991
+[05:33:17] [Server thread/WARN]: DjGuetta11 moved wrongly!
+[05:33:17] [Server thread/WARN]: DjGuetta11 moved wrongly!
+[05:33:18] [Server thread/WARN]: DjGuetta11 moved too quickly! 0.1380168363800749,20.37999999523163,0.19999998807907104
+[05:33:18] [Server thread/WARN]: DjGuetta11 moved too quickly! 0.0,20.37999999523163,0.0
+[05:33:19] [Server thread/WARN]: DjGuetta11 moved too quickly! 0.0,20.37999999523163,0.0
+[05:33:19] [Server thread/ERROR]: POI data mismatch: already registered at class_2338{x=-5121, y=-41, z=66}
+[05:33:20] [Server thread/WARN]: DjGuetta11 moved too quickly! 0.0,19.37999999523163,0.0
+[05:33:34] [Server thread/ERROR]: POI data mismatch: already registered at class_2338{x=-5190, y=-42, z=-16}
+[05:33:34] [Server thread/ERROR]: POI data mismatch: already registered at class_2338{x=-5188, y=-42, z=-16}
+[05:33:53] [Server thread/ERROR]: POI data mismatch: already registered at class_2338{x=-5344, y=16, z=201}
+[05:33:54] [Server thread/ERROR]: POI data mismatch: already registered at class_2338{x=-5338, y=-26, z=-32}
+[05:33:54] [Server thread/ERROR]: POI data mismatch: already registered at class_2338{x=-5339, y=-26, z=-32}
+[05:34:51] [Server thread/ERROR]: POI data mismatch: already registered at class_2338{x=-5407, y=12, z=11}
+[05:35:04] [Server thread/INFO]: Gindaz has made the advancement [Who You Gonna Call?]
+[05:35:48] [Server thread/WARN]: DjTwistfly moved too quickly! 9.169328964022043,4.498664020887844,0.4255557200363782
+[05:37:57] [Server thread/INFO]: [Not Secure] <DjGuetta11> :3
+[05:38:26] [Server thread/INFO]: [Not Secure] <DjGuetta11> ,3
+[05:38:30] [Server thread/INFO]: [Not Secure] <DjGuetta11> <3
+[05:39:34] [Server thread/INFO]: [Not Secure] <DjGuetta11> tiene losas
+[05:39:35] [Server thread/INFO]: [Not Secure] <DjGuetta11> xd
+[05:40:04] [Server thread/INFO]: [Not Secure] <DjGuetta11> ¿vamos a una mina?
+[05:40:09] [Server thread/INFO]: [Not Secure] <DjGuetta11> nejecito piedra negra
+[05:40:22] [Server thread/INFO]: [Not Secure] <DjGuetta11> vamos a darle
+[05:40:34] [Server thread/INFO]: [Not Secure] <DjGuetta11> ay, pere
+[05:40:38] [Server thread/INFO]: [Not Secure] <DjGuetta11> ya s
+[05:40:40] [Server thread/INFO]: [Not Secure] <DjGuetta11> sé
+[05:42:20] [Server thread/WARN]: DjGuetta11 moved too quickly! -0.0780051037377234,20.37999999523163,-0.1914662501528852
+[05:42:20] [Server thread/WARN]: DjGuetta11 moved too quickly! 0.0,20.37999999523163,0.0
+[05:42:20] [Server thread/WARN]: DjGuetta11 moved too quickly! 0.0,20.37999999523163,0.0
+[05:42:21] [Server thread/WARN]: DjGuetta11 moved too quickly! 0.0,19.37999999523163,0.0
+[05:49:47] [Server thread/INFO]: [Not Secure] <DjTwistfly> 164987564\
+[05:50:05] [Server thread/INFO]: [Not Secure] <DjTwistfly> 4958670495
+[05:50:14] [pool-7-thread-3/INFO]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_badlands], ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_mountains], ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_birch], ResourceKey[minecraft:worldgen/structure / minecraft:village_savanna], ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_giant_taiga], ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_jungle], ResourceKey[minecraft:worldgen/structure / minecraft:village_snowy], ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_crimson]] from pos class_2338{x=-5445, y=72, z=427}
+[05:50:20] [Server thread/INFO]: [Not Secure] <DjTwistfly> fg45yZ32H
+[05:53:29] [Server thread/INFO]: Gindaz has made the advancement [Stay dead]
+[05:56:50] [Server thread/ERROR]: POI data mismatch: already registered at class_2338{x=-5787, y=18, z=356}
+[05:56:52] [Worker-Main-32/WARN]: Tried to access a block entity before it was created. class_2339{x=-5809, y=63, z=-15}
+[05:56:52] [Worker-Main-32/WARN]: Tried to access a block entity before it was created. class_2339{x=-5809, y=63, z=-15}
+[05:57:11] [Server thread/WARN]: DjGuetta11 moved wrongly!
+[05:57:13] [Server thread/WARN]: DjGuetta11 moved wrongly!
+[05:57:15] [Server thread/WARN]: DjGuetta11 moved wrongly!
+[05:57:17] [Server thread/WARN]: DjGuetta11 moved wrongly!
