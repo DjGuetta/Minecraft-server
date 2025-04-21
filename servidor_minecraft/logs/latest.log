@@ -2001,3 +2001,13 @@ io.netty.channel.unix.Errors$NativeIoException: recvAddress(..) failed: Connecti
 [07:59:10] [Server thread/INFO]: DjGuetta11 claimed a grave belonging to DjGuetta11 at -969, -7, 2312, minecraft:overworld
 [08:02:02] [Server thread/INFO]: Santialpz lost connection: Disconnected
 [08:02:02] [Server thread/INFO]: Santialpz left the game
+[08:16:22] [Server thread/INFO]: Santialpz[/100.107.90.77:63820] logged in with entity id 422587 at (-922.3750021914254, -13.0, 2319.300000011921)
+[08:16:22] [Server thread/INFO]: Syncing config to Santialpz (b0e44f22-1b97-32b4-8303-fba29026f2f8)
+[08:16:22] [Server thread/INFO]: Loading config from file...
+[08:16:22] [Server thread/INFO]: Santialpz joined the game
+[08:16:23] [Netty Epoll Server IO #4/INFO]: Priority overwritten for player Santialpz. Claiming: GRAVE / Robbing: INVENTORY
+[08:20:36] [Server thread/INFO]: Named entity class_1642['Corvin the Rotten'/353115, l='ServerLevel[world]', x=-995.74, y=-10.00, z=2303.70] died: Corvin the Rotten was slain by DjTwistfly
+[08:21:08] [Server thread/WARN]: DjGuetta11 moved wrongly!
+[08:22:22] [Server thread/INFO]: Villager class_1646['Unemployed'/429168, l='ServerLevel[world]', x=-786.04, y=118.50, z=2389.01] died, message: 'Unemployed hit the ground too hard'
+[08:24:13] [Server thread/INFO]: DjTwistfly lost connection: Disconnected
+[08:24:13] [Server thread/INFO]: DjTwistfly left the game
