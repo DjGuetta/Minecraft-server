@@ -1624,3 +1624,17 @@ java.lang.IllegalStateException: recursive call to sendBlockUpdated
 [05:57:13] [Server thread/WARN]: DjGuetta11 moved wrongly!
 [05:57:15] [Server thread/WARN]: DjGuetta11 moved wrongly!
 [05:57:17] [Server thread/WARN]: DjGuetta11 moved wrongly!
+[06:01:11] [Server thread/WARN]: DjTwistfly moved too quickly! -0.20668843501857737,20.580000013113022,0.031343074786967406
+[06:01:11] [Server thread/WARN]: DjTwistfly moved too quickly! 0.0,20.580000013113022,0.0
+[06:01:12] [Server thread/WARN]: DjTwistfly moved too quickly! 0.0,20.580000013113022,0.0
+[06:01:12] [Server thread/WARN]: DjTwistfly moved too quickly! 0.0,19.580000013113022,0.0
+[06:02:03] [Server thread/ERROR]: POI data mismatch: already registered at class_2338{x=-5858, y=-7, z=-58}
+[06:02:03] [Server thread/ERROR]: POI data mismatch: already registered at class_2338{x=-5858, y=-7, z=-59}
+[06:04:39] [Server thread/ERROR]: POI data mismatch: already registered at class_2338{x=-5891, y=26, z=-123}
+[06:04:44] [Server thread/ERROR]: POI data mismatch: already registered at class_2338{x=-5931, y=-7, z=-136}
+[06:06:21] [Server thread/ERROR]: POI data mismatch: already registered at class_2338{x=-6099, y=21, z=-173}
+[06:06:21] [Server thread/ERROR]: POI data mismatch: already registered at class_2338{x=-6099, y=21, z=-175}
+[06:09:31] [Worker-Main-32/WARN]: Tried to access a block entity before it was created. class_2339{x=-6383, y=-26, z=-107}
+[06:09:40] [Server thread/ERROR]: POI data mismatch: already registered at class_2338{x=-6419, y=-23, z=-240}
+[06:09:40] [Server thread/ERROR]: POI data mismatch: already registered at class_2338{x=-6417, y=-46, z=-223}
+[06:09:40] [Server thread/ERROR]: POI data mismatch: already registered at class_2338{x=-6418, y=-46, z=-223}

@@ -1029,6 +1029,7 @@
       "minecraft:slime": "2025-04-13 06:51:15 +0000",
       "minecraft:husk": "2025-04-21 05:36:35 +0000",
       "minecraft:piglin": "2025-04-19 05:31:32 +0000",
+      "minecraft:enderman": "2025-04-21 06:00:48 +0000",
       "minecraft:zombie": "2025-04-13 05:33:56 +0000"
     },
     "done": false
@@ -5202,6 +5203,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/misc/silver_ingot_to_silver_nugget": {
+    "criteria": {
+      "has_silver_ingot": "2025-04-21 06:03:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/orange_glazed_terracotta": {
     "criteria": {
       "has_orange_terracotta": "2025-04-21 05:27:09 +0000"
@@ -5235,6 +5242,12 @@
   "iceandfire:recipes/combat/deathworm_red_chestplate": {
     "criteria": {
       "has_item": "2025-04-21 05:11:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/black_dye_from_wither_rose": {
+    "criteria": {
+      "has_wither_rose": "2025-04-21 06:03:14 +0000"
     },
     "done": true
   },
@@ -5541,6 +5554,12 @@
   "biomesoplenty:recipes/building_blocks/orange_sandstone_slab_from_orange_sandstone_stonecutting": {
     "criteria": {
       "has_orange_sandstone": "2025-04-21 04:00:43 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/silver_ingot_to_silver_block": {
+    "criteria": {
+      "has_silver_ingot": "2025-04-21 06:03:36 +0000"
     },
     "done": true
   },
