@@ -1709,3 +1709,22 @@ java.lang.IllegalStateException: recursive call to sendBlockUpdated
 [06:31:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3646ms or 72 ticks behind
 [06:34:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
 [06:38:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2945ms or 58 ticks behind
+[06:41:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[06:42:12] [Server thread/WARN]: DjGuetta11 moved too quickly! -0.6282266529767639,-11.376989651704179,0.5153961517288508
+[06:42:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[06:42:42] [Server thread/WARN]: DjGuetta11 moved too quickly! -0.05721874437972474,20.37999999523163,0.05143098400994717
+[06:42:42] [Server thread/WARN]: DjGuetta11 moved too quickly! 0.0,20.37999999523163,0.0
+[06:42:43] [Server thread/WARN]: DjGuetta11 moved too quickly! 0.0,20.37999999523163,0.0
+[06:42:43] [Server thread/WARN]: DjGuetta11 moved too quickly! 0.0,19.37999999523163,0.0
+[06:43:14] [Server thread/WARN]: DjTwistfly moved too quickly! 9.186700658773589,4.6065240274119645,0.7015177792170135
+[06:43:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3174ms or 63 ticks behind
+[06:43:28] [Worker-Main-1/WARN]: Tried to access a block entity before it was created. class_2339{x=-6113, y=36, z=266}
+[06:43:28] [Worker-Main-1/WARN]: Tried to access a block entity before it was created. class_2338{x=-6114, y=36, z=263}
+[06:43:30] [Server thread/ERROR]: POI data mismatch: already registered at class_2338{x=-6101, y=-22, z=280}
+[06:43:52] [Server thread/ERROR]: POI data mismatch: already registered at class_2338{x=-6086, y=-18, z=304}
+[06:43:52] [Server thread/ERROR]: POI data mismatch: already registered at class_2338{x=-6086, y=-18, z=306}
+[06:44:02] [pool-7-thread-5/INFO]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_swamp], ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_mountains], ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_giant_taiga], ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_oak], ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_crimson], ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_cherry], ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_jungle], ResourceKey[minecraft:worldgen/structure / minecraft:village_savanna]] from pos class_2338{x=-6027, y=71, z=341}
+[06:46:08] [Server thread/WARN]: DjGuetta11 moved wrongly!
+[06:48:14] [Server thread/INFO]: Gindaz claimed a grave belonging to Gindaz at -5866, 18, -154, minecraft:overworld
+[06:48:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2520ms or 50 ticks behind
+[06:51:16] [Server thread/INFO]: DjTwistfly has made the advancement [You've Got a Friend in Me]
