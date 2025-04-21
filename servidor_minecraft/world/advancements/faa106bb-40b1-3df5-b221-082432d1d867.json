@@ -73,10 +73,9 @@
   },
   "incendium:technical/using/shield": {
     "criteria": {
-      "requirement": "2025-04-21 04:03:41 +0000",
       "log_spam_fixer": "2025-04-13 05:17:50 +0000"
     },
-    "done": true
+    "done": false
   },
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
@@ -926,6 +925,7 @@
       "minecraft:lukewarm_ocean": "2025-04-14 05:45:05 +0000",
       "minecraft:forest": "2025-04-13 05:36:25 +0000",
       "minecraft:lush_caves": "2025-04-14 05:41:25 +0000",
+      "minecraft:desert": "2025-04-21 04:05:53 +0000",
       "minecraft:ocean": "2025-04-14 05:46:29 +0000",
       "minecraft:warm_ocean": "2025-04-19 08:18:54 +0000",
       "minecraft:deep_lukewarm_ocean": "2025-04-19 08:14:39 +0000",
@@ -4995,6 +4995,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/beetroot_soup": {
+    "criteria": {
+      "has_beetroot": "2025-04-21 04:09:11 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/building_blocks/cut_orange_sandstone": {
     "criteria": {
       "has_orange_sandstone": "2025-04-21 04:00:43 +0000"
@@ -5007,11 +5013,35 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/decorations/light_gray_sleeping_bag": {
+    "criteria": {
+      "has_light_gray_wool": "2025-04-21 04:09:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_bed": {
+    "criteria": {
+      "has_light_gray_wool": "2025-04-21 04:09:34 +0000"
+    },
+    "done": true
+  },
   "repurposed_structures:outposts": {
     "criteria": {
       "in_outpost_badlands": "2025-04-21 04:03:40 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/decorations/light_gray_carpet": {
+    "criteria": {
+      "has_light_gray_wool": "2025-04-21 04:09:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
+    "criteria": {
+      "has_potato": "2025-04-21 04:11:39 +0000"
+    },
+    "done": true
   },
   "biomesoplenty:recipes/building_blocks/cut_orange_sandstone_from_orange_sandstone_stonecutting": {
     "criteria": {
@@ -5031,9 +5061,33 @@
     },
     "done": true
   },
+  "iceandfire:recipes/misc/bestiary": {
+    "criteria": {
+      "has_item": "2025-04-21 04:06:23 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/building_blocks/orange_sandstone_stairs": {
     "criteria": {
       "has_orange_sandstone": "2025-04-21 04:00:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_smoking": {
+    "criteria": {
+      "has_potato": "2025-04-21 04:11:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_banner": {
+    "criteria": {
+      "has_light_gray_wool": "2025-04-21 04:09:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_beetroot": {
+    "criteria": {
+      "has_beetroot": "2025-04-21 04:09:11 +0000"
     },
     "done": true
   },
@@ -5043,9 +5097,27 @@
     },
     "done": true
   },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-04-21 04:06:24 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/building_blocks/chiseled_orange_sandstone": {
     "criteria": {
       "has_orange_sandstone": "2025-04-21 04:00:43 +0000"
+    },
+    "done": true
+  },
+  "nova_structures:adventure/find_all_illager_structures": {
+    "criteria": {
+      "illager_camp": "2025-04-21 04:04:16 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_potato": "2025-04-21 04:11:39 +0000"
     },
     "done": true
   },
@@ -5058,6 +5130,12 @@
   "biomesoplenty:recipes/building_blocks/orange_sandstone_stairs_from_orange_sandstone_stonecutting": {
     "criteria": {
       "has_orange_sandstone": "2025-04-21 04:00:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2025-04-21 04:06:24 +0000"
     },
     "done": true
   },
