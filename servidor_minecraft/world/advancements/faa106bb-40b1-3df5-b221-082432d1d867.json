@@ -929,6 +929,7 @@
       "minecraft:lush_caves": "2025-04-14 05:41:25 +0000",
       "minecraft:desert": "2025-04-21 04:05:53 +0000",
       "minecraft:ocean": "2025-04-14 05:46:29 +0000",
+      "minecraft:jungle": "2025-04-21 04:25:55 +0000",
       "minecraft:warm_ocean": "2025-04-19 08:18:54 +0000",
       "minecraft:deep_lukewarm_ocean": "2025-04-19 08:14:39 +0000",
       "minecraft:savanna": "2025-04-13 06:20:56 +0000",
@@ -5039,6 +5040,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/flute": {
+    "criteria": {
+      "has_bamboo": "2025-04-21 04:34:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/light_gray_bed": {
     "criteria": {
       "has_light_gray_wool": "2025-04-21 04:09:34 +0000"
@@ -5087,6 +5094,12 @@
     },
     "done": true
   },
+  "mcwdoors:recipes/bamboo": {
+    "criteria": {
+      "has_wood": "2025-04-21 04:34:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/lime_terracotta": {
     "criteria": {
       "has_terracotta": "2025-04-21 04:19:54 +0000"
@@ -5123,6 +5136,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/bamboo_spikes": {
+    "criteria": {
+      "has_bamboo": "2025-04-21 04:34:46 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/decorations/orange_sandstone_wall": {
     "criteria": {
       "has_orange_sandstone": "2025-04-21 04:00:43 +0000"
@@ -5132,6 +5151,12 @@
   "iceandfire:recipes/misc/bestiary": {
     "criteria": {
       "has_item": "2025-04-21 04:06:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/decorated_pot_simple": {
+    "criteria": {
+      "has_brick": "2025-04-21 04:34:55 +0000"
     },
     "done": true
   },
@@ -5177,9 +5202,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/stick_from_bamboo_item": {
+    "criteria": {
+      "has_bamboo": "2025-04-21 04:34:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/gray_terracotta": {
     "criteria": {
       "has_terracotta": "2025-04-21 04:19:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bamboo_block": {
+    "criteria": {
+      "has_bamboo": "2025-04-21 04:34:46 +0000"
     },
     "done": true
   },
@@ -5231,6 +5268,12 @@
     },
     "done": true
   },
+  "naturalist:recipes/naturalist/bug_net": {
+    "criteria": {
+      "has_bamboo": "2025-04-21 04:34:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/brown_terracotta": {
     "criteria": {
       "has_terracotta": "2025-04-21 04:19:54 +0000"
@@ -5279,6 +5322,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/salvage_sherd": {
+    "criteria": {
+      "has_sherd": "2025-04-21 04:34:55 +0000"
+    },
+    "done": false
+  },
   "travelersbackpack:recipes/misc/melon": {
     "criteria": {
       "has_melon_slice": "2025-04-21 04:19:47 +0000"
@@ -5288,6 +5337,12 @@
   "minecraft:recipes/decorations/enchanting_table": {
     "criteria": {
       "has_obsidian": "2025-04-21 04:06:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/scaffolding": {
+    "criteria": {
+      "has_bamboo": "2025-04-21 04:34:46 +0000"
     },
     "done": true
   },

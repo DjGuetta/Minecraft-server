@@ -10485,6 +10485,24 @@
     },
     "done": true
   },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "requirement": "2025-04-21 04:35:46 +0000"
+    },
+    "done": false
+  },
+  "create:recipes/building_blocks/crafting/kinetics/yellow_seat_from_other_seat": {
+    "criteria": {
+      "has_seat": "2025-04-21 04:30:08 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/green_seat_from_other_seat": {
+    "criteria": {
+      "has_seat": "2025-04-21 04:30:08 +0000"
+    },
+    "done": true
+  },
   "createdeco:recipes/decorations/industrial_iron_support_wedge": {
     "criteria": {
       "has_item": "2025-04-21 04:21:29 +0000"
@@ -10494,6 +10512,12 @@
   "createdeco:recipes/decorations/industrial_iron_bars_from_stonecutting": {
     "criteria": {
       "has_item": "2025-04-21 04:15:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/beetroot_soup": {
+    "criteria": {
+      "has_beetroot": "2025-04-21 04:30:45 +0000"
     },
     "done": true
   },
@@ -10521,6 +10545,12 @@
     },
     "done": true
   },
+  "twilightforest:recipes/decorations/wood/jungle_banister": {
+    "criteria": {
+      "has_item": "2025-04-21 04:30:04 +0000"
+    },
+    "done": true
+  },
   "createdeco:recipes/decorations/industrial_iron_catwalk_stairs": {
     "criteria": {
       "has_item": "2025-04-21 04:21:38 +0000"
@@ -10533,9 +10563,39 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/crafting/kinetics/blue_seat_from_other_seat": {
+    "criteria": {
+      "has_seat": "2025-04-21 04:30:08 +0000"
+    },
+    "done": true
+  },
   "createdeco:recipes/misc/industrial_iron_block": {
     "criteria": {
       "has_industrial_iron_ingot": "2025-04-21 04:15:59 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/black_seat_from_other_seat": {
+    "criteria": {
+      "has_seat": "2025-04-21 04:30:08 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/magenta_seat_from_other_seat": {
+    "criteria": {
+      "has_seat": "2025-04-21 04:30:08 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/light_gray_seat_from_other_seat": {
+    "criteria": {
+      "has_seat": "2025-04-21 04:30:08 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/brown_seat_from_other_seat": {
+    "criteria": {
+      "has_seat": "2025-04-21 04:30:08 +0000"
     },
     "done": true
   },
@@ -10548,6 +10608,12 @@
   "createdeco:recipes/decorations/yellow_industrial_iron_lamp": {
     "criteria": {
       "has_item": "2025-04-21 04:21:29 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/pink_seat_from_other_seat": {
+    "criteria": {
+      "has_seat": "2025-04-21 04:30:08 +0000"
     },
     "done": true
   },
@@ -10575,6 +10641,24 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/crafting/kinetics/red_seat_from_other_seat": {
+    "criteria": {
+      "has_seat": "2025-04-21 04:30:08 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/orange_seat_from_other_seat": {
+    "criteria": {
+      "has_seat": "2025-04-21 04:30:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_beetroot": {
+    "criteria": {
+      "has_beetroot": "2025-04-21 04:30:45 +0000"
+    },
+    "done": true
+  },
   "createdeco:recipes/decorations/industrial_iron_ladder_from_stonecutting": {
     "criteria": {
       "has_item": "2025-04-21 04:15:59 +0000"
@@ -10593,9 +10677,21 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/crafting/kinetics/white_seat_from_other_seat": {
+    "criteria": {
+      "has_seat": "2025-04-21 04:30:08 +0000"
+    },
+    "done": true
+  },
   "createdeco:recipes/building_blocks/industrial_iron_window": {
     "criteria": {
       "has_item": "2025-04-21 04:15:59 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/cyan_seat_from_other_seat": {
+    "criteria": {
+      "has_seat": "2025-04-21 04:30:08 +0000"
     },
     "done": true
   },
@@ -10608,6 +10704,24 @@
   "createdeco:recipes/decorations/industrial_iron_mesh_fence_from_stonecutting": {
     "criteria": {
       "has_item": "2025-04-21 04:15:59 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/lime_seat_from_other_seat": {
+    "criteria": {
+      "has_seat": "2025-04-21 04:30:08 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/purple_seat_from_other_seat": {
+    "criteria": {
+      "has_seat": "2025-04-21 04:30:08 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/light_blue_seat_from_other_seat": {
+    "criteria": {
+      "has_seat": "2025-04-21 04:30:08 +0000"
     },
     "done": true
   },
@@ -10638,6 +10752,12 @@
   "createdeco:recipes/decorations/blue_industrial_iron_lamp": {
     "criteria": {
       "has_item": "2025-04-21 04:21:29 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crafting/kinetics/gray_seat_from_other_seat": {
+    "criteria": {
+      "has_seat": "2025-04-21 04:30:08 +0000"
     },
     "done": true
   },
