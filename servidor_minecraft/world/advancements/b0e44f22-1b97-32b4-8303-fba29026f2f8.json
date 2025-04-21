@@ -8733,6 +8733,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/packed_mud": {
+    "criteria": {
+      "has_mud": "2025-04-21 07:14:18 +0000"
+    },
+    "done": true
+  },
   "createdeco:recipes/decorations/decal_warning": {
     "criteria": {
       "has_item": "2025-04-21 06:11:26 +0000"
@@ -8838,6 +8844,12 @@
   "minecraft:recipes/building_blocks/stripped_oak_wood": {
     "criteria": {
       "has_log": "2025-04-21 06:14:17 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_gray_boots": {
+    "criteria": {
+      "has_item": "2025-04-21 06:50:35 +0000"
     },
     "done": true
   },
@@ -9147,6 +9159,18 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/armor_gray_helmet": {
+    "criteria": {
+      "has_item": "2025-04-21 06:50:35 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_gray_chestplate": {
+    "criteria": {
+      "has_item": "2025-04-21 06:50:35 +0000"
+    },
+    "done": true
+  },
   "createdeco:recipes/decorations/decal_fluid": {
     "criteria": {
       "has_item": "2025-04-21 06:11:26 +0000"
@@ -9168,6 +9192,12 @@
   "iceandfire:recipes/tools/dragonbone_hoe": {
     "criteria": {
       "has_item": "2025-04-21 04:41:34 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_gray_leggings": {
+    "criteria": {
+      "has_item": "2025-04-21 06:50:35 +0000"
     },
     "done": true
   },
@@ -9282,6 +9312,12 @@
   "minecraft:recipes/building_blocks/red_nether_bricks": {
     "criteria": {
       "has_nether_wart": "2025-04-21 04:00:43 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonscales_gray_to_dragonscale_gray": {
+    "criteria": {
+      "has_dragonscales_gray": "2025-04-21 06:50:35 +0000"
     },
     "done": true
   },
