@@ -929,6 +929,7 @@
     "criteria": {
       "minecraft:deep_ocean": "2025-04-19 08:15:00 +0000",
       "minecraft:sunflower_plains": "2025-04-21 07:13:08 +0000",
+      "minecraft:windswept_hills": "2025-04-21 07:20:57 +0000",
       "minecraft:wooded_badlands": "2025-04-21 04:02:16 +0000",
       "minecraft:badlands": "2025-04-21 04:49:50 +0000",
       "minecraft:beach": "2025-04-13 05:40:03 +0000",
@@ -938,12 +939,14 @@
       "minecraft:stony_shore": "2025-04-21 04:39:32 +0000",
       "minecraft:forest": "2025-04-13 05:36:25 +0000",
       "minecraft:lush_caves": "2025-04-14 05:41:25 +0000",
+      "minecraft:ice_spikes": "2025-04-21 07:27:43 +0000",
       "minecraft:desert": "2025-04-21 04:05:53 +0000",
       "minecraft:ocean": "2025-04-14 05:46:29 +0000",
       "minecraft:jungle": "2025-04-21 04:25:55 +0000",
       "minecraft:warm_ocean": "2025-04-19 08:18:54 +0000",
       "minecraft:deep_lukewarm_ocean": "2025-04-19 08:14:39 +0000",
       "minecraft:deep_dark": "2025-04-21 06:15:59 +0000",
+      "minecraft:windswept_gravelly_hills": "2025-04-21 07:25:17 +0000",
       "minecraft:savanna": "2025-04-13 06:20:56 +0000",
       "minecraft:plains": "2025-04-14 06:18:20 +0000"
     },
@@ -5116,6 +5119,12 @@
     },
     "done": true
   },
+  "ae2:recipes/misc/network/cables/smart_fluix": {
+    "criteria": {
+      "has_dusts/redstone": "2025-04-21 07:29:00 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/misc/skull_to_bone_meal": {
     "criteria": {
       "has_item": "2025-04-21 04:48:38 +0000"
@@ -5164,6 +5173,12 @@
     },
     "done": true
   },
+  "ae2:recipes/misc/network/cells/item_cell_housing": {
+    "criteria": {
+      "has_dusts/redstone": "2025-04-21 07:29:00 +0000"
+    },
+    "done": true
+  },
   "repurposed_structures:outposts": {
     "criteria": {
       "in_outpost_badlands": "2025-04-21 04:03:40 +0000"
@@ -5203,6 +5218,12 @@
   "mcwdoors:recipes/bamboo": {
     "criteria": {
       "has_wood": "2025-04-21 04:34:46 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/dense_smart_fluix": {
+    "criteria": {
+      "has_dusts/redstone": "2025-04-21 07:29:00 +0000"
     },
     "done": true
   },
@@ -5251,6 +5272,12 @@
   "create:recipes/misc/blasting/zinc_ingot_from_raw_ore": {
     "criteria": {
       "has_item": "2025-04-21 06:20:45 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/silver_ingot_from_smelting_raw_silver": {
+    "criteria": {
+      "has_raw_silver": "2025-04-21 07:28:52 +0000"
     },
     "done": true
   },
@@ -5482,6 +5509,12 @@
     },
     "done": true
   },
+  "ae2:recipes/misc/network/cells/fluid_cell_housing": {
+    "criteria": {
+      "has_dusts/redstone": "2025-04-21 07:29:00 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/misc/nest": {
     "criteria": {
       "has_item": "2025-04-21 04:48:24 +0000"
@@ -5644,6 +5677,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/building_blocks/raw_silver_to_raw_silver_block": {
+    "criteria": {
+      "has_raw_silver": "2025-04-21 07:28:52 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/tools/dragonbone_pickaxe": {
     "criteria": {
       "has_item": "2025-04-21 04:48:24 +0000"
@@ -5653,6 +5692,12 @@
   "iceandfire:recipes/combat/armor_black_chestplate": {
     "criteria": {
       "has_item": "2025-04-21 05:30:24 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/silver_ingot_from_blasting_raw_silver": {
+    "criteria": {
+      "has_raw_silver": "2025-04-21 07:28:52 +0000"
     },
     "done": true
   },
@@ -5695,6 +5740,12 @@
   "minecraft:recipes/decorations/flower_pot": {
     "criteria": {
       "has_brick": "2025-04-21 05:23:44 +0000"
+    },
+    "done": true
+  },
+  "immersive_armors:recipes/misc/warrior": {
+    "criteria": {
+      "has_item": "2025-04-21 07:19:53 +0000"
     },
     "done": true
   },

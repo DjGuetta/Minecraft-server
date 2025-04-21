@@ -6037,6 +6037,7 @@
   "nova_structures:adventure/find_all_illager_structures": {
     "criteria": {
       "swamp_village": "2025-04-18 23:39:23 +0000",
+      "tavern_dark_oak": "2025-04-21 07:25:03 +0000",
       "swamp_hut": "2025-04-18 23:38:32 +0000",
       "illager_camp": "2025-04-14 06:16:42 +0000"
     },
@@ -8775,6 +8776,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stripped_spruce_wood": {
+    "criteria": {
+      "has_log": "2025-04-21 07:21:14 +0000"
+    },
+    "done": true
+  },
   "createdeco:recipes/decorations/decal_down": {
     "criteria": {
       "has_item": "2025-04-21 06:11:26 +0000"
@@ -9102,6 +9109,12 @@
   "biomesoplenty:recipes/building_blocks/maple_wood": {
     "criteria": {
       "has_log": "2025-04-21 04:20:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/spruce_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2025-04-21 07:21:14 +0000"
     },
     "done": true
   },
