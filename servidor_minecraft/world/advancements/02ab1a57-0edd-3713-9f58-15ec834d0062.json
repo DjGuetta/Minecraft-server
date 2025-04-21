@@ -10515,6 +10515,12 @@
     },
     "done": true
   },
+  "ae2:recipes/misc/network/cables/smart_gray": {
+    "criteria": {
+      "has_dyes/black": "2025-04-21 04:48:22 +0000"
+    },
+    "done": true
+  },
   "createdeco:recipes/misc/industrial_iron_nugget_from_industrial_iron_ingot": {
     "criteria": {
       "has_industrial_iron_ingot": "2025-04-21 04:15:59 +0000"
@@ -10524,6 +10530,12 @@
   "createdeco:recipes/decorations/industrial_iron_support_wedge_from_stonecutting": {
     "criteria": {
       "has_item": "2025-04-21 04:15:59 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/gray_placard_from_dyeing": {
+    "criteria": {
+      "has_dye": "2025-04-21 04:48:22 +0000"
     },
     "done": true
   },
@@ -10545,15 +10557,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/gray_candle": {
+    "criteria": {
+      "has_gray_dye": "2025-04-21 04:48:22 +0000"
+    },
+    "done": true
+  },
   "createdeco:recipes/decorations/industrial_iron_catwalk_stairs": {
     "criteria": {
       "has_item": "2025-04-21 04:21:38 +0000"
     },
     "done": true
   },
+  "infinitybuttons:recipes/redstone/gray_emergency_button": {
+    "criteria": {
+      "has_thing": "2025-04-21 04:48:22 +0000"
+    },
+    "done": true
+  },
   "createdeco:recipes/decorations/industrial_iron_trapdoor": {
     "criteria": {
       "has_item": "2025-04-21 04:15:59 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/dense_smart_gray": {
+    "criteria": {
+      "has_dyes/black": "2025-04-21 04:48:22 +0000"
     },
     "done": true
   },
@@ -10575,6 +10605,12 @@
     },
     "done": true
   },
+  "ae2:recipes/misc/network/cables/glass_gray": {
+    "criteria": {
+      "has_dyes/black": "2025-04-21 04:48:22 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/crafting/kinetics/magenta_seat_from_other_seat": {
     "criteria": {
       "has_seat": "2025-04-21 04:30:08 +0000"
@@ -10590,6 +10626,18 @@
   "create:recipes/building_blocks/crafting/kinetics/brown_seat_from_other_seat": {
     "criteria": {
       "has_seat": "2025-04-21 04:30:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_gray_wool": {
+    "criteria": {
+      "has_needed_dye": "2025-04-21 04:48:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_gray_bed": {
+    "criteria": {
+      "has_needed_dye": "2025-04-21 04:48:22 +0000"
     },
     "done": true
   },
@@ -10665,6 +10713,18 @@
     },
     "done": true
   },
+  "ae2:recipes/misc/network/cables/dense_covered_gray": {
+    "criteria": {
+      "has_dyes/black": "2025-04-21 04:48:22 +0000"
+    },
+    "done": true
+  },
+  "infinitybuttons:recipes/redstone/gray_safe_emergency_button": {
+    "criteria": {
+      "has_thing": "2025-04-21 04:48:22 +0000"
+    },
+    "done": true
+  },
   "createdeco:recipes/decorations/industrial_iron_catwalk_railing_from_stonecutting": {
     "criteria": {
       "has_item": "2025-04-21 04:15:59 +0000"
@@ -10722,6 +10782,18 @@
   "createdeco:recipes/decorations/industrial_iron_mesh_fence": {
     "criteria": {
       "has_item": "2025-04-21 04:21:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_gray_carpet": {
+    "criteria": {
+      "has_needed_dye": "2025-04-21 04:48:22 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/building_blocks/dye_gray_sleeping_bag": {
+    "criteria": {
+      "has_needed_dye": "2025-04-21 04:48:22 +0000"
     },
     "done": true
   },

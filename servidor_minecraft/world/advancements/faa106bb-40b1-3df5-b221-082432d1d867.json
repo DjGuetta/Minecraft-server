@@ -923,6 +923,7 @@
     "criteria": {
       "minecraft:deep_ocean": "2025-04-19 08:15:00 +0000",
       "minecraft:wooded_badlands": "2025-04-21 04:02:16 +0000",
+      "minecraft:badlands": "2025-04-21 04:49:50 +0000",
       "minecraft:beach": "2025-04-13 05:40:03 +0000",
       "minecraft:sparse_jungle": "2025-04-21 04:18:30 +0000",
       "minecraft:river": "2025-04-13 05:32:27 +0000",
@@ -5001,6 +5002,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/misc/dragon_bone_wall": {
+    "criteria": {
+      "has_item": "2025-04-21 04:48:24 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/building_blocks/orange_sandstone_slab": {
     "criteria": {
       "has_orange_sandstone": "2025-04-21 04:00:43 +0000"
@@ -5043,6 +5050,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/misc/skull_to_bone_meal": {
+    "criteria": {
+      "has_item": "2025-04-21 04:48:38 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/flute": {
     "criteria": {
       "has_bamboo": "2025-04-21 04:34:46 +0000"
@@ -5064,6 +5077,12 @@
   "minecraft:recipes/building_blocks/orange_terracotta": {
     "criteria": {
       "has_terracotta": "2025-04-21 04:19:54 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragon_bone_block": {
+    "criteria": {
+      "has_dragonbone": "2025-04-21 04:48:24 +0000"
     },
     "done": true
   },
@@ -5223,6 +5242,18 @@
     },
     "done": true
   },
+  "iceandfire:recipes/misc/dragon_horn": {
+    "criteria": {
+      "has_item": "2025-04-21 04:48:24 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/dragon_stick": {
+    "criteria": {
+      "has_item": "2025-04-21 04:48:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/green_terracotta": {
     "criteria": {
       "has_terracotta": "2025-04-21 04:19:54 +0000"
@@ -5235,6 +5266,18 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/kill_deathworm": {
+    "criteria": {
+      "killed_fire_dragon": "2025-04-21 04:49:44 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/dragon_flute": {
+    "criteria": {
+      "has_item": "2025-04-21 04:48:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_blue_terracotta": {
     "criteria": {
       "has_terracotta": "2025-04-21 04:19:54 +0000"
@@ -5244,6 +5287,18 @@
   "minecraft:recipes/building_blocks/yellow_terracotta": {
     "criteria": {
       "has_terracotta": "2025-04-21 04:19:54 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/nest": {
+    "criteria": {
+      "has_item": "2025-04-21 04:48:24 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/dragonbone_bow": {
+    "criteria": {
+      "has_item": "2025-04-21 04:48:24 +0000"
     },
     "done": true
   },
@@ -5262,6 +5317,12 @@
   "minecraft:story/form_obsidian": {
     "criteria": {
       "obsidian": "2025-04-21 04:06:24 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/dragonbone_hoe": {
+    "criteria": {
+      "has_item": "2025-04-21 04:48:24 +0000"
     },
     "done": true
   },
@@ -5295,6 +5356,12 @@
     },
     "done": false
   },
+  "iceandfire:recipes/tools/dragonbone_shovel": {
+    "criteria": {
+      "has_item": "2025-04-21 04:48:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/red_glazed_terracotta": {
     "criteria": {
       "has_red_terracotta": "2025-04-21 04:19:41 +0000"
@@ -5319,9 +5386,21 @@
     },
     "done": true
   },
+  "iceandfire:recipes/tools/dragonbone_axe": {
+    "criteria": {
+      "has_item": "2025-04-21 04:48:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/purple_terracotta": {
     "criteria": {
       "has_terracotta": "2025-04-21 04:19:54 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/dragonbone_pickaxe": {
+    "criteria": {
+      "has_item": "2025-04-21 04:48:24 +0000"
     },
     "done": true
   },
@@ -5334,6 +5413,12 @@
   "travelersbackpack:recipes/misc/melon": {
     "criteria": {
       "has_melon_slice": "2025-04-21 04:19:47 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/dragonbone_sword": {
+    "criteria": {
+      "has_item": "2025-04-21 04:48:24 +0000"
     },
     "done": true
   },

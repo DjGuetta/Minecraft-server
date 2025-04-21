@@ -8763,6 +8763,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/snow": {
+    "criteria": {
+      "has_snowball": "2025-04-21 04:45:47 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/small_crimsite_brick_wall_from_stone_types_crimsite_stonecutting": {
     "criteria": {
       "has_stone_types_crimsite": "2025-04-21 04:15:01 +0000"
@@ -8838,6 +8844,12 @@
   "create:recipes/building_blocks/crimsite_from_stone_types_crimsite_stonecutting": {
     "criteria": {
       "has_stone_types_crimsite": "2025-04-21 04:15:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/snow": {
+    "criteria": {
+      "has_snowball": "2025-04-21 04:45:47 +0000"
     },
     "done": true
   },
@@ -9030,6 +9042,12 @@
   "minecraft:recipes/building_blocks/waxed_oxidized_cut_copper_from_honeycomb": {
     "criteria": {
       "has_oxidized_cut_copper": "2025-04-21 04:35:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/snow_block": {
+    "criteria": {
+      "has_snowball": "2025-04-21 04:45:47 +0000"
     },
     "done": true
   },
