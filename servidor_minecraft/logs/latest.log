@@ -2046,3 +2046,48 @@ io.netty.channel.unix.Errors$NativeIoException: recvAddress(..) failed: Connecti
 [08:52:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2058ms or 41 ticks behind
 [08:52:59] [Worker-Main-3/WARN]: Tried to access a block entity before it was created. class_2338{x=-287, y=-18, z=1036}
 [08:52:59] [Worker-Main-3/WARN]: Tried to access a block entity before it was created. class_2338{x=-288, y=-18, z=1039}
+[08:56:38] [Server thread/INFO]: Gindaz has made the advancement [Chest Slayer]
+[08:57:01] [Server thread/ERROR]: POI data mismatch: already registered at class_2338{x=-279, y=-3, z=1338}
+[09:00:17] [Server thread/INFO]: DjTwistfly lost connection: Timed out
+[09:00:17] [Server thread/INFO]: DjTwistfly left the game
+[09:00:31] [Netty Epoll Server IO #1/ERROR]: Exception occurred in netty pipeline
+io.netty.handler.timeout.ReadTimeoutException: null
+[09:00:31] [Netty Epoll Server IO #1/ERROR]: Twilight Forest: Exception occurred in netty pipeline
+io.netty.handler.timeout.ReadTimeoutException: null
+[09:00:31] [Server thread/INFO]: DjGuetta11 lost connection: Timed out
+[09:00:31] [Server thread/INFO]: DjGuetta11 left the game
+[09:00:54] [Server thread/INFO]: DjGuetta11[/100.71.91.78:57934] logged in with entity id 506837 at (-537.6999999880791, -36.0, 1321.7766370577826)
+[09:00:54] [Server thread/INFO]: Syncing config to DjGuetta11 (02ab1a57-0edd-3713-9f58-15ec834d0062)
+[09:00:54] [Server thread/INFO]: Loading config from file...
+[09:00:54] [Server thread/INFO]: DjGuetta11 joined the game
+[09:00:54] [Netty Epoll Server IO #0/INFO]: Priority overwritten for player DjGuetta11. Claiming: GRAVE / Robbing: INVENTORY
+[09:02:36] [Server thread/INFO]: DjGuetta11 lost connection: Disconnected
+[09:02:36] [Server thread/INFO]: DjGuetta11 left the game
+[09:02:41] [Server thread/INFO]: Gindaz lost connection: Disconnected
+[09:02:41] [Server thread/INFO]: Gindaz left the game
+[09:02:48] [Server thread/INFO]: Santialpz lost connection: Disconnected
+[09:02:48] [Server thread/INFO]: Santialpz left the game
+[09:04:41] [Server thread/INFO]: Stopping the server
+[09:04:42] [Server thread/INFO]: UDP server is stopped
+[09:04:42] [Server thread/INFO]: Stopping server
+[09:04:42] [Server thread/INFO]: Saving players
+[09:04:42] [Server thread/INFO]: Saving worlds
+[09:04:42] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[09:04:42] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/twilightforest:twilight_forest
+[09:04:42] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[09:04:42] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/iceandfire:dread_land
+[09:04:42] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/graveyard:past
+[09:04:42] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/deeperdarker:otherside
+[09:04:42] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/the_bumblezone:the_bumblezone
+[09:04:42] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[09:04:42] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/ae2:spatial_storage
+[09:04:42] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[09:04:42] [Server thread/INFO]: ThreadedAnvilChunkStorage (twilight_forest): All chunks are saved
+[09:04:42] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[09:04:42] [Server thread/INFO]: ThreadedAnvilChunkStorage (dread_land): All chunks are saved
+[09:04:42] [Server thread/INFO]: ThreadedAnvilChunkStorage (past): All chunks are saved
+[09:04:42] [Server thread/INFO]: ThreadedAnvilChunkStorage (otherside): All chunks are saved
+[09:04:42] [Server thread/INFO]: ThreadedAnvilChunkStorage (the_bumblezone): All chunks are saved
+[09:04:42] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[09:04:42] [Server thread/INFO]: ThreadedAnvilChunkStorage (spatial_storage): All chunks are saved
+[09:04:42] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved

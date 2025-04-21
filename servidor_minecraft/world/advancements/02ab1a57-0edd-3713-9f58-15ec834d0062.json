@@ -11242,57 +11242,9 @@
     },
     "done": true
   },
-  "mcwwindows:recipes/diorite": {
-    "criteria": {
-      "has_wood": "2025-04-21 08:28:04 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/cut_veridium_brick_slab_from_stone_types_veridium_stonecutting": {
-    "criteria": {
-      "has_stone_types_veridium": "2025-04-21 08:40:21 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_diorite": {
-    "criteria": {
-      "has_diorite": "2025-04-21 08:28:04 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/polished_cut_veridium_from_stone_types_veridium_stonecutting": {
-    "criteria": {
-      "has_stone_types_veridium": "2025-04-21 08:40:21 +0000"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/cut_deepslate_from_stone_types_deepslate_stonecutting": {
     "criteria": {
       "has_stone_types_deepslate": "2025-04-21 07:42:22 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/cut_veridium_brick_wall_from_stone_types_veridium_stonecutting": {
-    "criteria": {
-      "has_stone_types_veridium": "2025-04-21 08:40:21 +0000"
-    },
-    "done": true
-  },
-  "infinitybuttons:recipes/redstone/diorite_button_from_diorite_stonecutting": {
-    "criteria": {
-      "has_diorite": "2025-04-21 08:28:04 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/small_diorite_brick_slab_from_stone_types_diorite_stonecutting": {
-    "criteria": {
-      "has_stone_types_diorite": "2025-04-21 08:28:04 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/small_veridium_brick_wall_from_stone_types_veridium_stonecutting": {
-    "criteria": {
-      "has_stone_types_veridium": "2025-04-21 08:40:21 +0000"
     },
     "done": true
   },
@@ -11308,15 +11260,141 @@
     },
     "done": true
   },
-  "create:recipes/building_blocks/polished_cut_veridium_stairs_from_stone_types_veridium_stonecutting": {
-    "criteria": {
-      "has_stone_types_veridium": "2025-04-21 08:40:21 +0000"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/small_deepslate_brick_slab_from_stone_types_deepslate_stonecutting": {
     "criteria": {
       "has_stone_types_deepslate": "2025-04-21 07:42:22 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_deepslate_wall_from_stone_types_deepslate_stonecutting": {
+    "criteria": {
+      "has_stone_types_deepslate": "2025-04-21 07:42:22 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_deepslate_brick_stairs_from_stone_types_deepslate_stonecutting": {
+    "criteria": {
+      "has_stone_types_deepslate": "2025-04-21 07:42:22 +0000"
+    },
+    "done": true
+  },
+  "infinitybuttons:recipes/redstone/deepslate_button_from_deepslate_stonecutting": {
+    "criteria": {
+      "has_deepslate": "2025-04-21 07:42:22 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_deepslate_from_stone_types_deepslate_stonecutting": {
+    "criteria": {
+      "has_stone_types_deepslate": "2025-04-21 07:42:22 +0000"
+    },
+    "done": true
+  },
+  "infinitybuttons:recipes/redstone/deepslate_large_button": {
+    "criteria": {
+      "has_thing": "2025-04-21 07:42:22 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_deepslate_bricks_from_stone_types_deepslate_stonecutting": {
+    "criteria": {
+      "has_stone_types_deepslate": "2025-04-21 07:42:22 +0000"
+    },
+    "done": true
+  },
+  "infinitybuttons:recipes/redstone/deepslate_button": {
+    "criteria": {
+      "has_thing": "2025-04-21 07:42:22 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/layered_deepslate_from_stone_types_deepslate_stonecutting": {
+    "criteria": {
+      "has_stone_types_deepslate": "2025-04-21 07:42:22 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/deepslate_from_stone_types_deepslate_stonecutting": {
+    "criteria": {
+      "has_stone_types_deepslate": "2025-04-21 07:42:22 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_deepslate_stairs_from_stone_types_deepslate_stonecutting": {
+    "criteria": {
+      "has_stone_types_deepslate": "2025-04-21 07:42:22 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_deepslate_bricks_from_stone_types_deepslate_stonecutting": {
+    "criteria": {
+      "has_stone_types_deepslate": "2025-04-21 07:42:22 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_deepslate_brick_stairs_from_stone_types_deepslate_stonecutting": {
+    "criteria": {
+      "has_stone_types_deepslate": "2025-04-21 07:42:22 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_deepslate_brick_wall_from_stone_types_deepslate_stonecutting": {
+    "criteria": {
+      "has_stone_types_deepslate": "2025-04-21 07:42:22 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_deepslate_slab_from_stone_types_deepslate_stonecutting": {
+    "criteria": {
+      "has_stone_types_deepslate": "2025-04-21 07:42:22 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_deepslate_stairs_from_stone_types_deepslate_stonecutting": {
+    "criteria": {
+      "has_stone_types_deepslate": "2025-04-21 07:42:22 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/deepslate_lamp": {
+    "criteria": {
+      "has_deepslate": "2025-04-21 07:42:22 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_deepslate_brick_slab_from_stone_types_deepslate_stonecutting": {
+    "criteria": {
+      "has_stone_types_deepslate": "2025-04-21 07:42:22 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_deepslate_slab_from_stone_types_deepslate_stonecutting": {
+    "criteria": {
+      "has_stone_types_deepslate": "2025-04-21 07:42:22 +0000"
+    },
+    "done": true
+  },
+  "mcwwindows:recipes/diorite": {
+    "criteria": {
+      "has_wood": "2025-04-21 08:28:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite": {
+    "criteria": {
+      "has_diorite": "2025-04-21 08:28:04 +0000"
+    },
+    "done": true
+  },
+  "infinitybuttons:recipes/redstone/diorite_button_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-04-21 08:28:04 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_diorite_brick_slab_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2025-04-21 08:28:04 +0000"
     },
     "done": true
   },
@@ -11350,12 +11428,6 @@
     },
     "done": true
   },
-  "create:recipes/building_blocks/cut_veridium_bricks_from_stone_types_veridium_stonecutting": {
-    "criteria": {
-      "has_stone_types_veridium": "2025-04-21 08:40:21 +0000"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/small_diorite_bricks_from_stone_types_diorite_stonecutting": {
     "criteria": {
       "has_stone_types_diorite": "2025-04-21 08:28:04 +0000"
@@ -11386,21 +11458,9 @@
     },
     "done": true
   },
-  "create:recipes/building_blocks/polished_cut_veridium_slab_from_stone_types_veridium_stonecutting": {
-    "criteria": {
-      "has_stone_types_veridium": "2025-04-21 08:40:21 +0000"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/cut_diorite_bricks_from_stone_types_diorite_stonecutting": {
     "criteria": {
       "has_stone_types_diorite": "2025-04-21 08:28:04 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/cut_deepslate_wall_from_stone_types_deepslate_stonecutting": {
-    "criteria": {
-      "has_stone_types_deepslate": "2025-04-21 07:42:22 +0000"
     },
     "done": true
   },
@@ -11413,30 +11473,6 @@
   "minecraft:recipes/decorations/diorite_wall": {
     "criteria": {
       "has_diorite": "2025-04-21 08:28:04 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/cut_veridium_slab_from_stone_types_veridium_stonecutting": {
-    "criteria": {
-      "has_stone_types_veridium": "2025-04-21 08:40:21 +0000"
-    },
-    "done": true
-  },
-  "createdeco:recipes/building_blocks/verdant_bricks": {
-    "criteria": {
-      "has_item": "2025-04-21 08:40:21 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/cut_deepslate_brick_stairs_from_stone_types_deepslate_stonecutting": {
-    "criteria": {
-      "has_stone_types_deepslate": "2025-04-21 07:42:22 +0000"
-    },
-    "done": true
-  },
-  "infinitybuttons:recipes/redstone/deepslate_button_from_deepslate_stonecutting": {
-    "criteria": {
-      "has_deepslate": "2025-04-21 07:42:22 +0000"
     },
     "done": true
   },
@@ -11464,57 +11500,9 @@
     },
     "done": true
   },
-  "create:recipes/building_blocks/polished_cut_deepslate_from_stone_types_deepslate_stonecutting": {
-    "criteria": {
-      "has_stone_types_deepslate": "2025-04-21 07:42:22 +0000"
-    },
-    "done": true
-  },
-  "infinitybuttons:recipes/redstone/deepslate_large_button": {
-    "criteria": {
-      "has_thing": "2025-04-21 07:42:22 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/small_veridium_brick_slab_from_stone_types_veridium_stonecutting": {
-    "criteria": {
-      "has_stone_types_veridium": "2025-04-21 08:40:21 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/polished_diorite_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-04-21 08:28:04 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/cut_deepslate_bricks_from_stone_types_deepslate_stonecutting": {
-    "criteria": {
-      "has_stone_types_deepslate": "2025-04-21 07:42:22 +0000"
-    },
-    "done": true
-  },
-  "infinitybuttons:recipes/redstone/deepslate_button": {
-    "criteria": {
-      "has_thing": "2025-04-21 07:42:22 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/layered_veridium_from_stone_types_veridium_stonecutting": {
-    "criteria": {
-      "has_stone_types_veridium": "2025-04-21 08:40:21 +0000"
-    },
-    "done": true
-  },
-  "ae2:recipes/misc/shaped/not_so_mysterious_cube": {
-    "criteria": {
-      "press": "2025-04-21 08:38:15 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/layered_deepslate_from_stone_types_deepslate_stonecutting": {
-    "criteria": {
-      "has_stone_types_deepslate": "2025-04-21 07:42:22 +0000"
     },
     "done": true
   },
@@ -11536,9 +11524,144 @@
     },
     "done": true
   },
-  "create:recipes/building_blocks/deepslate_from_stone_types_deepslate_stonecutting": {
+  "minecraft:recipes/building_blocks/polished_diorite_stairs_from_diorite_stonecutting": {
     "criteria": {
-      "has_stone_types_deepslate": "2025-04-21 07:42:22 +0000"
+      "has_diorite": "2025-04-21 08:28:04 +0000"
+    },
+    "done": true
+  },
+  "infinitybuttons:recipes/redstone/diorite_large_button": {
+    "criteria": {
+      "has_thing": "2025-04-21 08:28:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite": {
+    "criteria": {
+      "has_stone": "2025-04-21 08:28:04 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_diorite_brick_stairs_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2025-04-21 08:28:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_slab_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-04-21 08:28:04 +0000"
+    },
+    "done": true
+  },
+  "infinitybuttons:recipes/redstone/diorite_button": {
+    "criteria": {
+      "has_thing": "2025-04-21 08:28:04 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_diorite_wall_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2025-04-21 08:28:04 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_diorite_brick_stairs_from_stone_types_diorite_stonecutting": {
+    "criteria": {
+      "has_stone_types_diorite": "2025-04-21 08:28:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite_slab_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-04-21 08:28:04 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/food/ambrosia": {
+    "criteria": {
+      "has_item": "2025-04-21 08:36:54 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/shaped/not_so_mysterious_cube": {
+    "criteria": {
+      "press": "2025-04-21 08:38:15 +0000"
+    },
+    "done": true
+  },
+  "ae2:main/presses": {
+    "criteria": {
+      "calculation": "2025-04-21 08:38:16 +0000",
+      "silicon": "2025-04-21 08:38:16 +0000",
+      "engineering": "2025-04-21 08:38:15 +0000",
+      "logic": "2025-04-21 08:38:15 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_veridium_brick_slab_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2025-04-21 08:40:21 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_veridium_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2025-04-21 08:40:21 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_veridium_brick_wall_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2025-04-21 08:40:21 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_veridium_brick_wall_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2025-04-21 08:40:21 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_veridium_stairs_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2025-04-21 08:40:21 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_veridium_bricks_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2025-04-21 08:40:21 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_veridium_slab_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2025-04-21 08:40:21 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_veridium_slab_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2025-04-21 08:40:21 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/building_blocks/verdant_bricks": {
+    "criteria": {
+      "has_item": "2025-04-21 08:40:21 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_veridium_brick_slab_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2025-04-21 08:40:21 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/layered_veridium_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2025-04-21 08:40:21 +0000"
     },
     "done": true
   },
@@ -11560,60 +11683,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/polished_diorite_stairs_from_diorite_stonecutting": {
-    "criteria": {
-      "has_diorite": "2025-04-21 08:28:04 +0000"
-    },
-    "done": true
-  },
-  "ae2:main/presses": {
-    "criteria": {
-      "calculation": "2025-04-21 08:38:16 +0000",
-      "silicon": "2025-04-21 08:38:16 +0000",
-      "engineering": "2025-04-21 08:38:15 +0000",
-      "logic": "2025-04-21 08:38:15 +0000"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/cut_veridium_from_stone_types_veridium_stonecutting": {
     "criteria": {
       "has_stone_types_veridium": "2025-04-21 08:40:21 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/cut_deepslate_stairs_from_stone_types_deepslate_stonecutting": {
-    "criteria": {
-      "has_stone_types_deepslate": "2025-04-21 07:42:22 +0000"
-    },
-    "done": true
-  },
-  "infinitybuttons:recipes/redstone/diorite_large_button": {
-    "criteria": {
-      "has_thing": "2025-04-21 08:28:04 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/andesite": {
-    "criteria": {
-      "has_stone": "2025-04-21 08:28:04 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/small_deepslate_bricks_from_stone_types_deepslate_stonecutting": {
-    "criteria": {
-      "has_stone_types_deepslate": "2025-04-21 07:42:22 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/cut_diorite_brick_stairs_from_stone_types_diorite_stonecutting": {
-    "criteria": {
-      "has_stone_types_diorite": "2025-04-21 08:28:04 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_diorite_slab_from_diorite_stonecutting": {
-    "criteria": {
-      "has_diorite": "2025-04-21 08:28:04 +0000"
     },
     "done": true
   },
@@ -11623,27 +11695,9 @@
     },
     "done": true
   },
-  "infinitybuttons:recipes/redstone/diorite_button": {
-    "criteria": {
-      "has_thing": "2025-04-21 08:28:04 +0000"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/polished_cut_veridium_wall_from_stone_types_veridium_stonecutting": {
     "criteria": {
       "has_stone_types_veridium": "2025-04-21 08:40:21 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/small_deepslate_brick_stairs_from_stone_types_deepslate_stonecutting": {
-    "criteria": {
-      "has_stone_types_deepslate": "2025-04-21 07:42:22 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/small_deepslate_brick_wall_from_stone_types_deepslate_stonecutting": {
-    "criteria": {
-      "has_stone_types_deepslate": "2025-04-21 07:42:22 +0000"
     },
     "done": true
   },
@@ -11665,59 +11719,83 @@
     },
     "done": true
   },
-  "create:recipes/building_blocks/cut_deepslate_slab_from_stone_types_deepslate_stonecutting": {
+  "travelersbackpack:recipes/misc/cactus_smithing": {
     "criteria": {
-      "has_stone_types_deepslate": "2025-04-21 07:42:22 +0000"
+      "has_cactus": "2025-04-21 08:54:10 +0000"
     },
     "done": true
   },
-  "iceandfire:recipes/food/ambrosia": {
+  "incendium:technical/sentrys_wrath": {
     "criteria": {
-      "has_item": "2025-04-21 08:36:54 +0000"
+      "log_spam_fixer": "2025-04-21 09:01:54 +0000"
     },
-    "done": true
+    "done": false
   },
-  "create:recipes/building_blocks/polished_cut_diorite_wall_from_stone_types_diorite_stonecutting": {
+  "incendium:technical/on_kill": {
     "criteria": {
-      "has_stone_types_diorite": "2025-04-21 08:28:04 +0000"
+      "log_spam_fixer": "2025-04-21 09:01:54 +0000"
     },
-    "done": true
+    "done": false
   },
-  "create:recipes/building_blocks/small_diorite_brick_stairs_from_stone_types_diorite_stonecutting": {
+  "incendium:technical/on_inventory_change": {
     "criteria": {
-      "has_stone_types_diorite": "2025-04-21 08:28:04 +0000"
+      "log_spam_fixer": "2025-04-21 09:01:54 +0000"
     },
-    "done": true
+    "done": false
   },
-  "create:recipes/building_blocks/polished_cut_deepslate_stairs_from_stone_types_deepslate_stonecutting": {
+  "incendium:technical/holy_wrath": {
     "criteria": {
-      "has_stone_types_deepslate": "2025-04-21 07:42:22 +0000"
+      "log_spam_fixer": "2025-04-21 09:01:54 +0000"
     },
-    "done": true
+    "done": false
   },
-  "supplementaries:recipes/deepslate_lamp": {
+  "incendium:technical/on_block": {
     "criteria": {
-      "has_deepslate": "2025-04-21 07:42:22 +0000"
+      "log_spam_fixer": "2025-04-21 09:01:54 +0000"
     },
-    "done": true
+    "done": false
   },
-  "create:recipes/building_blocks/cut_deepslate_brick_slab_from_stone_types_deepslate_stonecutting": {
+  "incendium:technical/feed_ghastling": {
     "criteria": {
-      "has_stone_types_deepslate": "2025-04-21 07:42:22 +0000"
+      "log_spam_fixer": "2025-04-21 09:01:54 +0000"
     },
-    "done": true
+    "done": false
   },
-  "create:recipes/building_blocks/polished_cut_deepslate_slab_from_stone_types_deepslate_stonecutting": {
+  "incendium:technical/inventory/firestorm": {
     "criteria": {
-      "has_stone_types_deepslate": "2025-04-21 07:42:22 +0000"
+      "log_spam_fixer": "2025-04-21 09:01:54 +0000"
     },
-    "done": true
+    "done": false
   },
-  "minecraft:recipes/building_blocks/diorite_slab_from_diorite_stonecutting": {
+  "incendium:technical/give_ghastling": {
     "criteria": {
-      "has_diorite": "2025-04-21 08:28:04 +0000"
+      "log_spam_fixer": "2025-04-21 09:01:54 +0000"
     },
-    "done": true
+    "done": false
+  },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-21 09:01:54 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-21 09:01:54 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-21 09:01:54 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-04-21 09:01:54 +0000"
+    },
+    "done": false
   },
   "DataVersion": 3465
 }
