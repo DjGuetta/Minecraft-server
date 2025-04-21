@@ -11543,6 +11543,18 @@
     },
     "done": true
   },
+  "nova_structures:nether/find_nether_skeleton": {
+    "criteria": {
+      "nova_structures:nether_skeleton_tower_crimson": "2025-04-20 05:20:14 +0000"
+    },
+    "done": false
+  },
+  "nova_structures:nether/find_skeleton_tower": {
+    "criteria": {
+      "nova_structures:nether_skeleton_tower_crimson": "2025-04-20 05:20:14 +0000"
+    },
+    "done": false
+  },
   "incendium:technical/sentrys_wrath": {
     "criteria": {
       "log_spam_fixer": "2025-04-20 05:20:32 +0000"
@@ -11612,18 +11624,6 @@
   "incendium:technical/firestorm": {
     "criteria": {
       "log_spam_fixer": "2025-04-20 05:20:32 +0000"
-    },
-    "done": false
-  },
-  "nova_structures:nether/find_nether_skeleton": {
-    "criteria": {
-      "nova_structures:nether_skeleton_tower_crimson": "2025-04-20 05:20:14 +0000"
-    },
-    "done": false
-  },
-  "nova_structures:nether/find_skeleton_tower": {
-    "criteria": {
-      "nova_structures:nether_skeleton_tower_crimson": "2025-04-20 05:20:14 +0000"
     },
     "done": false
   },
