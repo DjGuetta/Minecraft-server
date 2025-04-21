@@ -11073,5 +11073,17 @@
     },
     "done": true
   },
+  "createdeco:recipes/decorations/gold_coinstack": {
+    "criteria": {
+      "has_item": "2025-04-21 06:30:09 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/gold_coin": {
+    "criteria": {
+      "has_item": "2025-04-21 06:30:29 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
