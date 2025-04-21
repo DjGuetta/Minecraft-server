@@ -1,16 +1,16 @@
-[03:25:31] [main/INFO]: Loading Minecraft 1.20.1 with Fabric Loader 0.16.10
-[03:25:31] [ForkJoinPool-1-worker-4/WARN]: The mod "openblocks" contains invalid entries in its mod json:
+[21:46:56] [main/INFO]: Loading Minecraft 1.20.1 with Fabric Loader 0.16.10
+[21:46:56] [ForkJoinPool-1-worker-4/WARN]: The mod "openblocks" contains invalid entries in its mod json:
 - Unsupported root entry "client" at line 24 column 11
-[03:25:31] [ForkJoinPool-1-worker-3/WARN]: Mod tectonic uses the version 2.4.1b which isn't compatible with Loader's extended semantic version format (Could not parse version number component '1b'!), SemVer is recommended for reliably evaluating dependencies and prioritizing newer version
-[03:25:32] [ForkJoinPool-1-worker-3/WARN]: Mod mr_dungeons_andtaverns uses the version 3.0.3.f which isn't compatible with Loader's extended semantic version format (Could not parse version number component 'f'!), SemVer is recommended for reliably evaluating dependencies and prioritizing newer version
-[03:25:32] [main/WARN]: Warnings were found!
+[21:46:56] [ForkJoinPool-1-worker-2/WARN]: Mod tectonic uses the version 2.4.1b which isn't compatible with Loader's extended semantic version format (Could not parse version number component '1b'!), SemVer is recommended for reliably evaluating dependencies and prioritizing newer version
+[21:46:56] [ForkJoinPool-1-worker-2/WARN]: Mod mr_dungeons_andtaverns uses the version 3.0.3.f which isn't compatible with Loader's extended semantic version format (Could not parse version number component 'f'!), SemVer is recommended for reliably evaluating dependencies and prioritizing newer version
+[21:46:57] [main/WARN]: Warnings were found!
  - Mod 'Dynamic Lights' (dynamiclights) 1.8.3+mod recommends any version of modmenu, which is missing!
 	 - You should install any version of modmenu for the optimal experience.
  - Mod 'Dynamic Lights' (dynamiclights) 1.8.3+mod recommends any version of modmenu-badges-lib, which is missing!
 	 - You should install any version of modmenu-badges-lib for the optimal experience.
  - Mod 'Simply Swords' (simplyswords) 1.56.0-1.20.1 recommends version 1.7.2 or later of bettercombat, which is missing!
 	 - You should install version 1.7.2 or later of bettercombat for the optimal experience.
-[03:25:32] [main/INFO]: Loading 234 mods:
+[21:46:57] [main/INFO]: Loading 234 mods:
 	- ae2 15.3.3
 	   \-- team_reborn_energy 3.0.0
 	- almanac 1.0.2
@@ -288,158 +288,158 @@
 	- yungsapi 1.20-Fabric-4.0.6
 	   |-- org_javassist_javassist 3.29.2-GA
 	   \-- org_reflections_reflections 0.10.2
-[03:25:32] [main/WARN]: Found 2 non-fabric mods:
+[21:46:57] [main/WARN]: Found 2 non-fabric mods:
 	- spark-1.10.53-forge.jar
 	- another_furniture-forge-1.20.1-3.0.2.jar
-[03:25:32] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/minecraft-server/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.15.4+mixin.0.8.7/sponge-mixin-0.15.4+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
-[03:25:32] [main/INFO]: Compatibility level set to JAVA_11
-[03:25:32] [main/INFO]: Compatibility level set to JAVA_17
-[03:25:33] [main/WARN]: Reference map 'create_connected-refmap.json' for create_connected.mixins.json could not be read. If this is a development environment you can ignore this message
-[03:25:33] [main/WARN]: Reference map 'createdeco-fabric-refmap.json' for createdeco.mixins.json could not be read. If this is a development environment you can ignore this message
-[03:25:33] [main/WARN]: Reference map 'graveyard-FABRIC-fabric-refmap.json' for graveyard-fabric.mixins.json could not be read. If this is a development environment you can ignore this message
-[03:25:33] [main/WARN]: Reference map 'lookinsharp-fabric-1.20.1-fabric-refmap.json' for lookinsharp.mixins.json could not be read. If this is a development environment you can ignore this message
-[03:25:33] [main/WARN]: Reference map 'memoryleakfix-fabric-1.17+-fabric-refmap.json' for memoryleakfix-fabric.mixins.json could not be read. If this is a development environment you can ignore this message
-[03:25:33] [main/INFO]: Loaded configuration file for ModernFix 5.20.2+mc1.20.1: 64 options available, 0 override(s) found
-[03:25:33] [main/INFO]: Applying Nashorn fix
-[03:25:33] [main/WARN]: Reference map 'OctoLib-COMMON-common-refmap.json' for octolib.mixins.json could not be read. If this is a development environment you can ignore this message
-[03:25:33] [main/WARN]: Reference map 'rechiseled.mixins.refmap.json' for rechiseled.mixins.json could not be read. If this is a development environment you can ignore this message
-[03:25:33] [main/WARN]: Reference map 'simplyswords-fabric-refmap.json' for simplyswords.mixins.json could not be read. If this is a development environment you can ignore this message
-[03:25:33] [main/WARN]: Reference map 'supermartijn642configlib.mixins.refmap.json' for supermartijn642configlib.mixins.json could not be read. If this is a development environment you can ignore this message
-[03:25:33] [main/WARN]: Error loading class: net/minecraft/class_881 (java.lang.ClassNotFoundException: net/minecraft/class_881)
-[03:25:33] [main/WARN]: @Mixin target net.minecraft.class_881 was not found porting_lib_base.mixins.json:client.BoatRendererMixin from mod porting_lib_base
-[03:25:33] [main/WARN]: Error loading class: net/minecraft/class_525 (java.lang.ClassNotFoundException: net/minecraft/class_525)
-[03:25:33] [main/WARN]: @Mixin target net.minecraft.class_525 was not found porting_lib_base.mixins.json:client.CreateWorldScreenMixin from mod porting_lib_base
-[03:25:33] [main/WARN]: Error loading class: net/minecraft/class_906 (java.lang.ClassNotFoundException: net/minecraft/class_906)
-[03:25:33] [main/WARN]: @Mixin target net.minecraft.class_906 was not found porting_lib_tool_actions.mixins.json:FishingHookRendererMixin from mod porting_lib_tool_actions
-[03:25:33] [main/WARN]: Error loading class: net/minecraft/class_793 (java.lang.ClassNotFoundException: net/minecraft/class_793)
-[03:25:33] [main/WARN]: @Mixin target net.minecraft.class_793 was not found twilight.mixins.json:BlockModelAccessor from mod twilightforest
-[03:25:34] [main/WARN]: Error loading class: fr/catcore/server/translations/api/resource/language/SystemDelegatedLanguage (java.lang.ClassNotFoundException: fr/catcore/server/translations/api/resource/language/SystemDelegatedLanguage)
-[03:25:34] [main/WARN]: Error loading class: vectorwing/farmersdelight/common/block/TomatoVineBlock (java.lang.ClassNotFoundException: vectorwing/farmersdelight/common/block/TomatoVineBlock)
-[03:25:34] [main/WARN]: Error loading class: me/jellysquid/mods/sodium/client/render/chunk/compile/pipeline/FluidRenderer (java.lang.ClassNotFoundException: me/jellysquid/mods/sodium/client/render/chunk/compile/pipeline/FluidRenderer)
-[03:25:34] [main/WARN]: Error loading class: io/wispforest/accessories/impl/AccessoriesEventHandler (java.lang.ClassNotFoundException: io/wispforest/accessories/impl/AccessoriesEventHandler)
-[03:25:34] [main/WARN]: @Mixin target io.wispforest.accessories.impl.AccessoriesEventHandler was not found travelersbackpack.mixins.json:AccessoriesEventHandlerMixin from mod travelersbackpack
-[03:25:34] [main/WARN]: Error loading class: com/beansgalaxy/backpacks/compat/TrinketsRegistry$1 (java.lang.ClassNotFoundException: com/beansgalaxy/backpacks/compat/TrinketsRegistry$1)
-[03:25:34] [main/WARN]: Error loading class: io/github/apace100/apoli/power/KeepInventoryPower (java.lang.ClassNotFoundException: io/github/apace100/apoli/power/KeepInventoryPower)
-[03:25:34] [main/INFO]: [MemoryLeakFix] Will be applying 1 memory leak fixes!
-[03:25:34] [main/INFO]: [MemoryLeakFix] Currently enabled memory leak fixes: [biomeTemperatureLeak]
-[03:25:34] [main/WARN]: Error loading class: net/fabricmc/fabric/api/client/rendering/v1/EntityModelLayerRegistry$TexturedModelDataProvider (java.lang.ClassNotFoundException: net/fabricmc/fabric/api/client/rendering/v1/EntityModelLayerRegistry$TexturedModelDataProvider)
-[03:25:34] [main/WARN]: Error loading class: net/minecraft/class_1163 (java.lang.ClassNotFoundException: net/minecraft/class_1163)
-[03:25:34] [main/WARN]: @Mixin target net.minecraft.class_1163 was not found mixins.mm.json:net.minecraft.class_1163 from mod mm
-[03:25:34] [main/WARN]: Error loading class: net/minecraft/class_1142 (java.lang.ClassNotFoundException: net/minecraft/class_1142)
-[03:25:34] [main/WARN]: @Mixin target net.minecraft.class_1142 was not found mixins.mm.json:net.minecraft.class_1142 from mod mm
-[03:25:34] [main/WARN]: Error loading class: net/minecraft/class_898 (java.lang.ClassNotFoundException: net/minecraft/class_898)
-[03:25:34] [main/WARN]: @Mixin target net.minecraft.class_898 was not found mixins.mm.json:net.minecraft.class_898 from mod mm
-[03:25:34] [main/WARN]: Error loading class: net/minecraft/class_761 (java.lang.ClassNotFoundException: net/minecraft/class_761)
-[03:25:34] [main/WARN]: @Mixin target net.minecraft.class_761 was not found mixins.mm.json:net.minecraft.class_761 from mod mm
-[03:25:34] [main/WARN]: Error loading class: net/minecraft/class_759 (java.lang.ClassNotFoundException: net/minecraft/class_759)
-[03:25:34] [main/WARN]: @Mixin target net.minecraft.class_759 was not found mixins.mm.json:net.minecraft.class_759 from mod mm
-[03:25:34] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
-[03:25:37] [main/INFO]: Injecting BlockStateBase cache population hook into getOpacityIfCached from ca.spottedleaf.starlight.mixin.common.blockstate.BlockStateBaseMixin
-[03:25:37] [main/INFO]: Injecting BlockStateBase cache population hook into isConditionallyFullOpaque from ca.spottedleaf.starlight.mixin.common.blockstate.BlockStateBaseMixin
-[03:25:40] [main/WARN]: Static binding violation: PRIVATE @Overwrite method method_21740 in modernfix-common.mixins.json:perf.remove_biome_temperature_cache.BiomeMixin from mod modernfix cannot reduce visibiliy of PUBLIC target method, visibility will be upgraded.
-[03:25:41] [main/INFO]: Vanilla bootstrap took 5407 milliseconds
-[03:25:41] [main/INFO]: Loaded config for: cupboard.json
-[03:25:41] [main/INFO]: Loaded config amendments-common.json
-[03:25:41] [main/INFO]: Successfully initialized antixray for fabric
-[03:25:41] [main/INFO]: Registering C2S receiver with id artifacts:networking_channel/42a7ad70b1cc371599a0eff744096b8a
-[03:25:41] [main/INFO]: Registering C2S receiver with id artifacts:networking_channel/74a5e841822a3a87854ae896a33430d6
-[03:25:41] [main/INFO]: Registering C2S receiver with id artifacts:networking_channel/eb3d1e2748533430848cadf0f37c7e9c
-[03:25:41] [main/INFO]: Registering C2S receiver with id artifacts:networking_channel/91c8520f19f93b3e8b6a727568e194ab
-[03:25:41] [main/INFO]: Registering C2S receiver with id artifacts:networking_channel/8c2784d778293fd482ed84b8aa5fedb9
-[03:25:41] [main/INFO]: Registering C2S receiver with id artifacts:networking_channel/ea038224ea783d40b2863f52239e2604
-[03:25:41] [main/INFO]: Registering C2S receiver with id artifacts:networking_channel/97ad64b7ecaf33209991c4f031501a58
-[03:25:41] [main/INFO]: Registering Item Groups for bellsandwhistles
-[03:25:41] [main/INFO]: Create addon mod [Create: Bells & Whistles] is loading alongside Create [0.5.1d]!
-[03:25:41] [main/INFO]: Create: Bells & Whistles is accessinsg Porting Lib from the server!
-[03:25:41] [main/INFO]: Better Archeology says Hello
-[03:25:41] [main/INFO]: Registering Items from betterarcheology
-[03:25:42] [main/INFO]: Registering Blocks from betterarcheology
-[03:25:42] [main/INFO]: ModEntityTypes of betterarcheology registered.
-[03:25:42] [main/INFO]: Registering JEI Recipe Serializers for betterarcheology
-[03:25:42] [main/INFO]: Registering Enchantments for betterarcheology
-[03:25:42] [main/INFO]: Brutal bosses initialized
-[03:25:42] [main/INFO]: Loading Collective version 7.93.
-[03:25:43] [main/INFO]: Initializing CreateCopperAndZincMod
-[03:25:43] [main/INFO]: Registering items for Create Deco
-[03:25:43] [main/INFO]: Registering blocks for Create Deco
-[03:25:43] [main/INFO]: Create Deco is accessing Porting Lib on a Fabric server!
-[03:25:43] [main/INFO]: placard tooltip was null
-[03:25:43] [main/INFO]: placard tooltip was null
-[03:25:43] [main/INFO]: placard tooltip was null
-[03:25:43] [main/INFO]: placard tooltip was null
-[03:25:43] [main/INFO]: placard tooltip was null
-[03:25:43] [main/INFO]: placard tooltip was null
-[03:25:43] [main/INFO]: placard tooltip was null
-[03:25:43] [main/INFO]: placard tooltip was null
-[03:25:43] [main/INFO]: placard tooltip was null
-[03:25:43] [main/INFO]: placard tooltip was null
-[03:25:43] [main/INFO]: placard tooltip was null
-[03:25:43] [main/INFO]: placard tooltip was null
-[03:25:43] [main/INFO]: placard tooltip was null
-[03:25:43] [main/INFO]: placard tooltip was null
-[03:25:43] [main/INFO]: placard tooltip was null
-[03:25:44] [main/INFO]: Bypassed Mojang DFU
-[03:25:44] [main/INFO]: Instantiating Mojang DFU
-[03:25:45] [main/ERROR]: No data fixer registered for crystallized_amber
-[03:25:45] [main/ERROR]: No data fixer registered for sculk_jaw
-[03:25:45] [main/INFO]: Constructing common components for diagonalblocks:main
-[03:25:45] [main/INFO]: Constructing common components for diagonalfences:main
-[03:25:45] [main/INFO]: Constructing shapes for DiagonalFenceBlock[NodeWidth=2.0,ExtensionWidth=2.0,NodeTop=24.0,ExtensionBottom=0.0,ExtensionTop=24.0] took 144ms
-[03:25:45] [main/INFO]: Constructing shapes for DiagonalFenceBlock[NodeWidth=2.0,ExtensionWidth=2.0,NodeTop=16.0,ExtensionBottom=0.0,ExtensionTop=16.0] took 58ms
-[03:25:45] [main/INFO]: Constructing shapes for DiagonalFenceBlock[NodeWidth=2.0,ExtensionWidth=1.0,NodeTop=16.0,ExtensionBottom=6.0,ExtensionTop=15.0] took 122ms
-[03:25:45] [main/INFO]: [Dynamic Lights] MidnightLib detected!
-[03:25:45] [main/INFO]: [Dynamic Lights] Registering server started event...
-[03:25:45] [main/INFO]: [Dynamic Lights] Loaded Dynamic Lights by Tschipcraft successfully!
-[03:25:45] [main/INFO]: Constructing common components for easyanvils:main
-[03:25:45] [main/INFO]: Constructing common components for easymagic:main
-[03:25:45] [main/INFO]: ExpandAbility here, who dis?
-[03:25:45] [main/ERROR]: No data fixer registered for anomaly
-[03:25:46] [main/INFO]: Registered JSON trade offer adapter.
-[03:25:46] [main/INFO]: Ice And Fire common config version match.
-[03:25:46] [main/INFO]: Registering C2S receiver with id iceandfire:myrmex_sync
-[03:25:46] [main/INFO]: Registering C2S receiver with id iceandfire:dragon_control
-[03:25:46] [main/INFO]: Registering C2S receiver with id iceandfire:multipart_interact
-[03:25:46] [main/INFO]: Registering C2S receiver with id iceandfire:player_hit_multipart
-[03:25:46] [main/INFO]: Registering C2S receiver with id iceandfire:start_riding_mob_c2s
-[03:25:46] [main/INFO]: [STDOUT]: Registering Sounds for Infinity Buttons
-[03:25:46] [main/INFO]: Registering Particle Types
-[03:25:46] [main/INFO]: Initializing ServerSide Packet Registries
-[03:25:46] [main/INFO]: 1 Jupiter entrypoint(s) detected: jupiter:jupiter
-[03:25:46] [main/INFO]: Initialize mod Library Ferret
-[03:25:46] [main/INFO]: Initialized mod Library Ferret
-[03:25:46] [main/INFO]: Definitely not up to no good
-[03:25:47] [main/INFO]: Giving mobs a fresh coat of paint...
-[03:25:47] [main/INFO]: [STDOUT]: All 1 have been set properly
-[03:25:47] [main/INFO]: Noaaan: I'm talking to my inner demons. Which is all of you
-[03:25:47] [main/INFO]: Constructing common components for puzzleslib:main
-[03:25:48] [main/INFO]: [STDOUT]: /workspaces/minecraft-server/servidor_minecraft/config
-[03:25:48] [Thread-5/INFO]: Starting to fetch sponsor list.
-[03:25:48] [main/INFO]: Loaded config supplementaries-common.json
-[03:25:48] [Thread-5/INFO]: Successfully fetch sponsor list.
-[03:25:48] [main/INFO]: Registered region minecraft:overworld to index 0 for type OVERWORLD
-[03:25:48] [main/INFO]: Registered region minecraft:nether to index 0 for type NETHER
-[03:25:48] [main/INFO]: Registered region biomesoplenty:overworld_primary to index 1 for type OVERWORLD
-[03:25:48] [main/INFO]: Registered region biomesoplenty:overworld_secondary to index 2 for type OVERWORLD
-[03:25:48] [main/INFO]: Registered region biomesoplenty:overworld_rare to index 3 for type OVERWORLD
-[03:25:48] [main/INFO]: Registered region biomesoplenty:nether_common to index 1 for type NETHER
-[03:25:48] [main/INFO]: Registered region biomesoplenty:nether_rare to index 2 for type NETHER
-[03:25:49] [main/INFO]: Registered the FluidEffect with Unique ID of minecraft:water for minecraft:water 81000 with the ID 0
-[03:25:49] [main/INFO]: Registered the FluidEffect with Unique ID of minecraft:lava for minecraft:lava 81000 with the ID 1
-[03:25:49] [main/INFO]: Registered the FluidEffect with Unique ID of travelersbackpack:potion for travelersbackpack:potion_still 27000 with the ID 2
-[03:25:49] [main/INFO]: Registered the FluidEffect with Unique ID of travelersbackpack:milk for travelersbackpack:milk_still 81000 with the ID 3
-[03:25:50] [main/INFO]: Registered JSON trade offer adapter.
-[03:25:50] [main/INFO]: Reflections took 53 ms to scan 1 urls, producing 1 keys and 4 values
-[03:25:50] [main/INFO]: Reflections took 4 ms to scan 1 urls, producing 1 keys and 4 values
-[03:25:51] [main/INFO]: Initialized block sets in 28ms
-[03:25:51] [main/INFO]: Loaded config moonlight-common.json
-[03:25:51] [main/INFO]: Initialized color sets in 88ms
-[03:25:51] [main/INFO]: Finished mod setup in: [9, 1, 0, 1, 0, 0, 18, 8, 1] ms
-[03:25:51] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[03:25:52] [main/INFO]: Generated runtime SERVER_DATA for pack Supplementaries Generated Pack (supplementaries) in: 32 ms
-[03:25:54] [main/INFO]: [fabric-registry-sync] Loaded registry data [file 1/4]
-[03:25:56] [Worker-Main-2/ERROR]: Couldn't load tag supplementaries:lunch_basket_blacklist as it is missing following references: potionbundles:potion_bundle (from fabric)
-[03:25:56] [Worker-Main-3/ERROR]: Couldn't load tag create:safe_nbt as it is missing following references: create_connected:linked_stone_button (from fabric), create_connected:linked_polished_blackstone_button (from fabric), create_connected:linked_oak_button (from fabric), create_connected:linked_spruce_button (from fabric), create_connected:linked_birch_button (from fabric), create_connected:linked_acacia_button (from fabric), create_connected:linked_cherry_button (from fabric), create_connected:linked_jungle_button (from fabric), create_connected:linked_dark_oak_button (from fabric), create_connected:linked_crimson_button (from fabric), create_connected:linked_warped_button (from fabric), create_connected:linked_mangrove_button (from fabric), create_connected:linked_bamboo_button (from fabric), create_connected:linked_lever (from fabric), create_connected:linked_analog_lever (from fabric)
-[03:25:57] [Worker-Main-2/ERROR]: Couldn't parse element loot_tables:create_connected:blocks/encased_chain_cogwheel
+[21:46:57] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/minecraft-server/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.15.4+mixin.0.8.7/sponge-mixin-0.15.4+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
+[21:46:57] [main/INFO]: Compatibility level set to JAVA_11
+[21:46:57] [main/INFO]: Compatibility level set to JAVA_17
+[21:46:58] [main/WARN]: Reference map 'create_connected-refmap.json' for create_connected.mixins.json could not be read. If this is a development environment you can ignore this message
+[21:46:58] [main/WARN]: Reference map 'createdeco-fabric-refmap.json' for createdeco.mixins.json could not be read. If this is a development environment you can ignore this message
+[21:46:58] [main/WARN]: Reference map 'graveyard-FABRIC-fabric-refmap.json' for graveyard-fabric.mixins.json could not be read. If this is a development environment you can ignore this message
+[21:46:58] [main/WARN]: Reference map 'lookinsharp-fabric-1.20.1-fabric-refmap.json' for lookinsharp.mixins.json could not be read. If this is a development environment you can ignore this message
+[21:46:58] [main/WARN]: Reference map 'memoryleakfix-fabric-1.17+-fabric-refmap.json' for memoryleakfix-fabric.mixins.json could not be read. If this is a development environment you can ignore this message
+[21:46:58] [main/INFO]: Loaded configuration file for ModernFix 5.20.2+mc1.20.1: 64 options available, 0 override(s) found
+[21:46:58] [main/INFO]: Applying Nashorn fix
+[21:46:58] [main/WARN]: Reference map 'OctoLib-COMMON-common-refmap.json' for octolib.mixins.json could not be read. If this is a development environment you can ignore this message
+[21:46:58] [main/WARN]: Reference map 'rechiseled.mixins.refmap.json' for rechiseled.mixins.json could not be read. If this is a development environment you can ignore this message
+[21:46:58] [main/WARN]: Reference map 'simplyswords-fabric-refmap.json' for simplyswords.mixins.json could not be read. If this is a development environment you can ignore this message
+[21:46:58] [main/WARN]: Reference map 'supermartijn642configlib.mixins.refmap.json' for supermartijn642configlib.mixins.json could not be read. If this is a development environment you can ignore this message
+[21:46:58] [main/WARN]: Error loading class: net/minecraft/class_881 (java.lang.ClassNotFoundException: net/minecraft/class_881)
+[21:46:58] [main/WARN]: @Mixin target net.minecraft.class_881 was not found porting_lib_base.mixins.json:client.BoatRendererMixin from mod porting_lib_base
+[21:46:58] [main/WARN]: Error loading class: net/minecraft/class_525 (java.lang.ClassNotFoundException: net/minecraft/class_525)
+[21:46:58] [main/WARN]: @Mixin target net.minecraft.class_525 was not found porting_lib_base.mixins.json:client.CreateWorldScreenMixin from mod porting_lib_base
+[21:46:58] [main/WARN]: Error loading class: net/minecraft/class_906 (java.lang.ClassNotFoundException: net/minecraft/class_906)
+[21:46:58] [main/WARN]: @Mixin target net.minecraft.class_906 was not found porting_lib_tool_actions.mixins.json:FishingHookRendererMixin from mod porting_lib_tool_actions
+[21:46:58] [main/WARN]: Error loading class: net/minecraft/class_793 (java.lang.ClassNotFoundException: net/minecraft/class_793)
+[21:46:58] [main/WARN]: @Mixin target net.minecraft.class_793 was not found twilight.mixins.json:BlockModelAccessor from mod twilightforest
+[21:46:59] [main/WARN]: Error loading class: fr/catcore/server/translations/api/resource/language/SystemDelegatedLanguage (java.lang.ClassNotFoundException: fr/catcore/server/translations/api/resource/language/SystemDelegatedLanguage)
+[21:46:59] [main/WARN]: Error loading class: vectorwing/farmersdelight/common/block/TomatoVineBlock (java.lang.ClassNotFoundException: vectorwing/farmersdelight/common/block/TomatoVineBlock)
+[21:46:59] [main/WARN]: Error loading class: me/jellysquid/mods/sodium/client/render/chunk/compile/pipeline/FluidRenderer (java.lang.ClassNotFoundException: me/jellysquid/mods/sodium/client/render/chunk/compile/pipeline/FluidRenderer)
+[21:46:59] [main/WARN]: Error loading class: io/wispforest/accessories/impl/AccessoriesEventHandler (java.lang.ClassNotFoundException: io/wispforest/accessories/impl/AccessoriesEventHandler)
+[21:46:59] [main/WARN]: @Mixin target io.wispforest.accessories.impl.AccessoriesEventHandler was not found travelersbackpack.mixins.json:AccessoriesEventHandlerMixin from mod travelersbackpack
+[21:46:59] [main/WARN]: Error loading class: com/beansgalaxy/backpacks/compat/TrinketsRegistry$1 (java.lang.ClassNotFoundException: com/beansgalaxy/backpacks/compat/TrinketsRegistry$1)
+[21:46:59] [main/WARN]: Error loading class: io/github/apace100/apoli/power/KeepInventoryPower (java.lang.ClassNotFoundException: io/github/apace100/apoli/power/KeepInventoryPower)
+[21:47:00] [main/INFO]: [MemoryLeakFix] Will be applying 1 memory leak fixes!
+[21:47:00] [main/INFO]: [MemoryLeakFix] Currently enabled memory leak fixes: [biomeTemperatureLeak]
+[21:47:00] [main/WARN]: Error loading class: net/fabricmc/fabric/api/client/rendering/v1/EntityModelLayerRegistry$TexturedModelDataProvider (java.lang.ClassNotFoundException: net/fabricmc/fabric/api/client/rendering/v1/EntityModelLayerRegistry$TexturedModelDataProvider)
+[21:47:00] [main/WARN]: Error loading class: net/minecraft/class_1163 (java.lang.ClassNotFoundException: net/minecraft/class_1163)
+[21:47:00] [main/WARN]: @Mixin target net.minecraft.class_1163 was not found mixins.mm.json:net.minecraft.class_1163 from mod mm
+[21:47:00] [main/WARN]: Error loading class: net/minecraft/class_1142 (java.lang.ClassNotFoundException: net/minecraft/class_1142)
+[21:47:00] [main/WARN]: @Mixin target net.minecraft.class_1142 was not found mixins.mm.json:net.minecraft.class_1142 from mod mm
+[21:47:00] [main/WARN]: Error loading class: net/minecraft/class_898 (java.lang.ClassNotFoundException: net/minecraft/class_898)
+[21:47:00] [main/WARN]: @Mixin target net.minecraft.class_898 was not found mixins.mm.json:net.minecraft.class_898 from mod mm
+[21:47:00] [main/WARN]: Error loading class: net/minecraft/class_761 (java.lang.ClassNotFoundException: net/minecraft/class_761)
+[21:47:00] [main/WARN]: @Mixin target net.minecraft.class_761 was not found mixins.mm.json:net.minecraft.class_761 from mod mm
+[21:47:00] [main/WARN]: Error loading class: net/minecraft/class_759 (java.lang.ClassNotFoundException: net/minecraft/class_759)
+[21:47:00] [main/WARN]: @Mixin target net.minecraft.class_759 was not found mixins.mm.json:net.minecraft.class_759 from mod mm
+[21:47:00] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
+[21:47:03] [main/INFO]: Injecting BlockStateBase cache population hook into getOpacityIfCached from ca.spottedleaf.starlight.mixin.common.blockstate.BlockStateBaseMixin
+[21:47:03] [main/INFO]: Injecting BlockStateBase cache population hook into isConditionallyFullOpaque from ca.spottedleaf.starlight.mixin.common.blockstate.BlockStateBaseMixin
+[21:47:07] [main/WARN]: Static binding violation: PRIVATE @Overwrite method method_21740 in modernfix-common.mixins.json:perf.remove_biome_temperature_cache.BiomeMixin from mod modernfix cannot reduce visibiliy of PUBLIC target method, visibility will be upgraded.
+[21:47:08] [main/INFO]: Vanilla bootstrap took 7090 milliseconds
+[21:47:08] [main/INFO]: Loaded config for: cupboard.json
+[21:47:08] [main/INFO]: Loaded config amendments-common.json
+[21:47:08] [main/INFO]: Successfully initialized antixray for fabric
+[21:47:09] [main/INFO]: Registering C2S receiver with id artifacts:networking_channel/42a7ad70b1cc371599a0eff744096b8a
+[21:47:09] [main/INFO]: Registering C2S receiver with id artifacts:networking_channel/74a5e841822a3a87854ae896a33430d6
+[21:47:09] [main/INFO]: Registering C2S receiver with id artifacts:networking_channel/eb3d1e2748533430848cadf0f37c7e9c
+[21:47:09] [main/INFO]: Registering C2S receiver with id artifacts:networking_channel/91c8520f19f93b3e8b6a727568e194ab
+[21:47:09] [main/INFO]: Registering C2S receiver with id artifacts:networking_channel/8c2784d778293fd482ed84b8aa5fedb9
+[21:47:09] [main/INFO]: Registering C2S receiver with id artifacts:networking_channel/ea038224ea783d40b2863f52239e2604
+[21:47:09] [main/INFO]: Registering C2S receiver with id artifacts:networking_channel/97ad64b7ecaf33209991c4f031501a58
+[21:47:09] [main/INFO]: Registering Item Groups for bellsandwhistles
+[21:47:09] [main/INFO]: Create addon mod [Create: Bells & Whistles] is loading alongside Create [0.5.1d]!
+[21:47:09] [main/INFO]: Create: Bells & Whistles is accessinsg Porting Lib from the server!
+[21:47:09] [main/INFO]: Better Archeology says Hello
+[21:47:09] [main/INFO]: Registering Items from betterarcheology
+[21:47:09] [main/INFO]: Registering Blocks from betterarcheology
+[21:47:09] [main/INFO]: ModEntityTypes of betterarcheology registered.
+[21:47:09] [main/INFO]: Registering JEI Recipe Serializers for betterarcheology
+[21:47:09] [main/INFO]: Registering Enchantments for betterarcheology
+[21:47:09] [main/INFO]: Brutal bosses initialized
+[21:47:09] [main/INFO]: Loading Collective version 7.93.
+[21:47:10] [main/INFO]: Initializing CreateCopperAndZincMod
+[21:47:10] [main/INFO]: Registering items for Create Deco
+[21:47:10] [main/INFO]: Registering blocks for Create Deco
+[21:47:10] [main/INFO]: Create Deco is accessing Porting Lib on a Fabric server!
+[21:47:11] [main/INFO]: placard tooltip was null
+[21:47:11] [main/INFO]: placard tooltip was null
+[21:47:11] [main/INFO]: placard tooltip was null
+[21:47:11] [main/INFO]: placard tooltip was null
+[21:47:11] [main/INFO]: placard tooltip was null
+[21:47:11] [main/INFO]: placard tooltip was null
+[21:47:11] [main/INFO]: placard tooltip was null
+[21:47:11] [main/INFO]: placard tooltip was null
+[21:47:11] [main/INFO]: placard tooltip was null
+[21:47:11] [main/INFO]: placard tooltip was null
+[21:47:11] [main/INFO]: placard tooltip was null
+[21:47:11] [main/INFO]: placard tooltip was null
+[21:47:11] [main/INFO]: placard tooltip was null
+[21:47:11] [main/INFO]: placard tooltip was null
+[21:47:11] [main/INFO]: placard tooltip was null
+[21:47:11] [main/INFO]: Bypassed Mojang DFU
+[21:47:11] [main/INFO]: Instantiating Mojang DFU
+[21:47:12] [main/ERROR]: No data fixer registered for crystallized_amber
+[21:47:12] [main/ERROR]: No data fixer registered for sculk_jaw
+[21:47:12] [main/INFO]: Constructing common components for diagonalblocks:main
+[21:47:12] [main/INFO]: Constructing common components for diagonalfences:main
+[21:47:12] [main/INFO]: Constructing shapes for DiagonalFenceBlock[NodeWidth=2.0,ExtensionWidth=2.0,NodeTop=24.0,ExtensionBottom=0.0,ExtensionTop=24.0] took 86ms
+[21:47:12] [main/INFO]: Constructing shapes for DiagonalFenceBlock[NodeWidth=2.0,ExtensionWidth=2.0,NodeTop=16.0,ExtensionBottom=0.0,ExtensionTop=16.0] took 57ms
+[21:47:12] [main/INFO]: Constructing shapes for DiagonalFenceBlock[NodeWidth=2.0,ExtensionWidth=1.0,NodeTop=16.0,ExtensionBottom=6.0,ExtensionTop=15.0] took 98ms
+[21:47:12] [main/INFO]: [Dynamic Lights] MidnightLib detected!
+[21:47:12] [main/INFO]: [Dynamic Lights] Registering server started event...
+[21:47:12] [main/INFO]: [Dynamic Lights] Loaded Dynamic Lights by Tschipcraft successfully!
+[21:47:12] [main/INFO]: Constructing common components for easyanvils:main
+[21:47:12] [main/INFO]: Constructing common components for easymagic:main
+[21:47:12] [main/INFO]: ExpandAbility here, who dis?
+[21:47:12] [main/ERROR]: No data fixer registered for anomaly
+[21:47:12] [main/INFO]: Registered JSON trade offer adapter.
+[21:47:12] [main/INFO]: Ice And Fire common config version match.
+[21:47:13] [main/INFO]: Registering C2S receiver with id iceandfire:myrmex_sync
+[21:47:13] [main/INFO]: Registering C2S receiver with id iceandfire:dragon_control
+[21:47:13] [main/INFO]: Registering C2S receiver with id iceandfire:multipart_interact
+[21:47:13] [main/INFO]: Registering C2S receiver with id iceandfire:player_hit_multipart
+[21:47:13] [main/INFO]: Registering C2S receiver with id iceandfire:start_riding_mob_c2s
+[21:47:13] [main/INFO]: [STDOUT]: Registering Sounds for Infinity Buttons
+[21:47:13] [main/INFO]: Registering Particle Types
+[21:47:13] [main/INFO]: Initializing ServerSide Packet Registries
+[21:47:13] [main/INFO]: 1 Jupiter entrypoint(s) detected: jupiter:jupiter
+[21:47:13] [main/INFO]: Initialize mod Library Ferret
+[21:47:13] [main/INFO]: Initialized mod Library Ferret
+[21:47:13] [main/INFO]: Definitely not up to no good
+[21:47:13] [main/INFO]: Giving mobs a fresh coat of paint...
+[21:47:13] [main/INFO]: [STDOUT]: All 1 have been set properly
+[21:47:13] [main/INFO]: There is a 1% chance that instead of Frog, you get Froge!
+[21:47:14] [main/INFO]: Constructing common components for puzzleslib:main
+[21:47:14] [main/INFO]: [STDOUT]: /workspaces/minecraft-server/servidor_minecraft/config
+[21:47:14] [Thread-5/INFO]: Starting to fetch sponsor list.
+[21:47:14] [main/INFO]: Loaded config supplementaries-common.json
+[21:47:15] [main/INFO]: Registered region minecraft:overworld to index 0 for type OVERWORLD
+[21:47:15] [main/INFO]: Registered region minecraft:nether to index 0 for type NETHER
+[21:47:15] [main/INFO]: Registered region biomesoplenty:overworld_primary to index 1 for type OVERWORLD
+[21:47:15] [main/INFO]: Registered region biomesoplenty:overworld_secondary to index 2 for type OVERWORLD
+[21:47:15] [main/INFO]: Registered region biomesoplenty:overworld_rare to index 3 for type OVERWORLD
+[21:47:15] [main/INFO]: Registered region biomesoplenty:nether_common to index 1 for type NETHER
+[21:47:15] [main/INFO]: Registered region biomesoplenty:nether_rare to index 2 for type NETHER
+[21:47:15] [Thread-5/INFO]: Successfully fetch sponsor list.
+[21:47:15] [main/INFO]: Registered the FluidEffect with Unique ID of minecraft:water for minecraft:water 81000 with the ID 0
+[21:47:15] [main/INFO]: Registered the FluidEffect with Unique ID of minecraft:lava for minecraft:lava 81000 with the ID 1
+[21:47:15] [main/INFO]: Registered the FluidEffect with Unique ID of travelersbackpack:potion for travelersbackpack:potion_still 27000 with the ID 2
+[21:47:15] [main/INFO]: Registered the FluidEffect with Unique ID of travelersbackpack:milk for travelersbackpack:milk_still 81000 with the ID 3
+[21:47:16] [main/INFO]: Registered JSON trade offer adapter.
+[21:47:16] [main/INFO]: Reflections took 59 ms to scan 1 urls, producing 1 keys and 4 values
+[21:47:16] [main/INFO]: Reflections took 5 ms to scan 1 urls, producing 1 keys and 4 values
+[21:47:17] [main/INFO]: Initialized block sets in 23ms
+[21:47:17] [main/INFO]: Loaded config moonlight-common.json
+[21:47:17] [main/INFO]: Initialized color sets in 71ms
+[21:47:18] [main/INFO]: Finished mod setup in: [5, 0, 0, 1, 0, 0, 11, 6, 0] ms
+[21:47:18] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[21:47:18] [main/INFO]: Generated runtime SERVER_DATA for pack Supplementaries Generated Pack (supplementaries) in: 44 ms
+[21:47:21] [main/INFO]: [fabric-registry-sync] Loaded registry data [file 1/4]
+[21:47:22] [Worker-Main-3/ERROR]: Couldn't load tag create:safe_nbt as it is missing following references: create_connected:linked_stone_button (from fabric), create_connected:linked_polished_blackstone_button (from fabric), create_connected:linked_oak_button (from fabric), create_connected:linked_spruce_button (from fabric), create_connected:linked_birch_button (from fabric), create_connected:linked_acacia_button (from fabric), create_connected:linked_cherry_button (from fabric), create_connected:linked_jungle_button (from fabric), create_connected:linked_dark_oak_button (from fabric), create_connected:linked_crimson_button (from fabric), create_connected:linked_warped_button (from fabric), create_connected:linked_mangrove_button (from fabric), create_connected:linked_bamboo_button (from fabric), create_connected:linked_lever (from fabric), create_connected:linked_analog_lever (from fabric)
+[21:47:22] [Worker-Main-2/ERROR]: Couldn't load tag supplementaries:lunch_basket_blacklist as it is missing following references: potionbundles:potion_bundle (from fabric)
+[21:47:23] [Worker-Main-3/ERROR]: Couldn't parse element loot_tables:create_connected:blocks/encased_chain_cogwheel
 com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown string 'create_connected:encased_chain_cogwheel'
 	at net.minecraft.class_3518.method_17995(class_3518.java:145) ~[server-intermediary.jar:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -490,7 +490,7 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
-[03:26:01] [main/ERROR]: Parsing error loading recipe iceandfire:delight/pixie_dust_milky_tea
+[21:47:28] [main/ERROR]: Parsing error loading recipe iceandfire:delight/pixie_dust_milky_tea
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'farmersdelight:cooking'
 	at net.minecraft.class_1863.method_17875(class_1863.java:134) ~[server-intermediary.jar:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -509,7 +509,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'farmers
 	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) ~[fabric-loader-0.16.10.jar:?]
 	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) ~[fabric-loader-0.16.10.jar:?]
 	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) ~[fabric-server-launch.jar:1.0.1]
-[03:26:01] [main/ERROR]: Parsing error loading recipe lookinsharp:vitalium_sword
+[21:47:28] [main/ERROR]: Parsing error loading recipe lookinsharp:vitalium_sword
 com.google.gson.JsonSyntaxException: Unknown item 'lookinsharp:vitalium_ingot'
 	at net.minecraft.class_1869.method_17878(class_1869.java:272) ~[server-intermediary.jar:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -534,7 +534,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'lookinsharp:vitalium_ingot'
 	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) ~[fabric-loader-0.16.10.jar:?]
 	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) ~[fabric-loader-0.16.10.jar:?]
 	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) ~[fabric-server-launch.jar:1.0.1]
-[03:26:01] [main/ERROR]: Parsing error loading recipe lookinsharp:forging/vitalium_swords
+[21:47:28] [main/ERROR]: Parsing error loading recipe lookinsharp:forging/vitalium_swords
 com.google.gson.JsonSyntaxException: Unknown item 'lookinsharp:vitalium_sword'
 	at net.minecraft.class_1869.method_17878(class_1869.java:272) ~[server-intermediary.jar:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -577,7 +577,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'lookinsharp:vitalium_sword'
 	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) ~[fabric-loader-0.16.10.jar:?]
 	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) ~[fabric-loader-0.16.10.jar:?]
 	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) ~[fabric-server-launch.jar:1.0.1]
-[03:26:01] [main/ERROR]: Parsing error loading recipe iceandfire:delight/cooked_rice_with_fire_dragon_meat
+[21:47:28] [main/ERROR]: Parsing error loading recipe iceandfire:delight/cooked_rice_with_fire_dragon_meat
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'farmersdelight:cooking'
 	at net.minecraft.class_1863.method_17875(class_1863.java:134) ~[server-intermediary.jar:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -596,7 +596,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'farmers
 	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) ~[fabric-loader-0.16.10.jar:?]
 	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) ~[fabric-loader-0.16.10.jar:?]
 	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) ~[fabric-server-launch.jar:1.0.1]
-[03:26:01] [main/ERROR]: Parsing error loading recipe iceandfire:delight/cooked_rice_with_ice_dragon_meat
+[21:47:28] [main/ERROR]: Parsing error loading recipe iceandfire:delight/cooked_rice_with_ice_dragon_meat
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'farmersdelight:cooking'
 	at net.minecraft.class_1863.method_17875(class_1863.java:134) ~[server-intermediary.jar:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -615,7 +615,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'farmers
 	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) ~[fabric-loader-0.16.10.jar:?]
 	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) ~[fabric-loader-0.16.10.jar:?]
 	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) ~[fabric-server-launch.jar:1.0.1]
-[03:26:01] [main/ERROR]: Parsing error loading recipe lookinsharp:vitalium_ingot
+[21:47:28] [main/ERROR]: Parsing error loading recipe lookinsharp:vitalium_ingot
 com.google.gson.JsonSyntaxException: Unknown item 'lookinsharp:vitalium_ingot'
 	at net.minecraft.class_1869.method_17878(class_1869.java:272) ~[server-intermediary.jar:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -638,7 +638,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'lookinsharp:vitalium_ingot'
 	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) ~[fabric-loader-0.16.10.jar:?]
 	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) ~[fabric-loader-0.16.10.jar:?]
 	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) ~[fabric-server-launch.jar:1.0.1]
-[03:26:01] [main/ERROR]: Parsing error loading recipe create_connected:crafting/shapeless/linked_transmitter_from_conversion
+[21:47:28] [main/ERROR]: Parsing error loading recipe create_connected:crafting/shapeless/linked_transmitter_from_conversion
 com.google.gson.JsonSyntaxException: Unknown item 'create_connected:linked_transmitter'
 	at net.minecraft.class_1869.method_17878(class_1869.java:272) ~[server-intermediary.jar:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -661,7 +661,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'create_connected:linked_trans
 	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) ~[fabric-loader-0.16.10.jar:?]
 	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) ~[fabric-loader-0.16.10.jar:?]
 	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) ~[fabric-server-launch.jar:1.0.1]
-[03:26:01] [main/ERROR]: Parsing error loading recipe iceandfire:delight/cooked_rice_with_lightning_dragon_meat
+[21:47:28] [main/ERROR]: Parsing error loading recipe iceandfire:delight/cooked_rice_with_lightning_dragon_meat
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'farmersdelight:cooking'
 	at net.minecraft.class_1863.method_17875(class_1863.java:134) ~[server-intermediary.jar:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -680,7 +680,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'farmers
 	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) ~[fabric-loader-0.16.10.jar:?]
 	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) ~[fabric-loader-0.16.10.jar:?]
 	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) ~[fabric-server-launch.jar:1.0.1]
-[03:26:01] [main/ERROR]: Parsing error loading recipe create_connected:crafting/shapeless/redstone_link_from_conversion
+[21:47:28] [main/ERROR]: Parsing error loading recipe create_connected:crafting/shapeless/redstone_link_from_conversion
 com.google.gson.JsonSyntaxException: Unknown item 'create_connected:linked_transmitter'
 	at net.minecraft.class_1869.method_17878(class_1869.java:272) ~[server-intermediary.jar:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -705,7 +705,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'create_connected:linked_trans
 	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) ~[fabric-loader-0.16.10.jar:?]
 	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) ~[fabric-loader-0.16.10.jar:?]
 	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) ~[fabric-server-launch.jar:1.0.1]
-[03:26:01] [main/ERROR]: Parsing error loading recipe create_connected:crafting/shapeless/encased_chain_cogwheel
+[21:47:28] [main/ERROR]: Parsing error loading recipe create_connected:crafting/shapeless/encased_chain_cogwheel
 com.google.gson.JsonSyntaxException: Unknown item 'create_connected:encased_chain_cogwheel'
 	at net.minecraft.class_1869.method_17878(class_1869.java:272) ~[server-intermediary.jar:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -728,7 +728,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'create_connected:encased_chai
 	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) ~[fabric-loader-0.16.10.jar:?]
 	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) ~[fabric-loader-0.16.10.jar:?]
 	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) ~[fabric-server-launch.jar:1.0.1]
-[03:26:01] [main/ERROR]: Parsing error loading recipe iceandfire:delight/ghost_cream
+[21:47:28] [main/ERROR]: Parsing error loading recipe iceandfire:delight/ghost_cream
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'farmersdelight:cooking'
 	at net.minecraft.class_1863.method_17875(class_1863.java:134) ~[server-intermediary.jar:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -747,1347 +747,145 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'farmers
 	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) ~[fabric-loader-0.16.10.jar:?]
 	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) ~[fabric-loader-0.16.10.jar:?]
 	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) ~[fabric-server-launch.jar:1.0.1]
-[03:26:01] [main/INFO]: Loaded 35 recipes
-[03:26:02] [main/ERROR]: Parsing error loading custom advancement supplementaries:recipes/planter_rich: Unknown item id 'farmersdelight:rich_soil'
-[03:26:02] [main/INFO]: Loaded 6693 advancements
-[03:26:02] [main/ERROR]: Ice And Fire compatibility is not enabled for Better Village and Ice And Fire is present in your mod list.
+[21:47:28] [main/INFO]: Loaded 35 recipes
+[21:47:28] [main/ERROR]: Parsing error loading custom advancement supplementaries:recipes/planter_rich: Unknown item id 'farmersdelight:rich_soil'
+[21:47:28] [main/INFO]: Loaded 6693 advancements
+[21:47:28] [main/ERROR]: Ice And Fire compatibility is not enabled for Better Village and Ice And Fire is present in your mod list.
      - Please install the datapack for better compatibility between Better Villages and Ice And Fire.
      - You can find the datapack URL in the `compatibility` section of the Better Villages description.
      - URL=https://www.curseforge.com/minecraft/mc-mods/better-village-fabric
-[03:26:02] [main/INFO]: Loaded boss variant for: minecraft:drowned
-[03:26:02] [main/INFO]: Loaded boss variant for: minecraft:iron_golem
-[03:26:02] [main/INFO]: Loaded boss variant for: minecraft:snow_golem
-[03:26:02] [main/INFO]: Loaded boss variant for: minecraft:zombie
-[03:26:02] [main/INFO]: Loaded boss variant for: minecraft:skeleton
-[03:26:02] [main/INFO]: Loaded boss variant for: minecraft:pillager
-[03:26:02] [main/INFO]: Loaded boss variant for: minecraft:vex
-[03:26:02] [main/INFO]: Loaded boss variant for: minecraft:evoker
-[03:26:02] [main/INFO]: Loaded boss variant for: minecraft:zombie
-[03:26:02] [main/INFO]: Loaded boss variant for: minecraft:vindicator
-[03:26:02] [main/INFO]: Loaded boss variant for: minecraft:wither_skeleton
-[03:26:02] [main/INFO]: Loaded boss variant for: minecraft:wither_skeleton
-[03:26:02] [main/INFO]: Loaded boss variant for: minecraft:cave_spider
-[03:26:02] [main/INFO]: Loaded boss variant for: minecraft:zombie
-[03:26:02] [main/INFO]: Loaded boss variant for: minecraft:husk
-[03:26:02] [main/INFO]: Loaded boss variant for: minecraft:evoker
-[03:26:02] [main/INFO]: Loaded boss variant for: minecraft:wandering_trader
-[03:26:02] [main/INFO]: Loaded boss variant for: minecraft:guardian
-[03:26:02] [main/INFO]: Loaded boss variant for: minecraft:vindicator
-[03:26:02] [main/INFO]: Loaded boss variant for: minecraft:shulker
-[03:26:02] [main/INFO]: Loaded boss variant for: minecraft:zoglin
-[03:26:02] [main/INFO]: Loaded boss variant for: minecraft:chicken
-[03:26:02] [main/INFO]: Loaded boss variant for: minecraft:blaze
-[03:26:02] [main/INFO]: Loaded boss variant for: minecraft:witch
-[03:26:02] [main/INFO]: Loaded boss variant for: minecraft:phantom
-[03:26:02] [main/INFO]: Loaded boss variant for: minecraft:mooshroom
-[03:26:02] [main/INFO]: Loaded boss variant for: minecraft:rabbit
-[03:26:02] [main/INFO]: Loaded boss variant for: minecraft:piglin_brute
-[03:26:02] [main/INFO]: Loaded boss variant for: minecraft:ghast
-[03:26:02] [main/INFO]: Loaded boss variant for: minecraft:stray
-[03:26:02] [main/INFO]: Ice And Fire common config version match.
-[03:26:02] [main/INFO]: Successfully reload 2 server config(s).
-[03:26:02] [main/INFO]: Reloading config...
-[03:26:02] [main/WARN]: Could not decode GlobalLootModifier with json id supplementaries:ash_from_burning_mobs - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: moonlight:add_item
-[03:26:02] [main/WARN]: Could not decode GlobalLootModifier with json id supplementaries:straw_from_flax - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: moonlight:add_item
-[03:26:02] [main/WARN]: Could not decode GlobalLootModifier with json id supplementaries:fishing_antique_ink - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: moonlight:add_item
-[03:26:02] [main/WARN]: Could not decode GlobalLootModifier with json id supplementaries:fishing_antique_ink_treasure - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: moonlight:add_item
-[03:26:02] [main/WARN]: Could not decode GlobalLootModifier with json id supplementaries:replace_rope - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: supplementaries:replace_rope
-[03:26:02] [main/INFO]: Loaded 44 chiseling recipes
-[03:26:02] [main/INFO]: Loaded 27 flute songs
-[03:26:02] [main/INFO]: Loaded 9 Stalactite configs!
-[03:26:02] [main/INFO]: Deserializing default trades of profession: villagersplus:alchemist
-[03:26:02] [main/INFO]: Deserializing default trades of profession: villagersplus:horticulturist
-[03:26:02] [main/INFO]: Deserializing default trades of profession: villagersplus:occultist
-[03:26:02] [main/INFO]: Deserializing default trades of profession: villagersplus:oceanographer
-[03:26:02] [main/INFO]: Reloading grave shape (server)
-[03:26:02] [main/INFO]: Grave model and shape reload successful (server)
-[03:26:02] [main/INFO]: Reloading YIGD graveyard data (server)
-[03:26:02] [main/INFO]: Graveyard data successfully reloaded (server)
-[03:26:02] [main/INFO]: Reloading YIGD grave area overrides (server)
-[03:26:02] [main/INFO]: Grave area overrides successfully reloaded (server)
-[03:26:02] [main/INFO]: Applied 7 data villager trades
-[03:26:02] [main/INFO]: Finished additional setup in 0 ms
-[03:26:03] [main/INFO]: Initialized TerraBlender biomes for level stem minecraft:the_nether
-[03:26:03] [main/INFO]: Initialized TerraBlender biomes for level stem minecraft:overworld
-[03:26:03] [main/INFO]: Applied 5408 biome modifications to 277 of 277 new biomes in 112.1 ms
-[03:26:03] [Server thread/INFO]: Loading server config for easyanvils
-[03:26:03] [Server thread/INFO]: Loading server config for easymagic
-[03:26:03] [Thread-3/INFO]: Reloading server config for easyanvils
-[03:26:03] [Thread-3/INFO]: Reloading server config for easyanvils
-[03:26:03] [Thread-3/INFO]: Reloading server config for easymagic
-[03:26:03] [Server thread/INFO]: Scanning class appeng.server.testplots.TestPlots for plots
-[03:26:03] [Server thread/INFO]: Scanning class appeng.server.testplots.AutoCraftingTestPlots for plots
-[03:26:03] [Server thread/INFO]: Scanning class appeng.server.testplots.InscriberTestPlots for plots
-[03:26:03] [Server thread/INFO]: Scanning class appeng.server.testplots.P2PTestPlots for plots
-[03:26:03] [Server thread/INFO]: Scanning class appeng.server.testplots.ItemP2PTestPlots for plots
-[03:26:03] [Server thread/INFO]: Scanning class appeng.server.testplots.MemoryCardTestPlots for plots
-[03:26:03] [Server thread/INFO]: Scanning class appeng.server.testplots.PatternProviderLockModePlots for plots
-[03:26:03] [Server thread/INFO]: Scanning class appeng.server.testplots.PatternProviderPlots for plots
-[03:26:03] [Server thread/INFO]: Scanning class appeng.server.testplots.SpatialTestPlots for plots
-[03:26:03] [Server thread/INFO]: Scanning class appeng.server.testplots.QnbTestPlots for plots
-[03:26:03] [Server thread/INFO]: Scanning class appeng.server.testplots.GuidebookPlot for plots
-[03:26:03] [Server thread/INFO]: Scanning class appeng.server.testplots.SubnetPlots for plots
-[03:26:03] [Server thread/INFO]: Scanning class appeng.server.testplots.ChannelTests for plots
-[03:26:03] [Server thread/INFO]: Scanning class appeng.server.testplots.AnnihilationPlaneTests for plots
-[03:26:03] [Server thread/INFO]: Starting minecraft server version 1.20.1
-[03:26:03] [Server thread/INFO]: Loading properties
-[03:26:03] [Server thread/INFO]: Default game type: SURVIVAL
-[03:26:03] [Server thread/INFO]: Generating keypair
-[03:26:04] [Server thread/INFO]: Starting Minecraft server on *:25565
-[03:26:04] [Server thread/INFO]: Using epoll channel type
-[03:26:04] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[03:26:04] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[03:26:04] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[03:26:04] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[03:26:04] [Server thread/INFO]: Preparing level "world"
-[03:26:11] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[03:26:13] [Server thread/INFO]: Preparing spawn area: 0%
-[03:26:13] [Server thread/INFO]: Preparing spawn area: 0%
-[03:26:13] [Server thread/INFO]: Preparing spawn area: 0%
-[03:26:13] [Server thread/INFO]: Preparing spawn area: 0%
-[03:26:13] [Server thread/INFO]: Preparing spawn area: 0%
-[03:26:14] [Server thread/INFO]: Preparing spawn area: 53%
-[03:26:14] [Server thread/INFO]: Loaded config for: brutalbosses.json
-[03:26:14] [Server thread/INFO]: Time elapsed: 2723 ms
-[03:26:14] [Server thread/INFO]: Done (10.145s)! For help, type "help"
-[03:26:14] [Server thread/WARN]: Dedicated server took 44.452 seconds to load
-[03:26:14] [Server thread/INFO]: [Dynamic Lights] Sending global config to server...
-[03:26:14] [Server thread/INFO]: [STDOUT]: PREPARING FOR RELOAD
-[03:26:14] [Server thread/INFO]: Start loading plugin from Applied Energistics 2
-[03:26:14] [Server thread/INFO]: Start loading plugin from Ice And Fire Community Edition
-[03:26:14] [Server thread/INFO]: Start loading plugin from Infinity Buttons
-[03:26:14] [Server thread/INFO]: Start loading plugin from Jade
-[03:26:14] [Server thread/INFO]: Start loading plugin from Jade
-[03:26:14] [Server thread/INFO]: Start loading plugin from Jade
-[03:26:14] [Server thread/INFO]: Start loading plugin from Supplementaries
-[03:26:14] [Server thread/INFO]: Start loading plugin from HT's TreeChop
-[03:26:14] [Server thread/INFO]: Start loading plugin from The Twilight Forest
-[03:26:14] [Server thread/INFO]: Start loading plugin from Waystones
-[03:26:14] [Server thread/INFO]: UDP server is started on /[0:0:0:0:0:0:0:0]:25565
-[03:26:35] [Server thread/INFO]: DjGuetta11[/100.71.91.78:50180] logged in with entity id 48 at (-685.1819360127486, 162.0, 13.811958188877288)
-[03:26:35] [Server thread/INFO]: Syncing config to DjGuetta11 (02ab1a57-0edd-3713-9f58-15ec834d0062)
-[03:26:35] [Server thread/INFO]: Loading config from file...
-[03:26:35] [Server thread/INFO]: DjGuetta11 joined the game
-[03:26:38] [Netty Epoll Server IO #4/INFO]: Priority overwritten for player DjGuetta11. Claiming: GRAVE / Robbing: INVENTORY
-[03:26:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6497ms or 129 ticks behind
-[03:26:49] [Server thread/INFO]: Santialpz[/100.66.18.78:56358] logged in with entity id 320 at (-1664.4832621268845, 75.0, 434.39300180407946)
-[03:26:49] [Server thread/INFO]: Syncing config to Santialpz (b0e44f22-1b97-32b4-8303-fba29026f2f8)
-[03:26:49] [Server thread/INFO]: Loading config from file...
-[03:26:49] [Server thread/INFO]: Santialpz joined the game
-[03:26:50] [Netty Epoll Server IO #6/INFO]: Priority overwritten for player Santialpz. Claiming: GRAVE / Robbing: INVENTORY
-[03:38:27] [Server thread/WARN]: DjGuetta11 moved wrongly!
-[03:38:28] [Server thread/WARN]: DjGuetta11 moved wrongly!
-[03:39:25] [Server thread/WARN]: DjGuetta11 moved wrongly!
-[03:39:27] [Server thread/WARN]: DjGuetta11 moved wrongly!
-[03:48:59] [Worker-Main-18/WARN]: Tried to access a block entity before it was created. class_2339{x=-2589, y=-6, z=1649}
-[03:48:59] [Worker-Main-18/WARN]: Tried to access a block entity before it was created. class_2339{x=-2588, y=-6, z=1649}
-[03:48:59] [Worker-Main-18/WARN]: Tried to access a block entity before it was created. class_2339{x=-2587, y=-6, z=1649}
-[03:49:23] [Server thread/ERROR]: POI data mismatch: already registered at class_2338{x=-2662, y=-19, z=1519}
-[03:49:27] [Server thread/ERROR]: POI data mismatch: already registered at class_2338{x=-2684, y=-25, z=1590}
-[03:50:23] [Server thread/WARN]: DjGuetta11 moved wrongly!
-[03:50:52] [Server thread/ERROR]: POI data mismatch: already registered at class_2338{x=-2483, y=21, z=1770}
-[03:50:52] [Server thread/ERROR]: POI data mismatch: already registered at class_2338{x=-2483, y=21, z=1771}
-[03:51:03] [Server thread/INFO]: Santialpz has made the advancement [Who's the Pillager Now?]
-[03:52:04] [Server thread/INFO]: DjTwistfly[/100.95.48.32:53882] logged in with entity id 19443 at (-422.1769155616123, 97.9457252356501, 266.383584295936)
-[03:52:04] [Server thread/INFO]: Syncing config to DjTwistfly (ce1a9492-5b4d-3fbb-9f7e-c74699881e3b)
-[03:52:04] [Server thread/INFO]: Loading config from file...
-[03:52:04] [Server thread/INFO]: DjTwistfly joined the game
-[03:52:05] [Netty Epoll Server IO #0/INFO]: Priority overwritten for player DjTwistfly. Claiming: GRAVE / Robbing: INVENTORY
-[03:52:05] [Server thread/INFO]: DjTwistfly lost connection: Disconnected
-[03:52:05] [Server thread/INFO]: DjTwistfly left the game
-[03:53:17] [Server thread/INFO]: Villager class_1646['Fisherman'/20766, l='ServerLevel[world]', x=-2522.51, y=117.00, z=1892.50] died, message: 'Fisherman suffocated in a wall'
-[03:53:20] [Server thread/ERROR]: POI data mismatch: already registered at class_2338{x=-2403, y=15, z=1858}
-[03:53:20] [Server thread/ERROR]: POI data mismatch: already registered at class_2338{x=-2403, y=15, z=1856}
-[03:53:24] [Server thread/INFO]: Villager class_1646['Unemployed'/20992, l='ServerLevel[world]', x=-2505.15, y=118.00, z=1906.48] died, message: 'Unemployed suffocated in a wall'
-[03:53:32] [Server thread/ERROR]: POI data mismatch: already registered at class_2338{x=-2362, y=-36, z=1932}
-[03:53:32] [Server thread/ERROR]: POI data mismatch: already registered at class_2338{x=-2363, y=-36, z=1932}
-[03:55:21] [Server thread/ERROR]: POI data mismatch: already registered at class_2338{x=-2298, y=-11, z=1902}
-[03:55:46] [Server thread/INFO]: Gindaz[/100.98.201.97:53456] logged in with entity id 23884 at (-3321.754426811455, 62.07326432466507, -372.5446615521558)
-[03:55:46] [Server thread/INFO]: Syncing config to Gindaz (faa106bb-40b1-3df5-b221-082432d1d867)
-[03:55:46] [Server thread/INFO]: Loading config from file...
-[03:55:46] [Server thread/INFO]: Gindaz joined the game
-[03:55:46] [Server thread/WARN]: Skipped emitting ENTITY_MOUNT game event for entity class_1690['Boat'/23885, l='ServerLevel[world]', x=-3321.75, y=62.52, z=-372.54] as it would cause deadlock
-[03:55:47] [Netty Epoll Server IO #1/INFO]: Priority overwritten for player Gindaz. Claiming: GRAVE / Robbing: INVENTORY
-[03:55:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4018ms or 80 ticks behind
-[03:56:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9010ms or 180 ticks behind
-[03:56:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6303ms or 126 ticks behind
-[03:56:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7111ms or 142 ticks behind
-[03:57:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3811ms or 76 ticks behind
-[03:57:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5791ms or 115 ticks behind
-[03:57:54] [Server thread/ERROR]: POI data mismatch: already registered at class_2338{x=-3947, y=-20, z=-83}
-[03:57:54] [Server thread/ERROR]: POI data mismatch: already registered at class_2338{x=-3947, y=-20, z=-84}
-[03:57:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6402ms or 128 ticks behind
-[03:58:08] [Worker-Main-1/WARN]: Tried to access a block entity before it was created. class_2338{x=-3855, y=-12, z=158}
-[03:58:18] [Server thread/INFO]: Gindaz claimed a grave belonging to Gindaz at -3820, 62, 58, minecraft:overworld
-[03:58:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6865ms or 137 ticks behind
-[03:58:28] [Worker-Main-1/WARN]: Tried to access a block entity before it was created. class_2338{x=-4033, y=-48, z=159}
-[03:58:34] [Server thread/WARN]: DjGuetta11 moved wrongly!
-[03:58:35] [Server thread/WARN]: DjGuetta11 moved wrongly!
-[03:58:36] [Server thread/INFO]: DjTwistfly[/100.95.48.32:53969] logged in with entity id 28254 at (-422.1769155616123, 97.9457252356501, 266.383584295936)
-[03:58:36] [Server thread/INFO]: Syncing config to DjTwistfly (ce1a9492-5b4d-3fbb-9f7e-c74699881e3b)
-[03:58:36] [Server thread/INFO]: Loading config from file...
-[03:58:36] [Server thread/INFO]: DjTwistfly joined the game
-[03:58:38] [Netty Epoll Server IO #4/INFO]: Priority overwritten for player DjTwistfly. Claiming: GRAVE / Robbing: INVENTORY
-[03:58:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8033ms or 160 ticks behind
-[03:59:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10210ms or 204 ticks behind
-[03:59:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7229ms or 144 ticks behind
-[03:59:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6184ms or 123 ticks behind
-[04:00:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5437ms or 108 ticks behind
-[04:00:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4942ms or 98 ticks behind
-[04:00:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3650ms or 73 ticks behind
-[04:01:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4387ms or 87 ticks behind
-[04:01:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4469ms or 89 ticks behind
-[04:01:35] [Server thread/INFO]: Named entity class_1634['Restless Spirit'/32090, l='ServerLevel[world]', x=-484.94, y=33.31, z=252.17] died: Restless Spirit starved to death
-[04:01:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5368ms or 107 ticks behind
-[04:02:02] [Server thread/INFO]: Villager class_1646['Unemployed'/21547, l='ServerLevel[world]', x=-2434.85, y=86.00, z=1907.15] died, message: 'Unemployed was slain by Zombie'
-[04:02:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4533ms or 90 ticks behind
-[04:02:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4139ms or 82 ticks behind
-[04:02:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4192ms or 83 ticks behind
-[04:02:48] [Server thread/ERROR]: POI data mismatch: already registered at class_2338{x=-4106, y=11, z=271}
-[04:03:06] [Server thread/INFO]: Named entity class_1634['Restless Spirit'/34394, l='ServerLevel[world]', x=-478.72, y=40.90, z=234.47] died: Restless Spirit starved to death
-[04:03:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6190ms or 123 ticks behind
-[04:03:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8589ms or 171 ticks behind
-[04:03:36] [Server thread/INFO]: Villager class_1646['Oceanographer'/20786, l='ServerLevel[world]', x=-2497.57, y=112.44, z=1858.58] died, message: 'Oceanographer was struck with lightning by Lightning Dragon'
-[04:03:46] [Server thread/WARN]: Gindaz moved too quickly! -4.213386481419548,-2.2522033402537147,8.828892944076017
-[04:03:59] [Server thread/INFO]: Villager class_1646['Unemployed'/21053, l='ServerLevel[world]', x=-2487.70, y=117.13, z=1857.65] died, message: 'Unemployed was energized by Lightning Dragon'
-[04:04:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 16507ms or 330 ticks behind
-[04:04:05] [Server thread/INFO]: Villager class_1646['Armorer'/21037, l='ServerLevel[world]', x=-2476.34, y=120.00, z=1885.65] died, message: 'Armorer was energized by Lightning Dragon'
-[04:04:05] [Server thread/INFO]: Villager class_1646['Horticulturist'/21294, l='ServerLevel[world]', x=-2475.46, y=120.00, z=1887.83] died, message: 'Horticulturist was struck with lightning by Lightning Dragon'
-[04:04:05] [Server thread/INFO]: Villager class_1646['Alchemist'/21293, l='ServerLevel[world]', x=-2475.16, y=121.00, z=1889.95] died, message: 'Alchemist was energized by Lightning Dragon'
-[04:04:05] [Server thread/INFO]: Villager class_1646['Oceanographer'/21045, l='ServerLevel[world]', x=-2475.54, y=120.00, z=1889.56] died, message: 'Oceanographer was struck with lightning by Lightning Dragon'
-[04:04:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9142ms or 182 ticks behind
-[04:04:28] [Server thread/INFO]: [DjGuetta11: Teleported DjTwistfly to DjGuetta11]
-[04:04:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4009ms or 80 ticks behind
-[04:05:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2353ms or 47 ticks behind
-[04:05:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3934ms or 78 ticks behind
-[04:05:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5078ms or 101 ticks behind
-[04:06:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5556ms or 111 ticks behind
-[04:06:24] [Server thread/INFO]: Gindaz has made the advancement [Ice Bucket Challenge]
-[04:06:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6833ms or 136 ticks behind
-[04:06:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5216ms or 104 ticks behind
-[04:07:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6950ms or 139 ticks behind
-[04:07:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5792ms or 115 ticks behind
-[04:07:47] [Server thread/WARN]: DjTwistfly moved wrongly!
-[04:07:47] [Server thread/WARN]: DjTwistfly moved wrongly!
-[04:07:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4943ms or 98 ticks behind
-[04:07:50] [Server thread/WARN]: DjTwistfly moved too quickly! -0.1801148690979062,20.580000013113022,0.19999998807907104
-[04:07:50] [Server thread/WARN]: DjTwistfly moved too quickly! 0.0,20.580000013113022,0.0
-[04:07:53] [Server thread/WARN]: DjTwistfly moved too quickly! 0.0,20.580000013113022,0.0
-[04:07:53] [Server thread/WARN]: DjTwistfly moved too quickly! 0.0,19.580000013113022,0.0
-[04:08:01] [Netty Epoll Server IO #4/ERROR]: Exception occurred in netty pipeline
-io.netty.channel.unix.Errors$NativeIoException: recvAddress(..) failed: Connection reset by peer
-[04:08:01] [Netty Epoll Server IO #4/ERROR]: Twilight Forest: Exception occurred in netty pipeline
-io.netty.channel.unix.Errors$NativeIoException: recvAddress(..) failed: Connection reset by peer
-[04:08:01] [Server thread/INFO]: DjTwistfly lost connection: Disconnected
-[04:08:01] [Server thread/INFO]: DjTwistfly left the game
-[04:08:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4406ms or 88 ticks behind
-[04:08:21] [Server thread/ERROR]: POI data mismatch: already registered at class_2338{x=-4852, y=-1, z=251}
-[04:08:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4449ms or 88 ticks behind
-[04:08:32] [Server thread/ERROR]: POI data mismatch: already registered at class_2338{x=-4894, y=12, z=247}
-[04:08:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3043ms or 60 ticks behind
-[04:09:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2953ms or 59 ticks behind
-[04:09:09] [Server thread/INFO]: Named entity class_1627['Ewart the Cold'/21835, l='ServerLevel[world]', x=-2401.58, y=113.00, z=1893.70] died: Ewart the Cold was slain by Santialpz
-[04:09:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2054ms or 41 ticks behind
-[04:09:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
-[04:10:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3581ms or 71 ticks behind
-[04:10:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2444ms or 48 ticks behind
-[04:11:01] [Server thread/INFO]: Villager class_1646['Unemployed'/21313, l='ServerLevel[world]', x=-2434.27, y=91.00, z=1906.47] died, message: 'Unemployed hit the ground too hard whilst trying to escape Zombie'
-[04:11:22] [Server thread/INFO]: Villager class_1646['Unemployed'/21314, l='ServerLevel[world]', x=-2442.57, y=96.54, z=1939.54] died, message: 'Unemployed was slain by Zombie Villager'
-[04:13:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
-[04:13:16] [Worker-Main-32/WARN]: Tried to access a block entity before it was created. class_2338{x=-4992, y=24, z=156}
-[04:13:20] [Server thread/INFO]: Villager class_1646['Nitwit'/21546, l='ServerLevel[world]', x=-2433.15, y=90.00, z=1951.70] died, message: 'Nitwit was slain by Zombie'
-[04:13:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
-[04:14:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2026ms or 40 ticks behind
-[04:15:01] [Server thread/INFO]: DjTwistfly[/100.95.48.32:54165] logged in with entity id 52864 at (-1382.4976013395915, 168.00133597911216, 50.981183632079166)
-[04:15:01] [Server thread/INFO]: Syncing config to DjTwistfly (ce1a9492-5b4d-3fbb-9f7e-c74699881e3b)
-[04:15:01] [Server thread/INFO]: Loading config from file...
-[04:15:01] [Server thread/INFO]: DjTwistfly joined the game
-[04:15:09] [Netty Epoll Server IO #7/INFO]: Priority overwritten for player DjTwistfly. Claiming: GRAVE / Robbing: INVENTORY
-[04:15:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2011ms or 40 ticks behind
-[04:15:39] [Worker-Main-1/WARN]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wheat_grain_bin
-[04:15:52] [Server thread/ERROR]: POI data mismatch: already registered at class_2338{x=-1851, y=-42, z=1675}
-[04:15:52] [Server thread/ERROR]: POI data mismatch: already registered at class_2338{x=-1851, y=-42, z=1673}
-[04:15:53] [Server thread/INFO]: DjTwistfly lost connection: Disconnected
-[04:15:53] [Server thread/INFO]: DjTwistfly left the game
-[04:16:28] [Server thread/ERROR]: POI data mismatch: already registered at class_2338{x=-1773, y=38, z=1976}
-[04:16:29] [pool-7-thread-1/INFO]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_birch], ResourceKey[minecraft:worldgen/structure / minecraft:village_plains], ResourceKey[minecraft:worldgen/structure / minecraft:village_desert], ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_cherry], ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_giant_taiga], ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_dark_forest], ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_warped], ResourceKey[minecraft:worldgen/structure / minecraft:village_snowy]] from pos class_2338{x=-1797, y=98, z=1883}
-[04:16:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2142ms or 42 ticks behind
-[04:17:06] [Server thread/WARN]: DjGuetta11 moved wrongly!
-[04:17:06] [Server thread/WARN]: DjGuetta11 moved wrongly!
-[04:17:13] [Server thread/INFO]: DjTwistfly[/100.95.48.32:54212] logged in with entity id 58098 at (-1377.5846691110269, 167.875, 56.54188100118474)
-[04:17:13] [Server thread/INFO]: Syncing config to DjTwistfly (ce1a9492-5b4d-3fbb-9f7e-c74699881e3b)
-[04:17:13] [Server thread/INFO]: Loading config from file...
-[04:17:13] [Server thread/INFO]: DjTwistfly joined the game
-[04:17:13] [Netty Epoll Server IO #2/INFO]: Priority overwritten for player DjTwistfly. Claiming: GRAVE / Robbing: INVENTORY
-[04:17:43] [Server thread/WARN]: DjTwistfly moved wrongly!
-[04:18:29] [Server thread/WARN]: DjTwistfly moved wrongly!
-[04:18:30] [Server thread/WARN]: DjTwistfly moved wrongly!
-[04:18:30] [Server thread/WARN]: DjTwistfly moved wrongly!
-[04:18:31] [Server thread/WARN]: DjTwistfly moved wrongly!
-[04:18:33] [Server thread/WARN]: DjTwistfly moved wrongly!
-[04:18:33] [Server thread/WARN]: DjTwistfly moved wrongly!
-[04:18:35] [Server thread/WARN]: DjTwistfly moved too quickly! 0.14744215243899816,-21.0,0.22015342129094506
-[04:18:35] [Server thread/WARN]: DjTwistfly moved too quickly! 0.0,20.580000013113022,0.0
-[04:18:36] [Server thread/WARN]: DjTwistfly moved too quickly! 0.0,19.580000013113022,0.0
-[04:18:47] [Server thread/INFO]: Gindaz has made the advancement [Safe Haven]
-[04:18:59] [Server thread/ERROR]: POI data mismatch: already registered at class_2338{x=-1330, y=23, z=2022}
-[04:20:43] [Server thread/WARN]: DjTwistfly moved too quickly! -2.1087061318098677,-0.05582971963403338,9.946787770200842
-[04:21:03] [Server thread/WARN]: DjGuetta11 moved wrongly!
-[04:21:05] [Server thread/WARN]: DjGuetta11 moved wrongly!
-[04:21:06] [Server thread/WARN]: DjGuetta11 moved wrongly!
-[04:21:42] [Server thread/WARN]: DjTwistfly moved too quickly! 4.984631444664728,-4.420688213551827,-7.588277860435767
-[04:22:34] [Server thread/WARN]: DjTwistfly moved wrongly!
-[04:22:35] [Server thread/WARN]: DjTwistfly moved wrongly!
-[04:22:36] [Server thread/WARN]: DjTwistfly moved wrongly!
-[04:22:37] [Server thread/WARN]: DjTwistfly moved too quickly! -0.0535581426038334,20.580000013113022,0.007420331707841399
-[04:22:37] [Server thread/WARN]: DjTwistfly moved too quickly! 0.0,20.580000013113022,0.0
-[04:22:38] [Server thread/WARN]: DjTwistfly moved too quickly! 0.0,20.580000013113022,0.0
-[04:22:38] [Server thread/WARN]: DjTwistfly moved too quickly! 0.0,19.580000013113022,0.0
-[04:25:52] [Server thread/WARN]: DjGuetta11 moved wrongly!
-[04:25:52] [Server thread/WARN]: DjGuetta11 moved wrongly!
-[04:26:32] [Server thread/WARN]: DjGuetta11 moved wrongly!
-[04:27:01] [Server thread/INFO]: Villager class_1646['Cartographer'/70807, l='ServerLevel[world]', x=-1232.69, y=61.00, z=2274.32] died, message: 'Cartographer hit the ground too hard'
-[04:28:29] [Server thread/ERROR]: POI data mismatch: already registered at class_2338{x=-1238, y=-39, z=2513}
-[04:28:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2190ms or 43 ticks behind
-[04:28:38] [Server thread/ERROR]: POI data mismatch: already registered at class_2338{x=-1255, y=-25, z=2538}
-[04:29:13] [pool-7-thread-2/INFO]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_warped], ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_bamboo], ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_cherry], ResourceKey[minecraft:worldgen/structure / minecraft:village_taiga], ResourceKey[minecraft:worldgen/structure / minecraft:village_savanna], ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_birch], ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_ocean], ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_jungle]] from pos class_2338{x=-1429, y=71, z=2523}
-[04:29:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7465ms or 149 ticks behind
-[04:29:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6513ms or 130 ticks behind
-[04:33:16] [Server thread/ERROR]: onTrackingStart called during navigation iteration
-java.lang.IllegalStateException: onTrackingStart called during navigation iteration
-	at net.minecraft.class_3218$class_5526.method_31436(class_3218.java:1566) ~[server-intermediary.jar:?]
-	at net.minecraft.class_3218$class_5526.method_31798(class_3218.java:1536) ~[server-intermediary.jar:?]
-	at net.minecraft.class_5579.method_31847(class_5579.java:216) ~[server-intermediary.jar:?]
-	at java.util.stream.ForEachOps$ForEachOp$OfRef.accept(ForEachOps.java:183) ~[?:?]
-	at java.util.stream.ReferencePipeline$2$1.accept(ReferencePipeline.java:179) ~[?:?]
-	at java.util.Iterator.forEachRemaining(Iterator.java:133) ~[?:?]
-	at java.util.Spliterators$IteratorSpliterator.forEachRemaining(Spliterators.java:1845) ~[?:?]
-	at java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:509) ~[?:?]
-	at java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:499) ~[?:?]
-	at java.util.stream.ForEachOps$ForEachOp.evaluateSequential(ForEachOps.java:150) ~[?:?]
-	at java.util.stream.ForEachOps$ForEachOp$OfRef.evaluateSequential(ForEachOps.java:173) ~[?:?]
-	at java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234) ~[?:?]
-	at java.util.stream.ReferencePipeline.forEach(ReferencePipeline.java:596) ~[?:?]
-	at net.minecraft.class_5579.method_31825(class_5579.java:256) ~[server-intermediary.jar:?]
-	at java.util.stream.ForEachOps$ForEachOp$OfRef.accept(ForEachOps.java:183) ~[?:?]
-	at java.util.stream.ReferencePipeline$2$1.accept(ReferencePipeline.java:179) ~[?:?]
-	at java.util.stream.LongPipeline$1$1.accept(LongPipeline.java:177) ~[?:?]
-	at java.util.PrimitiveIterator$OfLong.forEachRemaining(PrimitiveIterator.java:183) ~[?:?]
-	at java.util.Spliterators$LongIteratorSpliterator.forEachRemaining(Spliterators.java:2046) ~[?:?]
-	at java.util.Spliterator$OfLong.forEachRemaining(Spliterator.java:775) ~[?:?]
-	at java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:509) ~[?:?]
-	at java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:499) ~[?:?]
-	at java.util.stream.ForEachOps$ForEachOp.evaluateSequential(ForEachOps.java:150) ~[?:?]
-	at java.util.stream.ForEachOps$ForEachOp$OfRef.evaluateSequential(ForEachOps.java:173) ~[?:?]
-	at java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234) ~[?:?]
-	at java.util.stream.ReferencePipeline.forEach(ReferencePipeline.java:596) ~[?:?]
-	at net.minecraft.class_5579.method_31816(class_5579.java:240) ~[server-intermediary.jar:?]
-	at net.minecraft.class_5579.method_31815(class_5579.java:226) ~[server-intermediary.jar:?]
-	at net.minecraft.class_3898.method_31414(class_3898.java:1353) ~[server-intermediary.jar:?]
-	at net.minecraft.class_3193.method_31412(class_3193.java:382) ~[server-intermediary.jar:?]
-	at java.util.concurrent.CompletableFuture$UniRun.tryFire(CompletableFuture.java:787) ~[?:?]
-	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
-	at net.minecraft.class_1255.method_18859(class_1255.java:156) ~[server-intermediary.jar:?]
-	at net.minecraft.class_3215$class_4212.method_18859(class_3215.java:564) ~[server-intermediary.jar:?]
-	at net.minecraft.class_1255.method_16075(class_1255.java:130) ~[server-intermediary.jar:?]
-	at net.minecraft.class_3215$class_4212.method_16075(class_3215.java:573) ~[server-intermediary.jar:?]
-	at net.minecraft.class_1255.method_18857(class_1255.java:139) ~[server-intermediary.jar:?]
-	at net.minecraft.class_3215.method_12121(class_3215.java:140) ~[server-intermediary.jar:?]
-	at net.minecraft.class_1937.method_8402(class_1937.java:204) ~[server-intermediary.jar:?]
-	at net.minecraft.class_4538.method_22342(class_4538.java:156) ~[server-intermediary.jar:?]
-	at net.minecraft.class_1937.method_8497(class_1937.java:198) ~[server-intermediary.jar:?]
-	at net.minecraft.class_1937.method_8320(class_1937.java:370) ~[server-intermediary.jar:?]
-	at net.minecraft.class_1409.method_6348(class_1409.java:43) ~[server-intermediary.jar:?]
-	at net.minecraft.class_1408.method_6356(class_1408.java:114) ~[server-intermediary.jar:?]
-	at net.minecraft.class_3218.method_8413(class_3218.java:1009) ~[server-intermediary.jar:?]
-	at net.minecraft.class_1937.method_30092(class_1937.java:242) ~[server-intermediary.jar:?]
-	at net.minecraft.class_1937.method_8652(class_1937.java:213) ~[server-intermediary.jar:?]
-	at net.minecraft.class_2323.method_10033(class_2323.java:214) ~[server-intermediary.jar:?]
-	at net.minecraft.class_4107.method_46966(class_4107.java:87) ~[server-intermediary.jar:?]
-	at net.minecraft.class_7898$1.trigger(class_7898.java:53) ~[server-intermediary.jar:?]
-	at net.minecraft.class_7894.method_18922(class_7894.java:20) ~[server-intermediary.jar:?]
-	at net.minecraft.class_4095.method_18891(class_4095.java:533) ~[server-intermediary.jar:?]
-	at net.minecraft.class_4095.method_19542(class_4095.java:492) ~[server-intermediary.jar:?]
-	at net.minecraft.class_1646.method_5958(class_1646.java:279) ~[server-intermediary.jar:?]
-	at net.minecraft.class_1308.method_6023(class_1308.java:788) ~[server-intermediary.jar:?]
-	at net.minecraft.class_1309.method_6007(class_1309.java:2673) ~[server-intermediary.jar:?]
-	at net.minecraft.class_1308.method_6007(class_1308.java:550) ~[server-intermediary.jar:?]
-	at net.minecraft.class_1296.method_6007(class_1296.java:128) ~[server-intermediary.jar:?]
-	at net.minecraft.class_1309.method_5773(class_1309.java:2419) ~[server-intermediary.jar:?]
-	at net.minecraft.class_1308.method_5773(class_1308.java:351) ~[server-intermediary.jar:?]
-	at net.minecraft.class_1646.method_5773(class_1646.java:320) ~[server-intermediary.jar:?]
-	at net.minecraft.class_3218.method_18762(class_3218.java:739) ~[server-intermediary.jar:?]
-	at net.minecraft.class_1937.method_18472(class_1937.java:480) ~[server-intermediary.jar:?]
-	at net.minecraft.class_3218.method_31420(class_3218.java:385) ~[server-intermediary.jar:?]
-	at net.minecraft.class_5574.method_31791(class_5574.java:54) ~[server-intermediary.jar:?]
-	at net.minecraft.class_3218.method_18765(class_3218.java:353) ~[server-intermediary.jar:?]
-	at net.minecraft.server.MinecraftServer.method_3813(MinecraftServer.java:897) ~[server-intermediary.jar:?]
-	at net.minecraft.class_3176.method_3813(class_3176.java:283) ~[server-intermediary.jar:?]
-	at net.minecraft.server.MinecraftServer.method_3748(MinecraftServer.java:824) ~[server-intermediary.jar:?]
-	at net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:671) ~[server-intermediary.jar:?]
-	at net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:265) ~[server-intermediary.jar:?]
-	at java.lang.Thread.run(Thread.java:840) ~[?:?]
-[04:33:16] [Server thread/ERROR]: onTrackingStart called during navigation iteration
-java.lang.IllegalStateException: onTrackingStart called during navigation iteration
-	at net.minecraft.class_3218$class_5526.method_31436(class_3218.java:1566) ~[server-intermediary.jar:?]
-	at net.minecraft.class_3218$class_5526.method_31798(class_3218.java:1536) ~[server-intermediary.jar:?]
-	at net.minecraft.class_5579.method_31847(class_5579.java:216) ~[server-intermediary.jar:?]
-	at java.util.stream.ForEachOps$ForEachOp$OfRef.accept(ForEachOps.java:183) ~[?:?]
-	at java.util.stream.ReferencePipeline$2$1.accept(ReferencePipeline.java:179) ~[?:?]
-	at java.util.Iterator.forEachRemaining(Iterator.java:133) ~[?:?]
-	at java.util.Spliterators$IteratorSpliterator.forEachRemaining(Spliterators.java:1845) ~[?:?]
-	at java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:509) ~[?:?]
-	at java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:499) ~[?:?]
-	at java.util.stream.ForEachOps$ForEachOp.evaluateSequential(ForEachOps.java:150) ~[?:?]
-	at java.util.stream.ForEachOps$ForEachOp$OfRef.evaluateSequential(ForEachOps.java:173) ~[?:?]
-	at java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234) ~[?:?]
-	at java.util.stream.ReferencePipeline.forEach(ReferencePipeline.java:596) ~[?:?]
-	at net.minecraft.class_5579.method_31825(class_5579.java:256) ~[server-intermediary.jar:?]
-	at java.util.stream.ForEachOps$ForEachOp$OfRef.accept(ForEachOps.java:183) ~[?:?]
-	at java.util.stream.ReferencePipeline$2$1.accept(ReferencePipeline.java:179) ~[?:?]
-	at java.util.stream.LongPipeline$1$1.accept(LongPipeline.java:177) ~[?:?]
-	at java.util.PrimitiveIterator$OfLong.forEachRemaining(PrimitiveIterator.java:183) ~[?:?]
-	at java.util.Spliterators$LongIteratorSpliterator.forEachRemaining(Spliterators.java:2046) ~[?:?]
-	at java.util.Spliterator$OfLong.forEachRemaining(Spliterator.java:775) ~[?:?]
-	at java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:509) ~[?:?]
-	at java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:499) ~[?:?]
-	at java.util.stream.ForEachOps$ForEachOp.evaluateSequential(ForEachOps.java:150) ~[?:?]
-	at java.util.stream.ForEachOps$ForEachOp$OfRef.evaluateSequential(ForEachOps.java:173) ~[?:?]
-	at java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234) ~[?:?]
-	at java.util.stream.ReferencePipeline.forEach(ReferencePipeline.java:596) ~[?:?]
-	at net.minecraft.class_5579.method_31816(class_5579.java:240) ~[server-intermediary.jar:?]
-	at net.minecraft.class_5579.method_31815(class_5579.java:226) ~[server-intermediary.jar:?]
-	at net.minecraft.class_3898.method_31414(class_3898.java:1353) ~[server-intermediary.jar:?]
-	at net.minecraft.class_3193.method_31412(class_3193.java:382) ~[server-intermediary.jar:?]
-	at java.util.concurrent.CompletableFuture$UniRun.tryFire(CompletableFuture.java:787) ~[?:?]
-	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
-	at net.minecraft.class_1255.method_18859(class_1255.java:156) ~[server-intermediary.jar:?]
-	at net.minecraft.class_3215$class_4212.method_18859(class_3215.java:564) ~[server-intermediary.jar:?]
-	at net.minecraft.class_1255.method_16075(class_1255.java:130) ~[server-intermediary.jar:?]
-	at net.minecraft.class_3215$class_4212.method_16075(class_3215.java:573) ~[server-intermediary.jar:?]
-	at net.minecraft.class_1255.method_18857(class_1255.java:139) ~[server-intermediary.jar:?]
-	at net.minecraft.class_3215.method_12121(class_3215.java:140) ~[server-intermediary.jar:?]
-	at net.minecraft.class_1937.method_8402(class_1937.java:204) ~[server-intermediary.jar:?]
-	at net.minecraft.class_4538.method_22342(class_4538.java:156) ~[server-intermediary.jar:?]
-	at net.minecraft.class_1937.method_8497(class_1937.java:198) ~[server-intermediary.jar:?]
-	at net.minecraft.class_1937.method_8320(class_1937.java:370) ~[server-intermediary.jar:?]
-	at net.minecraft.class_1409.method_6348(class_1409.java:43) ~[server-intermediary.jar:?]
-	at net.minecraft.class_1408.method_6356(class_1408.java:114) ~[server-intermediary.jar:?]
-	at net.minecraft.class_3218.method_8413(class_3218.java:1009) ~[server-intermediary.jar:?]
-	at net.minecraft.class_1937.method_30092(class_1937.java:242) ~[server-intermediary.jar:?]
-	at net.minecraft.class_1937.method_8652(class_1937.java:213) ~[server-intermediary.jar:?]
-	at net.minecraft.class_2323.method_10033(class_2323.java:214) ~[server-intermediary.jar:?]
-	at net.minecraft.class_4107.method_46966(class_4107.java:87) ~[server-intermediary.jar:?]
-	at net.minecraft.class_7898$1.trigger(class_7898.java:53) ~[server-intermediary.jar:?]
-	at net.minecraft.class_7894.method_18922(class_7894.java:20) ~[server-intermediary.jar:?]
-	at net.minecraft.class_4095.method_18891(class_4095.java:533) ~[server-intermediary.jar:?]
-	at net.minecraft.class_4095.method_19542(class_4095.java:492) ~[server-intermediary.jar:?]
-	at net.minecraft.class_1646.method_5958(class_1646.java:279) ~[server-intermediary.jar:?]
-	at net.minecraft.class_1308.method_6023(class_1308.java:788) ~[server-intermediary.jar:?]
-	at net.minecraft.class_1309.method_6007(class_1309.java:2673) ~[server-intermediary.jar:?]
-	at net.minecraft.class_1308.method_6007(class_1308.java:550) ~[server-intermediary.jar:?]
-	at net.minecraft.class_1296.method_6007(class_1296.java:128) ~[server-intermediary.jar:?]
-	at net.minecraft.class_1309.method_5773(class_1309.java:2419) ~[server-intermediary.jar:?]
-	at net.minecraft.class_1308.method_5773(class_1308.java:351) ~[server-intermediary.jar:?]
-	at net.minecraft.class_1646.method_5773(class_1646.java:320) ~[server-intermediary.jar:?]
-	at net.minecraft.class_3218.method_18762(class_3218.java:739) ~[server-intermediary.jar:?]
-	at net.minecraft.class_1937.method_18472(class_1937.java:480) ~[server-intermediary.jar:?]
-	at net.minecraft.class_3218.method_31420(class_3218.java:385) ~[server-intermediary.jar:?]
-	at net.minecraft.class_5574.method_31791(class_5574.java:54) ~[server-intermediary.jar:?]
-	at net.minecraft.class_3218.method_18765(class_3218.java:353) ~[server-intermediary.jar:?]
-	at net.minecraft.server.MinecraftServer.method_3813(MinecraftServer.java:897) ~[server-intermediary.jar:?]
-	at net.minecraft.class_3176.method_3813(class_3176.java:283) ~[server-intermediary.jar:?]
-	at net.minecraft.server.MinecraftServer.method_3748(MinecraftServer.java:824) ~[server-intermediary.jar:?]
-	at net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:671) ~[server-intermediary.jar:?]
-	at net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:265) ~[server-intermediary.jar:?]
-	at java.lang.Thread.run(Thread.java:840) ~[?:?]
-[04:33:16] [Server thread/ERROR]: recursive call to sendBlockUpdated
-java.lang.IllegalStateException: recursive call to sendBlockUpdated
-	at net.minecraft.class_3218.method_8413(class_3218.java:985) ~[server-intermediary.jar:?]
-	at net.minecraft.class_1937.method_30092(class_1937.java:242) ~[server-intermediary.jar:?]
-	at net.minecraft.class_1937.method_8652(class_1937.java:213) ~[server-intermediary.jar:?]
-	at net.minecraft.class_3609.method_15745(class_3609.java:263) ~[server-intermediary.jar:?]
-	at net.minecraft.class_3609.method_15744(class_3609.java:162) ~[server-intermediary.jar:?]
-	at net.minecraft.class_3609.method_15725(class_3609.java:142) ~[server-intermediary.jar:?]
-	at net.minecraft.class_3609.method_15778(class_3609.java:464) ~[server-intermediary.jar:?]
-	at net.minecraft.class_3610.method_15770(class_3610.java:79) ~[server-intermediary.jar:?]
-	at net.minecraft.class_2818.method_12221(class_2818.java:505) ~[server-intermediary.jar:?]
-	at net.minecraft.class_3898.method_18711(class_3898.java:773) ~[server-intermediary.jar:?]
-	at com.mojang.datafixers.util.Either$Left.ifLeft(Either.java:43) ~[datafixerupper-6.0.8.jar:?]
-	at net.minecraft.class_3898.method_17222(class_3898.java:772) ~[server-intermediary.jar:?]
-	at java.util.concurrent.CompletableFuture$UniApply.tryFire(CompletableFuture.java:646) ~[?:?]
-	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
-	at net.minecraft.class_1255.method_18859(class_1255.java:156) ~[server-intermediary.jar:?]
-	at net.minecraft.class_3215$class_4212.method_18859(class_3215.java:564) ~[server-intermediary.jar:?]
-	at net.minecraft.class_1255.method_16075(class_1255.java:130) ~[server-intermediary.jar:?]
-	at net.minecraft.class_3215$class_4212.method_16075(class_3215.java:573) ~[server-intermediary.jar:?]
-	at net.minecraft.class_1255.method_18857(class_1255.java:139) ~[server-intermediary.jar:?]
-	at net.minecraft.class_3215.method_12121(class_3215.java:140) ~[server-intermediary.jar:?]
-	at net.minecraft.class_1937.method_8402(class_1937.java:204) ~[server-intermediary.jar:?]
-	at net.minecraft.class_4538.method_22342(class_4538.java:156) ~[server-intermediary.jar:?]
-	at net.minecraft.class_1937.method_8497(class_1937.java:198) ~[server-intermediary.jar:?]
-	at net.minecraft.class_1937.method_8320(class_1937.java:370) ~[server-intermediary.jar:?]
-	at net.minecraft.class_1409.method_6348(class_1409.java:43) ~[server-intermediary.jar:?]
-	at net.minecraft.class_1408.method_6356(class_1408.java:114) ~[server-intermediary.jar:?]
-	at net.minecraft.class_3218.method_8413(class_3218.java:1009) ~[server-intermediary.jar:?]
-	at net.minecraft.class_1937.method_30092(class_1937.java:242) ~[server-intermediary.jar:?]
-	at net.minecraft.class_1937.method_8652(class_1937.java:213) ~[server-intermediary.jar:?]
-	at net.minecraft.class_2323.method_10033(class_2323.java:214) ~[server-intermediary.jar:?]
-	at net.minecraft.class_4107.method_46966(class_4107.java:87) ~[server-intermediary.jar:?]
-	at net.minecraft.class_7898$1.trigger(class_7898.java:53) ~[server-intermediary.jar:?]
-	at net.minecraft.class_7894.method_18922(class_7894.java:20) ~[server-intermediary.jar:?]
-	at net.minecraft.class_4095.method_18891(class_4095.java:533) ~[server-intermediary.jar:?]
-	at net.minecraft.class_4095.method_19542(class_4095.java:492) ~[server-intermediary.jar:?]
-	at net.minecraft.class_1646.method_5958(class_1646.java:279) ~[server-intermediary.jar:?]
-	at net.minecraft.class_1308.method_6023(class_1308.java:788) ~[server-intermediary.jar:?]
-	at net.minecraft.class_1309.method_6007(class_1309.java:2673) ~[server-intermediary.jar:?]
-	at net.minecraft.class_1308.method_6007(class_1308.java:550) ~[server-intermediary.jar:?]
-	at net.minecraft.class_1296.method_6007(class_1296.java:128) ~[server-intermediary.jar:?]
-	at net.minecraft.class_1309.method_5773(class_1309.java:2419) ~[server-intermediary.jar:?]
-	at net.minecraft.class_1308.method_5773(class_1308.java:351) ~[server-intermediary.jar:?]
-	at net.minecraft.class_1646.method_5773(class_1646.java:320) ~[server-intermediary.jar:?]
-	at net.minecraft.class_3218.method_18762(class_3218.java:739) ~[server-intermediary.jar:?]
-	at net.minecraft.class_1937.method_18472(class_1937.java:480) ~[server-intermediary.jar:?]
-	at net.minecraft.class_3218.method_31420(class_3218.java:385) ~[server-intermediary.jar:?]
-	at net.minecraft.class_5574.method_31791(class_5574.java:54) ~[server-intermediary.jar:?]
-	at net.minecraft.class_3218.method_18765(class_3218.java:353) ~[server-intermediary.jar:?]
-	at net.minecraft.server.MinecraftServer.method_3813(MinecraftServer.java:897) ~[server-intermediary.jar:?]
-	at net.minecraft.class_3176.method_3813(class_3176.java:283) ~[server-intermediary.jar:?]
-	at net.minecraft.server.MinecraftServer.method_3748(MinecraftServer.java:824) ~[server-intermediary.jar:?]
-	at net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:671) ~[server-intermediary.jar:?]
-	at net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:265) ~[server-intermediary.jar:?]
-	at java.lang.Thread.run(Thread.java:840) ~[?:?]
-[04:33:16] [Server thread/ERROR]: recursive call to sendBlockUpdated
-java.lang.IllegalStateException: recursive call to sendBlockUpdated
-	at net.minecraft.class_3218.method_8413(class_3218.java:985) ~[server-intermediary.jar:?]
-	at net.minecraft.class_1937.method_30092(class_1937.java:242) ~[server-intermediary.jar:?]
-	at net.minecraft.class_1937.method_8652(class_1937.java:213) ~[server-intermediary.jar:?]
-	at net.minecraft.class_3609.method_15745(class_3609.java:263) ~[server-intermediary.jar:?]
-	at net.minecraft.class_3609.method_15744(class_3609.java:162) ~[server-intermediary.jar:?]
-	at net.minecraft.class_3609.method_15725(class_3609.java:142) ~[server-intermediary.jar:?]
-	at net.minecraft.class_3609.method_15778(class_3609.java:464) ~[server-intermediary.jar:?]
-	at net.minecraft.class_3610.method_15770(class_3610.java:79) ~[server-intermediary.jar:?]
-	at net.minecraft.class_2818.method_12221(class_2818.java:505) ~[server-intermediary.jar:?]
-	at net.minecraft.class_3898.method_18711(class_3898.java:773) ~[server-intermediary.jar:?]
-	at com.mojang.datafixers.util.Either$Left.ifLeft(Either.java:43) ~[datafixerupper-6.0.8.jar:?]
-	at net.minecraft.class_3898.method_17222(class_3898.java:772) ~[server-intermediary.jar:?]
-	at java.util.concurrent.CompletableFuture$UniApply.tryFire(CompletableFuture.java:646) ~[?:?]
-	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
-	at net.minecraft.class_1255.method_18859(class_1255.java:156) ~[server-intermediary.jar:?]
-	at net.minecraft.class_3215$class_4212.method_18859(class_3215.java:564) ~[server-intermediary.jar:?]
-	at net.minecraft.class_1255.method_16075(class_1255.java:130) ~[server-intermediary.jar:?]
-	at net.minecraft.class_3215$class_4212.method_16075(class_3215.java:573) ~[server-intermediary.jar:?]
-	at net.minecraft.class_1255.method_18857(class_1255.java:139) ~[server-intermediary.jar:?]
-	at net.minecraft.class_3215.method_12121(class_3215.java:140) ~[server-intermediary.jar:?]
-	at net.minecraft.class_1937.method_8402(class_1937.java:204) ~[server-intermediary.jar:?]
-	at net.minecraft.class_4538.method_22342(class_4538.java:156) ~[server-intermediary.jar:?]
-	at net.minecraft.class_1937.method_8497(class_1937.java:198) ~[server-intermediary.jar:?]
-	at net.minecraft.class_1937.method_8320(class_1937.java:370) ~[server-intermediary.jar:?]
-	at net.minecraft.class_1409.method_6348(class_1409.java:43) ~[server-intermediary.jar:?]
-	at net.minecraft.class_1408.method_6356(class_1408.java:114) ~[server-intermediary.jar:?]
-	at net.minecraft.class_3218.method_8413(class_3218.java:1009) ~[server-intermediary.jar:?]
-	at net.minecraft.class_1937.method_30092(class_1937.java:242) ~[server-intermediary.jar:?]
-	at net.minecraft.class_1937.method_8652(class_1937.java:213) ~[server-intermediary.jar:?]
-	at net.minecraft.class_2323.method_10033(class_2323.java:214) ~[server-intermediary.jar:?]
-	at net.minecraft.class_4107.method_46966(class_4107.java:87) ~[server-intermediary.jar:?]
-	at net.minecraft.class_7898$1.trigger(class_7898.java:53) ~[server-intermediary.jar:?]
-	at net.minecraft.class_7894.method_18922(class_7894.java:20) ~[server-intermediary.jar:?]
-	at net.minecraft.class_4095.method_18891(class_4095.java:533) ~[server-intermediary.jar:?]
-	at net.minecraft.class_4095.method_19542(class_4095.java:492) ~[server-intermediary.jar:?]
-	at net.minecraft.class_1646.method_5958(class_1646.java:279) ~[server-intermediary.jar:?]
-	at net.minecraft.class_1308.method_6023(class_1308.java:788) ~[server-intermediary.jar:?]
-	at net.minecraft.class_1309.method_6007(class_1309.java:2673) ~[server-intermediary.jar:?]
-	at net.minecraft.class_1308.method_6007(class_1308.java:550) ~[server-intermediary.jar:?]
-	at net.minecraft.class_1296.method_6007(class_1296.java:128) ~[server-intermediary.jar:?]
-	at net.minecraft.class_1309.method_5773(class_1309.java:2419) ~[server-intermediary.jar:?]
-	at net.minecraft.class_1308.method_5773(class_1308.java:351) ~[server-intermediary.jar:?]
-	at net.minecraft.class_1646.method_5773(class_1646.java:320) ~[server-intermediary.jar:?]
-	at net.minecraft.class_3218.method_18762(class_3218.java:739) ~[server-intermediary.jar:?]
-	at net.minecraft.class_1937.method_18472(class_1937.java:480) ~[server-intermediary.jar:?]
-	at net.minecraft.class_3218.method_31420(class_3218.java:385) ~[server-intermediary.jar:?]
-	at net.minecraft.class_5574.method_31791(class_5574.java:54) ~[server-intermediary.jar:?]
-	at net.minecraft.class_3218.method_18765(class_3218.java:353) ~[server-intermediary.jar:?]
-	at net.minecraft.server.MinecraftServer.method_3813(MinecraftServer.java:897) ~[server-intermediary.jar:?]
-	at net.minecraft.class_3176.method_3813(class_3176.java:283) ~[server-intermediary.jar:?]
-	at net.minecraft.server.MinecraftServer.method_3748(MinecraftServer.java:824) ~[server-intermediary.jar:?]
-	at net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:671) ~[server-intermediary.jar:?]
-	at net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:265) ~[server-intermediary.jar:?]
-	at java.lang.Thread.run(Thread.java:840) ~[?:?]
-[04:33:16] [Server thread/ERROR]: recursive call to sendBlockUpdated
-java.lang.IllegalStateException: recursive call to sendBlockUpdated
-	at net.minecraft.class_3218.method_8413(class_3218.java:985) ~[server-intermediary.jar:?]
-	at net.minecraft.class_1937.method_30092(class_1937.java:242) ~[server-intermediary.jar:?]
-	at net.minecraft.class_1937.method_8652(class_1937.java:213) ~[server-intermediary.jar:?]
-	at net.minecraft.class_3609.method_15745(class_3609.java:263) ~[server-intermediary.jar:?]
-	at net.minecraft.class_3609.method_15744(class_3609.java:162) ~[server-intermediary.jar:?]
-	at net.minecraft.class_3609.method_15725(class_3609.java:142) ~[server-intermediary.jar:?]
-	at net.minecraft.class_3609.method_15778(class_3609.java:464) ~[server-intermediary.jar:?]
-	at net.minecraft.class_3610.method_15770(class_3610.java:79) ~[server-intermediary.jar:?]
-	at net.minecraft.class_2818.method_12221(class_2818.java:505) ~[server-intermediary.jar:?]
-	at net.minecraft.class_3898.method_18711(class_3898.java:773) ~[server-intermediary.jar:?]
-	at com.mojang.datafixers.util.Either$Left.ifLeft(Either.java:43) ~[datafixerupper-6.0.8.jar:?]
-	at net.minecraft.class_3898.method_17222(class_3898.java:772) ~[server-intermediary.jar:?]
-	at java.util.concurrent.CompletableFuture$UniApply.tryFire(CompletableFuture.java:646) ~[?:?]
-	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
-	at net.minecraft.class_1255.method_18859(class_1255.java:156) ~[server-intermediary.jar:?]
-	at net.minecraft.class_3215$class_4212.method_18859(class_3215.java:564) ~[server-intermediary.jar:?]
-	at net.minecraft.class_1255.method_16075(class_1255.java:130) ~[server-intermediary.jar:?]
-	at net.minecraft.class_3215$class_4212.method_16075(class_3215.java:573) ~[server-intermediary.jar:?]
-	at net.minecraft.class_1255.method_18857(class_1255.java:139) ~[server-intermediary.jar:?]
-	at net.minecraft.class_3215.method_12121(class_3215.java:140) ~[server-intermediary.jar:?]
-	at net.minecraft.class_1937.method_8402(class_1937.java:204) ~[server-intermediary.jar:?]
-	at net.minecraft.class_4538.method_22342(class_4538.java:156) ~[server-intermediary.jar:?]
-	at net.minecraft.class_1937.method_8497(class_1937.java:198) ~[server-intermediary.jar:?]
-	at net.minecraft.class_1937.method_8320(class_1937.java:370) ~[server-intermediary.jar:?]
-	at net.minecraft.class_1409.method_6348(class_1409.java:43) ~[server-intermediary.jar:?]
-	at net.minecraft.class_1408.method_6356(class_1408.java:114) ~[server-intermediary.jar:?]
-	at net.minecraft.class_3218.method_8413(class_3218.java:1009) ~[server-intermediary.jar:?]
-	at net.minecraft.class_1937.method_30092(class_1937.java:242) ~[server-intermediary.jar:?]
-	at net.minecraft.class_1937.method_8652(class_1937.java:213) ~[server-intermediary.jar:?]
-	at net.minecraft.class_2323.method_10033(class_2323.java:214) ~[server-intermediary.jar:?]
-	at net.minecraft.class_4107.method_46966(class_4107.java:87) ~[server-intermediary.jar:?]
-	at net.minecraft.class_7898$1.trigger(class_7898.java:53) ~[server-intermediary.jar:?]
-	at net.minecraft.class_7894.method_18922(class_7894.java:20) ~[server-intermediary.jar:?]
-	at net.minecraft.class_4095.method_18891(class_4095.java:533) ~[server-intermediary.jar:?]
-	at net.minecraft.class_4095.method_19542(class_4095.java:492) ~[server-intermediary.jar:?]
-	at net.minecraft.class_1646.method_5958(class_1646.java:279) ~[server-intermediary.jar:?]
-	at net.minecraft.class_1308.method_6023(class_1308.java:788) ~[server-intermediary.jar:?]
-	at net.minecraft.class_1309.method_6007(class_1309.java:2673) ~[server-intermediary.jar:?]
-	at net.minecraft.class_1308.method_6007(class_1308.java:550) ~[server-intermediary.jar:?]
-	at net.minecraft.class_1296.method_6007(class_1296.java:128) ~[server-intermediary.jar:?]
-	at net.minecraft.class_1309.method_5773(class_1309.java:2419) ~[server-intermediary.jar:?]
-	at net.minecraft.class_1308.method_5773(class_1308.java:351) ~[server-intermediary.jar:?]
-	at net.minecraft.class_1646.method_5773(class_1646.java:320) ~[server-intermediary.jar:?]
-	at net.minecraft.class_3218.method_18762(class_3218.java:739) ~[server-intermediary.jar:?]
-	at net.minecraft.class_1937.method_18472(class_1937.java:480) ~[server-intermediary.jar:?]
-	at net.minecraft.class_3218.method_31420(class_3218.java:385) ~[server-intermediary.jar:?]
-	at net.minecraft.class_5574.method_31791(class_5574.java:54) ~[server-intermediary.jar:?]
-	at net.minecraft.class_3218.method_18765(class_3218.java:353) ~[server-intermediary.jar:?]
-	at net.minecraft.server.MinecraftServer.method_3813(MinecraftServer.java:897) ~[server-intermediary.jar:?]
-	at net.minecraft.class_3176.method_3813(class_3176.java:283) ~[server-intermediary.jar:?]
-	at net.minecraft.server.MinecraftServer.method_3748(MinecraftServer.java:824) ~[server-intermediary.jar:?]
-	at net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:671) ~[server-intermediary.jar:?]
-	at net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:265) ~[server-intermediary.jar:?]
-	at java.lang.Thread.run(Thread.java:840) ~[?:?]
-[04:33:16] [Server thread/ERROR]: recursive call to sendBlockUpdated
-java.lang.IllegalStateException: recursive call to sendBlockUpdated
-	at net.minecraft.class_3218.method_8413(class_3218.java:985) ~[server-intermediary.jar:?]
-	at net.minecraft.class_1937.method_30092(class_1937.java:242) ~[server-intermediary.jar:?]
-	at net.minecraft.class_1937.method_8652(class_1937.java:213) ~[server-intermediary.jar:?]
-	at net.minecraft.class_3609.method_15745(class_3609.java:263) ~[server-intermediary.jar:?]
-	at net.minecraft.class_3609.method_15744(class_3609.java:162) ~[server-intermediary.jar:?]
-	at net.minecraft.class_3609.method_15725(class_3609.java:142) ~[server-intermediary.jar:?]
-	at net.minecraft.class_3609.method_15778(class_3609.java:464) ~[server-intermediary.jar:?]
-	at net.minecraft.class_3610.method_15770(class_3610.java:79) ~[server-intermediary.jar:?]
-	at net.minecraft.class_2818.method_12221(class_2818.java:505) ~[server-intermediary.jar:?]
-	at net.minecraft.class_3898.method_18711(class_3898.java:773) ~[server-intermediary.jar:?]
-	at com.mojang.datafixers.util.Either$Left.ifLeft(Either.java:43) ~[datafixerupper-6.0.8.jar:?]
-	at net.minecraft.class_3898.method_17222(class_3898.java:772) ~[server-intermediary.jar:?]
-	at java.util.concurrent.CompletableFuture$UniApply.tryFire(CompletableFuture.java:646) ~[?:?]
-	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
-	at net.minecraft.class_1255.method_18859(class_1255.java:156) ~[server-intermediary.jar:?]
-	at net.minecraft.class_3215$class_4212.method_18859(class_3215.java:564) ~[server-intermediary.jar:?]
-	at net.minecraft.class_1255.method_16075(class_1255.java:130) ~[server-intermediary.jar:?]
-	at net.minecraft.class_3215$class_4212.method_16075(class_3215.java:573) ~[server-intermediary.jar:?]
-	at net.minecraft.class_1255.method_18857(class_1255.java:139) ~[server-intermediary.jar:?]
-	at net.minecraft.class_3215.method_12121(class_3215.java:140) ~[server-intermediary.jar:?]
-	at net.minecraft.class_1937.method_8402(class_1937.java:204) ~[server-intermediary.jar:?]
-	at net.minecraft.class_4538.method_22342(class_4538.java:156) ~[server-intermediary.jar:?]
-	at net.minecraft.class_1937.method_8497(class_1937.java:198) ~[server-intermediary.jar:?]
-	at net.minecraft.class_1937.method_8320(class_1937.java:370) ~[server-intermediary.jar:?]
-	at net.minecraft.class_1409.method_6348(class_1409.java:43) ~[server-intermediary.jar:?]
-	at net.minecraft.class_1408.method_6356(class_1408.java:114) ~[server-intermediary.jar:?]
-	at net.minecraft.class_3218.method_8413(class_3218.java:1009) ~[server-intermediary.jar:?]
-	at net.minecraft.class_1937.method_30092(class_1937.java:242) ~[server-intermediary.jar:?]
-	at net.minecraft.class_1937.method_8652(class_1937.java:213) ~[server-intermediary.jar:?]
-	at net.minecraft.class_2323.method_10033(class_2323.java:214) ~[server-intermediary.jar:?]
-	at net.minecraft.class_4107.method_46966(class_4107.java:87) ~[server-intermediary.jar:?]
-	at net.minecraft.class_7898$1.trigger(class_7898.java:53) ~[server-intermediary.jar:?]
-	at net.minecraft.class_7894.method_18922(class_7894.java:20) ~[server-intermediary.jar:?]
-	at net.minecraft.class_4095.method_18891(class_4095.java:533) ~[server-intermediary.jar:?]
-	at net.minecraft.class_4095.method_19542(class_4095.java:492) ~[server-intermediary.jar:?]
-	at net.minecraft.class_1646.method_5958(class_1646.java:279) ~[server-intermediary.jar:?]
-	at net.minecraft.class_1308.method_6023(class_1308.java:788) ~[server-intermediary.jar:?]
-	at net.minecraft.class_1309.method_6007(class_1309.java:2673) ~[server-intermediary.jar:?]
-	at net.minecraft.class_1308.method_6007(class_1308.java:550) ~[server-intermediary.jar:?]
-	at net.minecraft.class_1296.method_6007(class_1296.java:128) ~[server-intermediary.jar:?]
-	at net.minecraft.class_1309.method_5773(class_1309.java:2419) ~[server-intermediary.jar:?]
-	at net.minecraft.class_1308.method_5773(class_1308.java:351) ~[server-intermediary.jar:?]
-	at net.minecraft.class_1646.method_5773(class_1646.java:320) ~[server-intermediary.jar:?]
-	at net.minecraft.class_3218.method_18762(class_3218.java:739) ~[server-intermediary.jar:?]
-	at net.minecraft.class_1937.method_18472(class_1937.java:480) ~[server-intermediary.jar:?]
-	at net.minecraft.class_3218.method_31420(class_3218.java:385) ~[server-intermediary.jar:?]
-	at net.minecraft.class_5574.method_31791(class_5574.java:54) ~[server-intermediary.jar:?]
-	at net.minecraft.class_3218.method_18765(class_3218.java:353) ~[server-intermediary.jar:?]
-	at net.minecraft.server.MinecraftServer.method_3813(MinecraftServer.java:897) ~[server-intermediary.jar:?]
-	at net.minecraft.class_3176.method_3813(class_3176.java:283) ~[server-intermediary.jar:?]
-	at net.minecraft.server.MinecraftServer.method_3748(MinecraftServer.java:824) ~[server-intermediary.jar:?]
-	at net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:671) ~[server-intermediary.jar:?]
-	at net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:265) ~[server-intermediary.jar:?]
-	at java.lang.Thread.run(Thread.java:840) ~[?:?]
-[04:33:16] [Server thread/ERROR]: recursive call to sendBlockUpdated
-java.lang.IllegalStateException: recursive call to sendBlockUpdated
-	at net.minecraft.class_3218.method_8413(class_3218.java:985) ~[server-intermediary.jar:?]
-	at net.minecraft.class_1937.method_30092(class_1937.java:242) ~[server-intermediary.jar:?]
-	at net.minecraft.class_1937.method_8652(class_1937.java:213) ~[server-intermediary.jar:?]
-	at net.minecraft.class_3609.method_15745(class_3609.java:263) ~[server-intermediary.jar:?]
-	at net.minecraft.class_3609.method_15744(class_3609.java:162) ~[server-intermediary.jar:?]
-	at net.minecraft.class_3609.method_15725(class_3609.java:142) ~[server-intermediary.jar:?]
-	at net.minecraft.class_3609.method_15778(class_3609.java:464) ~[server-intermediary.jar:?]
-	at net.minecraft.class_3610.method_15770(class_3610.java:79) ~[server-intermediary.jar:?]
-	at net.minecraft.class_2818.method_12221(class_2818.java:505) ~[server-intermediary.jar:?]
-	at net.minecraft.class_3898.method_18711(class_3898.java:773) ~[server-intermediary.jar:?]
-	at com.mojang.datafixers.util.Either$Left.ifLeft(Either.java:43) ~[datafixerupper-6.0.8.jar:?]
-	at net.minecraft.class_3898.method_17222(class_3898.java:772) ~[server-intermediary.jar:?]
-	at java.util.concurrent.CompletableFuture$UniApply.tryFire(CompletableFuture.java:646) ~[?:?]
-	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
-	at net.minecraft.class_1255.method_18859(class_1255.java:156) ~[server-intermediary.jar:?]
-	at net.minecraft.class_3215$class_4212.method_18859(class_3215.java:564) ~[server-intermediary.jar:?]
-	at net.minecraft.class_1255.method_16075(class_1255.java:130) ~[server-intermediary.jar:?]
-	at net.minecraft.class_3215$class_4212.method_16075(class_3215.java:573) ~[server-intermediary.jar:?]
-	at net.minecraft.class_1255.method_18857(class_1255.java:139) ~[server-intermediary.jar:?]
-	at net.minecraft.class_3215.method_12121(class_3215.java:140) ~[server-intermediary.jar:?]
-	at net.minecraft.class_1937.method_8402(class_1937.java:204) ~[server-intermediary.jar:?]
-	at net.minecraft.class_4538.method_22342(class_4538.java:156) ~[server-intermediary.jar:?]
-	at net.minecraft.class_1937.method_8497(class_1937.java:198) ~[server-intermediary.jar:?]
-	at net.minecraft.class_1937.method_8320(class_1937.java:370) ~[server-intermediary.jar:?]
-	at net.minecraft.class_1409.method_6348(class_1409.java:43) ~[server-intermediary.jar:?]
-	at net.minecraft.class_1408.method_6356(class_1408.java:114) ~[server-intermediary.jar:?]
-	at net.minecraft.class_3218.method_8413(class_3218.java:1009) ~[server-intermediary.jar:?]
-	at net.minecraft.class_1937.method_30092(class_1937.java:242) ~[server-intermediary.jar:?]
-	at net.minecraft.class_1937.method_8652(class_1937.java:213) ~[server-intermediary.jar:?]
-	at net.minecraft.class_2323.method_10033(class_2323.java:214) ~[server-intermediary.jar:?]
-	at net.minecraft.class_4107.method_46966(class_4107.java:87) ~[server-intermediary.jar:?]
-	at net.minecraft.class_7898$1.trigger(class_7898.java:53) ~[server-intermediary.jar:?]
-	at net.minecraft.class_7894.method_18922(class_7894.java:20) ~[server-intermediary.jar:?]
-	at net.minecraft.class_4095.method_18891(class_4095.java:533) ~[server-intermediary.jar:?]
-	at net.minecraft.class_4095.method_19542(class_4095.java:492) ~[server-intermediary.jar:?]
-	at net.minecraft.class_1646.method_5958(class_1646.java:279) ~[server-intermediary.jar:?]
-	at net.minecraft.class_1308.method_6023(class_1308.java:788) ~[server-intermediary.jar:?]
-	at net.minecraft.class_1309.method_6007(class_1309.java:2673) ~[server-intermediary.jar:?]
-	at net.minecraft.class_1308.method_6007(class_1308.java:550) ~[server-intermediary.jar:?]
-	at net.minecraft.class_1296.method_6007(class_1296.java:128) ~[server-intermediary.jar:?]
-	at net.minecraft.class_1309.method_5773(class_1309.java:2419) ~[server-intermediary.jar:?]
-	at net.minecraft.class_1308.method_5773(class_1308.java:351) ~[server-intermediary.jar:?]
-	at net.minecraft.class_1646.method_5773(class_1646.java:320) ~[server-intermediary.jar:?]
-	at net.minecraft.class_3218.method_18762(class_3218.java:739) ~[server-intermediary.jar:?]
-	at net.minecraft.class_1937.method_18472(class_1937.java:480) ~[server-intermediary.jar:?]
-	at net.minecraft.class_3218.method_31420(class_3218.java:385) ~[server-intermediary.jar:?]
-	at net.minecraft.class_5574.method_31791(class_5574.java:54) ~[server-intermediary.jar:?]
-	at net.minecraft.class_3218.method_18765(class_3218.java:353) ~[server-intermediary.jar:?]
-	at net.minecraft.server.MinecraftServer.method_3813(MinecraftServer.java:897) ~[server-intermediary.jar:?]
-	at net.minecraft.class_3176.method_3813(class_3176.java:283) ~[server-intermediary.jar:?]
-	at net.minecraft.server.MinecraftServer.method_3748(MinecraftServer.java:824) ~[server-intermediary.jar:?]
-	at net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:671) ~[server-intermediary.jar:?]
-	at net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:265) ~[server-intermediary.jar:?]
-	at java.lang.Thread.run(Thread.java:840) ~[?:?]
-[04:33:16] [Server thread/ERROR]: recursive call to sendBlockUpdated
-java.lang.IllegalStateException: recursive call to sendBlockUpdated
-	at net.minecraft.class_3218.method_8413(class_3218.java:985) ~[server-intermediary.jar:?]
-	at net.minecraft.class_1937.method_30092(class_1937.java:242) ~[server-intermediary.jar:?]
-	at net.minecraft.class_1937.method_8652(class_1937.java:213) ~[server-intermediary.jar:?]
-	at net.minecraft.class_3609.method_15745(class_3609.java:263) ~[server-intermediary.jar:?]
-	at net.minecraft.class_3609.method_15744(class_3609.java:162) ~[server-intermediary.jar:?]
-	at net.minecraft.class_3609.method_15725(class_3609.java:142) ~[server-intermediary.jar:?]
-	at net.minecraft.class_3609.method_15778(class_3609.java:464) ~[server-intermediary.jar:?]
-	at net.minecraft.class_3610.method_15770(class_3610.java:79) ~[server-intermediary.jar:?]
-	at net.minecraft.class_2818.method_12221(class_2818.java:505) ~[server-intermediary.jar:?]
-	at net.minecraft.class_3898.method_18711(class_3898.java:773) ~[server-intermediary.jar:?]
-	at com.mojang.datafixers.util.Either$Left.ifLeft(Either.java:43) ~[datafixerupper-6.0.8.jar:?]
-	at net.minecraft.class_3898.method_17222(class_3898.java:772) ~[server-intermediary.jar:?]
-	at java.util.concurrent.CompletableFuture$UniApply.tryFire(CompletableFuture.java:646) ~[?:?]
-	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?]
-	at net.minecraft.class_1255.method_18859(class_1255.java:156) ~[server-intermediary.jar:?]
-	at net.minecraft.class_3215$class_4212.method_18859(class_3215.java:564) ~[server-intermediary.jar:?]
-	at net.minecraft.class_1255.method_16075(class_1255.java:130) ~[server-intermediary.jar:?]
-	at net.minecraft.class_3215$class_4212.method_16075(class_3215.java:573) ~[server-intermediary.jar:?]
-	at net.minecraft.class_1255.method_18857(class_1255.java:139) ~[server-intermediary.jar:?]
-	at net.minecraft.class_3215.method_12121(class_3215.java:140) ~[server-intermediary.jar:?]
-	at net.minecraft.class_1937.method_8402(class_1937.java:204) ~[server-intermediary.jar:?]
-	at net.minecraft.class_4538.method_22342(class_4538.java:156) ~[server-intermediary.jar:?]
-	at net.minecraft.class_1937.method_8497(class_1937.java:198) ~[server-intermediary.jar:?]
-	at net.minecraft.class_1937.method_8320(class_1937.java:370) ~[server-intermediary.jar:?]
-	at net.minecraft.class_1409.method_6348(class_1409.java:43) ~[server-intermediary.jar:?]
-	at net.minecraft.class_1408.method_6356(class_1408.java:114) ~[server-intermediary.jar:?]
-	at net.minecraft.class_3218.method_8413(class_3218.java:1009) ~[server-intermediary.jar:?]
-	at net.minecraft.class_1937.method_30092(class_1937.java:242) ~[server-intermediary.jar:?]
-	at net.minecraft.class_1937.method_8652(class_1937.java:213) ~[server-intermediary.jar:?]
-	at net.minecraft.class_2323.method_10033(class_2323.java:214) ~[server-intermediary.jar:?]
-	at net.minecraft.class_4107.method_46966(class_4107.java:87) ~[server-intermediary.jar:?]
-	at net.minecraft.class_7898$1.trigger(class_7898.java:53) ~[server-intermediary.jar:?]
-	at net.minecraft.class_7894.method_18922(class_7894.java:20) ~[server-intermediary.jar:?]
-	at net.minecraft.class_4095.method_18891(class_4095.java:533) ~[server-intermediary.jar:?]
-	at net.minecraft.class_4095.method_19542(class_4095.java:492) ~[server-intermediary.jar:?]
-	at net.minecraft.class_1646.method_5958(class_1646.java:279) ~[server-intermediary.jar:?]
-	at net.minecraft.class_1308.method_6023(class_1308.java:788) ~[server-intermediary.jar:?]
-	at net.minecraft.class_1309.method_6007(class_1309.java:2673) ~[server-intermediary.jar:?]
-	at net.minecraft.class_1308.method_6007(class_1308.java:550) ~[server-intermediary.jar:?]
-	at net.minecraft.class_1296.method_6007(class_1296.java:128) ~[server-intermediary.jar:?]
-	at net.minecraft.class_1309.method_5773(class_1309.java:2419) ~[server-intermediary.jar:?]
-	at net.minecraft.class_1308.method_5773(class_1308.java:351) ~[server-intermediary.jar:?]
-	at net.minecraft.class_1646.method_5773(class_1646.java:320) ~[server-intermediary.jar:?]
-	at net.minecraft.class_3218.method_18762(class_3218.java:739) ~[server-intermediary.jar:?]
-	at net.minecraft.class_1937.method_18472(class_1937.java:480) ~[server-intermediary.jar:?]
-	at net.minecraft.class_3218.method_31420(class_3218.java:385) ~[server-intermediary.jar:?]
-	at net.minecraft.class_5574.method_31791(class_5574.java:54) ~[server-intermediary.jar:?]
-	at net.minecraft.class_3218.method_18765(class_3218.java:353) ~[server-intermediary.jar:?]
-	at net.minecraft.server.MinecraftServer.method_3813(MinecraftServer.java:897) ~[server-intermediary.jar:?]
-	at net.minecraft.class_3176.method_3813(class_3176.java:283) ~[server-intermediary.jar:?]
-	at net.minecraft.server.MinecraftServer.method_3748(MinecraftServer.java:824) ~[server-intermediary.jar:?]
-	at net.minecraft.server.MinecraftServer.method_29741(MinecraftServer.java:671) ~[server-intermediary.jar:?]
-	at net.minecraft.server.MinecraftServer.method_29739(MinecraftServer.java:265) ~[server-intermediary.jar:?]
-	at java.lang.Thread.run(Thread.java:840) ~[?:?]
-[04:33:18] [Server thread/WARN]: Santialpz moved too quickly! -10.064925242643994,2.252203340253729,0.8713593920692801
-[04:33:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2024ms or 40 ticks behind
-[04:33:38] [Server thread/WARN]: DjGuetta11 moved wrongly!
-[04:39:14] [Server thread/WARN]: DjGuetta11 moved wrongly!
-[04:39:14] [Server thread/WARN]: DjGuetta11 moved wrongly!
-[04:39:36] [Worker-Main-18/WARN]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wooden_wheat_farm
-[04:41:10] [Server thread/INFO]: Villager class_1646['Unemployed'/86337, l='ServerLevel[world]', x=-1656.50, y=147.00, z=2691.50] died, message: 'Unemployed went up in flames'
-[04:43:59] [Server thread/INFO]: Villager class_1646['Nitwit'/97354, l='ServerLevel[world]', x=-1536.63, y=228.00, z=2970.72] died, message: 'Nitwit suffocated in a wall'
-[04:44:02] [Server thread/INFO]: Gindaz claimed a grave belonging to Gindaz at -3809, 62, -232, minecraft:overworld
-[04:44:29] [Server thread/INFO]: DjTwistfly lost connection: Disconnected
-[04:44:29] [Server thread/INFO]: DjTwistfly left the game
-[04:48:04] [Server thread/WARN]: DjGuetta11 moved wrongly!
-[04:49:44] [Server thread/INFO]: Gindaz has made the advancement [The Desert Swimmers]
-[04:51:42] [Server thread/INFO]: DjTwistfly[/100.95.48.32:54667] logged in with entity id 105222 at (-1318.0780780871582, 182.0, 44.6359679896995)
-[04:51:42] [Server thread/INFO]: Syncing config to DjTwistfly (ce1a9492-5b4d-3fbb-9f7e-c74699881e3b)
-[04:51:42] [Server thread/INFO]: Loading config from file...
-[04:51:42] [Server thread/INFO]: DjTwistfly joined the game
-[04:51:44] [Netty Epoll Server IO #5/INFO]: Priority overwritten for player DjTwistfly. Claiming: GRAVE / Robbing: INVENTORY
-[04:55:05] [Server thread/WARN]: DjGuetta11 moved wrongly!
-[04:56:39] [Server thread/WARN]: DjGuetta11 moved wrongly!
-[04:56:47] [Server thread/WARN]: DjGuetta11 moved wrongly!
-[04:56:48] [Server thread/WARN]: DjGuetta11 moved wrongly!
-[04:56:50] [Server thread/WARN]: DjGuetta11 moved wrongly!
-[04:58:04] [Server thread/WARN]: DjGuetta11 moved wrongly!
-[04:59:01] [Server thread/WARN]: DjGuetta11 moved wrongly!
-[04:59:01] [Server thread/WARN]: DjGuetta11 moved wrongly!
-[05:08:51] [Server thread/WARN]: DjGuetta11 moved wrongly!
-[05:11:08] [Server thread/WARN]: DjGuetta11 moved wrongly!
-[05:11:10] [Server thread/WARN]: DjGuetta11 moved wrongly!
-[05:11:12] [Server thread/INFO]: Gindaz has made the advancement [Take Aim]
-[05:11:43] [Server thread/WARN]: DjTwistfly moved too quickly! 0.16620470427869805,20.580000013113022,0.12668173575178088
-[05:11:43] [Server thread/WARN]: DjTwistfly moved too quickly! 0.0,20.580000013113022,0.0
-[05:11:44] [Server thread/WARN]: DjTwistfly moved too quickly! 0.0,20.580000013113022,0.0
-[05:11:44] [Server thread/WARN]: DjTwistfly moved too quickly! 0.0,19.580000013113022,0.0
-[05:19:20] [Server thread/WARN]: DjTwistfly moved wrongly!
-[05:19:21] [Server thread/WARN]: DjTwistfly moved wrongly!
-[05:19:22] [Server thread/WARN]: DjTwistfly moved too quickly! -0.05530091664604697,20.580000013113022,0.19377830523431783
-[05:19:22] [Server thread/WARN]: DjTwistfly moved too quickly! 0.0,20.580000013113022,0.0
-[05:19:23] [Server thread/WARN]: DjTwistfly moved too quickly! 0.0,20.580000013113022,0.0
-[05:19:23] [Server thread/WARN]: DjTwistfly moved too quickly! 0.0,19.580000013113022,0.0
-[05:25:52] [Server thread/INFO]: Named entity class_1634['Restless Spirit'/147283, l='ServerLevel[world]', x=-153.32, y=37.97, z=-50.06] died: Restless Spirit starved to death
-[05:25:52] [Server thread/INFO]: Named entity class_1634['Restless Spirit'/147285, l='ServerLevel[world]', x=-157.66, y=54.20, z=-64.32] died: Restless Spirit starved to death
-[05:27:34] [Server thread/WARN]: DjGuetta11 moved wrongly!
-[05:30:49] [Server thread/WARN]: DjTwistfly moved too quickly! 1.2523293765502785,4.78908491964043,9.202563077552238
-[05:32:27] [Server thread/WARN]: DjGuetta11 moved too quickly! -5.513211170270324,-7.839372982550998,4.97756138600991
-[05:33:17] [Server thread/WARN]: DjGuetta11 moved wrongly!
-[05:33:17] [Server thread/WARN]: DjGuetta11 moved wrongly!
-[05:33:18] [Server thread/WARN]: DjGuetta11 moved too quickly! 0.1380168363800749,20.37999999523163,0.19999998807907104
-[05:33:18] [Server thread/WARN]: DjGuetta11 moved too quickly! 0.0,20.37999999523163,0.0
-[05:33:19] [Server thread/WARN]: DjGuetta11 moved too quickly! 0.0,20.37999999523163,0.0
-[05:33:19] [Server thread/ERROR]: POI data mismatch: already registered at class_2338{x=-5121, y=-41, z=66}
-[05:33:20] [Server thread/WARN]: DjGuetta11 moved too quickly! 0.0,19.37999999523163,0.0
-[05:33:34] [Server thread/ERROR]: POI data mismatch: already registered at class_2338{x=-5190, y=-42, z=-16}
-[05:33:34] [Server thread/ERROR]: POI data mismatch: already registered at class_2338{x=-5188, y=-42, z=-16}
-[05:33:53] [Server thread/ERROR]: POI data mismatch: already registered at class_2338{x=-5344, y=16, z=201}
-[05:33:54] [Server thread/ERROR]: POI data mismatch: already registered at class_2338{x=-5338, y=-26, z=-32}
-[05:33:54] [Server thread/ERROR]: POI data mismatch: already registered at class_2338{x=-5339, y=-26, z=-32}
-[05:34:51] [Server thread/ERROR]: POI data mismatch: already registered at class_2338{x=-5407, y=12, z=11}
-[05:35:04] [Server thread/INFO]: Gindaz has made the advancement [Who You Gonna Call?]
-[05:35:48] [Server thread/WARN]: DjTwistfly moved too quickly! 9.169328964022043,4.498664020887844,0.4255557200363782
-[05:37:57] [Server thread/INFO]: [Not Secure] <DjGuetta11> :3
-[05:38:26] [Server thread/INFO]: [Not Secure] <DjGuetta11> ,3
-[05:38:30] [Server thread/INFO]: [Not Secure] <DjGuetta11> <3
-[05:39:34] [Server thread/INFO]: [Not Secure] <DjGuetta11> tiene losas
-[05:39:35] [Server thread/INFO]: [Not Secure] <DjGuetta11> xd
-[05:40:04] [Server thread/INFO]: [Not Secure] <DjGuetta11> ¿vamos a una mina?
-[05:40:09] [Server thread/INFO]: [Not Secure] <DjGuetta11> nejecito piedra negra
-[05:40:22] [Server thread/INFO]: [Not Secure] <DjGuetta11> vamos a darle
-[05:40:34] [Server thread/INFO]: [Not Secure] <DjGuetta11> ay, pere
-[05:40:38] [Server thread/INFO]: [Not Secure] <DjGuetta11> ya s
-[05:40:40] [Server thread/INFO]: [Not Secure] <DjGuetta11> sé
-[05:42:20] [Server thread/WARN]: DjGuetta11 moved too quickly! -0.0780051037377234,20.37999999523163,-0.1914662501528852
-[05:42:20] [Server thread/WARN]: DjGuetta11 moved too quickly! 0.0,20.37999999523163,0.0
-[05:42:20] [Server thread/WARN]: DjGuetta11 moved too quickly! 0.0,20.37999999523163,0.0
-[05:42:21] [Server thread/WARN]: DjGuetta11 moved too quickly! 0.0,19.37999999523163,0.0
-[05:49:47] [Server thread/INFO]: [Not Secure] <DjTwistfly> 164987564\
-[05:50:05] [Server thread/INFO]: [Not Secure] <DjTwistfly> 4958670495
-[05:50:14] [pool-7-thread-3/INFO]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_badlands], ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_mountains], ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_birch], ResourceKey[minecraft:worldgen/structure / minecraft:village_savanna], ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_giant_taiga], ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_jungle], ResourceKey[minecraft:worldgen/structure / minecraft:village_snowy], ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_crimson]] from pos class_2338{x=-5445, y=72, z=427}
-[05:50:20] [Server thread/INFO]: [Not Secure] <DjTwistfly> fg45yZ32H
-[05:53:29] [Server thread/INFO]: Gindaz has made the advancement [Stay dead]
-[05:56:50] [Server thread/ERROR]: POI data mismatch: already registered at class_2338{x=-5787, y=18, z=356}
-[05:56:52] [Worker-Main-32/WARN]: Tried to access a block entity before it was created. class_2339{x=-5809, y=63, z=-15}
-[05:56:52] [Worker-Main-32/WARN]: Tried to access a block entity before it was created. class_2339{x=-5809, y=63, z=-15}
-[05:57:11] [Server thread/WARN]: DjGuetta11 moved wrongly!
-[05:57:13] [Server thread/WARN]: DjGuetta11 moved wrongly!
-[05:57:15] [Server thread/WARN]: DjGuetta11 moved wrongly!
-[05:57:17] [Server thread/WARN]: DjGuetta11 moved wrongly!
-[06:01:11] [Server thread/WARN]: DjTwistfly moved too quickly! -0.20668843501857737,20.580000013113022,0.031343074786967406
-[06:01:11] [Server thread/WARN]: DjTwistfly moved too quickly! 0.0,20.580000013113022,0.0
-[06:01:12] [Server thread/WARN]: DjTwistfly moved too quickly! 0.0,20.580000013113022,0.0
-[06:01:12] [Server thread/WARN]: DjTwistfly moved too quickly! 0.0,19.580000013113022,0.0
-[06:02:03] [Server thread/ERROR]: POI data mismatch: already registered at class_2338{x=-5858, y=-7, z=-58}
-[06:02:03] [Server thread/ERROR]: POI data mismatch: already registered at class_2338{x=-5858, y=-7, z=-59}
-[06:04:39] [Server thread/ERROR]: POI data mismatch: already registered at class_2338{x=-5891, y=26, z=-123}
-[06:04:44] [Server thread/ERROR]: POI data mismatch: already registered at class_2338{x=-5931, y=-7, z=-136}
-[06:06:21] [Server thread/ERROR]: POI data mismatch: already registered at class_2338{x=-6099, y=21, z=-173}
-[06:06:21] [Server thread/ERROR]: POI data mismatch: already registered at class_2338{x=-6099, y=21, z=-175}
-[06:09:31] [Worker-Main-32/WARN]: Tried to access a block entity before it was created. class_2339{x=-6383, y=-26, z=-107}
-[06:09:40] [Server thread/ERROR]: POI data mismatch: already registered at class_2338{x=-6419, y=-23, z=-240}
-[06:09:40] [Server thread/ERROR]: POI data mismatch: already registered at class_2338{x=-6417, y=-46, z=-223}
-[06:09:40] [Server thread/ERROR]: POI data mismatch: already registered at class_2338{x=-6418, y=-46, z=-223}
-[06:14:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
-[06:14:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2974ms or 59 ticks behind
-[06:14:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3599ms or 71 ticks behind
-[06:14:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2810ms or 56 ticks behind
-[06:15:04] [Server thread/WARN]: DjTwistfly moved wrongly!
-[06:15:04] [Server thread/WARN]: DjTwistfly moved wrongly!
-[06:15:05] [Server thread/WARN]: DjTwistfly moved wrongly!
-[06:15:06] [Server thread/WARN]: DjTwistfly moved wrongly!
-[06:15:06] [Server thread/WARN]: DjTwistfly moved wrongly!
-[06:15:07] [Server thread/WARN]: DjTwistfly moved too quickly! -0.05988942052317725,20.580000013113022,-0.23299794652664474
-[06:15:08] [Server thread/WARN]: DjTwistfly moved too quickly! 0.0,20.580000013113022,0.0
-[06:15:08] [Server thread/WARN]: DjTwistfly moved too quickly! 0.0,20.580000013113022,0.0
-[06:15:08] [Server thread/WARN]: DjTwistfly moved too quickly! 0.0,19.580000013113022,0.0
-[06:17:17] [Server thread/WARN]: DjTwistfly moved too quickly! -0.15134159220497168,20.580000013113022,0.19999998807907104
-[06:17:17] [Server thread/WARN]: DjTwistfly moved too quickly! 0.0,20.580000013113022,0.0
-[06:17:18] [Server thread/WARN]: DjTwistfly moved too quickly! 0.0,20.580000013113022,0.0
-[06:17:18] [Server thread/WARN]: DjTwistfly moved too quickly! 0.0,19.580000013113022,0.0
-[06:17:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
-[06:18:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7921ms or 158 ticks behind
-[06:18:09] [Server thread/ERROR]: POI data mismatch: already registered at class_2338{x=-5229, y=30, z=-487}
-[06:18:11] [Server thread/ERROR]: POI data mismatch: already registered at class_2338{x=-5304, y=-32, z=-844}
-[06:18:14] [Server thread/INFO]: Named entity class_1438['Gowl the Mad'/226275, l='ServerLevel[world]', x=-5097.50, y=78.94, z=-681.42] died: Gowl the Mad was shot by DjTwistfly
-[06:18:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10433ms or 208 ticks behind
-[06:18:43] [Server thread/INFO]: DjGuetta11 lost connection: Timed out
-[06:18:43] [Server thread/INFO]: DjGuetta11 left the game
-[06:18:43] [Server thread/WARN]: handleDisconnection() called twice
-[06:18:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6098ms or 121 ticks behind
-[06:18:52] [Server thread/INFO]: DjGuetta11[/100.71.91.78:51893] logged in with entity id 229917 at (-405.1060198101496, 70.0, -484.77769386050306)
-[06:18:52] [Server thread/INFO]: Syncing config to DjGuetta11 (02ab1a57-0edd-3713-9f58-15ec834d0062)
-[06:18:52] [Server thread/INFO]: Loading config from file...
-[06:18:53] [Server thread/INFO]: DjGuetta11 joined the game
-[06:18:53] [Netty Epoll Server IO #7/INFO]: Priority overwritten for player DjGuetta11. Claiming: GRAVE / Robbing: INVENTORY
-[06:19:08] [Server thread/INFO]: [DjGuetta11: The difficulty has been set to Hard]
-[06:19:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6082ms or 121 ticks behind
-[06:19:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6971ms or 139 ticks behind
-[06:19:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8838ms or 176 ticks behind
-[06:20:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6589ms or 131 ticks behind
-[06:20:38] [Server thread/WARN]: DjGuetta11 moved too quickly! -0.20434180515846379,-10.354962755216391,0.24334232805944112
-[06:20:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9249ms or 184 ticks behind
-[06:21:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6252ms or 125 ticks behind
-[06:21:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5042ms or 100 ticks behind
-[06:21:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4755ms or 95 ticks behind
-[06:22:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4337ms or 86 ticks behind
-[06:22:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4544ms or 90 ticks behind
-[06:22:29] [Server thread/WARN]: DjTwistfly moved too quickly! 1.0895618650283723,2.1372475111558487,-10.024380207530498
-[06:22:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7967ms or 159 ticks behind
-[06:22:48] [Worker-Main-3/WARN]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wooden_wheat_farm
-[06:22:55] [Server thread/WARN]: DjGuetta11 moved wrongly!
-[06:23:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4703ms or 94 ticks behind
-[06:23:15] [Server thread/ERROR]: POI data mismatch: already registered at class_2338{x=-5362, y=-52, z=-560}
-[06:23:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4733ms or 94 ticks behind
-[06:23:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2112ms or 42 ticks behind
-[06:23:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4114ms or 82 ticks behind
-[06:24:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4363ms or 87 ticks behind
-[06:24:23] [pool-7-thread-4/INFO]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_mountains], ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_oak], ResourceKey[minecraft:worldgen/structure / minecraft:village_desert], ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_warped], ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_cherry], ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_mushroom], ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_dark_forest], ResourceKey[minecraft:worldgen/structure / minecraft:village_plains]] from pos class_2338{x=-5467, y=81, z=-587}
-[06:24:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2304ms or 46 ticks behind
-[06:24:38] [Server thread/INFO]: Gindaz was blown up by Skeleton Creeper
-[06:25:27] [Server thread/INFO]: DjTwistfly was incinerated by Fire Dragon
-[06:26:33] [Server thread/INFO]: DjTwistfly lost connection: Disconnected
-[06:26:33] [Server thread/INFO]: DjTwistfly left the game
-[06:28:32] [Server thread/INFO]: DjTwistfly[/100.95.48.32:55812] logged in with entity id 249470 at (-1375.5, 167.0, 55.5)
-[06:28:32] [Server thread/INFO]: Syncing config to DjTwistfly (ce1a9492-5b4d-3fbb-9f7e-c74699881e3b)
-[06:28:32] [Server thread/INFO]: Loading config from file...
-[06:28:32] [Server thread/INFO]: DjTwistfly joined the game
-[06:28:34] [Netty Epoll Server IO #1/INFO]: Priority overwritten for player DjTwistfly. Claiming: GRAVE / Robbing: INVENTORY
-[06:30:10] [Server thread/INFO]: DjTwistfly claimed a grave belonging to DjTwistfly at -5360, 81, -508, minecraft:overworld
-[06:30:16] [Server thread/INFO]: Villager class_1646['Unemployed'/251488, l='ServerLevel[world]', x=-5354.98, y=78.00, z=-524.12] died, message: 'Unemployed was burnt to a crisp whilst fighting Fire Dragon'
-[06:31:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2062ms or 41 ticks behind
-[06:31:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3646ms or 72 ticks behind
-[06:34:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
-[06:38:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2945ms or 58 ticks behind
-[06:41:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
-[06:42:12] [Server thread/WARN]: DjGuetta11 moved too quickly! -0.6282266529767639,-11.376989651704179,0.5153961517288508
-[06:42:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
-[06:42:42] [Server thread/WARN]: DjGuetta11 moved too quickly! -0.05721874437972474,20.37999999523163,0.05143098400994717
-[06:42:42] [Server thread/WARN]: DjGuetta11 moved too quickly! 0.0,20.37999999523163,0.0
-[06:42:43] [Server thread/WARN]: DjGuetta11 moved too quickly! 0.0,20.37999999523163,0.0
-[06:42:43] [Server thread/WARN]: DjGuetta11 moved too quickly! 0.0,19.37999999523163,0.0
-[06:43:14] [Server thread/WARN]: DjTwistfly moved too quickly! 9.186700658773589,4.6065240274119645,0.7015177792170135
-[06:43:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3174ms or 63 ticks behind
-[06:43:28] [Worker-Main-1/WARN]: Tried to access a block entity before it was created. class_2339{x=-6113, y=36, z=266}
-[06:43:28] [Worker-Main-1/WARN]: Tried to access a block entity before it was created. class_2338{x=-6114, y=36, z=263}
-[06:43:30] [Server thread/ERROR]: POI data mismatch: already registered at class_2338{x=-6101, y=-22, z=280}
-[06:43:52] [Server thread/ERROR]: POI data mismatch: already registered at class_2338{x=-6086, y=-18, z=304}
-[06:43:52] [Server thread/ERROR]: POI data mismatch: already registered at class_2338{x=-6086, y=-18, z=306}
-[06:44:02] [pool-7-thread-5/INFO]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_swamp], ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_mountains], ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_giant_taiga], ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_oak], ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_crimson], ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_cherry], ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_jungle], ResourceKey[minecraft:worldgen/structure / minecraft:village_savanna]] from pos class_2338{x=-6027, y=71, z=341}
-[06:46:08] [Server thread/WARN]: DjGuetta11 moved wrongly!
-[06:48:14] [Server thread/INFO]: Gindaz claimed a grave belonging to Gindaz at -5866, 18, -154, minecraft:overworld
-[06:48:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2520ms or 50 ticks behind
-[06:51:16] [Server thread/INFO]: DjTwistfly has made the advancement [You've Got a Friend in Me]
-[06:52:00] [Server thread/WARN]: Hippocampus (vehicle of DjGuetta11) moved wrongly! 1.2818724732305589
-[06:52:05] [Server thread/ERROR]: POI data mismatch: already registered at class_2338{x=-835, y=-53, z=407}
-[06:56:56] [Worker-Main-32/WARN]: Tried to access a block entity before it was created. class_2338{x=-1361, y=30, z=856}
-[06:57:51] [Server thread/ERROR]: POI data mismatch: already registered at class_2338{x=-1011, y=-38, z=1120}
-[06:58:54] [Worker-Main-18/WARN]: Tried to access a block entity before it was created. class_2339{x=-831, y=18, z=847}
-[06:58:54] [Worker-Main-18/WARN]: Tried to access a block entity before it was created. class_2339{x=-831, y=18, z=848}
-[06:58:54] [Worker-Main-18/WARN]: Tried to access a block entity before it was created. class_2339{x=-831, y=18, z=849}
-[06:59:03] [Server thread/ERROR]: POI data mismatch: already registered at class_2338{x=-911, y=-48, z=1051}
-[06:59:40] [pool-7-thread-6/INFO]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_crimson], ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_ocean], ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_warped], ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_cherry], ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_jungle], ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_oak], ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_dark_forest], ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_bamboo]] from pos class_2338{x=-555, y=73, z=1019}
-[06:59:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5240ms or 104 ticks behind
-[06:59:46] [Server thread/WARN]: Hippocampus (vehicle of DjGuetta11) moved too quickly! 0.8849912963094084,0.0,10.22639007284738
-[06:59:46] [Server thread/WARN]: Hippocampus (vehicle of DjGuetta11) moved too quickly! 0.9649558239757425,0.0,11.037681937245225
-[06:59:46] [Server thread/WARN]: Hippocampus (vehicle of DjGuetta11) moved too quickly! 1.0457538673972522,0.0,11.850701825775332
-[06:59:46] [Server thread/WARN]: Hippocampus (vehicle of DjGuetta11) moved too quickly! 1.1272870717150454,0.0,12.665245831590028
-[06:59:46] [Server thread/WARN]: Hippocampus (vehicle of DjGuetta11) moved too quickly! 1.2094686879433993,0.0,13.481134108849801
-[06:59:46] [Server thread/WARN]: Hippocampus (vehicle of DjGuetta11) moved too quickly! 1.29222220347674,0.0,14.298208033524133
-[06:59:46] [Server thread/WARN]: Hippocampus (vehicle of DjGuetta11) moved too quickly! 1.3754801341972325,0.0,15.11632769921789
-[06:59:46] [Server thread/WARN]: Hippocampus (vehicle of DjGuetta11) moved too quickly! 1.4591829591126952,0.0,15.935369708490953
-[06:59:46] [Server thread/WARN]: Hippocampus (vehicle of DjGuetta11) moved too quickly! 1.5432781807080573,0.0,16.755225224801052
-[06:59:46] [Server thread/WARN]: Hippocampus (vehicle of DjGuetta11) moved too quickly! 1.627719496175132,0.0,17.57579825431776
-[06:59:46] [Server thread/WARN]: Hippocampus (vehicle of DjGuetta11) moved too quickly! 1.667094209977904,0.0,18.393180269802542
-[06:59:46] [Server thread/WARN]: Hippocampus (vehicle of DjGuetta11) moved too quickly! 1.6667201811126233,0.0,19.207747810911087
-[06:59:46] [Server thread/WARN]: Hippocampus (vehicle of DjGuetta11) moved too quickly! 1.6316176546733914,0.0,20.01983298562004
-[06:59:46] [Server thread/WARN]: Hippocampus (vehicle of DjGuetta11) moved too quickly! 1.5655546999148555,0.0,20.829728713164286
-[06:59:46] [Server thread/WARN]: Hippocampus (vehicle of DjGuetta11) moved too quickly! 1.4721846473785263,0.0,21.637693348309313
-[06:59:46] [Server thread/WARN]: Hippocampus (vehicle of DjGuetta11) moved too quickly! 1.3549722396332982,0.0,22.444045311416858
-[06:59:46] [Server thread/WARN]: Hippocampus (vehicle of DjGuetta11) moved too quickly! 1.2167308745938499,0.0,23.248974897787093
-[06:59:46] [Server thread/WARN]: Hippocampus (vehicle of DjGuetta11) moved too quickly! 1.0599419692207448,0.0,24.052649947875125
-[06:59:46] [Server thread/WARN]: Hippocampus (vehicle of DjGuetta11) moved too quickly! 0.9321757356649414,0.0,24.85892489552043
-[06:59:46] [Server thread/WARN]: Hippocampus (vehicle of DjGuetta11) moved too quickly! 0.8300074986518666,0.0,25.667492952811017
-[06:59:46] [Server thread/WARN]: Hippocampus (vehicle of DjGuetta11) moved too quickly! 0.7504166945893758,0.0,26.478083532809023
-[06:59:46] [Server thread/WARN]: Hippocampus (vehicle of DjGuetta11) moved too quickly! 0.6453575839982477,0.0,27.286751579276824
-[06:59:46] [Server thread/WARN]: Hippocampus (vehicle of DjGuetta11) moved too quickly! 0.517835427048567,0.0,28.093723951170887
-[06:59:46] [Server thread/WARN]: Hippocampus (vehicle of DjGuetta11) moved too quickly! 0.3705008632107365,0.0,28.89920073809094
-[06:59:46] [Server thread/WARN]: Hippocampus (vehicle of DjGuetta11) moved too quickly! 0.205691756497572,0.0,29.70335841906376
-[06:59:46] [Server thread/WARN]: Hippocampus (vehicle of DjGuetta11) moved too quickly! 0.07085170535970065,0.0,30.510059047149525
-[06:59:46] [Server thread/WARN]: Hippocampus (vehicle of DjGuetta11) moved too quickly! -0.0375556387607503,0.0,31.31900255458868
-[06:59:46] [Server thread/WARN]: Hippocampus (vehicle of DjGuetta11) moved too quickly! -0.12264933529172595,0.0,32.129924281617605
-[06:59:46] [Server thread/WARN]: Hippocampus (vehicle of DjGuetta11) moved too quickly! -0.1871803946489763,0.0,32.94259079832477
-[06:59:46] [Server thread/WARN]: Hippocampus (vehicle of DjGuetta11) moved too quickly! -0.2335752080189195,0.0,33.75679621952804
-[06:59:46] [Server thread/WARN]: Hippocampus (vehicle of DjGuetta11) moved too quickly! -0.30935545481929694,0.0,34.5686525559388
-[06:59:46] [Server thread/WARN]: Hippocampus (vehicle of DjGuetta11) moved too quickly! -0.4110536539055829,0.0,35.37843699956261
-[06:59:46] [Server thread/WARN]: Hippocampus (vehicle of DjGuetta11) moved too quickly! -0.5356114869077828,0.0,36.18639403374823
-[06:59:46] [Server thread/WARN]: Hippocampus (vehicle of DjGuetta11) moved too quickly! -0.6803315170238875,0.0,36.99273929280935
-[06:59:46] [Server thread/WARN]: Hippocampus (vehicle of DjGuetta11) moved too quickly! -0.7974530026031061,0.0,37.801369364769016
-[06:59:46] [Server thread/WARN]: Hippocampus (vehicle of DjGuetta11) moved too quickly! -0.8902325719009241,0.0,38.612014641704945
-[06:59:46] [Server thread/WARN]: Hippocampus (vehicle of DjGuetta11) moved too quickly! -0.9615425710383079,0.0,39.42443732943002
-[06:59:46] [Server thread/WARN]: Hippocampus (vehicle of DjGuetta11) moved too quickly! -1.0592980116857689,0.0,40.234721294913015
-[06:59:46] [Server thread/WARN]: Hippocampus (vehicle of DjGuetta11) moved too quickly! -1.1803783317450325,0.0,41.043118907378584
-[06:59:46] [Server thread/WARN]: Hippocampus (vehicle of DjGuetta11) moved too quickly! -1.322031195445561,0.0,41.84985275648273
-[06:59:46] [Server thread/WARN]: Hippocampus (vehicle of DjGuetta11) moved too quickly! -1.481829042637628,0.0,42.65511916630203
-[06:59:46] [Server thread/WARN]: Hippocampus (vehicle of DjGuetta11) moved too quickly! -1.6576307652692321,0.0,43.459091294672135
-[06:59:46] [Server thread/WARN]: Hippocampus (vehicle of DjGuetta11) moved too quickly! -1.8475479060384714,0.0,44.26192186680396
-[06:59:46] [Server thread/WARN]: Hippocampus (vehicle of DjGuetta11) moved too quickly! -2.0045332432137,0.0,45.06745198489193
-[06:59:46] [Server thread/WARN]: Hippocampus (vehicle of DjGuetta11) moved too quickly! -2.132472729619167,0.0,45.87536310251312
-[06:59:46] [Server thread/WARN]: Hippocampus (vehicle of DjGuetta11) moved too quickly! -2.234793775645585,0.0,46.68537426172247
-[06:59:46] [Server thread/WARN]: Hippocampus (vehicle of DjGuetta11) moved too quickly! -2.3145193572577227,0.0,47.497237657612686
-[06:59:46] [Server thread/WARN]: Hippocampus (vehicle of DjGuetta11) moved too quickly! -2.4196973416478613,0.0,48.30702832769748
-[06:59:46] [Server thread/WARN]: Hippocampus (vehicle of DjGuetta11) moved too quickly! -2.547324345288189,0.0,49.11499085362175
-[06:59:46] [Server thread/WARN]: Hippocampus (vehicle of DjGuetta11) moved too quickly! -2.6947513839070325,0.0,49.92134095639631
-[06:59:46] [Server thread/WARN]: Hippocampus (vehicle of DjGuetta11) moved too quickly! -2.8596420533770015,0.0,50.72626890195306
-[06:59:46] [Server thread/WARN]: Hippocampus (vehicle of DjGuetta11) moved too quickly! -2.9945540428664117,0.0,51.53364890340163
-[06:59:46] [Server thread/WARN]: Hippocampus (vehicle of DjGuetta11) moved too quickly! -3.103024836613031,0.0,52.343191618146875
-[06:59:46] [Server thread/WARN]: Hippocampus (vehicle of DjGuetta11) moved too quickly! -3.188174495714293,0.0,53.154641846019786
-[06:59:46] [Server thread/WARN]: Hippocampus (vehicle of DjGuetta11) moved too quickly! -3.252754914058414,0.0,53.96777450047125
-[06:59:46] [Server thread/WARN]: Hippocampus (vehicle of DjGuetta11) moved too quickly! -3.299193262054814,0.0,54.782391055165135
-[06:59:46] [Server thread/WARN]: Hippocampus (vehicle of DjGuetta11) moved too quickly! -3.3296303040044677,0.0,55.59831640987272
-[06:59:46] [Server thread/WARN]: Hippocampus (vehicle of DjGuetta11) moved too quickly! -3.3459541940208055,0.0,56.41539612619249
-[06:59:46] [Server thread/WARN]: Hippocampus (vehicle of DjGuetta11) moved too quickly! -3.349830284032123,0.0,57.23349398945402
-[06:59:46] [Server thread/WARN]: Hippocampus (vehicle of DjGuetta11) moved too quickly! -3.3427274144389685,0.0,58.05248985831827
-[06:59:46] [Server thread/WARN]: Hippocampus (vehicle of DjGuetta11) moved too quickly! -3.325941102474644,0.0,58.87227776812415
-[06:59:46] [Server thread/WARN]: Hippocampus (vehicle of DjGuetta11) moved too quickly! -3.300613994338846,0.0,59.6927642580406
-[06:59:46] [Server thread/WARN]: Hippocampus (vehicle of DjGuetta11) moved too quickly! -3.267753903980065,0.0,60.513866895614456
-[06:59:46] [Server thread/WARN]: Hippocampus (vehicle of DjGuetta11) moved too quickly! -3.2282497233004506,0.0,61.33551297542226
-[06:59:46] [Server thread/WARN]: Hippocampus (vehicle of DjGuetta11) moved too quickly! -3.182885454957841,0.0,62.1576383712802
-[06:59:46] [Server thread/WARN]: Hippocampus (vehicle of DjGuetta11) moved too quickly! -3.132352589296488,0.0,62.980186523894645
-[06:59:46] [Server thread/WARN]: Hippocampus (vehicle of DjGuetta11) moved too quickly! -3.0772610208000515,0.0,63.80310754796801
-[06:59:46] [Server thread/WARN]: Hippocampus (vehicle of DjGuetta11) moved too quickly! -3.018148676402916,0.0,64.62635744466843
-[06:59:46] [Server thread/WARN]: Hippocampus (vehicle of DjGuetta11) moved too quickly! -2.9554900076616377,0.0,65.44989740702567
-[06:59:46] [Server thread/WARN]: Hippocampus (vehicle of DjGuetta11) moved too quickly! -2.8897034808485387,0.0,66.27369320729235
-[06:59:46] [Server thread/WARN]: Hippocampus (vehicle of DjGuetta11) moved too quickly! -2.821158183216312,0.0,67.09771465659514
-[06:59:46] [Server thread/WARN]: Hippocampus (vehicle of DjGuetta11) moved too quickly! -2.750179649721531,0.0,67.92193512834797
-[06:59:46] [Server thread/WARN]: Hippocampus (vehicle of DjGuetta11) moved too quickly! -2.677055002195857,0.0,68.7463311379015
-[06:59:46] [Server thread/WARN]: Hippocampus (vehicle of DjGuetta11) moved too quickly! -2.6474190844865007,0.0,69.56717557323714
-[06:59:46] [Server thread/WARN]: Hippocampus (vehicle of DjGuetta11) moved too quickly! -2.6561402264749177,0.0,70.38488752011267
-[06:59:46] [Server thread/WARN]: Hippocampus (vehicle of DjGuetta11) moved too quickly! -2.698692295116871,0.0,71.19983661216634
-[06:59:46] [Server thread/WARN]: Hippocampus (vehicle of DjGuetta11) moved too quickly! -2.7710832410673447,0.0,72.01234886626708
-[06:59:46] [Server thread/WARN]: Hippocampus (vehicle of DjGuetta11) moved too quickly! -2.824410474412616,0.0,72.82641822785172
-[06:59:46] [Server thread/WARN]: Hippocampus (vehicle of DjGuetta11) moved too quickly! -2.860923513239868,0.0,73.64186095823698
-[06:59:46] [Server thread/WARN]: Hippocampus (vehicle of DjGuetta11) moved too quickly! -2.882606432502371,0.0,74.45851499990431
-[06:59:46] [Server thread/WARN]: Hippocampus (vehicle of DjGuetta11) moved too quickly! -2.8912091863087426,0.0,75.27623741812249
-[06:59:46] [Server thread/WARN]: Hippocampus (vehicle of DjGuetta11) moved too quickly! -2.897976739220667,0.0,76.08520063942069
-[06:59:46] [Server thread/WARN]: Hippocampus (vehicle of DjGuetta11) moved too quickly! -2.9053776967655267,0.0,76.88940544799152
-[06:59:46] [Server thread/WARN]: Hippocampus (vehicle of DjGuetta11) moved too quickly! -2.9148149186607952,0.0,77.69334721656537
-[06:59:46] [Server thread/WARN]: Hippocampus (vehicle of DjGuetta11) moved too quickly! -2.9260481257131232,0.0,78.4970569838622
-[06:59:46] [Server thread/WARN]: Hippocampus (vehicle of DjGuetta11) moved too quickly! -2.925434233350188,0.0,79.30336255208545
-[06:59:46] [Server thread/WARN]: Hippocampus (vehicle of DjGuetta11) moved too quickly! -2.914912652367093,0.0,80.11195761672593
-[06:59:46] [Server thread/WARN]: Hippocampus (vehicle of DjGuetta11) moved too quickly! -2.9043910713839978,0.0,80.93227352224449
-[06:59:46] [Server thread/WARN]: Hippocampus (vehicle of DjGuetta11) moved too quickly! -2.8845894559735825,0.0,81.75322570437947
-[06:59:46] [Server thread/WARN]: Hippocampus (vehicle of DjGuetta11) moved too quickly! -2.856602850198442,0.0,82.57473908248994
-[06:59:46] [Server thread/WARN]: Hippocampus (vehicle of DjGuetta11) moved too quickly! -2.8213970829217487,0.0,83.39674743545106
-[06:59:46] [Server thread/WARN]: Hippocampus (vehicle of DjGuetta11) moved too quickly! -2.7798240152005746,0.0,84.21919235623045
-[06:59:46] [Server thread/WARN]: Hippocampus (vehicle of DjGuetta11) moved too quickly! -2.7326349884872343,0.0,85.04202232982539
-[06:59:46] [Server thread/WARN]: Hippocampus (vehicle of DjGuetta11) moved too quickly! -2.680492685942909,0.0,85.86519192000378
-[06:59:46] [Server thread/WARN]: Hippocampus (vehicle of DjGuetta11) moved too quickly! -3.429953391959998,0.0,77.27160363252483
-[07:00:23] [Server thread/ERROR]: POI data mismatch: already registered at class_2338{x=-943, y=-19, z=2501}
-[07:00:25] [Server thread/ERROR]: POI data mismatch: already registered at class_2338{x=-957, y=4, z=2510}
-[07:00:25] [Server thread/ERROR]: POI data mismatch: already registered at class_2338{x=-956, y=4, z=2510}
-[07:00:43] [Worker-Main-3/WARN]: Tried to access a block entity before it was created. class_2339{x=-783, y=-37, z=2399}
-[07:00:46] [Server thread/ERROR]: POI data mismatch: already registered at class_2338{x=-1001, y=-36, z=2569}
-[07:00:46] [Server thread/ERROR]: POI data mismatch: already registered at class_2338{x=-1002, y=-36, z=2569}
-[07:00:51] [Server thread/INFO]: Villager class_1646['Unemployed'/319064, l='ServerLevel[world]', x=-844.28, y=109.00, z=2416.63] died, message: 'Unemployed hit the ground too hard'
-[07:00:51] [Server thread/INFO]: Villager class_1646['Unemployed'/319036, l='ServerLevel[world]', x=-844.63, y=105.00, z=2412.72] died, message: 'Unemployed hit the ground too hard'
-[07:00:57] [Server thread/INFO]: Villager class_1646['Unemployed'/319359, l='ServerLevel[world]', x=-824.72, y=114.00, z=2419.37] died, message: 'Unemployed hit the ground too hard'
-[07:01:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2011ms or 40 ticks behind
-[07:01:08] [Server thread/INFO]: Villager class_1646['Unemployed'/319351, l='ServerLevel[world]', x=-828.77, y=98.00, z=2385.72] died, message: 'Unemployed hit the ground too hard'
-[07:01:08] [Server thread/INFO]: Villager class_1646['Unemployed'/319352, l='ServerLevel[world]', x=-832.17, y=91.00, z=2396.20] died, message: 'Unemployed hit the ground too hard'
-[07:01:08] [Server thread/INFO]: Villager class_1646['Unemployed'/319350, l='ServerLevel[world]', x=-827.48, y=90.00, z=2384.67] died, message: 'Unemployed hit the ground too hard'
-[07:01:15] [Server thread/INFO]: Villager class_1646['Unemployed'/319688, l='ServerLevel[world]', x=-815.72, y=120.00, z=2419.37] died, message: 'Unemployed hit the ground too hard'
-[07:01:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2205ms or 44 ticks behind
-[07:01:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2285ms or 45 ticks behind
-[07:01:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3779ms or 75 ticks behind
-[07:04:42] [Server thread/WARN]: DjTwistfly moved too quickly! 0.0,-20.0,0.0
-[07:04:42] [Server thread/WARN]: DjTwistfly moved too quickly! 0.0,-21.0,0.0
-[07:04:42] [Server thread/WARN]: DjTwistfly moved too quickly! 0.0,-21.0,0.0
-[07:04:42] [Server thread/WARN]: DjTwistfly moved too quickly! 0.0,-21.0,0.0
-[07:04:48] [Server thread/WARN]: DjTwistfly moved too quickly! -0.1194570685402141,20.580000013113022,0.19999998807907104
-[07:04:48] [Server thread/WARN]: DjTwistfly moved too quickly! 0.0,20.580000013113022,0.0
-[07:04:49] [Server thread/WARN]: DjTwistfly moved too quickly! 0.0,20.580000013113022,0.0
-[07:04:49] [Server thread/WARN]: DjTwistfly moved too quickly! 0.0,19.580000013113022,0.0
-[07:04:50] [Server thread/WARN]: Gindaz moved too quickly! 0.027459006100798433,20.580000013113022,0.19999998807907104
-[07:04:50] [Server thread/WARN]: Gindaz moved too quickly! 0.0,20.580000013113022,0.0
-[07:04:50] [Server thread/WARN]: Gindaz moved too quickly! 0.0,20.580000013113022,0.0
-[07:04:51] [Server thread/WARN]: Gindaz moved too quickly! 0.0,19.580000013113022,0.0
-[07:05:51] [Server thread/WARN]: DjGuetta11 moved wrongly!
-[07:08:56] [Server thread/WARN]: Gindaz moved too quickly! 0.0,-20.0,0.0
-[07:08:56] [Server thread/WARN]: Gindaz moved too quickly! 0.0,-21.0,0.0
-[07:08:57] [Server thread/WARN]: Gindaz moved too quickly! 0.0,-21.0,0.0
-[07:08:57] [Server thread/WARN]: Gindaz moved too quickly! 0.0,-21.0,0.0
-[07:08:58] [Server thread/WARN]: Gindaz moved too quickly! 0.0,20.580000013113022,0.0
-[07:08:59] [Server thread/WARN]: Gindaz moved too quickly! 0.0,20.580000013113022,0.0
-[07:09:00] [Server thread/WARN]: Gindaz moved too quickly! 0.0,20.580000013113022,0.0
-[07:09:00] [Server thread/WARN]: Gindaz moved too quickly! 0.0,19.580000013113022,0.0
-[07:10:51] [Server thread/WARN]: Gindaz moved too quickly! 0.0,-20.0,0.0
-[07:10:51] [Server thread/WARN]: Gindaz moved too quickly! 0.0,-21.0,0.0
-[07:10:51] [Server thread/WARN]: Gindaz moved too quickly! 0.0,-21.0,0.0
-[07:10:51] [Server thread/WARN]: Gindaz moved too quickly! 0.0,-21.0,0.0
-[07:11:25] [Worker-Main-32/WARN]: Tried to access a block entity before it was created. class_2338{x=-705, y=-48, z=1430}
-[07:11:30] [Server thread/ERROR]: POI data mismatch: already registered at class_2338{x=-515, y=31, z=1452}
-[07:11:39] [Worker-Main-18/WARN]: Tried to access a block entity before it was created. class_2339{x=-626, y=20, z=1473}
-[07:11:39] [Worker-Main-18/WARN]: Tried to access a block entity before it was created. class_2339{x=-626, y=20, z=1474}
-[07:11:39] [Worker-Main-18/WARN]: Tried to access a block entity before it was created. class_2339{x=-626, y=20, z=1475}
-[07:13:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
-[07:13:20] [Server thread/INFO]: Villager class_1646['Armorer'/336984, l='ServerLevel[world]', x=-769.20, y=152.04, z=2432.49] died, message: 'Armorer drowned'
-[07:13:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3461ms or 69 ticks behind
-[07:13:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3963ms or 79 ticks behind
-[07:13:54] [Server thread/INFO]: [Not Secure] <DjGuetta11> [x:-935, y:79, z:2401, dim:minecraft:overworld]
-[07:14:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2728ms or 54 ticks behind
-[07:15:09] [Server thread/INFO]: DjTwistfly lost connection: Disconnected
-[07:15:09] [Server thread/INFO]: DjTwistfly left the game
-[07:15:32] [Server thread/ERROR]: POI data mismatch: already registered at class_2338{x=-420, y=-8, z=1565}
-[07:15:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
-[07:15:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4478ms or 89 ticks behind
-[07:16:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3605ms or 72 ticks behind
-[07:16:12] [Server thread/ERROR]: POI data mismatch: already registered at class_2338{x=-757, y=-30, z=1700}
-[07:16:15] [Server thread/ERROR]: POI data mismatch: already registered at class_2338{x=-662, y=-45, z=1719}
-[07:16:15] [Server thread/ERROR]: POI data mismatch: already registered at class_2338{x=-662, y=-45, z=1721}
-[07:16:15] [Server thread/ERROR]: POI data mismatch: already registered at class_2338{x=-755, y=-18, z=1717}
-[07:16:23] [Server thread/ERROR]: POI data mismatch: already registered at class_2338{x=-709, y=-18, z=1769}
-[07:16:23] [Server thread/ERROR]: POI data mismatch: already registered at class_2338{x=-707, y=-18, z=1769}
-[07:16:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2429ms or 48 ticks behind
-[07:16:31] [Server thread/ERROR]: POI data mismatch: already registered at class_2338{x=-668, y=36, z=1804}
-[07:16:31] [Server thread/ERROR]: POI data mismatch: already registered at class_2338{x=-668, y=36, z=1802}
-[07:16:47] [Server thread/ERROR]: POI data mismatch: already registered at class_2338{x=-689, y=-27, z=2465}
-[07:16:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2646ms or 52 ticks behind
-[07:16:53] [Server thread/INFO]: Villager class_1646['Nitwit'/342754, l='ServerLevel[world]', x=-743.49, y=159.00, z=2422.30] died, message: 'Nitwit suffocated in a wall'
-[07:16:59] [Server thread/INFO]: Villager class_1646['Leatherworker'/343164, l='ServerLevel[world]', x=-723.53, y=184.00, z=2451.27] died, message: 'Leatherworker suffocated in a wall'
-[07:17:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2724ms or 54 ticks behind
-[07:17:09] [Server thread/INFO]: DjTwistfly[/100.95.48.32:56379] logged in with entity id 346572 at (-1545.661187827965, 69.0, 388.72977132566547)
-[07:17:09] [Server thread/INFO]: Syncing config to DjTwistfly (ce1a9492-5b4d-3fbb-9f7e-c74699881e3b)
-[07:17:09] [Server thread/INFO]: Loading config from file...
-[07:17:09] [Server thread/INFO]: DjTwistfly joined the game
-[07:17:12] [Netty Epoll Server IO #3/INFO]: Priority overwritten for player DjTwistfly. Claiming: GRAVE / Robbing: INVENTORY
-[07:17:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2681ms or 53 ticks behind
-[07:17:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2067ms or 41 ticks behind
-[07:17:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2611ms or 52 ticks behind
-[07:18:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
-[07:18:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2044ms or 40 ticks behind
-[07:18:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2012ms or 40 ticks behind
-[07:19:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4499ms or 89 ticks behind
-[07:19:34] [Worker-Main-1/WARN]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/short_oak_pathway
-[07:19:34] [Worker-Main-1/WARN]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/short_oak_pathway
-[07:19:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4205ms or 84 ticks behind
-[07:20:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
-[07:20:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3622ms or 72 ticks behind
-[07:20:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2061ms or 41 ticks behind
-[07:21:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2203ms or 44 ticks behind
-[07:21:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3507ms or 70 ticks behind
-[07:21:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4350ms or 87 ticks behind
-[07:22:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2460ms or 49 ticks behind
-[07:22:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2900ms or 58 ticks behind
-[07:22:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3059ms or 61 ticks behind
-[07:22:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4709ms or 94 ticks behind
-[07:23:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4323ms or 86 ticks behind
-[07:23:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5108ms or 102 ticks behind
-[07:23:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2487ms or 49 ticks behind
-[07:23:56] [Server thread/INFO]: Villager class_1646['Unemployed'/358682, l='ServerLevel[world]', x=-804.69, y=170.00, z=2443.18] died, message: 'Unemployed hit the ground too hard'
-[07:24:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2693ms or 53 ticks behind
-[07:24:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3196ms or 63 ticks behind
-[07:24:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4207ms or 84 ticks behind
-[07:25:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4661ms or 93 ticks behind
-[07:25:25] [Server thread/WARN]: Gindaz moved too quickly! 5.911252409132658,-0.7967356006687112,8.066228657073452
-[07:25:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5745ms or 114 ticks behind
-[07:25:44] [Server thread/INFO]: Santialpz withered away whilst fighting Corvin the Rotten
-[07:25:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4781ms or 95 ticks behind
-[07:26:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3352ms or 67 ticks behind
-[07:26:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2831ms or 56 ticks behind
-[07:26:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4854ms or 97 ticks behind
-[07:26:58] [Server thread/INFO]: [DjGuetta11: Teleported Santialpz to -989.500000, 46.000000, 2205.500000]
-[07:27:00] [Server thread/INFO]: Santialpz was slain by Corvin the Rotten
-[07:27:00] [Server thread/INFO]: Did not backup data (grave data empty)
-[07:27:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3763ms or 75 ticks behind
-[07:27:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3676ms or 73 ticks behind
-[07:27:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2045ms or 40 ticks behind
-[07:27:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2208ms or 44 ticks behind
-[07:28:11] [Server thread/INFO]: [Not Secure] <DjGuetta11> pique pa abajo
-[07:29:05] [Server thread/INFO]: [Not Secure] <DjGuetta11> -52
-[07:29:35] [Server thread/INFO]: Villager class_1646['Unemployed'/335679, l='ServerLevel[world]', x=-800.51, y=145.00, z=2431.49] died, message: 'Unemployed hit the ground too hard'
-[07:31:29] [Server thread/INFO]: Named entity class_1642['Corvin the Rotten'/365690, l='ServerLevel[world]', x=-986.41, y=45.75, z=2207.67] died: Corvin the Rotten was burnt to a crisp whilst fighting DjTwistfly
-[07:32:13] [Server thread/WARN]: DjGuetta11 moved too quickly! -10.05667916374739,0.0,1.6448433033719994
-[07:32:19] [Netty Epoll Server IO #7/ERROR]: Exception occurred in netty pipeline
-io.netty.channel.unix.Errors$NativeIoException: recvAddress(..) failed: Connection reset by peer
-[07:32:19] [Netty Epoll Server IO #7/ERROR]: Twilight Forest: Exception occurred in netty pipeline
-io.netty.channel.unix.Errors$NativeIoException: recvAddress(..) failed: Connection reset by peer
-[07:32:19] [Server thread/INFO]: DjGuetta11 lost connection: Disconnected
-[07:32:19] [Server thread/INFO]: DjGuetta11 left the game
-[07:32:47] [Worker-Main-32/WARN]: Tried to access a block entity before it was created. class_2339{x=-514, y=-30, z=637}
-[07:32:47] [Worker-Main-32/WARN]: Tried to access a block entity before it was created. class_2339{x=-514, y=-30, z=637}
-[07:33:01] [Worker-Main-3/WARN]: Tried to access a block entity before it was created. class_2339{x=-193, y=-31, z=673}
-[07:33:01] [Worker-Main-3/WARN]: Tried to access a block entity before it was created. class_2339{x=-192, y=-31, z=673}
-[07:33:01] [Worker-Main-3/WARN]: Tried to access a block entity before it was created. class_2339{x=-191, y=-31, z=673}
-[07:33:20] [Server thread/ERROR]: POI data mismatch: already registered at class_2338{x=-485, y=21, z=692}
-[07:33:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
-[07:35:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
-[07:36:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
-[07:36:34] [Server thread/INFO]: Villager class_1646['Unemployed'/334881, l='ServerLevel[world]', x=-803.30, y=167.44, z=2439.62] died, message: 'Unemployed went up in flames'
-[07:37:47] [Server thread/INFO]: Santialpz claimed a grave belonging to Santialpz at -990, 46, 2205, minecraft:overworld
-[07:37:49] [Server thread/INFO]: DjGuetta11[/100.71.91.78:57334] logged in with entity id 381152 at (-975.2338882504929, -41.0, 2466.3770554520675)
-[07:37:49] [Server thread/INFO]: Syncing config to DjGuetta11 (02ab1a57-0edd-3713-9f58-15ec834d0062)
-[07:37:49] [Server thread/INFO]: Loading config from file...
-[07:37:49] [Server thread/INFO]: DjGuetta11 joined the game
-[07:37:53] [Netty Epoll Server IO #1/INFO]: Priority overwritten for player DjGuetta11. Claiming: GRAVE / Robbing: INVENTORY
-[07:38:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2012ms or 40 ticks behind
-[07:38:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2347ms or 46 ticks behind
-[07:39:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
-[07:39:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
-[07:40:22] [Server thread/INFO]: Named entity class_1549['Arag the Lurker'/385045, l='ServerLevel[world]', x=-1217.64, y=-54.49, z=2309.48] died: Arag the Lurker tried to swim in lava
-[07:47:39] [Server thread/INFO]: Gindaz has made the advancement [Cover Me with Diamonds]
-[07:51:26] [Server thread/INFO]: DjTwistfly was blown up by Creeper
-[07:51:44] [Server thread/INFO]: DjTwistfly was slain by Spider
-[07:52:11] [Server thread/INFO]: DjTwistfly was pricked to death
-[07:52:11] [Server thread/INFO]: Did not backup data (grave data empty)
-[07:52:41] [Server thread/INFO]: DjTwistfly claimed a grave belonging to DjTwistfly at -956, -17, 2320, minecraft:overworld
-[07:53:09] [Server thread/INFO]: DjGuetta11 was slain by Ice Dragon
-[07:53:41] [Server thread/INFO]: DjGuetta11 was frozen by Ice Dragon
-[07:54:42] [Server thread/INFO]: DjGuetta11 was turned to ice by Ice Dragon
-[07:54:42] [Server thread/INFO]: Did not backup data (grave data empty)
-[07:56:05] [Server thread/INFO]: DjGuetta11 was turned to ice by Ice Dragon
-[07:57:44] [Server thread/INFO]: DjGuetta11 claimed a grave belonging to DjGuetta11 at -967, -8, 2308, minecraft:overworld
-[07:58:06] [Server thread/INFO]: DjGuetta11 claimed a grave belonging to DjGuetta11 at -965, -14, 2312, minecraft:overworld
-[07:59:10] [Server thread/INFO]: DjGuetta11 claimed a grave belonging to DjGuetta11 at -969, -7, 2312, minecraft:overworld
-[08:02:02] [Server thread/INFO]: Santialpz lost connection: Disconnected
-[08:02:02] [Server thread/INFO]: Santialpz left the game
-[08:16:22] [Server thread/INFO]: Santialpz[/100.107.90.77:63820] logged in with entity id 422587 at (-922.3750021914254, -13.0, 2319.300000011921)
-[08:16:22] [Server thread/INFO]: Syncing config to Santialpz (b0e44f22-1b97-32b4-8303-fba29026f2f8)
-[08:16:22] [Server thread/INFO]: Loading config from file...
-[08:16:22] [Server thread/INFO]: Santialpz joined the game
-[08:16:23] [Netty Epoll Server IO #4/INFO]: Priority overwritten for player Santialpz. Claiming: GRAVE / Robbing: INVENTORY
-[08:20:36] [Server thread/INFO]: Named entity class_1642['Corvin the Rotten'/353115, l='ServerLevel[world]', x=-995.74, y=-10.00, z=2303.70] died: Corvin the Rotten was slain by DjTwistfly
-[08:21:08] [Server thread/WARN]: DjGuetta11 moved wrongly!
-[08:22:22] [Server thread/INFO]: Villager class_1646['Unemployed'/429168, l='ServerLevel[world]', x=-786.04, y=118.50, z=2389.01] died, message: 'Unemployed hit the ground too hard'
-[08:24:13] [Server thread/INFO]: DjTwistfly lost connection: Disconnected
-[08:24:13] [Server thread/INFO]: DjTwistfly left the game
-[08:26:13] [Server thread/INFO]: DjTwistfly[/100.95.48.32:57150] logged in with entity id 439432 at (-1013.3834246316774, 58.0, 2318.300000011921)
-[08:26:13] [Server thread/INFO]: Syncing config to DjTwistfly (ce1a9492-5b4d-3fbb-9f7e-c74699881e3b)
-[08:26:13] [Server thread/INFO]: Loading config from file...
-[08:26:13] [Server thread/INFO]: DjTwistfly joined the game
-[08:26:15] [Netty Epoll Server IO #5/INFO]: Priority overwritten for player DjTwistfly. Claiming: GRAVE / Robbing: INVENTORY
-[08:26:19] [Server thread/INFO]: Santialpz was doomed to fall by Zombie
-[08:27:54] [Server thread/INFO]: [DjGuetta11: Teleported Santialpz to -933.500000, 47.000000, 2170.500000]
-[08:28:00] [Server thread/INFO]: Santialpz claimed a grave belonging to Santialpz at -934, 47, 2170, minecraft:overworld
-[08:31:11] [Server thread/WARN]: DjGuetta11 moved wrongly!
-[08:32:39] [Server thread/WARN]: DjTwistfly moved wrongly!
-[08:38:16] [Server thread/INFO]: DjGuetta11 has made the advancement [Unknown Technology]
-[08:40:23] [Server thread/INFO]: Named entity class_1632['Uzsahe the Endborn'/448773, l='ServerLevel[world]', x=-755.57, y=114.00, z=1958.87] died: Uzsahe the Endborn was shot by DjTwistfly
-[08:43:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2033ms or 40 ticks behind
-[08:43:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2064ms or 41 ticks behind
-[08:46:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2017ms or 40 ticks behind
-[08:47:29] [Server thread/INFO]: Villager class_1646['Unemployed'/456922, l='ServerLevel[world]', x=-867.46, y=88.00, z=2366.66] died, message: 'Unemployed hit the ground too hard'
-[08:49:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2071ms or 41 ticks behind
-[08:49:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2312ms or 46 ticks behind
-[08:49:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3915ms or 78 ticks behind
-[08:50:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5491ms or 109 ticks behind
-[08:50:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6668ms or 133 ticks behind
-[08:50:34] [Server thread/ERROR]: POI data mismatch: already registered at class_2338{x=-1785, y=-33, z=1581}
-[08:50:34] [Server thread/ERROR]: POI data mismatch: already registered at class_2338{x=-1785, y=-33, z=1579}
-[08:50:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7132ms or 142 ticks behind
-[08:51:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3252ms or 65 ticks behind
-[08:51:13] [pool-7-thread-7/INFO]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_ocean], ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_badlands], ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_mushroom], ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_bamboo], ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_birch], ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_crimson], ResourceKey[minecraft:worldgen/structure / minecraft:village_savanna], ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_swamp]] from pos class_2338{x=-1797, y=85, z=1547}
-[08:51:17] [Server thread/ERROR]: POI data mismatch: already registered at class_2338{x=-1848, y=26, z=1537}
-[08:51:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2535ms or 50 ticks behind
-[08:51:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2203ms or 44 ticks behind
-[08:52:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2102ms or 42 ticks behind
-[08:52:55] [Worker-Main-1/WARN]: Tried to access a block entity before it was created. class_2339{x=-303, y=15, z=1148}
-[08:52:55] [Worker-Main-1/WARN]: Tried to access a block entity before it was created. class_2339{x=-303, y=15, z=1150}
-[08:52:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2058ms or 41 ticks behind
-[08:52:59] [Worker-Main-3/WARN]: Tried to access a block entity before it was created. class_2338{x=-287, y=-18, z=1036}
-[08:52:59] [Worker-Main-3/WARN]: Tried to access a block entity before it was created. class_2338{x=-288, y=-18, z=1039}
-[08:56:38] [Server thread/INFO]: Gindaz has made the advancement [Chest Slayer]
-[08:57:01] [Server thread/ERROR]: POI data mismatch: already registered at class_2338{x=-279, y=-3, z=1338}
-[09:00:17] [Server thread/INFO]: DjTwistfly lost connection: Timed out
-[09:00:17] [Server thread/INFO]: DjTwistfly left the game
-[09:00:31] [Netty Epoll Server IO #1/ERROR]: Exception occurred in netty pipeline
-io.netty.handler.timeout.ReadTimeoutException: null
-[09:00:31] [Netty Epoll Server IO #1/ERROR]: Twilight Forest: Exception occurred in netty pipeline
-io.netty.handler.timeout.ReadTimeoutException: null
-[09:00:31] [Server thread/INFO]: DjGuetta11 lost connection: Timed out
-[09:00:31] [Server thread/INFO]: DjGuetta11 left the game
-[09:00:54] [Server thread/INFO]: DjGuetta11[/100.71.91.78:57934] logged in with entity id 506837 at (-537.6999999880791, -36.0, 1321.7766370577826)
-[09:00:54] [Server thread/INFO]: Syncing config to DjGuetta11 (02ab1a57-0edd-3713-9f58-15ec834d0062)
-[09:00:54] [Server thread/INFO]: Loading config from file...
-[09:00:54] [Server thread/INFO]: DjGuetta11 joined the game
-[09:00:54] [Netty Epoll Server IO #0/INFO]: Priority overwritten for player DjGuetta11. Claiming: GRAVE / Robbing: INVENTORY
-[09:02:36] [Server thread/INFO]: DjGuetta11 lost connection: Disconnected
-[09:02:36] [Server thread/INFO]: DjGuetta11 left the game
-[09:02:41] [Server thread/INFO]: Gindaz lost connection: Disconnected
-[09:02:41] [Server thread/INFO]: Gindaz left the game
-[09:02:48] [Server thread/INFO]: Santialpz lost connection: Disconnected
-[09:02:48] [Server thread/INFO]: Santialpz left the game
-[09:04:41] [Server thread/INFO]: Stopping the server
-[09:04:42] [Server thread/INFO]: UDP server is stopped
-[09:04:42] [Server thread/INFO]: Stopping server
-[09:04:42] [Server thread/INFO]: Saving players
-[09:04:42] [Server thread/INFO]: Saving worlds
-[09:04:42] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[09:04:42] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/twilightforest:twilight_forest
-[09:04:42] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[09:04:42] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/iceandfire:dread_land
-[09:04:42] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/graveyard:past
-[09:04:42] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/deeperdarker:otherside
-[09:04:42] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/the_bumblezone:the_bumblezone
-[09:04:42] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[09:04:42] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/ae2:spatial_storage
-[09:04:42] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[09:04:42] [Server thread/INFO]: ThreadedAnvilChunkStorage (twilight_forest): All chunks are saved
-[09:04:42] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[09:04:42] [Server thread/INFO]: ThreadedAnvilChunkStorage (dread_land): All chunks are saved
-[09:04:42] [Server thread/INFO]: ThreadedAnvilChunkStorage (past): All chunks are saved
-[09:04:42] [Server thread/INFO]: ThreadedAnvilChunkStorage (otherside): All chunks are saved
-[09:04:42] [Server thread/INFO]: ThreadedAnvilChunkStorage (the_bumblezone): All chunks are saved
-[09:04:42] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[09:04:42] [Server thread/INFO]: ThreadedAnvilChunkStorage (spatial_storage): All chunks are saved
-[09:04:42] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[21:47:28] [main/INFO]: Loaded boss variant for: minecraft:drowned
+[21:47:28] [main/INFO]: Loaded boss variant for: minecraft:iron_golem
+[21:47:28] [main/INFO]: Loaded boss variant for: minecraft:snow_golem
+[21:47:28] [main/INFO]: Loaded boss variant for: minecraft:zombie
+[21:47:28] [main/INFO]: Loaded boss variant for: minecraft:skeleton
+[21:47:28] [main/INFO]: Loaded boss variant for: minecraft:pillager
+[21:47:28] [main/INFO]: Loaded boss variant for: minecraft:vex
+[21:47:28] [main/INFO]: Loaded boss variant for: minecraft:evoker
+[21:47:28] [main/INFO]: Loaded boss variant for: minecraft:zombie
+[21:47:28] [main/INFO]: Loaded boss variant for: minecraft:vindicator
+[21:47:28] [main/INFO]: Loaded boss variant for: minecraft:wither_skeleton
+[21:47:28] [main/INFO]: Loaded boss variant for: minecraft:wither_skeleton
+[21:47:28] [main/INFO]: Loaded boss variant for: minecraft:cave_spider
+[21:47:28] [main/INFO]: Loaded boss variant for: minecraft:zombie
+[21:47:28] [main/INFO]: Loaded boss variant for: minecraft:husk
+[21:47:28] [main/INFO]: Loaded boss variant for: minecraft:evoker
+[21:47:28] [main/INFO]: Loaded boss variant for: minecraft:wandering_trader
+[21:47:28] [main/INFO]: Loaded boss variant for: minecraft:guardian
+[21:47:28] [main/INFO]: Loaded boss variant for: minecraft:vindicator
+[21:47:28] [main/INFO]: Loaded boss variant for: minecraft:shulker
+[21:47:28] [main/INFO]: Loaded boss variant for: minecraft:zoglin
+[21:47:28] [main/INFO]: Loaded boss variant for: minecraft:chicken
+[21:47:28] [main/INFO]: Loaded boss variant for: minecraft:blaze
+[21:47:28] [main/INFO]: Loaded boss variant for: minecraft:witch
+[21:47:28] [main/INFO]: Loaded boss variant for: minecraft:phantom
+[21:47:28] [main/INFO]: Loaded boss variant for: minecraft:mooshroom
+[21:47:28] [main/INFO]: Loaded boss variant for: minecraft:rabbit
+[21:47:28] [main/INFO]: Loaded boss variant for: minecraft:piglin_brute
+[21:47:28] [main/INFO]: Loaded boss variant for: minecraft:ghast
+[21:47:28] [main/INFO]: Loaded boss variant for: minecraft:stray
+[21:47:28] [main/INFO]: Ice And Fire common config version match.
+[21:47:28] [main/INFO]: Successfully reload 2 server config(s).
+[21:47:28] [main/INFO]: Reloading config...
+[21:47:28] [main/WARN]: Could not decode GlobalLootModifier with json id supplementaries:ash_from_burning_mobs - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: moonlight:add_item
+[21:47:28] [main/WARN]: Could not decode GlobalLootModifier with json id supplementaries:straw_from_flax - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: moonlight:add_item
+[21:47:28] [main/WARN]: Could not decode GlobalLootModifier with json id supplementaries:fishing_antique_ink - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: moonlight:add_item
+[21:47:28] [main/WARN]: Could not decode GlobalLootModifier with json id supplementaries:fishing_antique_ink_treasure - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: moonlight:add_item
+[21:47:28] [main/WARN]: Could not decode GlobalLootModifier with json id supplementaries:replace_rope - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: supplementaries:replace_rope
+[21:47:28] [main/INFO]: Loaded 44 chiseling recipes
+[21:47:28] [main/INFO]: Loaded 27 flute songs
+[21:47:28] [main/INFO]: Loaded 9 Stalactite configs!
+[21:47:28] [main/INFO]: Deserializing default trades of profession: villagersplus:alchemist
+[21:47:28] [main/INFO]: Deserializing default trades of profession: villagersplus:horticulturist
+[21:47:28] [main/INFO]: Deserializing default trades of profession: villagersplus:occultist
+[21:47:28] [main/INFO]: Deserializing default trades of profession: villagersplus:oceanographer
+[21:47:28] [main/INFO]: Reloading grave shape (server)
+[21:47:28] [main/INFO]: Grave model and shape reload successful (server)
+[21:47:28] [main/INFO]: Reloading YIGD graveyard data (server)
+[21:47:28] [main/INFO]: Graveyard data successfully reloaded (server)
+[21:47:28] [main/INFO]: Reloading YIGD grave area overrides (server)
+[21:47:28] [main/INFO]: Grave area overrides successfully reloaded (server)
+[21:47:28] [main/INFO]: Applied 7 data villager trades
+[21:47:28] [main/INFO]: Finished additional setup in 0 ms
+[21:47:29] [main/INFO]: Initialized TerraBlender biomes for level stem minecraft:the_nether
+[21:47:29] [main/INFO]: Initialized TerraBlender biomes for level stem minecraft:overworld
+[21:47:29] [main/INFO]: Applied 5408 biome modifications to 277 of 277 new biomes in 122.1 ms
+[21:47:29] [Server thread/INFO]: Loading server config for easyanvils
+[21:47:29] [Thread-3/INFO]: Reloading server config for easyanvils
+[21:47:29] [Server thread/INFO]: Loading server config for easymagic
+[21:47:29] [Thread-3/INFO]: Reloading server config for easyanvils
+[21:47:29] [Thread-3/INFO]: Reloading server config for easymagic
+[21:47:29] [Thread-3/INFO]: Reloading server config for easymagic
+[21:47:30] [Server thread/INFO]: Scanning class appeng.server.testplots.TestPlots for plots
+[21:47:30] [Server thread/INFO]: Scanning class appeng.server.testplots.AutoCraftingTestPlots for plots
+[21:47:30] [Server thread/INFO]: Scanning class appeng.server.testplots.InscriberTestPlots for plots
+[21:47:30] [Server thread/INFO]: Scanning class appeng.server.testplots.P2PTestPlots for plots
+[21:47:30] [Server thread/INFO]: Scanning class appeng.server.testplots.ItemP2PTestPlots for plots
+[21:47:30] [Server thread/INFO]: Scanning class appeng.server.testplots.MemoryCardTestPlots for plots
+[21:47:30] [Server thread/INFO]: Scanning class appeng.server.testplots.PatternProviderLockModePlots for plots
+[21:47:30] [Server thread/INFO]: Scanning class appeng.server.testplots.PatternProviderPlots for plots
+[21:47:30] [Server thread/INFO]: Scanning class appeng.server.testplots.SpatialTestPlots for plots
+[21:47:30] [Server thread/INFO]: Scanning class appeng.server.testplots.QnbTestPlots for plots
+[21:47:30] [Server thread/INFO]: Scanning class appeng.server.testplots.GuidebookPlot for plots
+[21:47:30] [Server thread/INFO]: Scanning class appeng.server.testplots.SubnetPlots for plots
+[21:47:30] [Server thread/INFO]: Scanning class appeng.server.testplots.ChannelTests for plots
+[21:47:30] [Server thread/INFO]: Scanning class appeng.server.testplots.AnnihilationPlaneTests for plots
+[21:47:30] [Server thread/INFO]: Starting minecraft server version 1.20.1
+[21:47:30] [Server thread/INFO]: Loading properties
+[21:47:30] [Server thread/INFO]: Default game type: SURVIVAL
+[21:47:30] [Server thread/INFO]: Generating keypair
+[21:47:30] [Server thread/INFO]: Starting Minecraft server on *:25565
+[21:47:30] [Server thread/INFO]: Using epoll channel type
+[21:47:30] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[21:47:30] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[21:47:30] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[21:47:30] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[21:47:30] [Server thread/INFO]: Preparing level "world"
+[21:47:37] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[21:47:39] [Server thread/INFO]: Preparing spawn area: 0%
+[21:47:39] [Server thread/INFO]: Preparing spawn area: 0%
+[21:47:39] [Server thread/INFO]: Preparing spawn area: 0%
+[21:47:39] [Server thread/INFO]: Preparing spawn area: 0%
+[21:47:39] [Server thread/INFO]: Preparing spawn area: 11%
+[21:47:40] [Server thread/INFO]: Preparing spawn area: 86%
+[21:47:40] [Server thread/INFO]: Loaded config for: brutalbosses.json
+[21:47:40] [Server thread/INFO]: Time elapsed: 2598 ms
+[21:47:40] [Server thread/INFO]: Done (9.639s)! For help, type "help"
+[21:47:40] [Server thread/WARN]: Dedicated server took 45.072 seconds to load
+[21:47:40] [Server thread/INFO]: [Dynamic Lights] Sending global config to server...
+[21:47:40] [Server thread/INFO]: [STDOUT]: PREPARING FOR RELOAD
+[21:47:40] [Server thread/INFO]: Start loading plugin from Applied Energistics 2
+[21:47:40] [Server thread/INFO]: Start loading plugin from Ice And Fire Community Edition
+[21:47:40] [Server thread/INFO]: Start loading plugin from Infinity Buttons
+[21:47:40] [Server thread/INFO]: Start loading plugin from Jade
+[21:47:40] [Server thread/INFO]: Start loading plugin from Jade
+[21:47:40] [Server thread/INFO]: Start loading plugin from Jade
+[21:47:40] [Server thread/INFO]: Start loading plugin from Supplementaries
+[21:47:40] [Server thread/INFO]: Start loading plugin from HT's TreeChop
+[21:47:40] [Server thread/INFO]: Start loading plugin from The Twilight Forest
+[21:47:40] [Server thread/INFO]: Start loading plugin from Waystones
+[21:47:40] [Server thread/INFO]: UDP server is started on /[0:0:0:0:0:0:0:0]:25565
+[21:47:47] [Server thread/INFO]: Stopping the server
+[21:47:47] [Server thread/INFO]: UDP server is stopped
+[21:47:47] [Server thread/INFO]: Stopping server
+[21:47:47] [Server thread/INFO]: Saving players
+[21:47:47] [Server thread/INFO]: Saving worlds
+[21:47:48] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[21:47:48] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[21:47:48] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[21:47:48] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/graveyard:past
+[21:47:48] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/the_bumblezone:the_bumblezone
+[21:47:48] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/twilightforest:twilight_forest
+[21:47:48] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/deeperdarker:otherside
+[21:47:48] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/iceandfire:dread_land
+[21:47:48] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/ae2:spatial_storage
+[21:47:48] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[21:47:48] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[21:47:48] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[21:47:48] [Server thread/INFO]: ThreadedAnvilChunkStorage (past): All chunks are saved
+[21:47:48] [Server thread/INFO]: ThreadedAnvilChunkStorage (the_bumblezone): All chunks are saved
+[21:47:48] [Server thread/INFO]: ThreadedAnvilChunkStorage (twilight_forest): All chunks are saved
+[21:47:48] [Server thread/INFO]: ThreadedAnvilChunkStorage (otherside): All chunks are saved
+[21:47:48] [Server thread/INFO]: ThreadedAnvilChunkStorage (dread_land): All chunks are saved
+[21:47:48] [Server thread/INFO]: ThreadedAnvilChunkStorage (spatial_storage): All chunks are saved
+[21:47:48] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
