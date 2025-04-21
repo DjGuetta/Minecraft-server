@@ -10485,12 +10485,6 @@
     },
     "done": true
   },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "requirement": "2025-04-21 04:35:46 +0000"
-    },
-    "done": false
-  },
   "create:recipes/building_blocks/crafting/kinetics/yellow_seat_from_other_seat": {
     "criteria": {
       "has_seat": "2025-04-21 04:30:08 +0000"

@@ -1540,3 +1540,11 @@ java.lang.IllegalStateException: recursive call to sendBlockUpdated
 [04:33:18] [Server thread/WARN]: Santialpz moved too quickly! -10.064925242643994,2.252203340253729,0.8713593920692801
 [04:33:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2024ms or 40 ticks behind
 [04:33:38] [Server thread/WARN]: DjGuetta11 moved wrongly!
+[04:39:14] [Server thread/WARN]: DjGuetta11 moved wrongly!
+[04:39:14] [Server thread/WARN]: DjGuetta11 moved wrongly!
+[04:39:36] [Worker-Main-18/WARN]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wooden_wheat_farm
+[04:41:10] [Server thread/INFO]: Villager class_1646['Unemployed'/86337, l='ServerLevel[world]', x=-1656.50, y=147.00, z=2691.50] died, message: 'Unemployed went up in flames'
+[04:43:59] [Server thread/INFO]: Villager class_1646['Nitwit'/97354, l='ServerLevel[world]', x=-1536.63, y=228.00, z=2970.72] died, message: 'Nitwit suffocated in a wall'
+[04:44:02] [Server thread/INFO]: Gindaz claimed a grave belonging to Gindaz at -3809, 62, -232, minecraft:overworld
+[04:44:29] [Server thread/INFO]: DjTwistfly lost connection: Disconnected
+[04:44:29] [Server thread/INFO]: DjTwistfly left the game
