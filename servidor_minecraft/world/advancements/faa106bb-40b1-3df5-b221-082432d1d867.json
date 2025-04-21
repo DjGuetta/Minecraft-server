@@ -1039,6 +1039,7 @@
       "minecraft:creeper": "2025-04-21 05:52:45 +0000",
       "minecraft:slime": "2025-04-13 06:51:15 +0000",
       "minecraft:husk": "2025-04-21 05:36:35 +0000",
+      "minecraft:cave_spider": "2025-04-21 07:35:49 +0000",
       "minecraft:piglin": "2025-04-19 05:31:32 +0000",
       "minecraft:enderman": "2025-04-21 06:00:48 +0000",
       "minecraft:zombie": "2025-04-13 05:33:56 +0000"
@@ -5004,6 +5005,12 @@
       "has_item": "2025-04-19 08:33:38 +0000"
     },
     "done": true
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "requirement": "2025-04-21 07:41:08 +0000"
+    },
+    "done": false
   },
   "biomesoplenty:recipes/building_blocks/cut_orange_sandstone_slab_from_orange_sandstone_stonecutting": {
     "criteria": {

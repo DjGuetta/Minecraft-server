@@ -73,6 +73,7 @@
       "volcanic_plains": "2025-04-13 23:55:37 +0000",
       "lavender_field": "2025-02-17 04:39:09 +0000",
       "prairie": "2025-02-19 02:53:07 +0000",
+      "tundra": "2025-04-21 07:37:40 +0000",
       "glowing_grotto": "2025-04-14 00:51:10 +0000",
       "undergrowth": "2025-04-19 05:01:07 +0000",
       "rainforest": "2025-04-13 23:56:03 +0000",
@@ -1345,6 +1346,7 @@
       "minecraft:stony_shore": "2025-04-18 23:13:16 +0000",
       "minecraft:forest": "2025-02-17 03:52:41 +0000",
       "minecraft:lush_caves": "2025-04-14 00:50:16 +0000",
+      "minecraft:ice_spikes": "2025-04-21 07:40:06 +0000",
       "minecraft:desert": "2025-04-14 06:22:30 +0000",
       "minecraft:ocean": "2025-02-19 02:52:12 +0000",
       "minecraft:jungle": "2025-04-14 00:49:39 +0000",
@@ -7534,6 +7536,7 @@
   },
   "nova_structures:adventure/find_all_illager_structures": {
     "criteria": {
+      "tavern_dark_oak": "2025-04-21 07:35:28 +0000",
       "pillager_outpost": "2025-04-14 00:12:16 +0000",
       "illager_camp": "2025-04-14 00:40:06 +0000"
     },
@@ -11688,11 +11691,125 @@
     },
     "done": true
   },
-  "incendium:technical/on_inventory_change": {
+  "create:recipes/building_blocks/cut_veridium_brick_slab_from_stone_types_veridium_stonecutting": {
     "criteria": {
-      "requirement": "2025-04-21 07:30:54 +0000"
+      "has_stone_types_veridium": "2025-04-21 07:32:04 +0000"
     },
-    "done": false
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_veridium_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2025-04-21 07:32:04 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_veridium_brick_wall_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2025-04-21 07:32:04 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_veridium_brick_wall_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2025-04-21 07:32:04 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_veridium_stairs_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2025-04-21 07:32:04 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_veridium_bricks_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2025-04-21 07:32:04 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_veridium_slab_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2025-04-21 07:32:04 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_veridium_slab_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2025-04-21 07:32:04 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/building_blocks/verdant_bricks": {
+    "criteria": {
+      "has_item": "2025-04-21 07:32:04 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_veridium_brick_slab_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2025-04-21 07:32:04 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/layered_veridium_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2025-04-21 07:32:04 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_veridium_wall_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2025-04-21 07:32:04 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_veridium_stairs_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2025-04-21 07:32:04 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_veridium_brick_stairs_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2025-04-21 07:32:04 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_veridium_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2025-04-21 07:32:04 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/veridium_pillar_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2025-04-21 07:32:04 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_veridium_wall_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2025-04-21 07:32:04 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/veridium_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2025-04-21 07:32:04 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_veridium_bricks_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2025-04-21 07:32:04 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_veridium_brick_stairs_from_stone_types_veridium_stonecutting": {
+    "criteria": {
+      "has_stone_types_veridium": "2025-04-21 07:32:04 +0000"
+    },
+    "done": true
   },
   "DataVersion": 3465
 }

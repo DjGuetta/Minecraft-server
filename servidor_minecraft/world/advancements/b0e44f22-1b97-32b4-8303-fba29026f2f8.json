@@ -8704,6 +8704,12 @@
     },
     "done": true
   },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "requirement": "2025-04-21 07:41:08 +0000"
+    },
+    "done": false
+  },
   "createdeco:recipes/decorations/light_blue_shipping_container": {
     "criteria": {
       "has_item": "2025-04-21 06:11:26 +0000"
