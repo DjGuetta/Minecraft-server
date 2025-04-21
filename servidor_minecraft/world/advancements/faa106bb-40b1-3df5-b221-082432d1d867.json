@@ -96,6 +96,7 @@
       "lavender_field": "2025-04-13 05:55:35 +0000",
       "prairie": "2025-04-13 06:05:01 +0000",
       "undergrowth": "2025-04-19 05:00:08 +0000",
+      "rainforest": "2025-04-21 04:23:22 +0000",
       "crag": "2025-04-13 06:23:10 +0000"
     },
     "done": false
@@ -921,6 +922,7 @@
       "minecraft:deep_ocean": "2025-04-19 08:15:00 +0000",
       "minecraft:wooded_badlands": "2025-04-21 04:02:16 +0000",
       "minecraft:beach": "2025-04-13 05:40:03 +0000",
+      "minecraft:sparse_jungle": "2025-04-21 04:18:30 +0000",
       "minecraft:river": "2025-04-13 05:32:27 +0000",
       "minecraft:lukewarm_ocean": "2025-04-14 05:45:05 +0000",
       "minecraft:forest": "2025-04-13 05:36:25 +0000",
@@ -4989,6 +4991,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/misc/ash_to_charcoal": {
+    "criteria": {
+      "has_item": "2025-04-21 04:22:49 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/building_blocks/orange_sandstone_slab": {
     "criteria": {
       "has_orange_sandstone": "2025-04-21 04:00:43 +0000"
@@ -5013,9 +5021,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/pink_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-04-21 04:19:54 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/decorations/light_gray_sleeping_bag": {
     "criteria": {
       "has_light_gray_wool": "2025-04-21 04:09:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blue_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-04-21 04:19:54 +0000"
     },
     "done": true
   },
@@ -5025,15 +5045,57 @@
     },
     "done": true
   },
+  "nova_structures:adventure/find_tavern": {
+    "criteria": {
+      "nova_structures:tavern_acacia": "2025-04-21 04:18:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/orange_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-04-21 04:19:54 +0000"
+    },
+    "done": true
+  },
   "repurposed_structures:outposts": {
     "criteria": {
       "in_outpost_badlands": "2025-04-21 04:03:40 +0000"
     },
     "done": false
   },
+  "minecraft:recipes/building_blocks/melon": {
+    "criteria": {
+      "has_melon": "2025-04-21 04:19:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/magenta_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-04-21 04:19:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cyan_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-04-21 04:19:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/light_gray_carpet": {
     "criteria": {
       "has_light_gray_wool": "2025-04-21 04:09:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lime_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-04-21 04:19:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_gray_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-04-21 04:19:54 +0000"
     },
     "done": true
   },
@@ -5046,6 +5108,12 @@
   "biomesoplenty:recipes/building_blocks/cut_orange_sandstone_from_orange_sandstone_stonecutting": {
     "criteria": {
       "has_orange_sandstone": "2025-04-21 04:00:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-04-21 04:19:54 +0000"
     },
     "done": true
   },
@@ -5067,9 +5135,27 @@
     },
     "done": true
   },
+  "nova_structures:root": {
+    "criteria": {
+      "nova_structures:adventure/find_tavern": "2025-04-21 04:18:47 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/building_blocks/orange_sandstone_stairs": {
     "criteria": {
       "has_orange_sandstone": "2025-04-21 04:00:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/glistering_melon_slice": {
+    "criteria": {
+      "has_melon": "2025-04-21 04:19:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/white_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-04-21 04:19:54 +0000"
     },
     "done": true
   },
@@ -5079,9 +5165,45 @@
     },
     "done": true
   },
+  "supplementaries:recipes/slice_map": {
+    "criteria": {
+      "has_map": "2025-04-21 04:23:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/light_gray_banner": {
     "criteria": {
       "has_light_gray_wool": "2025-04-21 04:09:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gray_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-04-21 04:19:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/green_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-04-21 04:19:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/black_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-04-21 04:19:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_blue_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-04-21 04:19:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/yellow_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-04-21 04:19:54 +0000"
     },
     "done": true
   },
@@ -5109,11 +5231,29 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/brown_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-04-21 04:19:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/melon_seeds": {
+    "criteria": {
+      "has_melon": "2025-04-21 04:19:47 +0000"
+    },
+    "done": true
+  },
   "nova_structures:adventure/find_all_illager_structures": {
     "criteria": {
       "illager_camp": "2025-04-21 04:04:16 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/decorations/red_glazed_terracotta": {
+    "criteria": {
+      "has_red_terracotta": "2025-04-21 04:19:41 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/food/baked_potato": {
     "criteria": {
@@ -5130,6 +5270,18 @@
   "biomesoplenty:recipes/building_blocks/orange_sandstone_stairs_from_orange_sandstone_stonecutting": {
     "criteria": {
       "has_orange_sandstone": "2025-04-21 04:00:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purple_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-04-21 04:19:54 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/melon": {
+    "criteria": {
+      "has_melon_slice": "2025-04-21 04:19:47 +0000"
     },
     "done": true
   },

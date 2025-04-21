@@ -8708,6 +8708,24 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/building_blocks/maple_slab": {
+    "criteria": {
+      "has_planks": "2025-04-21 04:20:12 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/decorations/maple_sign": {
+    "criteria": {
+      "has_planks": "2025-04-21 04:20:12 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/maple_stairs": {
+    "criteria": {
+      "has_planks": "2025-04-21 04:20:12 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_crimsite_from_stone_types_crimsite_stonecutting": {
     "criteria": {
       "has_stone_types_crimsite": "2025-04-21 04:15:01 +0000"
@@ -8750,6 +8768,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/building_blocks/maple_planks": {
+    "criteria": {
+      "has_logs": "2025-04-21 04:20:06 +0000"
+    },
+    "done": true
+  },
   "createdeco:recipes/building_blocks/scarlet_bricks": {
     "criteria": {
       "has_item": "2025-04-21 04:15:01 +0000"
@@ -8759,6 +8783,12 @@
   "create:recipes/building_blocks/cut_crimsite_wall_from_stone_types_crimsite_stonecutting": {
     "criteria": {
       "has_stone_types_crimsite": "2025-04-21 04:15:01 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/decorations/biomesoplenty/sign_post_maple": {
+    "criteria": {
+      "has_item": "2025-04-21 04:20:12 +0000"
     },
     "done": true
   },
@@ -8780,15 +8810,45 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/redstone/maple_door": {
+    "criteria": {
+      "has_planks": "2025-04-21 04:20:12 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/maple_wood": {
+    "criteria": {
+      "has_log": "2025-04-21 04:20:06 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/maple_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-04-21 04:20:12 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/polished_cut_crimsite_stairs_from_stone_types_crimsite_stonecutting": {
     "criteria": {
       "has_stone_types_crimsite": "2025-04-21 04:15:01 +0000"
     },
     "done": true
   },
+  "biomesoplenty:recipes/redstone/maple_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-04-21 04:20:12 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/small_crimsite_brick_stairs_from_stone_types_crimsite_stonecutting": {
     "criteria": {
       "has_stone_types_crimsite": "2025-04-21 04:15:01 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/maple_button": {
+    "criteria": {
+      "has_planks": "2025-04-21 04:20:12 +0000"
     },
     "done": true
   },
@@ -8810,6 +8870,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/decorations/maple_fence": {
+    "criteria": {
+      "has_planks": "2025-04-21 04:20:12 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_crimsite_stairs_from_stone_types_crimsite_stonecutting": {
     "criteria": {
       "has_stone_types_crimsite": "2025-04-21 04:15:01 +0000"
@@ -8819,6 +8885,12 @@
   "minecraft:recipes/building_blocks/nether_wart_block": {
     "criteria": {
       "has_nether_wart": "2025-04-21 04:00:43 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/maple_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-04-21 04:20:12 +0000"
     },
     "done": true
   },

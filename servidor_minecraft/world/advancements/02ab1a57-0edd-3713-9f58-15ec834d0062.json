@@ -10485,5 +10485,161 @@
     },
     "done": true
   },
+  "createdeco:recipes/decorations/industrial_iron_support_wedge": {
+    "criteria": {
+      "has_item": "2025-04-21 04:21:29 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/industrial_iron_bars_from_stonecutting": {
+    "criteria": {
+      "has_item": "2025-04-21 04:15:59 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/misc/industrial_iron_nugget_from_industrial_iron_ingot": {
+    "criteria": {
+      "has_industrial_iron_ingot": "2025-04-21 04:15:59 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/industrial_iron_support_wedge_from_stonecutting": {
+    "criteria": {
+      "has_item": "2025-04-21 04:15:59 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/industrial_iron_catwalk_from_stonecutting": {
+    "criteria": {
+      "has_item": "2025-04-21 04:15:59 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/industrial_iron_bars": {
+    "criteria": {
+      "has_item": "2025-04-21 04:15:59 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/industrial_iron_catwalk_stairs": {
+    "criteria": {
+      "has_item": "2025-04-21 04:21:38 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/industrial_iron_trapdoor": {
+    "criteria": {
+      "has_item": "2025-04-21 04:15:59 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/misc/industrial_iron_block": {
+    "criteria": {
+      "has_industrial_iron_ingot": "2025-04-21 04:15:59 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/industrial_iron_catwalk_railing_forge": {
+    "criteria": {
+      "has_item": "2025-04-21 04:21:29 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/yellow_industrial_iron_lamp": {
+    "criteria": {
+      "has_item": "2025-04-21 04:21:29 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/red_industrial_iron_lamp": {
+    "criteria": {
+      "has_item": "2025-04-21 04:21:29 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/industrial_iron_bars_overlay_from_stonecutting": {
+    "criteria": {
+      "has_item": "2025-04-21 04:15:59 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/industrial_iron_door": {
+    "criteria": {
+      "has_item": "2025-04-21 04:15:59 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/industrial_iron_catwalk_stairs_from_stonecutting": {
+    "criteria": {
+      "has_item": "2025-04-21 04:15:59 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/industrial_iron_ladder_from_stonecutting": {
+    "criteria": {
+      "has_item": "2025-04-21 04:15:59 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/industrial_iron_support": {
+    "criteria": {
+      "has_item": "2025-04-21 04:15:59 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/industrial_iron_catwalk_railing_from_stonecutting": {
+    "criteria": {
+      "has_item": "2025-04-21 04:15:59 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/building_blocks/industrial_iron_window": {
+    "criteria": {
+      "has_item": "2025-04-21 04:15:59 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/industrial_iron_catwalk_forge": {
+    "criteria": {
+      "has_item": "2025-04-21 04:21:29 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/industrial_iron_mesh_fence_from_stonecutting": {
+    "criteria": {
+      "has_item": "2025-04-21 04:15:59 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/industrial_iron_mesh_fence": {
+    "criteria": {
+      "has_item": "2025-04-21 04:21:29 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/green_industrial_iron_lamp": {
+    "criteria": {
+      "has_item": "2025-04-21 04:21:29 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/industrial_iron_sheet_metal": {
+    "criteria": {
+      "has_item": "2025-04-21 04:21:29 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/industrial_iron_bars_overlay": {
+    "criteria": {
+      "has_item": "2025-04-21 04:21:29 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/blue_industrial_iron_lamp": {
+    "criteria": {
+      "has_item": "2025-04-21 04:21:29 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
