@@ -743,7 +743,8 @@
       "minecraft:witch": "2025-02-24 00:12:34 +0000",
       "minecraft:cave_spider": "2025-02-24 18:56:00 +0000",
       "minecraft:silverfish": "2025-02-24 19:14:02 +0000",
-      "minecraft:zombie": "2025-02-23 23:48:30 +0000"
+      "minecraft:zombie": "2025-02-23 23:48:30 +0000",
+      "minecraft:drowned": "2025-04-22 02:54:19 +0000"
     },
     "done": false
   },
@@ -5041,15 +5042,33 @@
     },
     "done": true
   },
+  "ae2:recipes/misc/network/cells/fluid_cell_housing": {
+    "criteria": {
+      "has_dusts/redstone": "2025-04-22 02:46:56 +0000"
+    },
+    "done": true
+  },
   "ae2:recipes/misc/decorative/light_detector": {
     "criteria": {
       "has_iron_ingot": "2025-04-22 02:49:43 +0000"
     },
     "done": true
   },
-  "ae2:recipes/misc/network/cells/fluid_cell_housing": {
+  "ae2:recipes/misc/misc/tiny_tnt": {
     "criteria": {
-      "has_dusts/redstone": "2025-04-22 02:46:56 +0000"
+      "has_gunpowder": "2025-04-22 02:53:38 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/blocks/crank": {
+    "criteria": {
+      "has_copper_ingot": "2025-04-22 03:01:26 +0000"
+    },
+    "done": true
+  },
+  "ae2:main/root": {
+    "criteria": {
+      "copper": "2025-04-22 03:01:26 +0000"
     },
     "done": true
   },

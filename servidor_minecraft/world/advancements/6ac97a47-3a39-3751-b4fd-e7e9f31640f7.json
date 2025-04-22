@@ -574,6 +574,7 @@
       "minecraft:hoglin": "2025-04-19 05:53:04 +0000",
       "minecraft:guardian": "2025-04-19 00:19:17 +0000",
       "minecraft:vindicator": "2025-02-19 03:23:57 +0000",
+      "minecraft:magma_cube": "2025-04-22 03:03:05 +0000",
       "minecraft:spider": "2025-02-17 03:12:25 +0000",
       "minecraft:piglin_brute": "2025-04-19 04:59:24 +0000",
       "minecraft:creeper": "2025-02-18 03:33:05 +0000",
@@ -8912,6 +8913,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/netherite_chestplate_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-04-22 03:02:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/crimson_pressure_plate": {
     "criteria": {
       "has_planks": "2025-04-22 02:39:46 +0000"
@@ -8924,15 +8931,57 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/netherite_helmet_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-04-22 03:02:58 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/crimson_window": {
     "criteria": {
       "has_ingredient": "2025-04-22 02:39:46 +0000"
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/netherite": {
+    "criteria": {
+      "has_netherite_ingot": "2025-04-22 03:02:58 +0000"
+    },
+    "done": true
+  },
+  "betterarcheology:recipes/tools/netherite_brush_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-04-22 03:02:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/crimson_slab": {
     "criteria": {
       "has_planks": "2025-04-22 02:39:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/netherite_leggings_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-04-22 03:02:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/lodestone": {
+    "criteria": {
+      "has_netherite_ingot": "2025-04-22 03:02:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/netherite_block": {
+    "criteria": {
+      "has_netherite_ingot": "2025-04-22 03:02:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/netherite_shovel_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-04-22 03:02:58 +0000"
     },
     "done": true
   },
@@ -8966,6 +9015,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/netherite_boots_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-04-22 03:02:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/netherite_axe_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-04-22 03:02:58 +0000"
+    },
+    "done": true
+  },
   "mcwdoors:recipes/warped": {
     "criteria": {
       "has_wood": "2025-04-22 02:19:22 +0000"
@@ -8984,6 +9045,18 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/netherite_tier_upgrade": {
+    "criteria": {
+      "has_netherite_ingot": "2025-04-22 03:02:58 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/safe": {
+    "criteria": {
+      "has_netherite_ingot": "2025-04-22 03:02:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/warped_fungus_on_a_stick": {
     "criteria": {
       "has_warped_fungus": "2025-04-22 02:18:35 +0000"
@@ -8999,6 +9072,24 @@
   "minecraft:recipes/building_blocks/crimson_stairs": {
     "criteria": {
       "has_planks": "2025-04-22 02:39:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/netherite_sword_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-04-22 03:02:58 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/misc/netherite_nugget_from_netherite_ingot": {
+    "criteria": {
+      "has_netherite_ingot": "2025-04-22 03:02:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/netherite_hoe_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-04-22 03:02:58 +0000"
     },
     "done": true
   },
@@ -9025,6 +9116,24 @@
       "has_planks": "2025-04-22 02:39:46 +0000"
     },
     "done": true
+  },
+  "endrem:main/cursed_eye": {
+    "criteria": {
+      "cursed_eye": "2025-04-22 03:03:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/netherite_pickaxe_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-04-22 03:02:58 +0000"
+    },
+    "done": true
+  },
+  "repurposed_structures:ruins": {
+    "criteria": {
+      "in_ruins_nether": "2025-04-22 02:57:48 +0000"
+    },
+    "done": false
   },
   "DataVersion": 3465
 }
