@@ -8912,12 +8912,6 @@
     },
     "done": true
   },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "requirement": "2025-04-22 02:45:46 +0000"
-    },
-    "done": false
-  },
   "minecraft:recipes/redstone/crimson_pressure_plate": {
     "criteria": {
       "has_planks": "2025-04-22 02:39:46 +0000"
