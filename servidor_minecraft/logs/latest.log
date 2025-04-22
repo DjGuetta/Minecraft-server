@@ -879,3 +879,55 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'farmers
 [02:04:50] [Server thread/INFO]: [Not Secure] <DjTwistfly> que pereza con ud
 [02:05:11] [Server thread/INFO]: [Not Secure] <DjGuetta11> se murio como con 3 flechazos xd
 [02:05:16] [Server thread/INFO]: [Not Secure] <DjGuetta11> tenía 300 corazones apena
+[02:05:30] [Server thread/INFO]: [Not Secure] <DjGuetta11> ahorita nos da un huevo padre
+[02:05:38] [Server thread/INFO]: [Not Secure] <DjGuetta11> mire este
+[02:05:39] [Server thread/INFO]: [Not Secure] <DjTwistfly> XD
+[02:07:23] [Server thread/INFO]: Gindaz[/100.98.201.97:50952] logged in with entity id 5224 at (-556.3000000119209, -7.0, 1342.699999988079)
+[02:07:23] [Server thread/INFO]: Syncing config to Gindaz (faa106bb-40b1-3df5-b221-082432d1d867)
+[02:07:23] [Server thread/INFO]: Loading config from file...
+[02:07:23] [Server thread/INFO]: Gindaz joined the game
+[02:07:24] [Netty Epoll Server IO #7/INFO]: Priority overwritten for player Gindaz. Claiming: GRAVE / Robbing: INVENTORY
+[02:07:46] [Server thread/INFO]: DjTwistfly lost connection: Timed out
+[02:07:46] [Server thread/INFO]: DjTwistfly left the game
+[02:07:46] [Server thread/WARN]: handleDisconnection() called twice
+[02:07:51] [Server thread/INFO]: DjTwistfly[/100.95.48.32:61563] logged in with entity id 5435 at (-553.2816702531663, -9.537251188859878, 1320.0571435141758)
+[02:07:51] [Server thread/INFO]: Syncing config to DjTwistfly (ce1a9492-5b4d-3fbb-9f7e-c74699881e3b)
+[02:07:51] [Server thread/INFO]: Loading config from file...
+[02:07:51] [Server thread/INFO]: DjTwistfly joined the game
+[02:07:52] [Netty Epoll Server IO #0/INFO]: Priority overwritten for player DjTwistfly. Claiming: GRAVE / Robbing: INVENTORY
+[02:08:04] [Server thread/INFO]: MARAVILLA[/100.123.118.39:65328] logged in with entity id 5605 at (-1847.5, 88.0, -1523.5)
+[02:08:04] [Server thread/INFO]: Syncing config to MARAVILLA (6ac97a47-3a39-3751-b4fd-e7e9f31640f7)
+[02:08:04] [Server thread/INFO]: Loading config from file...
+[02:08:04] [Server thread/INFO]: MARAVILLA joined the game
+[02:08:05] [Netty Epoll Server IO #2/INFO]: Priority overwritten for player MARAVILLA. Claiming: GRAVE / Robbing: INVENTORY
+[02:08:05] [Server thread/INFO]: MARAVILLA lost connection: Disconnected
+[02:08:05] [Server thread/INFO]: MARAVILLA left the game
+[02:09:40] [Server thread/INFO]: MARAVILLA[/100.123.118.39:65453] logged in with entity id 7012 at (-1847.5, 88.0, -1523.5)
+[02:09:40] [Server thread/INFO]: Syncing config to MARAVILLA (6ac97a47-3a39-3751-b4fd-e7e9f31640f7)
+[02:09:40] [Server thread/INFO]: Loading config from file...
+[02:09:40] [Server thread/INFO]: MARAVILLA joined the game
+[02:09:40] [Netty Epoll Server IO #4/INFO]: Priority overwritten for player MARAVILLA. Claiming: GRAVE / Robbing: INVENTORY
+[02:09:40] [Server thread/INFO]: MARAVILLA lost connection: Disconnected
+[02:09:40] [Server thread/INFO]: MARAVILLA left the game
+[02:12:02] [Server thread/INFO]: MARAVILLA[/100.123.118.39:49213] logged in with entity id 9689 at (-1847.5, 88.0, -1523.5)
+[02:12:02] [Server thread/INFO]: Syncing config to MARAVILLA (6ac97a47-3a39-3751-b4fd-e7e9f31640f7)
+[02:12:02] [Server thread/INFO]: Loading config from file...
+[02:12:02] [Server thread/INFO]: MARAVILLA joined the game
+[02:12:04] [Netty Epoll Server IO #6/INFO]: Priority overwritten for player MARAVILLA. Claiming: GRAVE / Robbing: INVENTORY
+[02:12:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[02:12:15] [Server thread/ERROR]: POI data mismatch: already registered at class_2338{x=-1708, y=-2, z=-1555}
+[02:12:15] [Server thread/ERROR]: POI data mismatch: already registered at class_2338{x=-1708, y=-2, z=-1556}
+[02:12:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3325ms or 66 ticks behind
+[02:12:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5180ms or 103 ticks behind
+[02:13:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[02:14:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2027ms or 40 ticks behind
+[02:14:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2976ms or 59 ticks behind
+[02:14:29] [Server thread/WARN]: Gindaz moved wrongly!
+[02:15:05] [Server thread/INFO]: MARAVILLA was slain by Headless Warrior
+[02:15:12] [Server thread/INFO]: Santialpz[/100.66.18.78:63267] logged in with entity id 16351 at (-574.0434717265031, -11.0, 1289.3149096817706)
+[02:15:12] [Server thread/INFO]: Syncing config to Santialpz (b0e44f22-1b97-32b4-8303-fba29026f2f8)
+[02:15:12] [Server thread/INFO]: Loading config from file...
+[02:15:12] [Server thread/INFO]: Santialpz joined the game
+[02:15:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[02:15:13] [Netty Epoll Server IO #2/INFO]: Priority overwritten for player Santialpz. Claiming: GRAVE / Robbing: INVENTORY
+[02:15:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3089ms or 61 ticks behind

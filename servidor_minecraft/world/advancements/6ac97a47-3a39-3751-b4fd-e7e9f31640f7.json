@@ -8045,6 +8045,873 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stripped_spruce_wood": {
+    "criteria": {
+      "has_log": "2025-04-19 03:29:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/spruce_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2025-04-19 03:29:13 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_asurine_brick_wall_from_stone_types_asurine_stonecutting": {
+    "criteria": {
+      "has_stone_types_asurine": "2025-04-19 03:56:57 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_asurine_stairs_from_stone_types_asurine_stonecutting": {
+    "criteria": {
+      "has_stone_types_asurine": "2025-04-19 03:56:57 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_asurine_brick_stairs_from_stone_types_asurine_stonecutting": {
+    "criteria": {
+      "has_stone_types_asurine": "2025-04-19 03:56:57 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/asurine_pillar_from_stone_types_asurine_stonecutting": {
+    "criteria": {
+      "has_stone_types_asurine": "2025-04-19 03:56:57 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_asurine_from_stone_types_asurine_stonecutting": {
+    "criteria": {
+      "has_stone_types_asurine": "2025-04-19 03:56:57 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_asurine_brick_slab_from_stone_types_asurine_stonecutting": {
+    "criteria": {
+      "has_stone_types_asurine": "2025-04-19 03:56:57 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_asurine_wall_from_stone_types_asurine_stonecutting": {
+    "criteria": {
+      "has_stone_types_asurine": "2025-04-19 03:56:57 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_asurine_brick_slab_from_stone_types_asurine_stonecutting": {
+    "criteria": {
+      "has_stone_types_asurine": "2025-04-19 03:56:57 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_asurine_slab_from_stone_types_asurine_stonecutting": {
+    "criteria": {
+      "has_stone_types_asurine": "2025-04-19 03:56:57 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_asurine_wall_from_stone_types_asurine_stonecutting": {
+    "criteria": {
+      "has_stone_types_asurine": "2025-04-19 03:56:57 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_asurine_brick_wall_from_stone_types_asurine_stonecutting": {
+    "criteria": {
+      "has_stone_types_asurine": "2025-04-19 03:56:57 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/asurine_from_stone_types_asurine_stonecutting": {
+    "criteria": {
+      "has_stone_types_asurine": "2025-04-19 03:56:57 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_asurine_stairs_from_stone_types_asurine_stonecutting": {
+    "criteria": {
+      "has_stone_types_asurine": "2025-04-19 03:56:57 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_asurine_bricks_from_stone_types_asurine_stonecutting": {
+    "criteria": {
+      "has_stone_types_asurine": "2025-04-19 03:56:57 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/building_blocks/blue_bricks": {
+    "criteria": {
+      "has_item": "2025-04-19 03:56:57 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_asurine_bricks_from_stone_types_asurine_stonecutting": {
+    "criteria": {
+      "has_stone_types_asurine": "2025-04-19 03:56:57 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_asurine_from_stone_types_asurine_stonecutting": {
+    "criteria": {
+      "has_stone_types_asurine": "2025-04-19 03:56:57 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_asurine_slab_from_stone_types_asurine_stonecutting": {
+    "criteria": {
+      "has_stone_types_asurine": "2025-04-19 03:56:57 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_asurine_brick_stairs_from_stone_types_asurine_stonecutting": {
+    "criteria": {
+      "has_stone_types_asurine": "2025-04-19 03:56:57 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/layered_asurine_from_stone_types_asurine_stonecutting": {
+    "criteria": {
+      "has_stone_types_asurine": "2025-04-19 03:56:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_blue_glazed_terracotta": {
+    "criteria": {
+      "has_light_blue_terracotta": "2025-04-19 04:49:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2025-04-19 04:57:48 +0000"
+    },
+    "done": true
+  },
+  "incendium:root": {
+    "criteria": {
+      "requirement": "2025-04-19 04:57:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2025-04-19 04:57:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:crimson_forest": "2025-04-19 05:54:02 +0000",
+      "minecraft:nether_wastes": "2025-04-19 04:58:44 +0000",
+      "minecraft:warped_forest": "2025-04-19 04:57:49 +0000"
+    },
+    "done": false
+  },
+  "incendium:withered_forest/root": {
+    "criteria": {
+      "requirement": "2025-04-19 04:58:11 +0000"
+    },
+    "done": true
+  },
+  "incendium:misc/soul_searcher": {
+    "criteria": {
+      "incendium:weeping_valley": "2025-04-19 05:21:42 +0000",
+      "incendium:withered_forest": "2025-04-19 04:58:11 +0000"
+    },
+    "done": false
+  },
+  "incendium:misc/root": {
+    "criteria": {
+      "incendium:withered_forest": "2025-04-19 04:58:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/comparator": {
+    "criteria": {
+      "has_quartz": "2025-04-19 04:58:21 +0000"
+    },
+    "done": true
+  },
+  "mcwwindows:recipes/quartz": {
+    "criteria": {
+      "has_wood": "2025-04-19 04:58:21 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/tools/nether_quartz_cutting_knife": {
+    "criteria": {
+      "has_nether_quartz": "2025-04-19 04:58:21 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/tools/nether_quartz_spade": {
+    "criteria": {
+      "has_nether_quartz": "2025-04-19 04:58:21 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/tools/nether_quartz_axe": {
+    "criteria": {
+      "has_nether_quartz": "2025-04-19 04:58:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/daylight_detector": {
+    "criteria": {
+      "has_quartz": "2025-04-19 04:58:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite": {
+    "criteria": {
+      "has_quartz": "2025-04-19 04:58:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite": {
+    "criteria": {
+      "has_quartz": "2025-04-19 04:58:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_block": {
+    "criteria": {
+      "has_quartz": "2025-04-19 04:58:21 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/tools/nether_quartz_pickaxe": {
+    "criteria": {
+      "has_nether_quartz": "2025-04-19 04:58:21 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/quartz": {
+    "criteria": {
+      "has_quartz": "2025-04-19 04:58:21 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/tools/nether_quartz_hoe": {
+    "criteria": {
+      "has_nether_quartz": "2025-04-19 04:58:21 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/tools/nether_quartz_sword": {
+    "criteria": {
+      "has_nether_quartz": "2025-04-19 04:58:21 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/tools/nether_quartz_wrench": {
+    "criteria": {
+      "has_nether_quartz": "2025-04-19 04:58:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/observer": {
+    "criteria": {
+      "has_quartz": "2025-04-19 04:58:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_bastion": {
+    "criteria": {
+      "bastion": "2025-04-19 04:58:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/loot_bastion": {
+    "criteria": {
+      "loot_bastion_other": "2025-04-19 04:59:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_scrap_from_blasting": {
+    "criteria": {
+      "has_ancient_debris": "2025-04-19 04:59:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_ancient_debris": {
+    "criteria": {
+      "ancient_debris": "2025-04-19 04:59:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_scrap": {
+    "criteria": {
+      "has_ancient_debris": "2025-04-19 04:59:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-04-19 05:01:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-04-19 05:01:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-04-19 05:01:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-04-19 05:01:08 +0000"
+    },
+    "done": true
+  },
+  "infinitybuttons:recipes/redstone/polished_blackstone_brick_secret_button": {
+    "criteria": {
+      "has_thing": "2025-04-19 05:01:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_polished_blackstone_bricks": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-04-19 05:01:08 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/blackstone_tile": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-04-19 05:01:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-04-19 05:01:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-04-19 05:01:08 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/stonecutting/blackstone_tile": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-04-19 05:01:08 +0000"
+    },
+    "done": true
+  },
+  "nova_structures:nether/find_piglins": {
+    "criteria": {
+      "nova_structures:piglin_camp": "2025-04-19 05:01:24 +0000"
+    },
+    "done": false
+  },
+  "endrem:main/nether_eye": {
+    "criteria": {
+      "nether_eye": "2025-04-19 05:03:27 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/end_stone_lamp": {
+    "criteria": {
+      "has_shroomlight": "2025-04-19 05:04:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_lantern": {
+    "criteria": {
+      "has_soul_torch": "2025-04-19 05:04:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2025-04-19 05:06:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/brewing_stand": {
+    "criteria": {
+      "has_blaze_rod": "2025-04-19 05:06:40 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/blaze": {
+    "criteria": {
+      "has_blaze_rod": "2025-04-19 05:06:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/blaze_powder": {
+    "criteria": {
+      "has_blaze_rod": "2025-04-19 05:06:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_nether_bricks_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2025-04-19 05:14:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_stairs_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2025-04-19 05:14:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/nether_brick_fence": {
+    "criteria": {
+      "has_nether_bricks": "2025-04-19 05:14:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_nether_bricks": {
+    "criteria": {
+      "has_nether_bricks": "2025-04-19 05:14:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_slab_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2025-04-19 05:14:36 +0000"
+    },
+    "done": true
+  },
+  "infinitybuttons:recipes/redstone/nether_brick_secret_button": {
+    "criteria": {
+      "has_thing": "2025-04-19 05:14:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/nether_brick_wall_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2025-04-19 05:14:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/nether_brick_wall": {
+    "criteria": {
+      "has_nether_bricks": "2025-04-19 05:14:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_stairs": {
+    "criteria": {
+      "has_nether_bricks": "2025-04-19 05:14:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_slab": {
+    "criteria": {
+      "has_nether_bricks": "2025-04-19 05:14:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "fortress": "2025-04-19 05:15:21 +0000"
+    },
+    "done": true
+  },
+  "nova_structures:nether/find_nether_skeleton": {
+    "criteria": {
+      "minecraft:fortress": "2025-04-19 05:15:21 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/misc/nether_brick": {
+    "criteria": {
+      "has_netherrack": "2025-04-19 05:15:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/rib_armor_trim_smithing_template": {
+    "criteria": {
+      "has_rib_armor_trim_smithing_template": "2025-04-19 05:18:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/rib_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-04-19 05:18:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_stairs": {
+    "criteria": {
+      "has_polished_blackstone": "2025-04-19 05:22:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2025-04-19 05:22:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/polished_blackstone_button": {
+    "criteria": {
+      "has_polished_blackstone": "2025-04-19 05:22:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_slab": {
+    "criteria": {
+      "has_polished_blackstone": "2025-04-19 05:22:35 +0000"
+    },
+    "done": true
+  },
+  "infinitybuttons:recipes/redstone/polished_blackstone_large_button": {
+    "criteria": {
+      "has_thing": "2025-04-19 05:22:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_bricks_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2025-04-19 05:22:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_polished_blackstone_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2025-04-19 05:22:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_stairs_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2025-04-19 05:22:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_wall_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2025-04-19 05:22:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2025-04-19 05:22:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2025-04-19 05:22:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_slab_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2025-04-19 05:22:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_bricks": {
+    "criteria": {
+      "has_polished_blackstone": "2025-04-19 05:22:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/polished_blackstone_pressure_plate": {
+    "criteria": {
+      "has_polished_blackstone": "2025-04-19 05:22:35 +0000"
+    },
+    "done": true
+  },
+  "infinitybuttons:recipes/redstone/polished_blackstone_button_from_polished_blackstone_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone": "2025-04-19 05:22:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_wall": {
+    "criteria": {
+      "has_polished_blackstone": "2025-04-19 05:22:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crimson_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2025-04-19 05:24:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/crimson_planks": {
+    "criteria": {
+      "has_logs": "2025-04-19 05:24:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_crimson_hyphae": {
+    "criteria": {
+      "has_log": "2025-04-19 05:24:03 +0000"
+    },
+    "done": true
+  },
+  "infinitybuttons:recipes/redstone/cracked_polished_blackstone_brick_secret_button": {
+    "criteria": {
+      "has_thing": "2025-04-19 05:38:06 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_scorchia_from_stone_types_scorchia_stonecutting": {
+    "criteria": {
+      "has_stone_types_scorchia": "2025-04-19 05:51:12 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_scorchia_stairs_from_stone_types_scorchia_stonecutting": {
+    "criteria": {
+      "has_stone_types_scorchia": "2025-04-19 05:51:12 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_scorchia_bricks_from_stone_types_scorchia_stonecutting": {
+    "criteria": {
+      "has_stone_types_scorchia": "2025-04-19 05:51:12 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/scorchia_from_stone_types_scorchia_stonecutting": {
+    "criteria": {
+      "has_stone_types_scorchia": "2025-04-19 05:51:12 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_scorchia_brick_slab_from_stone_types_scorchia_stonecutting": {
+    "criteria": {
+      "has_stone_types_scorchia": "2025-04-19 05:51:12 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_scorchia_stairs_from_stone_types_scorchia_stonecutting": {
+    "criteria": {
+      "has_stone_types_scorchia": "2025-04-19 05:51:12 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_scorchia_wall_from_stone_types_scorchia_stonecutting": {
+    "criteria": {
+      "has_stone_types_scorchia": "2025-04-19 05:51:12 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_scorchia_brick_wall_from_stone_types_scorchia_stonecutting": {
+    "criteria": {
+      "has_stone_types_scorchia": "2025-04-19 05:51:12 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_scorchia_brick_slab_from_stone_types_scorchia_stonecutting": {
+    "criteria": {
+      "has_stone_types_scorchia": "2025-04-19 05:51:12 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_scorchia_brick_stairs_from_stone_types_scorchia_stonecutting": {
+    "criteria": {
+      "has_stone_types_scorchia": "2025-04-19 05:51:12 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_scorchia_slab_from_stone_types_scorchia_stonecutting": {
+    "criteria": {
+      "has_stone_types_scorchia": "2025-04-19 05:51:12 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_scorchia_from_stone_types_scorchia_stonecutting": {
+    "criteria": {
+      "has_stone_types_scorchia": "2025-04-19 05:51:12 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/layered_scorchia_from_stone_types_scorchia_stonecutting": {
+    "criteria": {
+      "has_stone_types_scorchia": "2025-04-19 05:51:12 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/building_blocks/dusk_bricks": {
+    "criteria": {
+      "has_item": "2025-04-19 05:51:12 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_scorchia_brick_wall_from_stone_types_scorchia_stonecutting": {
+    "criteria": {
+      "has_stone_types_scorchia": "2025-04-19 05:51:12 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/scorchia_pillar_from_stone_types_scorchia_stonecutting": {
+    "criteria": {
+      "has_stone_types_scorchia": "2025-04-19 05:51:12 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_scorchia_slab_from_stone_types_scorchia_stonecutting": {
+    "criteria": {
+      "has_stone_types_scorchia": "2025-04-19 05:51:12 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_scorchia_bricks_from_stone_types_scorchia_stonecutting": {
+    "criteria": {
+      "has_stone_types_scorchia": "2025-04-19 05:51:12 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_scorchia_brick_stairs_from_stone_types_scorchia_stonecutting": {
+    "criteria": {
+      "has_stone_types_scorchia": "2025-04-19 05:51:12 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_scorchia_wall_from_stone_types_scorchia_stonecutting": {
+    "criteria": {
+      "has_stone_types_scorchia": "2025-04-19 05:51:12 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/netherite_trapdoor": {
+    "criteria": {
+      "has_netherite_scrap": "2025-04-19 05:53:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_ingot": {
+    "criteria": {
+      "has_netherite_scrap": "2025-04-19 05:53:15 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/netherite_door": {
+    "criteria": {
+      "has_netherite_scrap": "2025-04-19 05:53:15 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/rose_quartz_block": {
+    "criteria": {
+      "has_rose_quartz_chunk": "2025-04-19 06:09:18 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/decorations/sign_post_acacia": {
+    "criteria": {
+      "has_item": "2025-04-19 06:16:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_stairs": {
+    "criteria": {
+      "has_planks": "2025-04-19 06:16:55 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/acacia_window": {
+    "criteria": {
+      "has_ingredient": "2025-04-19 06:16:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/acacia_sign": {
+    "criteria": {
+      "has_planks": "2025-04-19 06:16:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-04-19 06:16:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_slab": {
+    "criteria": {
+      "has_planks": "2025-04-19 06:16:55 +0000"
+    },
+    "done": true
+  },
+  "infinitybuttons:recipes/redstone/acacia_plank_secret_button": {
+    "criteria": {
+      "has_thing": "2025-04-19 06:16:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/acacia_fence": {
+    "criteria": {
+      "has_planks": "2025-04-19 06:16:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_button": {
+    "criteria": {
+      "has_planks": "2025-04-19 06:16:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_door": {
+    "criteria": {
+      "has_planks": "2025-04-19 06:16:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-04-19 06:16:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-04-19 06:16:55 +0000"
+    },
+    "done": true
+  },
+  "infinitybuttons:recipes/redstone/acacia_large_button": {
+    "criteria": {
+      "has_thing": "2025-04-19 06:16:55 +0000"
+    },
+    "done": true
+  },
+  "mcwdoors:recipes/crimson": {
+    "criteria": {
+      "has_wood": "2025-04-19 06:23:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/crimson_hyphae": {
+    "criteria": {
+      "has_log": "2025-04-19 06:23:15 +0000"
+    },
+    "done": true
+  },
+  "mcwwindows:recipes/crimson": {
+    "criteria": {
+      "has_wood": "2025-04-19 06:23:15 +0000"
+    },
+    "done": true
+  },
+  "mcwfurnitures:recipes/crimson": {
+    "criteria": {
+      "has_wood": "2025-04-19 06:23:15 +0000"
+    },
+    "done": true
+  },
   "incendium:technical/sentrys_wrath": {
     "criteria": {
       "log_spam_fixer": "2025-04-19 06:36:00 +0000"
@@ -8116,873 +8983,6 @@
       "log_spam_fixer": "2025-04-19 06:36:00 +0000"
     },
     "done": false
-  },
-  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab": {
-    "criteria": {
-      "has_polished_blackstone_bricks": "2025-04-19 05:01:08 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/decorations/sign_post_acacia": {
-    "criteria": {
-      "has_item": "2025-04-19 06:16:55 +0000"
-    },
-    "done": true
-  },
-  "minecraft:nether/explore_nether": {
-    "criteria": {
-      "minecraft:crimson_forest": "2025-04-19 05:54:02 +0000",
-      "minecraft:nether_wastes": "2025-04-19 04:58:44 +0000",
-      "minecraft:warped_forest": "2025-04-19 04:57:49 +0000"
-    },
-    "done": false
-  },
-  "create:recipes/building_blocks/cut_asurine_brick_wall_from_stone_types_asurine_stonecutting": {
-    "criteria": {
-      "has_stone_types_asurine": "2025-04-19 03:56:57 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/netherite_scrap_from_blasting": {
-    "criteria": {
-      "has_ancient_debris": "2025-04-19 04:59:44 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/netherite_trapdoor": {
-    "criteria": {
-      "has_netherite_scrap": "2025-04-19 05:53:15 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/cut_scorchia_from_stone_types_scorchia_stonecutting": {
-    "criteria": {
-      "has_stone_types_scorchia": "2025-04-19 05:51:12 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/soul_lantern": {
-    "criteria": {
-      "has_soul_torch": "2025-04-19 05:04:51 +0000"
-    },
-    "done": true
-  },
-  "nova_structures:nether/find_piglins": {
-    "criteria": {
-      "nova_structures:piglin_camp": "2025-04-19 05:01:24 +0000"
-    },
-    "done": false
-  },
-  "minecraft:nether/obtain_blaze_rod": {
-    "criteria": {
-      "blaze_rod": "2025-04-19 05:06:40 +0000"
-    },
-    "done": true
-  },
-  "incendium:withered_forest/root": {
-    "criteria": {
-      "requirement": "2025-04-19 04:58:11 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_blackstone_stairs": {
-    "criteria": {
-      "has_polished_blackstone": "2025-04-19 05:22:35 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_polished_blackstone_stonecutting": {
-    "criteria": {
-      "has_polished_blackstone": "2025-04-19 05:22:35 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/polished_blackstone_button": {
-    "criteria": {
-      "has_polished_blackstone": "2025-04-19 05:22:35 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/polished_cut_asurine_stairs_from_stone_types_asurine_stonecutting": {
-    "criteria": {
-      "has_stone_types_asurine": "2025-04-19 03:56:57 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_blackstone_slab": {
-    "criteria": {
-      "has_polished_blackstone": "2025-04-19 05:22:35 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/netherite_ingot": {
-    "criteria": {
-      "has_netherite_scrap": "2025-04-19 05:53:15 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/acacia_stairs": {
-    "criteria": {
-      "has_planks": "2025-04-19 06:16:55 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_polished_blackstone_bricks_stonecutting": {
-    "criteria": {
-      "has_polished_blackstone_bricks": "2025-04-19 05:01:08 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/stripped_spruce_wood": {
-    "criteria": {
-      "has_log": "2025-04-19 03:29:13 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/comparator": {
-    "criteria": {
-      "has_quartz": "2025-04-19 04:58:21 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/small_asurine_brick_stairs_from_stone_types_asurine_stonecutting": {
-    "criteria": {
-      "has_stone_types_asurine": "2025-04-19 03:56:57 +0000"
-    },
-    "done": true
-  },
-  "endrem:main/nether_eye": {
-    "criteria": {
-      "nether_eye": "2025-04-19 05:03:27 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/acacia_window": {
-    "criteria": {
-      "has_ingredient": "2025-04-19 06:16:55 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/polished_cut_scorchia_stairs_from_stone_types_scorchia_stonecutting": {
-    "criteria": {
-      "has_stone_types_scorchia": "2025-04-19 05:51:12 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/acacia_sign": {
-    "criteria": {
-      "has_planks": "2025-04-19 06:16:55 +0000"
-    },
-    "done": true
-  },
-  "mcwwindows:recipes/quartz": {
-    "criteria": {
-      "has_wood": "2025-04-19 04:58:21 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/chiseled_nether_bricks_from_nether_bricks_stonecutting": {
-    "criteria": {
-      "has_nether_bricks": "2025-04-19 05:14:36 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_polished_blackstone_bricks_stonecutting": {
-    "criteria": {
-      "has_polished_blackstone_bricks": "2025-04-19 05:01:08 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/polished_blackstone_brick_wall": {
-    "criteria": {
-      "has_polished_blackstone_bricks": "2025-04-19 05:01:08 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/rib_armor_trim_smithing_template": {
-    "criteria": {
-      "has_rib_armor_trim_smithing_template": "2025-04-19 05:18:32 +0000"
-    },
-    "done": true
-  },
-  "incendium:misc/soul_searcher": {
-    "criteria": {
-      "incendium:weeping_valley": "2025-04-19 05:21:42 +0000",
-      "incendium:withered_forest": "2025-04-19 04:58:11 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/misc/nether_brick": {
-    "criteria": {
-      "has_netherrack": "2025-04-19 05:15:47 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/small_scorchia_bricks_from_stone_types_scorchia_stonecutting": {
-    "criteria": {
-      "has_stone_types_scorchia": "2025-04-19 05:51:12 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/asurine_pillar_from_stone_types_asurine_stonecutting": {
-    "criteria": {
-      "has_stone_types_asurine": "2025-04-19 03:56:57 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/acacia_pressure_plate": {
-    "criteria": {
-      "has_planks": "2025-04-19 06:16:55 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/cut_asurine_from_stone_types_asurine_stonecutting": {
-    "criteria": {
-      "has_stone_types_asurine": "2025-04-19 03:56:57 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/acacia_slab": {
-    "criteria": {
-      "has_planks": "2025-04-19 06:16:55 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/enter_the_nether": {
-    "criteria": {
-      "entered_nether": "2025-04-19 04:57:48 +0000"
-    },
-    "done": true
-  },
-  "mcwdoors:recipes/crimson": {
-    "criteria": {
-      "has_wood": "2025-04-19 06:23:15 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/rib_armor_trim_smithing_template_smithing_trim": {
-    "criteria": {
-      "has_smithing_trim_template": "2025-04-19 05:18:32 +0000"
-    },
-    "done": true
-  },
-  "ae2:recipes/misc/tools/nether_quartz_cutting_knife": {
-    "criteria": {
-      "has_nether_quartz": "2025-04-19 04:58:21 +0000"
-    },
-    "done": true
-  },
-  "infinitybuttons:recipes/redstone/polished_blackstone_large_button": {
-    "criteria": {
-      "has_thing": "2025-04-19 05:22:35 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/cut_asurine_brick_slab_from_stone_types_asurine_stonecutting": {
-    "criteria": {
-      "has_stone_types_asurine": "2025-04-19 03:56:57 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/nether_brick_stairs_from_nether_bricks_stonecutting": {
-    "criteria": {
-      "has_nether_bricks": "2025-04-19 05:14:36 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/building_blocks/rose_quartz_block": {
-    "criteria": {
-      "has_rose_quartz_chunk": "2025-04-19 06:09:18 +0000"
-    },
-    "done": true
-  },
-  "ae2:recipes/misc/tools/nether_quartz_spade": {
-    "criteria": {
-      "has_nether_quartz": "2025-04-19 04:58:21 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/crimson_hanging_sign": {
-    "criteria": {
-      "has_stripped_logs": "2025-04-19 05:24:03 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/polished_cut_asurine_wall_from_stone_types_asurine_stonecutting": {
-    "criteria": {
-      "has_stone_types_asurine": "2025-04-19 03:56:57 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/small_asurine_brick_slab_from_stone_types_asurine_stonecutting": {
-    "criteria": {
-      "has_stone_types_asurine": "2025-04-19 03:56:57 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/nether_brick_fence": {
-    "criteria": {
-      "has_nether_bricks": "2025-04-19 05:14:36 +0000"
-    },
-    "done": true
-  },
-  "ae2:recipes/misc/tools/nether_quartz_axe": {
-    "criteria": {
-      "has_nether_quartz": "2025-04-19 04:58:21 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/daylight_detector": {
-    "criteria": {
-      "has_quartz": "2025-04-19 04:58:21 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cracked_nether_bricks": {
-    "criteria": {
-      "has_nether_bricks": "2025-04-19 05:14:36 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_blackstone_bricks_from_polished_blackstone_stonecutting": {
-    "criteria": {
-      "has_polished_blackstone": "2025-04-19 05:22:35 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/scorchia_from_stone_types_scorchia_stonecutting": {
-    "criteria": {
-      "has_stone_types_scorchia": "2025-04-19 05:51:12 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/chiseled_polished_blackstone_from_polished_blackstone_stonecutting": {
-    "criteria": {
-      "has_polished_blackstone": "2025-04-19 05:22:35 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_blackstone_stairs_from_polished_blackstone_stonecutting": {
-    "criteria": {
-      "has_polished_blackstone": "2025-04-19 05:22:35 +0000"
-    },
-    "done": true
-  },
-  "infinitybuttons:recipes/redstone/acacia_plank_secret_button": {
-    "criteria": {
-      "has_thing": "2025-04-19 06:16:55 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/netherite_door": {
-    "criteria": {
-      "has_netherite_scrap": "2025-04-19 05:53:15 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/crimson_hyphae": {
-    "criteria": {
-      "has_log": "2025-04-19 06:23:15 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/polished_blackstone_wall_from_polished_blackstone_stonecutting": {
-    "criteria": {
-      "has_polished_blackstone": "2025-04-19 05:22:35 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/acacia_fence": {
-    "criteria": {
-      "has_planks": "2025-04-19 06:16:55 +0000"
-    },
-    "done": true
-  },
-  "infinitybuttons:recipes/redstone/polished_blackstone_brick_secret_button": {
-    "criteria": {
-      "has_thing": "2025-04-19 05:01:08 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_polished_blackstone_stonecutting": {
-    "criteria": {
-      "has_polished_blackstone": "2025-04-19 05:22:35 +0000"
-    },
-    "done": true
-  },
-  "infinitybuttons:recipes/redstone/cracked_polished_blackstone_brick_secret_button": {
-    "criteria": {
-      "has_thing": "2025-04-19 05:38:06 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/nether_brick_slab_from_nether_bricks_stonecutting": {
-    "criteria": {
-      "has_nether_bricks": "2025-04-19 05:14:36 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/brewing/brewing_stand": {
-    "criteria": {
-      "has_blaze_rod": "2025-04-19 05:06:40 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_polished_blackstone_stonecutting": {
-    "criteria": {
-      "has_polished_blackstone": "2025-04-19 05:22:35 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/acacia_button": {
-    "criteria": {
-      "has_planks": "2025-04-19 06:16:55 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/cut_scorchia_brick_slab_from_stone_types_scorchia_stonecutting": {
-    "criteria": {
-      "has_stone_types_scorchia": "2025-04-19 05:51:12 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/cut_scorchia_stairs_from_stone_types_scorchia_stonecutting": {
-    "criteria": {
-      "has_stone_types_scorchia": "2025-04-19 05:51:12 +0000"
-    },
-    "done": true
-  },
-  "infinitybuttons:recipes/redstone/nether_brick_secret_button": {
-    "criteria": {
-      "has_thing": "2025-04-19 05:14:36 +0000"
-    },
-    "done": true
-  },
-  "incendium:root": {
-    "criteria": {
-      "requirement": "2025-04-19 04:57:48 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/cut_scorchia_wall_from_stone_types_scorchia_stonecutting": {
-    "criteria": {
-      "has_stone_types_scorchia": "2025-04-19 05:51:12 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/cut_scorchia_brick_wall_from_stone_types_scorchia_stonecutting": {
-    "criteria": {
-      "has_stone_types_scorchia": "2025-04-19 05:51:12 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/crimson_planks": {
-    "criteria": {
-      "has_logs": "2025-04-19 05:24:03 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cracked_polished_blackstone_bricks": {
-    "criteria": {
-      "has_polished_blackstone_bricks": "2025-04-19 05:01:08 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/small_scorchia_brick_slab_from_stone_types_scorchia_stonecutting": {
-    "criteria": {
-      "has_stone_types_scorchia": "2025-04-19 05:51:12 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/end_stone_lamp": {
-    "criteria": {
-      "has_shroomlight": "2025-04-19 05:04:21 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/blackstone_tile": {
-    "criteria": {
-      "has_polished_blackstone_bricks": "2025-04-19 05:01:08 +0000"
-    },
-    "done": true
-  },
-  "minecraft:nether/obtain_ancient_debris": {
-    "criteria": {
-      "ancient_debris": "2025-04-19 04:59:44 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/diorite": {
-    "criteria": {
-      "has_quartz": "2025-04-19 04:58:21 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/spruce_hanging_sign": {
-    "criteria": {
-      "has_stripped_logs": "2025-04-19 03:29:13 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/granite": {
-    "criteria": {
-      "has_quartz": "2025-04-19 04:58:21 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/acacia_door": {
-    "criteria": {
-      "has_planks": "2025-04-19 06:16:55 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/cut_scorchia_brick_stairs_from_stone_types_scorchia_stonecutting": {
-    "criteria": {
-      "has_stone_types_scorchia": "2025-04-19 05:51:12 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/cut_scorchia_slab_from_stone_types_scorchia_stonecutting": {
-    "criteria": {
-      "has_stone_types_scorchia": "2025-04-19 05:51:12 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/quartz_block": {
-    "criteria": {
-      "has_quartz": "2025-04-19 04:58:21 +0000"
-    },
-    "done": true
-  },
-  "incendium:misc/root": {
-    "criteria": {
-      "incendium:withered_forest": "2025-04-19 04:58:11 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/polished_cut_scorchia_from_stone_types_scorchia_stonecutting": {
-    "criteria": {
-      "has_stone_types_scorchia": "2025-04-19 05:51:12 +0000"
-    },
-    "done": true
-  },
-  "ae2:recipes/misc/tools/nether_quartz_pickaxe": {
-    "criteria": {
-      "has_nether_quartz": "2025-04-19 04:58:21 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/cut_asurine_slab_from_stone_types_asurine_stonecutting": {
-    "criteria": {
-      "has_stone_types_asurine": "2025-04-19 03:56:57 +0000"
-    },
-    "done": true
-  },
-  "travelersbackpack:recipes/misc/quartz": {
-    "criteria": {
-      "has_quartz": "2025-04-19 04:58:21 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/cut_asurine_wall_from_stone_types_asurine_stonecutting": {
-    "criteria": {
-      "has_stone_types_asurine": "2025-04-19 03:56:57 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/layered_scorchia_from_stone_types_scorchia_stonecutting": {
-    "criteria": {
-      "has_stone_types_scorchia": "2025-04-19 05:51:12 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_blackstone_slab_from_polished_blackstone_stonecutting": {
-    "criteria": {
-      "has_polished_blackstone": "2025-04-19 05:22:35 +0000"
-    },
-    "done": true
-  },
-  "minecraft:nether/loot_bastion": {
-    "criteria": {
-      "loot_bastion_other": "2025-04-19 04:59:40 +0000"
-    },
-    "done": true
-  },
-  "createdeco:recipes/building_blocks/dusk_bricks": {
-    "criteria": {
-      "has_item": "2025-04-19 05:51:12 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/stripped_crimson_hyphae": {
-    "criteria": {
-      "has_log": "2025-04-19 05:24:03 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/nether_brick_wall_from_nether_bricks_stonecutting": {
-    "criteria": {
-      "has_nether_bricks": "2025-04-19 05:14:36 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/small_scorchia_brick_wall_from_stone_types_scorchia_stonecutting": {
-    "criteria": {
-      "has_stone_types_scorchia": "2025-04-19 05:51:12 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/scorchia_pillar_from_stone_types_scorchia_stonecutting": {
-    "criteria": {
-      "has_stone_types_scorchia": "2025-04-19 05:51:12 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/nether_brick_wall": {
-    "criteria": {
-      "has_nether_bricks": "2025-04-19 05:14:36 +0000"
-    },
-    "done": true
-  },
-  "mcwwindows:recipes/crimson": {
-    "criteria": {
-      "has_wood": "2025-04-19 06:23:15 +0000"
-    },
-    "done": true
-  },
-  "ae2:recipes/misc/tools/nether_quartz_hoe": {
-    "criteria": {
-      "has_nether_quartz": "2025-04-19 04:58:21 +0000"
-    },
-    "done": true
-  },
-  "minecraft:nether/find_fortress": {
-    "criteria": {
-      "fortress": "2025-04-19 05:15:21 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_blackstone_bricks": {
-    "criteria": {
-      "has_polished_blackstone": "2025-04-19 05:22:35 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/small_asurine_brick_wall_from_stone_types_asurine_stonecutting": {
-    "criteria": {
-      "has_stone_types_asurine": "2025-04-19 03:56:57 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/polished_cut_scorchia_slab_from_stone_types_scorchia_stonecutting": {
-    "criteria": {
-      "has_stone_types_scorchia": "2025-04-19 05:51:12 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs": {
-    "criteria": {
-      "has_polished_blackstone_bricks": "2025-04-19 05:01:08 +0000"
-    },
-    "done": true
-  },
-  "mcwfurnitures:recipes/crimson": {
-    "criteria": {
-      "has_wood": "2025-04-19 06:23:15 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/asurine_from_stone_types_asurine_stonecutting": {
-    "criteria": {
-      "has_stone_types_asurine": "2025-04-19 03:56:57 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/cut_asurine_stairs_from_stone_types_asurine_stonecutting": {
-    "criteria": {
-      "has_stone_types_asurine": "2025-04-19 03:56:57 +0000"
-    },
-    "done": true
-  },
-  "ae2:recipes/misc/tools/nether_quartz_sword": {
-    "criteria": {
-      "has_nether_quartz": "2025-04-19 04:58:21 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/small_asurine_bricks_from_stone_types_asurine_stonecutting": {
-    "criteria": {
-      "has_stone_types_asurine": "2025-04-19 03:56:57 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/cut_scorchia_bricks_from_stone_types_scorchia_stonecutting": {
-    "criteria": {
-      "has_stone_types_scorchia": "2025-04-19 05:51:12 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/acacia_trapdoor": {
-    "criteria": {
-      "has_planks": "2025-04-19 06:16:55 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/nether_brick_stairs": {
-    "criteria": {
-      "has_nether_bricks": "2025-04-19 05:14:36 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/nether_brick_slab": {
-    "criteria": {
-      "has_nether_bricks": "2025-04-19 05:14:36 +0000"
-    },
-    "done": true
-  },
-  "createdeco:recipes/building_blocks/blue_bricks": {
-    "criteria": {
-      "has_item": "2025-04-19 03:56:57 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/netherite_scrap": {
-    "criteria": {
-      "has_ancient_debris": "2025-04-19 04:59:44 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/small_scorchia_brick_stairs_from_stone_types_scorchia_stonecutting": {
-    "criteria": {
-      "has_stone_types_scorchia": "2025-04-19 05:51:12 +0000"
-    },
-    "done": true
-  },
-  "nova_structures:nether/find_nether_skeleton": {
-    "criteria": {
-      "minecraft:fortress": "2025-04-19 05:15:21 +0000"
-    },
-    "done": false
-  },
-  "ae2:recipes/misc/tools/nether_quartz_wrench": {
-    "criteria": {
-      "has_nether_quartz": "2025-04-19 04:58:21 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/acacia_fence_gate": {
-    "criteria": {
-      "has_planks": "2025-04-19 06:16:55 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/cut_asurine_bricks_from_stone_types_asurine_stonecutting": {
-    "criteria": {
-      "has_stone_types_asurine": "2025-04-19 03:56:57 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/observer": {
-    "criteria": {
-      "has_quartz": "2025-04-19 04:58:21 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/polished_cut_scorchia_wall_from_stone_types_scorchia_stonecutting": {
-    "criteria": {
-      "has_stone_types_scorchia": "2025-04-19 05:51:12 +0000"
-    },
-    "done": true
-  },
-  "minecraft:nether/root": {
-    "criteria": {
-      "entered_nether": "2025-04-19 04:57:48 +0000"
-    },
-    "done": true
-  },
-  "infinitybuttons:recipes/redstone/acacia_large_button": {
-    "criteria": {
-      "has_thing": "2025-04-19 06:16:55 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/polished_cut_asurine_from_stone_types_asurine_stonecutting": {
-    "criteria": {
-      "has_stone_types_asurine": "2025-04-19 03:56:57 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_polished_blackstone_bricks_stonecutting": {
-    "criteria": {
-      "has_polished_blackstone_bricks": "2025-04-19 05:01:08 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/light_blue_glazed_terracotta": {
-    "criteria": {
-      "has_light_blue_terracotta": "2025-04-19 04:49:57 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/polished_cut_asurine_slab_from_stone_types_asurine_stonecutting": {
-    "criteria": {
-      "has_stone_types_asurine": "2025-04-19 03:56:57 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/polished_blackstone_pressure_plate": {
-    "criteria": {
-      "has_polished_blackstone": "2025-04-19 05:22:35 +0000"
-    },
-    "done": true
-  },
-  "travelersbackpack:recipes/misc/blaze": {
-    "criteria": {
-      "has_blaze_rod": "2025-04-19 05:06:40 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/cut_asurine_brick_stairs_from_stone_types_asurine_stonecutting": {
-    "criteria": {
-      "has_stone_types_asurine": "2025-04-19 03:56:57 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/brewing/blaze_powder": {
-    "criteria": {
-      "has_blaze_rod": "2025-04-19 05:06:40 +0000"
-    },
-    "done": true
-  },
-  "infinitybuttons:recipes/redstone/polished_blackstone_button_from_polished_blackstone_stonecutting": {
-    "criteria": {
-      "has_polished_blackstone": "2025-04-19 05:22:35 +0000"
-    },
-    "done": true
-  },
-  "minecraft:nether/find_bastion": {
-    "criteria": {
-      "bastion": "2025-04-19 04:58:51 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/layered_asurine_from_stone_types_asurine_stonecutting": {
-    "criteria": {
-      "has_stone_types_asurine": "2025-04-19 03:56:57 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/stonecutting/blackstone_tile": {
-    "criteria": {
-      "has_polished_blackstone_bricks": "2025-04-19 05:01:08 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/polished_blackstone_wall": {
-    "criteria": {
-      "has_polished_blackstone": "2025-04-19 05:22:35 +0000"
-    },
-    "done": true
   },
   "DataVersion": 3465
 }
