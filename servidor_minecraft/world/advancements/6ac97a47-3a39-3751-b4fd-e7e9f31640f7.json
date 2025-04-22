@@ -8912,77 +8912,125 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-19 06:36:00 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_kill": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-19 06:36:00 +0000"
-    },
-    "done": false
-  },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "log_spam_fixer": "2025-04-19 06:36:00 +0000"
+      "requirement": "2025-04-22 02:45:46 +0000"
     },
     "done": false
   },
-  "incendium:technical/holy_wrath": {
+  "minecraft:recipes/redstone/crimson_pressure_plate": {
     "criteria": {
-      "log_spam_fixer": "2025-04-19 06:36:00 +0000"
+      "has_planks": "2025-04-22 02:39:46 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/on_block": {
+  "supplementaries:recipes/decorations/sign_post_crimson": {
     "criteria": {
-      "log_spam_fixer": "2025-04-19 06:36:00 +0000"
+      "has_item": "2025-04-22 02:39:46 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/feed_ghastling": {
+  "create:recipes/building_blocks/crimson_window": {
     "criteria": {
-      "log_spam_fixer": "2025-04-19 06:36:00 +0000"
+      "has_ingredient": "2025-04-22 02:39:46 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/inventory/firestorm": {
+  "minecraft:recipes/building_blocks/crimson_slab": {
     "criteria": {
-      "log_spam_fixer": "2025-04-19 06:36:00 +0000"
+      "has_planks": "2025-04-22 02:39:46 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/give_ghastling": {
+  "mcwfurnitures:recipes/warped": {
     "criteria": {
-      "log_spam_fixer": "2025-04-19 06:36:00 +0000"
+      "has_wood": "2025-04-22 02:19:22 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/multiplex_crossbow": {
+  "infinitybuttons:recipes/redstone/crimson_plank_secret_button": {
     "criteria": {
-      "log_spam_fixer": "2025-04-19 06:36:00 +0000"
+      "has_thing": "2025-04-22 02:39:46 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/on_player_hurt": {
+  "mcwwindows:recipes/warped": {
     "criteria": {
-      "log_spam_fixer": "2025-04-19 06:36:00 +0000"
+      "has_wood": "2025-04-22 02:19:22 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/inventory/sentrys_wrath": {
+  "minecraft:recipes/decorations/crimson_sign": {
     "criteria": {
-      "log_spam_fixer": "2025-04-19 06:36:00 +0000"
+      "has_planks": "2025-04-22 02:39:46 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/firestorm": {
+  "minecraft:recipes/redstone/crimson_door": {
     "criteria": {
-      "log_spam_fixer": "2025-04-19 06:36:00 +0000"
+      "has_planks": "2025-04-22 02:39:46 +0000"
     },
-    "done": false
+    "done": true
+  },
+  "mcwdoors:recipes/warped": {
+    "criteria": {
+      "has_wood": "2025-04-22 02:19:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crimson_fence": {
+    "criteria": {
+      "has_planks": "2025-04-22 02:39:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/warped_planks": {
+    "criteria": {
+      "has_logs": "2025-04-22 02:19:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/warped_fungus_on_a_stick": {
+    "criteria": {
+      "has_warped_fungus": "2025-04-22 02:18:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/crimson_button": {
+    "criteria": {
+      "has_planks": "2025-04-22 02:39:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/crimson_stairs": {
+    "criteria": {
+      "has_planks": "2025-04-22 02:39:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/warped_hyphae": {
+    "criteria": {
+      "has_log": "2025-04-22 02:19:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/crimson_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-04-22 02:39:46 +0000"
+    },
+    "done": true
+  },
+  "infinitybuttons:recipes/redstone/crimson_large_button": {
+    "criteria": {
+      "has_thing": "2025-04-22 02:39:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/crimson_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-04-22 02:39:46 +0000"
+    },
+    "done": true
   },
   "DataVersion": 3465
 }
