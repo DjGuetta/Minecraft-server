@@ -959,3 +959,104 @@ io.netty.handler.timeout.ReadTimeoutException: null
 [01:01:49] [Server thread/WARN]: DjTwistfly moved too quickly! 0.0,20.580000013113022,0.0
 [01:01:49] [Server thread/WARN]: DjTwistfly moved too quickly! 0.0,19.580000013113022,0.0
 [01:04:03] [Server thread/INFO]: Named entity class_5419['Samuel the Pit Master'/7617, l='ServerLevel[world]', x=-1720.58, y=62.00, z=39.43] died: Samuel the Pit Master was shot by DjGuetta11 using [Lanza penes]
+[01:08:15] [Server thread/INFO]: [Not Secure] <DjTwistfly> callaos
+[01:08:30] [Server thread/INFO]: MARAVILLA[/100.123.118.39:51439] logged in with entity id 27163 at (-1631.4235644032103, 46.9424277526289, -320.30000001192093)
+[01:08:30] [Server thread/INFO]: Syncing config to MARAVILLA (6ac97a47-3a39-3751-b4fd-e7e9f31640f7)
+[01:08:30] [Server thread/INFO]: Loading config from file...
+[01:08:30] [Server thread/INFO]: MARAVILLA joined the game
+[01:08:30] [Netty Epoll Server IO #2/INFO]: Priority overwritten for player MARAVILLA. Claiming: GRAVE / Robbing: INVENTORY
+[01:09:22] [Server thread/INFO]: Named entity class_1642['Corvin the Rotten'/7741, l='ServerLevel[world]', x=629.30, y=-53.00, z=2412.62] died: Corvin the Rotten was shot by kevin2353hh
+[01:14:08] [Worker-Main-2/WARN]: Skipped emitting ENTITY_MOUNT game event for entity class_4985['Strider'/40481, l='ServerLevel[world]', x=-1229.00, y=31.00, z=498.00] as it would cause deadlock
+[01:14:08] [Server thread/WARN]: Skipped emitting ENTITY_MOUNT game event for entity class_4985['Strider'/40489, l='ServerLevel[world]', x=-1229.00, y=31.00, z=498.00] as it would cause deadlock
+[01:14:26] [Server thread/INFO]: kevin2353hh hit the ground too hard whilst trying to escape Siren
+[01:14:48] [Server thread/INFO]: kevin2353hh tried to swim in lava
+[01:16:01] [Server thread/INFO]: MARAVILLA has completed the challenge [Hot Tourist Destinations]
+[01:16:13] [Server thread/INFO]: Named entity class_1634['Restless Spirit'/43623, l='ServerLevel[world]', x=-1014.19, y=77.86, z=305.07] died: Restless Spirit starved to death
+[01:16:13] [Server thread/INFO]: Named entity class_1634['Restless Spirit'/43624, l='ServerLevel[world]', x=-1024.31, y=89.48, z=343.85] died: Restless Spirit starved to death
+[01:16:23] [Server thread/INFO]: Named entity class_1634['Restless Spirit'/43622, l='ServerLevel[world]', x=-1014.74, y=79.94, z=342.09] died: Restless Spirit starved to death
+[01:16:25] [Server thread/INFO]: Named entity class_1634['Restless Spirit'/43812, l='ServerLevel[world]', x=-997.03, y=91.49, z=311.11] died: Restless Spirit starved to death
+[01:16:28] [Server thread/INFO]: Named entity class_1634['Restless Spirit'/44075, l='ServerLevel[world]', x=-1000.98, y=41.46, z=347.13] died: Restless Spirit starved to death
+[01:16:29] [Server thread/INFO]: Named entity class_1634['Restless Spirit'/44179, l='ServerLevel[world]', x=-955.92, y=92.12, z=296.90] died: Restless Spirit starved to death
+[01:16:44] [Server thread/INFO]: Named entity class_1634['Restless Spirit'/45375, l='ServerLevel[world]', x=-888.58, y=45.39, z=297.18] died: Restless Spirit starved to death
+[01:17:15] [Server thread/INFO]: Named entity class_1634['Restless Spirit'/47185, l='ServerLevel[world]', x=-709.70, y=66.03, z=228.97] died: Restless Spirit starved to death
+[01:17:27] [Server thread/INFO]: Villager class_1646['Farmer'/45857, l='ServerLevel[world]', x=-5138.70, y=83.88, z=-694.50] died, message: 'Farmer was sniped by Archer'
+[01:17:27] [Server thread/INFO]: Named entity class_1634['Restless Spirit'/48693, l='ServerLevel[world]', x=-606.38, y=94.69, z=181.19] died: Restless Spirit starved to death
+[01:17:35] [Server thread/INFO]: iamluisxd lost connection: Disconnected
+[01:17:35] [Server thread/INFO]: iamluisxd left the game
+[01:17:42] [Server thread/INFO]: kevin2353hh lost connection: Disconnected
+[01:17:42] [Server thread/INFO]: kevin2353hh left the game
+[01:17:47] [Server thread/INFO]: kevin2353hh[/100.95.11.123:51285] logged in with entity id 50988 at (-664.9025679717512, 90.49520087700593, -16.815629385261072)
+[01:17:47] [Server thread/INFO]: Syncing config to kevin2353hh (7447ad97-9fc9-3db9-9805-556bdd2bcbb4)
+[01:17:47] [Server thread/INFO]: Loading config from file...
+[01:17:47] [Server thread/INFO]: kevin2353hh joined the game
+[01:17:47] [Netty Epoll Server IO #3/INFO]: Priority overwritten for player kevin2353hh. Claiming: GRAVE / Robbing: INVENTORY
+[01:17:51] [Server thread/INFO]: Villager class_1646['Leatherworker'/45575, l='ServerLevel[world]', x=-5140.04, y=84.00, z=-696.05] died, message: 'Leatherworker was sniped by Archer'
+[01:18:03] [Server thread/INFO]: iamluisxd[/100.73.159.77:55709] logged in with entity id 52441 at (-1658.5901634172874, 75.0, 431.6604350250599)
+[01:18:03] [Server thread/INFO]: Syncing config to iamluisxd (4f802726-b58a-31ed-ae12-f5d6c3075b3f)
+[01:18:03] [Server thread/INFO]: Loading config from file...
+[01:18:03] [Server thread/INFO]: iamluisxd joined the game
+[01:18:05] [Netty Epoll Server IO #4/INFO]: Priority overwritten for player iamluisxd. Claiming: GRAVE / Robbing: INVENTORY
+[01:18:33] [Server thread/INFO]: iamluisxd lost connection: Timed out
+[01:18:33] [Server thread/INFO]: iamluisxd left the game
+[01:18:41] [Server thread/INFO]: kevin2353hh lost connection: Disconnected
+[01:18:41] [Server thread/INFO]: kevin2353hh left the game
+[01:18:44] [Server thread/INFO]: kevin2353hh[/100.95.11.123:51303] logged in with entity id 54732 at (-664.9025679717512, 90.49520087700593, -16.815629385261072)
+[01:18:44] [Server thread/INFO]: Syncing config to kevin2353hh (7447ad97-9fc9-3db9-9805-556bdd2bcbb4)
+[01:18:44] [Server thread/INFO]: Loading config from file...
+[01:18:44] [Server thread/INFO]: kevin2353hh joined the game
+[01:18:44] [Netty Epoll Server IO #6/INFO]: Priority overwritten for player kevin2353hh. Claiming: GRAVE / Robbing: INVENTORY
+[01:18:56] [Server thread/INFO]: iamluisxd[/100.73.159.77:55723] logged in with entity id 55923 at (-1658.5901634172874, 75.0, 431.6604350250599)
+[01:18:56] [Server thread/INFO]: Syncing config to iamluisxd (4f802726-b58a-31ed-ae12-f5d6c3075b3f)
+[01:18:56] [Server thread/INFO]: Loading config from file...
+[01:18:56] [Server thread/INFO]: iamluisxd joined the game
+[01:18:57] [Netty Epoll Server IO #4/INFO]: Priority overwritten for player iamluisxd. Claiming: GRAVE / Robbing: INVENTORY
+[01:19:26] [Server thread/INFO]: iamluisxd lost connection: Timed out
+[01:19:26] [Server thread/INFO]: iamluisxd left the game
+[01:19:41] [Netty Epoll Server IO #6/ERROR]: Exception occurred in netty pipeline
+io.netty.channel.unix.Errors$NativeIoException: recvAddress(..) failed: Connection reset by peer
+[01:19:41] [Netty Epoll Server IO #6/ERROR]: Twilight Forest: Exception occurred in netty pipeline
+io.netty.channel.unix.Errors$NativeIoException: recvAddress(..) failed: Connection reset by peer
+[01:19:44] [Netty Epoll Server IO #6/ERROR]: Exception occurred in netty pipeline
+io.netty.handler.timeout.ReadTimeoutException: null
+[01:19:44] [Netty Epoll Server IO #6/ERROR]: Twilight Forest: Exception occurred in netty pipeline
+io.netty.handler.timeout.ReadTimeoutException: null
+[01:19:44] [Server thread/INFO]: kevin2353hh lost connection: Timed out
+[01:19:44] [Server thread/INFO]: kevin2353hh left the game
+[01:20:14] [Netty Epoll Server IO #7/ERROR]: Exception occurred in netty pipeline
+io.netty.channel.unix.Errors$NativeIoException: recvAddress(..) failed: Connection reset by peer
+[01:20:14] [Netty Epoll Server IO #7/ERROR]: Twilight Forest: Exception occurred in netty pipeline
+io.netty.channel.unix.Errors$NativeIoException: recvAddress(..) failed: Connection reset by peer
+[01:20:14] [Server thread/INFO]: com.mojang.authlib.GameProfile@442665e4[id=<null>,name=kevin2353hh,properties={},legacy=false] (/100.95.11.123:51384) lost connection: Disconnected
+[01:20:43] [Server thread/INFO]: Villager class_1646['Unemployed'/45946, l='ServerLevel[world]', x=-5125.73, y=81.54, z=-735.74] died, message: 'Unemployed was shot by Pillager'
+[01:21:04] [Server thread/INFO]: iamluisxd[/100.73.159.77:55906] logged in with entity id 62226 at (-1658.5901634172874, 75.0, 431.6604350250599)
+[01:21:04] [Server thread/INFO]: Syncing config to iamluisxd (4f802726-b58a-31ed-ae12-f5d6c3075b3f)
+[01:21:04] [Server thread/INFO]: Loading config from file...
+[01:21:04] [Server thread/INFO]: iamluisxd joined the game
+[01:21:06] [Netty Epoll Server IO #2/INFO]: Priority overwritten for player iamluisxd. Claiming: GRAVE / Robbing: INVENTORY
+[01:21:59] [Server thread/WARN]: Santialpz moved too quickly! -3.1438468238177393,3.0903837257117175,9.054535806395336
+[01:22:10] [Server thread/INFO]: DjTwistfly was slain by Vindicator
+[01:22:16] [Server thread/INFO]: kevin2353hh[/100.95.11.123:51551] logged in with entity id 65272 at (-664.9025679717512, 90.49520087700593, -16.815629385261072)
+[01:22:16] [Server thread/INFO]: Syncing config to kevin2353hh (7447ad97-9fc9-3db9-9805-556bdd2bcbb4)
+[01:22:16] [Server thread/INFO]: Loading config from file...
+[01:22:16] [Server thread/INFO]: kevin2353hh joined the game
+[01:22:18] [Netty Epoll Server IO #3/INFO]: Priority overwritten for player kevin2353hh. Claiming: GRAVE / Robbing: INVENTORY
+[01:22:56] [Server thread/INFO]: DjTwistfly claimed a grave belonging to DjTwistfly at -5137, 79, -696, minecraft:overworld
+[01:22:59] [Server thread/INFO]: Villager class_1646['Farmer'/65987, l='ServerLevel[world]', x=-5114.51, y=85.00, z=-716.80] died, message: 'Farmer was slain by Vindicator'
+[01:23:09] [Server thread/INFO]: Villager class_1646['Butcher'/65954, l='ServerLevel[world]', x=-5119.34, y=81.75, z=-715.30] died, message: 'Butcher was slain by Vindicator'
+[01:23:10] [Server thread/INFO]: Villager class_1646['Horticulturist'/66072, l='ServerLevel[world]', x=-5116.53, y=83.00, z=-715.57] died, message: 'Horticulturist was slain by Vindicator'
+[01:23:42] [Server thread/INFO]: Villager class_1646['Horticulturist'/66073, l='ServerLevel[world]', x=-5117.55, y=82.00, z=-715.30] died, message: 'Horticulturist was slain by Vindicator'
+[01:24:03] [Server thread/INFO]: Santialpz was slain by MARAVILLA using [MARAVILLA]
+[01:24:17] [Server thread/INFO]: Santialpz was slain by MARAVILLA using [MARAVILLA]
+[01:24:17] [Server thread/INFO]: Did not backup data (grave data empty)
+[01:24:23] [Server thread/INFO]: Santialpz was slain by MARAVILLA using [MARAVILLA]
+[01:25:31] [Netty Epoll Server IO #3/ERROR]: Exception occurred in netty pipeline
+io.netty.handler.timeout.ReadTimeoutException: null
+[01:25:31] [Netty Epoll Server IO #3/ERROR]: Twilight Forest: Exception occurred in netty pipeline
+io.netty.handler.timeout.ReadTimeoutException: null
+[01:25:31] [Server thread/INFO]: kevin2353hh lost connection: Timed out
+[01:25:31] [Server thread/INFO]: kevin2353hh left the game
+[01:25:45] [Server thread/INFO]: kevin2353hh[/100.95.11.123:51590] logged in with entity id 74374 at (-800.78970700124, 78.0, 8.588415620797935)
+[01:25:45] [Server thread/INFO]: Syncing config to kevin2353hh (7447ad97-9fc9-3db9-9805-556bdd2bcbb4)
+[01:25:45] [Server thread/INFO]: Loading config from file...
+[01:25:45] [Server thread/INFO]: kevin2353hh joined the game
+[01:25:47] [Netty Epoll Server IO #5/INFO]: Priority overwritten for player kevin2353hh. Claiming: GRAVE / Robbing: INVENTORY

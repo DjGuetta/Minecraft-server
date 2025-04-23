@@ -1007,6 +1007,7 @@
       "minecraft:ocean": "2025-02-24 17:18:45 +0000",
       "minecraft:snowy_beach": "2025-04-23 00:57:29 +0000",
       "minecraft:windswept_gravelly_hills": "2025-02-24 17:37:49 +0000",
+      "minecraft:savanna": "2025-04-23 01:22:42 +0000",
       "minecraft:plains": "2025-02-24 00:10:43 +0000"
     },
     "done": false
@@ -5692,27 +5693,27 @@
     },
     "done": true
   },
-  "iceandfire:recipes/misc/dragon_bone_wall": {
-    "criteria": {
-      "has_item": "2025-04-23 01:00:37 +0000"
-    },
-    "done": true
-  },
   "minecraft:adventure/shoot_arrow": {
     "criteria": {
       "shot_arrow": "2025-04-23 00:58:09 +0000"
     },
     "done": true
   },
-  "iceandfire:recipes/combat/armor_white_helmet": {
+  "iceandfire:iceandfire/kill_if_dragon": {
+    "criteria": {
+      "killed_ice_dragon": "2025-04-23 01:00:02 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/dragon_bone_wall": {
     "criteria": {
       "has_item": "2025-04-23 01:00:37 +0000"
     },
     "done": true
   },
-  "iceandfire:iceandfire/kill_if_dragon": {
+  "iceandfire:recipes/combat/armor_white_helmet": {
     "criteria": {
-      "killed_ice_dragon": "2025-04-23 01:00:02 +0000"
+      "has_item": "2025-04-23 01:00:37 +0000"
     },
     "done": true
   },
@@ -5809,6 +5810,48 @@
   "iceandfire:recipes/tools/dragonbone_sword": {
     "criteria": {
       "has_item": "2025-04-23 01:00:37 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_sea_serpent": {
+    "criteria": {
+      "killed_fire_dragon": "2025-04-23 01:01:19 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_purple_chestplate": {
+    "criteria": {
+      "has_item": "2025-04-23 01:01:23 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/sea_serpent_scales_purple_to_sea_serpent_scale_block_purple": {
+    "criteria": {
+      "has_sea_serpent_scales_purple": "2025-04-23 01:01:23 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_purple_boots": {
+    "criteria": {
+      "has_item": "2025-04-23 01:01:23 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_purple_helmet": {
+    "criteria": {
+      "has_item": "2025-04-23 01:01:23 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_purple_leggings": {
+    "criteria": {
+      "has_item": "2025-04-23 01:01:23 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/dragon_ice": {
+    "criteria": {
+      "has_item": "2025-04-23 01:01:57 +0000"
     },
     "done": true
   },

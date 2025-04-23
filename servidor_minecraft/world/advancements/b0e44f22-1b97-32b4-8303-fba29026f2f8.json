@@ -9948,5 +9948,17 @@
     },
     "done": true
   },
+  "deeperdarker:recipes/misc/reinforced_echo_shard": {
+    "criteria": {
+      "has_echo_shard": "2025-04-23 01:04:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/recovery_compass": {
+    "criteria": {
+      "has_echo_shard": "2025-04-23 01:04:38 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

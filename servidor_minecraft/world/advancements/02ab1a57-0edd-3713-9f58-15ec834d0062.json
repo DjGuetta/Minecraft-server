@@ -12540,5 +12540,35 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/rib_armor_trim_smithing_template": {
+    "criteria": {
+      "has_rib_armor_trim_smithing_template": "2025-04-23 01:12:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/rib_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-04-23 01:12:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crimson_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2025-04-23 01:01:18 +0000"
+    },
+    "done": true
+  },
+  "infinitybuttons:recipes/redstone/cracked_polished_blackstone_brick_secret_button": {
+    "criteria": {
+      "has_thing": "2025-04-23 01:06:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_crimson_hyphae": {
+    "criteria": {
+      "has_log": "2025-04-23 01:01:18 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
