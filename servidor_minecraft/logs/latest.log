@@ -1273,3 +1273,37 @@ io.netty.channel.unix.Errors$NativeIoException: recvAddress(..) failed: Connecti
 [03:43:45] [Netty Epoll Server IO #5/INFO]: Priority overwritten for player Santialpz. Claiming: GRAVE / Robbing: INVENTORY
 [03:43:46] [Server thread/WARN]: MARAVILLA moved too quickly! -4.759299357419877,7.018823199053315,5.429566076308447
 [03:49:09] [Server thread/INFO]: Named entity class_1642['Corvin the Rotten'/288446, l='ServerLevel[world]', x=-1745.52, y=37.00, z=649.80] died: Corvin the Rotten was burnt to a crisp whilst fighting Santialpz
+[03:50:58] [Server thread/INFO]: MARAVILLA lost connection: Disconnected
+[03:50:58] [Server thread/INFO]: MARAVILLA left the game
+[03:51:03] [Server thread/INFO]: Santialpz was blown up by Skeleton Creeper
+[03:51:03] [Server thread/INFO]: MARAVILLA[/100.123.118.39:51833] logged in with entity id 299479 at (-8632.374503558922, 65.0, -905.8523803908682)
+[03:51:03] [Server thread/INFO]: Syncing config to MARAVILLA (6ac97a47-3a39-3751-b4fd-e7e9f31640f7)
+[03:51:03] [Server thread/INFO]: Loading config from file...
+[03:51:03] [Server thread/INFO]: MARAVILLA joined the game
+[03:51:03] [Server thread/WARN]: Santialpz moved wrongly!
+[03:51:03] [Netty Epoll Server IO #7/INFO]: Priority overwritten for player MARAVILLA. Claiming: GRAVE / Robbing: INVENTORY
+[03:56:00] [Server thread/INFO]: Santialpz claimed a grave belonging to Santialpz at -1723, 37, 606, minecraft:overworld
+[04:02:22] [Server thread/INFO]: Santialpz withered away
+[04:02:25] [Server thread/INFO]: Santialpz claimed a grave belonging to Santialpz at -1759, -18, 519, minecraft:overworld
+[04:02:32] [Server thread/INFO]: Named entity class_1564['Vouzhul the Darkmaster'/313112, l='ServerLevel[world]', x=-1765.30, y=-23.00, z=515.59] died: Vouzhul the Darkmaster was shot by Santialpz
+[04:06:49] [Server thread/WARN]: DjTwistfly moved too quickly! 0.014500080862262621,20.580000013113022,0.10974005598712466
+[04:06:50] [Server thread/WARN]: DjTwistfly moved too quickly! 0.0,20.580000013113022,0.0
+[04:06:50] [Server thread/WARN]: DjTwistfly moved too quickly! 0.0,20.580000013113022,0.0
+[04:06:51] [Server thread/WARN]: DjTwistfly moved too quickly! 0.0,19.580000013113022,0.0
+[04:07:28] [Server thread/WARN]: DjTwistfly moved too quickly! 0.0,-20.0,0.0
+[04:07:28] [Server thread/WARN]: DjTwistfly moved too quickly! 0.0,-21.0,0.0
+[04:07:28] [Server thread/WARN]: DjTwistfly moved too quickly! 0.0,-21.0,0.0
+[04:07:29] [Server thread/WARN]: DjTwistfly moved too quickly! 0.0,-21.0,0.0
+[04:07:36] [Server thread/WARN]: DjTwistfly moved too quickly! 0.06477520469024967,20.580000013113022,-0.07634739060691942
+[04:07:37] [Server thread/WARN]: DjTwistfly moved too quickly! 0.0,20.580000013113022,0.0
+[04:07:37] [Server thread/WARN]: DjTwistfly moved too quickly! 0.0,20.580000013113022,0.0
+[04:07:38] [Server thread/WARN]: DjTwistfly moved too quickly! 0.0,19.580000013113022,0.0
+[04:09:15] [Server thread/WARN]: DjGuetta11 moved wrongly!
+[04:11:47] [Server thread/INFO]: MARAVILLA has made the advancement [Another Brick in the Wall]
+[04:12:47] [Server thread/INFO]: MARAVILLA has made the advancement [The Heart and the Flame]
+[04:14:38] [Server thread/INFO]: Santialpz claimed a grave belonging to iamluisxd at -1656, 75, 435, minecraft:overworld
+[04:18:29] [Server thread/INFO]: iamluisxd[/100.73.159.77:50179] logged in with entity id 330096 at (-631.9581847833363, 79.0, -113.6600637039653)
+[04:18:29] [Server thread/INFO]: Syncing config to iamluisxd (4f802726-b58a-31ed-ae12-f5d6c3075b3f)
+[04:18:29] [Server thread/INFO]: Loading config from file...
+[04:18:29] [Server thread/INFO]: iamluisxd joined the game
+[04:18:31] [Netty Epoll Server IO #2/INFO]: Priority overwritten for player iamluisxd. Claiming: GRAVE / Robbing: INVENTORY

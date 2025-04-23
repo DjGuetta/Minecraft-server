@@ -44,6 +44,7 @@
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
       "woodland": "2025-02-17 05:17:50 +0000",
+      "shrubland": "2025-04-23 03:49:42 +0000",
       "snowblossom_grove": "2025-04-22 06:12:22 +0000",
       "scrubland": "2025-02-17 03:46:57 +0000",
       "fungal_jungle": "2025-04-21 06:35:35 +0000",
@@ -59,6 +60,7 @@
       "mystic_grove": "2025-04-23 02:29:54 +0000",
       "cold_desert": "2025-04-22 06:17:59 +0000",
       "old_growth_woodland": "2025-02-17 03:03:34 +0000",
+      "maple_woods": "2025-04-23 03:49:44 +0000",
       "field": "2025-04-22 05:59:30 +0000",
       "orchard": "2025-04-23 03:12:48 +0000",
       "overgrown_greens": "2025-04-14 05:37:47 +0000",
@@ -12644,6 +12646,114 @@
   "nova_structures:adventure/find_swamp_village": {
     "criteria": {
       "minecraft:village_swamp": "2025-04-23 03:24:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/lime_dye": {
+    "criteria": {
+      "has_green_dye": "2025-04-23 04:06:12 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/glass_green": {
+    "criteria": {
+      "has_dyes/black": "2025-04-23 04:06:12 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/dense_covered_purple": {
+    "criteria": {
+      "has_dyes/black": "2025-04-23 04:06:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_green_bed": {
+    "criteria": {
+      "has_needed_dye": "2025-04-23 04:06:12 +0000"
+    },
+    "done": true
+  },
+  "infinitybuttons:recipes/redstone/green_emergency_button": {
+    "criteria": {
+      "has_thing": "2025-04-23 04:06:12 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/green_placard_from_dyeing": {
+    "criteria": {
+      "has_dye": "2025-04-23 04:06:12 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/smart_purple": {
+    "criteria": {
+      "has_dyes/black": "2025-04-23 04:06:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/green_candle": {
+    "criteria": {
+      "has_green_dye": "2025-04-23 04:06:12 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/dense_smart_purple": {
+    "criteria": {
+      "has_dyes/black": "2025-04-23 04:06:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_green_carpet": {
+    "criteria": {
+      "has_needed_dye": "2025-04-23 04:06:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_green_wool": {
+    "criteria": {
+      "has_needed_dye": "2025-04-23 04:06:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/cyan_dye": {
+    "criteria": {
+      "has_green_dye": "2025-04-23 04:06:12 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/building_blocks/dye_green_sleeping_bag": {
+    "criteria": {
+      "has_needed_dye": "2025-04-23 04:06:12 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/dense_covered_green": {
+    "criteria": {
+      "has_dyes/black": "2025-04-23 04:06:12 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/glass_purple": {
+    "criteria": {
+      "has_dyes/black": "2025-04-23 04:06:35 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/dense_smart_green": {
+    "criteria": {
+      "has_dyes/black": "2025-04-23 04:06:12 +0000"
+    },
+    "done": true
+  },
+  "infinitybuttons:recipes/redstone/green_safe_emergency_button": {
+    "criteria": {
+      "has_thing": "2025-04-23 04:06:12 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/smart_green": {
+    "criteria": {
+      "has_dyes/black": "2025-04-23 04:06:12 +0000"
     },
     "done": true
   },
