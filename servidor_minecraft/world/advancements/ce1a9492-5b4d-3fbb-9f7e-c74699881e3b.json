@@ -12430,93 +12430,9 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-22 07:46:38 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_kill": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-22 07:46:38 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-22 07:46:38 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/holy_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-22 07:46:38 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_block": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-22 07:46:38 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/feed_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-22 07:46:38 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-22 07:46:38 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-22 07:46:38 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-22 07:46:38 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_player_hurt": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-22 07:46:38 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-22 07:46:38 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-22 07:46:38 +0000"
-    },
-    "done": false
-  },
   "iceandfire:recipes/combat/armor_blue_leggings": {
     "criteria": {
       "has_item": "2025-04-22 07:17:11 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/armor_sapphire_helmet": {
-    "criteria": {
-      "has_item": "2025-04-22 07:28:03 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/building_blocks/dragonscales_sapphire_to_dragonscale_sapphire": {
-    "criteria": {
-      "has_dragonscales_sapphire": "2025-04-22 07:28:03 +0000"
     },
     "done": true
   },
@@ -12532,27 +12448,15 @@
     },
     "done": true
   },
-  "aquamirae:recipes/anglers_fang": {
-    "criteria": {
-      "has_item": "2025-04-22 07:22:22 +0000"
-    },
-    "done": true
-  },
   "iceandfire:recipes/combat/armor_blue_helmet": {
     "criteria": {
       "has_item": "2025-04-22 07:17:11 +0000"
     },
     "done": true
   },
-  "iceandfire:recipes/combat/armor_sapphire_boots": {
+  "iceandfire:recipes/combat/armor_blue_chestplate": {
     "criteria": {
-      "has_item": "2025-04-22 07:28:03 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/armor_sapphire_chestplate": {
-    "criteria": {
-      "has_item": "2025-04-22 07:28:03 +0000"
+      "has_item": "2025-04-22 07:17:11 +0000"
     },
     "done": true
   },
@@ -12568,9 +12472,9 @@
     },
     "done": true
   },
-  "iceandfire:recipes/combat/armor_sapphire_leggings": {
+  "aquamirae:recipes/anglers_fang": {
     "criteria": {
-      "has_item": "2025-04-22 07:28:03 +0000"
+      "has_item": "2025-04-22 07:22:22 +0000"
     },
     "done": true
   },
@@ -12580,9 +12484,33 @@
     },
     "done": true
   },
-  "iceandfire:recipes/combat/armor_blue_chestplate": {
+  "iceandfire:recipes/combat/armor_sapphire_helmet": {
     "criteria": {
-      "has_item": "2025-04-22 07:17:11 +0000"
+      "has_item": "2025-04-22 07:28:03 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonscales_sapphire_to_dragonscale_sapphire": {
+    "criteria": {
+      "has_dragonscales_sapphire": "2025-04-22 07:28:03 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_sapphire_boots": {
+    "criteria": {
+      "has_item": "2025-04-22 07:28:03 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_sapphire_chestplate": {
+    "criteria": {
+      "has_item": "2025-04-22 07:28:03 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_sapphire_leggings": {
+    "criteria": {
+      "has_item": "2025-04-22 07:28:03 +0000"
     },
     "done": true
   },
