@@ -188,7 +188,7 @@
       "targets": "PLAYER_GRAVES"
     },
     "graveKeys": {
-      "enabled": false,
+      "enabled": true,
       "rebindable": true,
       "required": true,
       "receiveOnRespawn": true,
