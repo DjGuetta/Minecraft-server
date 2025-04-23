@@ -1148,3 +1148,6 @@ io.netty.handler.timeout.ReadTimeoutException: null
 [01:54:32] [Server thread/INFO]: iamluisxd was slain by MARAVILLA using [MARAVILLA]
 [01:56:32] [Server thread/INFO]: iamluisxd lost connection: Disconnected
 [01:56:32] [Server thread/INFO]: iamluisxd left the game
+[01:57:34] [Server thread/WARN]: DjTwistfly moved wrongly!
+[02:01:27] [Server thread/INFO]: Santialpz claimed a grave belonging to Santialpz at -1660, 80, 431, minecraft:overworld
+[02:06:55] [Server thread/ERROR]: POI data mismatch: already registered at class_2338{x=-1974, y=2, z=-2337}
