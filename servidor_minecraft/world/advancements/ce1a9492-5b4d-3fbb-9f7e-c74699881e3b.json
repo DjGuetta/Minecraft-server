@@ -54,11 +54,15 @@
       "highland": "2025-02-26 03:56:32 +0000",
       "jacaranda_glade": "2025-02-23 02:11:03 +0000",
       "marsh": "2025-02-17 04:34:07 +0000",
+      "jade_cliffs": "2025-04-23 02:39:14 +0000",
       "wetland": "2025-04-13 06:49:08 +0000",
+      "mystic_grove": "2025-04-23 02:29:54 +0000",
       "cold_desert": "2025-04-22 06:17:59 +0000",
       "old_growth_woodland": "2025-02-17 03:03:34 +0000",
       "field": "2025-04-22 05:59:30 +0000",
+      "orchard": "2025-04-23 03:12:48 +0000",
       "overgrown_greens": "2025-04-14 05:37:47 +0000",
+      "moor": "2025-04-23 02:42:18 +0000",
       "mediterranean_forest": "2025-02-17 04:18:39 +0000",
       "bog": "2025-04-13 06:50:54 +0000",
       "coniferous_forest": "2025-02-26 03:49:33 +0000",
@@ -77,6 +81,7 @@
       "volcanic_plains": "2025-04-13 23:55:37 +0000",
       "lavender_field": "2025-02-17 04:39:09 +0000",
       "prairie": "2025-02-19 02:53:07 +0000",
+      "grassland": "2025-04-23 02:45:05 +0000",
       "snowy_coniferous_forest": "2025-04-22 02:15:08 +0000",
       "tundra": "2025-04-21 07:37:40 +0000",
       "glowing_grotto": "2025-04-14 00:51:10 +0000",
@@ -1341,6 +1346,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:snowy_slopes": "2025-04-22 06:16:41 +0000",
+      "minecraft:old_growth_pine_taiga": "2025-04-23 03:06:29 +0000",
       "minecraft:taiga": "2025-04-22 05:59:43 +0000",
       "minecraft:deep_ocean": "2025-04-14 06:09:46 +0000",
       "minecraft:eroded_badlands": "2025-04-16 06:12:27 +0000",
@@ -12512,6 +12518,123 @@
   "iceandfire:recipes/combat/armor_sapphire_leggings": {
     "criteria": {
       "has_item": "2025-04-22 07:28:03 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/misc/tank_sky_stone": {
+    "criteria": {
+      "has_sky_stone_block": "2025-04-23 03:04:37 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/parts/quartz_fiber_part": {
+    "criteria": {
+      "has_dusts/quartz": "2025-04-23 03:12:21 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/smelting/smooth_sky_stone_block": {
+    "criteria": {
+      "has_sky_stone_block": "2025-04-23 03:04:37 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/block_cutter/stairs/sky_stone_stairs": {
+    "criteria": {
+      "has_sky_stone_block": "2025-04-23 03:04:37 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/magic_planks": {
+    "criteria": {
+      "has_logs": "2025-04-23 02:30:05 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/decorative/quartz_glass": {
+    "criteria": {
+      "has_quartz_dust": "2025-04-23 03:12:21 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/block_cutter/walls/sky_stone_wall": {
+    "criteria": {
+      "has_sky_stone_block": "2025-04-23 03:04:37 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/shaped/not_so_mysterious_cube": {
+    "criteria": {
+      "press": "2025-04-23 03:04:45 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/blasting/silicon_from_certus_quartz_dust": {
+    "criteria": {
+      "has_certus_quartz_dust": "2025-04-23 03:12:21 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/shaped/stairs/sky_stone_block": {
+    "criteria": {
+      "has_sky_stone_block": "2025-04-23 03:04:37 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/block_cutter/slabs/sky_stone_slab": {
+    "criteria": {
+      "has_sky_stone_block": "2025-04-23 03:04:37 +0000"
+    },
+    "done": true
+  },
+  "ae2:main/presses": {
+    "criteria": {
+      "calculation": "2025-04-23 03:15:47 +0000",
+      "silicon": "2025-04-23 03:04:45 +0000",
+      "engineering": "2025-04-23 03:15:47 +0000",
+      "logic": "2025-04-23 03:15:47 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/shaped/walls/sky_stone_block": {
+    "criteria": {
+      "has_sky_stone_block": "2025-04-23 03:04:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_lilac": {
+    "criteria": {
+      "has_lilac": "2025-04-23 02:29:57 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/misc/purple_dye_from_violet": {
+    "criteria": {
+      "has_violet": "2025-04-23 02:44:16 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/magic_wood": {
+    "criteria": {
+      "has_log": "2025-04-23 02:30:05 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/smelting/silicon_from_certus_quartz_dust": {
+    "criteria": {
+      "has_certus_quartz_dust": "2025-04-23 03:12:21 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/shaped/slabs/sky_stone_block": {
+    "criteria": {
+      "has_sky_stone_block": "2025-04-23 03:04:37 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/misc/chests_sky_stone": {
+    "criteria": {
+      "has_sky_stone_block": "2025-04-23 03:04:37 +0000"
     },
     "done": true
   },
