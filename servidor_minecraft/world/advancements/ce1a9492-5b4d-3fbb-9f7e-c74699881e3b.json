@@ -8611,7 +8611,8 @@
     "criteria": {
       "in_mineshaft_ocean": "2025-04-15 06:16:52 +0000",
       "in_mineshaft_desert": "2025-04-15 03:48:21 +0000",
-      "in_mineshaft_nether": "2025-04-19 05:30:34 +0000"
+      "in_mineshaft_nether": "2025-04-19 05:30:34 +0000",
+      "in_mineshaft_savanna": "2025-04-23 02:09:39 +0000"
     },
     "done": false
   },
