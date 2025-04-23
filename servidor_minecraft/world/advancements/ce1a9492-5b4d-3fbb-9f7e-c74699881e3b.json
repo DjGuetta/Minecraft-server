@@ -73,6 +73,7 @@
       "redwood_forest": "2025-02-23 01:55:39 +0000",
       "visceral_heap": "2025-04-19 04:58:53 +0000",
       "wasteland_steppe": "2025-04-14 01:41:50 +0000",
+      "aspen_glade": "2025-04-23 03:20:36 +0000",
       "dune_beach": "2025-02-17 04:34:16 +0000",
       "seasonal_forest": "2025-02-26 03:49:19 +0000",
       "volcano": "2025-02-23 06:39:55 +0000",
@@ -80,6 +81,7 @@
       "pasture": "2025-04-13 20:26:47 +0000",
       "volcanic_plains": "2025-04-13 23:55:37 +0000",
       "lavender_field": "2025-02-17 04:39:09 +0000",
+      "fir_clearing": "2025-04-23 03:20:43 +0000",
       "prairie": "2025-02-19 02:53:07 +0000",
       "grassland": "2025-04-23 02:45:05 +0000",
       "snowy_coniferous_forest": "2025-04-22 02:15:08 +0000",
@@ -7568,6 +7570,7 @@
   "nova_structures:adventure/find_all_illager_structures": {
     "criteria": {
       "tavern_dark_oak": "2025-04-21 07:35:28 +0000",
+      "swamp_village": "2025-04-23 03:24:43 +0000",
       "pillager_outpost": "2025-04-14 00:12:16 +0000",
       "illager_camp": "2025-04-14 00:40:06 +0000"
     },
@@ -12623,6 +12626,12 @@
   "ae2:recipes/misc/smelting/silicon_from_certus_quartz_dust": {
     "criteria": {
       "has_certus_quartz_dust": "2025-04-23 03:12:21 +0000"
+    },
+    "done": true
+  },
+  "nova_structures:adventure/find_swamp_village": {
+    "criteria": {
+      "minecraft:village_swamp": "2025-04-23 03:24:43 +0000"
     },
     "done": true
   },

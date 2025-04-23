@@ -12540,6 +12540,12 @@
     },
     "done": true
   },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "requirement": "2025-04-23 03:26:08 +0000"
+    },
+    "done": false
+  },
   "iceandfire:recipes/building_blocks/dragonforge_fire_core_disabled": {
     "criteria": {
       "has_item": "2025-04-23 03:00:03 +0000"
@@ -12570,6 +12576,18 @@
     },
     "done": true
   },
+  "supplementaries:recipes/stonecutting/blackstone_tile_wall_from_bricks": {
+    "criteria": {
+      "has_blackstone_tile": "2025-04-23 03:17:54 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/blackstone_tile_wall": {
+    "criteria": {
+      "has_blackstone_tile": "2025-04-23 03:17:54 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/redstone/mahogany_fence_gate": {
     "criteria": {
       "has_planks": "2025-04-23 02:42:06 +0000"
@@ -12594,6 +12612,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/stonecutting/blackstone_tile_slab": {
+    "criteria": {
+      "has_blackstone_tile": "2025-04-23 03:17:54 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/building_blocks/mahogany_stairs": {
     "criteria": {
       "has_planks": "2025-04-23 02:42:06 +0000"
@@ -12603,6 +12627,12 @@
   "infinitybuttons:recipes/redstone/cracked_polished_blackstone_brick_secret_button": {
     "criteria": {
       "has_thing": "2025-04-23 01:06:30 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/blackstone_tile_slab": {
+    "criteria": {
+      "has_blackstone_tile": "2025-04-23 03:17:54 +0000"
     },
     "done": true
   },
@@ -12630,6 +12660,12 @@
     },
     "done": true
   },
+  "create:saw_processing": {
+    "criteria": {
+      "0": "2025-04-23 03:17:53 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/redstone/mahogany_button": {
     "criteria": {
       "has_planks": "2025-04-23 02:42:06 +0000"
@@ -12654,6 +12690,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/blackstone_tile_stairs": {
+    "criteria": {
+      "has_blackstone_tile": "2025-04-23 03:17:54 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/misc/dragonscale_red_to_dragonscales_red": {
     "criteria": {
       "has_dragonscale_red": "2025-04-23 02:54:13 +0000"
@@ -12675,6 +12717,12 @@
   "biomesoplenty:recipes/redstone/mahogany_trapdoor": {
     "criteria": {
       "has_planks": "2025-04-23 02:42:06 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/stonecutting/blackstone_tile_stairs_from_bricks": {
+    "criteria": {
+      "has_blackstone_tile": "2025-04-23 03:17:54 +0000"
     },
     "done": true
   },
