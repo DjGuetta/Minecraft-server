@@ -1307,3 +1307,131 @@ io.netty.channel.unix.Errors$NativeIoException: recvAddress(..) failed: Connecti
 [04:18:29] [Server thread/INFO]: Loading config from file...
 [04:18:29] [Server thread/INFO]: iamluisxd joined the game
 [04:18:31] [Netty Epoll Server IO #2/INFO]: Priority overwritten for player iamluisxd. Claiming: GRAVE / Robbing: INVENTORY
+[04:33:31] [Server thread/INFO]: [Not Secure] <MARAVILLA> djpepa
+[04:33:42] [Server thread/INFO]: iamluisxd has made the advancement [This Must be a Sign!]
+[04:34:02] [Server thread/INFO]: [Not Secure] <MARAVILLA> djpepa
+[04:34:27] [Server thread/INFO]: djgerad[/100.105.136.94:51868] logged in with entity id 348730 at (2190.9503640139274, 63.0, -6308.021285788666)
+[04:34:27] [Server thread/INFO]: Syncing config to djgerad (2cbcf4a6-0099-3289-b977-18c916a1a362)
+[04:34:27] [Server thread/INFO]: Loading config from file...
+[04:34:27] [Server thread/INFO]: djgerad joined the game
+[04:34:36] [Netty Epoll Server IO #4/INFO]: Priority overwritten for player djgerad. Claiming: GRAVE / Robbing: INVENTORY
+[04:38:49] [Server thread/WARN]: Hippocampus (vehicle of Santialpz) moved wrongly! 1.6369722521109373
+[04:38:52] [Server thread/WARN]: Hippocampus (vehicle of iamluisxd) moved wrongly! 1.5537251372396668
+[04:38:54] [Server thread/WARN]: Hippocampus (vehicle of iamluisxd) moved wrongly! 1.1802756865678394
+[04:38:55] [Server thread/WARN]: Hippocampus (vehicle of iamluisxd) moved wrongly! 1.5905403393146773
+[04:38:56] [Server thread/WARN]: Hippocampus (vehicle of iamluisxd) moved wrongly! 1.3954296703249514
+[04:39:07] [Server thread/WARN]: Hippocampus (vehicle of iamluisxd) moved wrongly! 1.579281215492842
+[04:39:07] [Server thread/WARN]: Hippocampus (vehicle of iamluisxd) moved wrongly! 1.7810722073970806
+[04:39:08] [Server thread/WARN]: Hippocampus (vehicle of iamluisxd) moved wrongly! 1.2184019392628136
+[04:39:08] [Server thread/WARN]: Hippocampus (vehicle of iamluisxd) moved wrongly! 1.2184019392628136
+[04:39:09] [Server thread/WARN]: Hippocampus (vehicle of iamluisxd) moved wrongly! 1.2934788982907932
+[04:40:11] [Server thread/INFO]: iamluisxd claimed a grave belonging to iamluisxd at -3527, 62, -214, minecraft:overworld
+[04:40:19] [Server thread/INFO]: iamluisxd was slain by Sea Serpent
+[04:40:24] [Server thread/INFO]: [Not Secure] <djgerad> oli
+[04:43:22] [Server thread/WARN]: Hippocampus (vehicle of Santialpz) moved wrongly! 0.3721769120966362
+[04:43:26] [Server thread/WARN]: Hippocampus (vehicle of Santialpz) moved wrongly! 0.9733825271868607
+[04:43:30] [Server thread/WARN]: Hippocampus (vehicle of Santialpz) moved wrongly! 0.7386030927365288
+[04:43:36] [Server thread/WARN]: Hippocampus (vehicle of Santialpz) moved wrongly! 0.9634527058929473
+[04:43:40] [Server thread/WARN]: Tried to add entity aquamirae:pillagers_patrol but it was marked as removed already
+[04:43:44] [Server thread/WARN]: Hippocampus (vehicle of Santialpz) moved wrongly! 0.3422590775166223
+[04:43:45] [Server thread/WARN]: Hippocampus (vehicle of Santialpz) moved wrongly! 0.9730581738847945
+[04:43:46] [Server thread/INFO]: iamluisxd lost connection: Timed out
+[04:43:46] [Server thread/INFO]: iamluisxd left the game
+[04:43:50] [Server thread/INFO]: iamluisxd[/100.73.159.77:50268] logged in with entity id 383713 at (-2203.940743178931, 62.80921146693279, 278.27913064748054)
+[04:43:50] [Server thread/INFO]: Syncing config to iamluisxd (4f802726-b58a-31ed-ae12-f5d6c3075b3f)
+[04:43:50] [Server thread/INFO]: Loading config from file...
+[04:43:50] [Server thread/INFO]: iamluisxd joined the game
+[04:43:51] [Netty Epoll Server IO #5/INFO]: Priority overwritten for player iamluisxd. Claiming: GRAVE / Robbing: INVENTORY
+[04:43:57] [Server thread/WARN]: Hippocampus (vehicle of Santialpz) moved wrongly! 0.781590667374997
+[04:44:08] [Server thread/WARN]: Hippocampus (vehicle of Santialpz) moved wrongly! 0.9209361718843659
+[04:45:07] [Server thread/WARN]: Hippocampus (vehicle of Santialpz) moved wrongly! 1.27864005103431
+[04:45:18] [Worker-Main-3/WARN]: Tried to access a block entity before it was created. class_2339{x=-2560, y=-30, z=262}
+[04:46:13] [Server thread/WARN]: Hippocampus (vehicle of Santialpz) moved wrongly! 1.0510740277587445
+[04:46:14] [Server thread/WARN]: Hippocampus (vehicle of Santialpz) moved wrongly! 1.5085497871095863
+[04:46:25] [Server thread/WARN]: Hippocampus (vehicle of Santialpz) moved wrongly! 0.8959702595972657
+[04:46:59] [Server thread/WARN]: Hippocampus (vehicle of Santialpz) moved wrongly! 0.3370435850925446
+[04:46:59] [Server thread/WARN]: Hippocampus (vehicle of Santialpz) moved wrongly! 0.6599809227666924
+[04:46:59] [Server thread/WARN]: Hippocampus (vehicle of Santialpz) moved wrongly! 0.2557322107146547
+[04:49:01] [Server thread/INFO]: [Not Secure] <iamluisxd> alguien duerma pls
+[04:49:36] [Server thread/INFO]: DjTwistfly has reached the goal [A Metropolis of Restless Souls]
+[04:50:32] [Server thread/INFO]: [Not Secure] <iamluisxd> hagan de dia
+[04:50:58] [Server thread/INFO]: Rejected teleport: MissingWaystone
+[04:51:42] [Server thread/INFO]: MARAVILLA was slain by Warden
+[04:52:25] [Server thread/INFO]: iamluisxd claimed a grave belonging to iamluisxd at -3528, 62, -203, minecraft:overworld
+[04:53:48] [Server thread/INFO]: MARAVILLA was slain by Spider
+[04:54:18] [Server thread/INFO]: [Not Secure] <DjGuetta11> ay, roymer en casa de Aaron
+[04:54:19] [Server thread/INFO]: [Not Secure] <DjGuetta11> ay
+[04:54:27] [Server thread/INFO]: [Not Secure] <djgerad> ay mano
+[04:54:35] [Server thread/INFO]: [Not Secure] <djgerad> aron ya lo robaron papi
+[04:54:37] [Server thread/INFO]: [Not Secure] <djgerad> por webon
+[04:54:45] [Server thread/INFO]: [Not Secure] <Santialpz> calle la jeta p diddy
+[04:54:55] [Server thread/INFO]: [Not Secure] <djgerad> ojala lo roben
+[04:54:57] [Server thread/WARN]: DjGuetta11 moved wrongly!
+[04:54:58] [Server thread/INFO]: [Not Secure] <djgerad> y le exploten todo
+[04:55:14] [Server thread/INFO]: [Not Secure] <Santialpz> a ud le voy a explotar las nalgas
+[04:55:18] [Server thread/INFO]: [Not Secure] <djgerad> :o
+[04:55:26] [Server thread/WARN]: djgerad moved wrongly!
+[04:55:27] [Server thread/WARN]: djgerad moved wrongly!
+[04:55:28] [Server thread/WARN]: djgerad moved wrongly!
+[04:55:29] [Server thread/WARN]: djgerad moved wrongly!
+[04:55:29] [Server thread/WARN]: djgerad moved wrongly!
+[04:55:31] [Server thread/WARN]: djgerad moved too quickly! -0.09083316965552513,20.580000013113022,-0.09196540224490235
+[04:55:31] [Server thread/WARN]: djgerad moved too quickly! 0.0,20.580000013113022,0.0
+[04:55:31] [Server thread/WARN]: djgerad moved too quickly! 0.0,20.580000013113022,0.0
+[04:55:32] [Server thread/WARN]: djgerad moved too quickly! 0.0,19.580000013113022,0.0
+[04:56:07] [Server thread/INFO]: MARAVILLA claimed a grave belonging to MARAVILLA at -1368, 80, 42, minecraft:overworld
+[04:56:17] [Server thread/WARN]: djgerad moved too quickly! 0.0,-20.0,0.0
+[04:56:17] [Server thread/WARN]: djgerad moved too quickly! 0.0,-21.0,0.0
+[04:56:18] [Server thread/WARN]: djgerad moved too quickly! 0.0,-21.0,0.0
+[04:56:18] [Server thread/WARN]: djgerad moved too quickly! 0.0,-21.0,0.0
+[04:56:19] [Server thread/WARN]: djgerad moved too quickly! 0.0,20.580000013113022,0.0
+[04:56:30] [Server thread/INFO]: MARAVILLA burned to death
+[04:56:56] [Server thread/WARN]: Hippocampus (vehicle of iamluisxd) moved wrongly! 0.380380177143536
+[04:57:04] [Server thread/WARN]: Hippocampus (vehicle of Santialpz) moved wrongly! 0.3470863936310593
+[04:59:08] [Server thread/WARN]: DjTwistfly moved too quickly! 10.025298543861936,-1.5702100187466215,1.3582198173568258
+[04:59:13] [Server thread/INFO]: MARAVILLA was shot by DjGuetta11 using [Lanza penes]
+[04:59:13] [Server thread/INFO]: Did not backup data (grave data empty)
+[04:59:25] [Server thread/WARN]: DjGuetta11 moved wrongly!
+[04:59:25] [Server thread/WARN]: DjGuetta11 moved wrongly!
+[04:59:26] [Server thread/WARN]: DjGuetta11 moved wrongly!
+[04:59:27] [Server thread/WARN]: DjGuetta11 moved wrongly!
+[04:59:27] [Server thread/WARN]: DjGuetta11 moved too quickly! -0.12496036123980048,20.37999999523163,0.13465689947942394
+[04:59:28] [Server thread/WARN]: DjGuetta11 moved too quickly! 0.0,20.37999999523163,0.0
+[04:59:28] [Server thread/WARN]: DjGuetta11 moved too quickly! 0.0,19.37999999523163,0.0
+[04:59:34] [Server thread/WARN]: djgerad moved too quickly! 0.1943834541373235,-21.0,-0.174144584627399
+[04:59:34] [Server thread/INFO]: MARAVILLA was slain by iamluisxd
+[04:59:35] [Server thread/WARN]: djgerad moved wrongly!
+[04:59:36] [Server thread/WARN]: djgerad moved wrongly!
+[04:59:37] [Server thread/WARN]: djgerad moved wrongly!
+[04:59:37] [Server thread/WARN]: djgerad moved too quickly! 0.15399293333848618,20.580000013113022,0.024030265983839172
+[04:59:38] [Server thread/WARN]: djgerad moved too quickly! 0.0,20.580000013113022,0.0
+[04:59:39] [Server thread/WARN]: djgerad moved too quickly! 0.0,20.580000013113022,0.0
+[04:59:39] [Server thread/WARN]: djgerad moved too quickly! 0.0,19.580000013113022,0.0
+[04:59:48] [Server thread/INFO]: MARAVILLA was slain by iamluisxd
+[04:59:48] [Server thread/INFO]: Did not backup data (grave data empty)
+[05:00:35] [Server thread/WARN]: djgerad moved too quickly! 0.004727085426338817,-20.0,0.0
+[05:00:36] [Server thread/WARN]: djgerad moved too quickly! 0.0,-21.0,0.0
+[05:00:36] [Server thread/WARN]: djgerad moved too quickly! 0.0,-21.0,0.0
+[05:00:37] [Server thread/WARN]: djgerad moved too quickly! 0.0,-21.0,0.0
+[05:02:43] [Server thread/INFO]: DjTwistfly lost connection: Disconnected
+[05:02:43] [Server thread/INFO]: DjTwistfly left the game
+[05:04:32] [Server thread/INFO]: djgerad was slain by Santialpz
+[05:04:38] [Server thread/WARN]: djgerad moved too quickly! 0.0,-20.0,0.0
+[05:04:38] [Server thread/WARN]: djgerad moved too quickly! 0.0,-21.0,0.0
+[05:04:39] [Server thread/WARN]: djgerad moved too quickly! 0.0,-21.0,0.0
+[05:04:39] [Server thread/WARN]: djgerad moved too quickly! 0.0,-21.0,0.0
+[05:04:47] [Server thread/INFO]: DjTwistfly[/100.95.48.32:51060] logged in with entity id 452482 at (-8930.300000011921, -47.0, -763.3000000119209)
+[05:04:47] [Server thread/INFO]: Syncing config to DjTwistfly (ce1a9492-5b4d-3fbb-9f7e-c74699881e3b)
+[05:04:47] [Server thread/INFO]: Loading config from file...
+[05:04:47] [Server thread/INFO]: DjTwistfly joined the game
+[05:04:52] [Netty Epoll Server IO #0/INFO]: Priority overwritten for player DjTwistfly. Claiming: GRAVE / Robbing: INVENTORY
+[05:05:58] [Server thread/INFO]: djgerad claimed a grave belonging to djgerad at -1674, 74, 372, minecraft:overworld
+[05:06:47] [Server thread/INFO]: DjTwistfly lost connection: Timed out
+[05:06:47] [Server thread/INFO]: DjTwistfly left the game
+[05:07:58] [Server thread/INFO]: Named entity class_1564['Rumak the Dark'/457144, l='ServerLevel[world]', x=-8857.70, y=-48.00, z=-510.70] died: Rumak the Dark was slain by Warden
+[05:08:33] [Server thread/INFO]: DjTwistfly[/100.95.48.32:52514] logged in with entity id 458596 at (-8888.31332982195, -42.0, -767.3408996467383)
+[05:08:33] [Server thread/INFO]: Syncing config to DjTwistfly (ce1a9492-5b4d-3fbb-9f7e-c74699881e3b)
+[05:08:33] [Server thread/INFO]: Loading config from file...
+[05:08:33] [Server thread/INFO]: DjTwistfly joined the game
+[05:08:33] [Netty Epoll Server IO #4/INFO]: Priority overwritten for player DjTwistfly. Claiming: GRAVE / Robbing: INVENTORY
+[05:10:04] [Server thread/INFO]: Named entity class_1549['Arag the Lurker'/458643, l='ServerLevel[world]', x=-8892.15, y=-42.00, z=-775.50] died: Arag the Lurker was shot by DjTwistfly
