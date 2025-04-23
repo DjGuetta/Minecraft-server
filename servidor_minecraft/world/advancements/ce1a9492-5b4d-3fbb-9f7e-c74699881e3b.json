@@ -12524,15 +12524,33 @@
     },
     "done": true
   },
-  "ae2:recipes/misc/misc/tank_sky_stone": {
+  "minecraft:recipes/misc/magenta_dye_from_lilac": {
     "criteria": {
-      "has_sky_stone_block": "2025-04-23 03:04:37 +0000"
+      "has_lilac": "2025-04-23 02:29:57 +0000"
     },
     "done": true
   },
-  "ae2:recipes/misc/network/parts/quartz_fiber_part": {
+  "biomesoplenty:recipes/building_blocks/magic_planks": {
     "criteria": {
-      "has_dusts/quartz": "2025-04-23 03:12:21 +0000"
+      "has_logs": "2025-04-23 02:30:05 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/magic_wood": {
+    "criteria": {
+      "has_log": "2025-04-23 02:30:05 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/misc/purple_dye_from_violet": {
+    "criteria": {
+      "has_violet": "2025-04-23 02:44:16 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/misc/tank_sky_stone": {
+    "criteria": {
+      "has_sky_stone_block": "2025-04-23 03:04:37 +0000"
     },
     "done": true
   },
@@ -12548,33 +12566,9 @@
     },
     "done": true
   },
-  "biomesoplenty:recipes/building_blocks/magic_planks": {
-    "criteria": {
-      "has_logs": "2025-04-23 02:30:05 +0000"
-    },
-    "done": true
-  },
-  "ae2:recipes/misc/decorative/quartz_glass": {
-    "criteria": {
-      "has_quartz_dust": "2025-04-23 03:12:21 +0000"
-    },
-    "done": true
-  },
   "ae2:recipes/misc/block_cutter/walls/sky_stone_wall": {
     "criteria": {
       "has_sky_stone_block": "2025-04-23 03:04:37 +0000"
-    },
-    "done": true
-  },
-  "ae2:recipes/misc/shaped/not_so_mysterious_cube": {
-    "criteria": {
-      "press": "2025-04-23 03:04:45 +0000"
-    },
-    "done": true
-  },
-  "ae2:recipes/misc/blasting/silicon_from_certus_quartz_dust": {
-    "criteria": {
-      "has_certus_quartz_dust": "2025-04-23 03:12:21 +0000"
     },
     "done": true
   },
@@ -12590,48 +12584,9 @@
     },
     "done": true
   },
-  "ae2:main/presses": {
-    "criteria": {
-      "calculation": "2025-04-23 03:15:47 +0000",
-      "silicon": "2025-04-23 03:04:45 +0000",
-      "engineering": "2025-04-23 03:15:47 +0000",
-      "logic": "2025-04-23 03:15:47 +0000"
-    },
-    "done": true
-  },
   "ae2:recipes/misc/shaped/walls/sky_stone_block": {
     "criteria": {
       "has_sky_stone_block": "2025-04-23 03:04:37 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/magenta_dye_from_lilac": {
-    "criteria": {
-      "has_lilac": "2025-04-23 02:29:57 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/misc/purple_dye_from_violet": {
-    "criteria": {
-      "has_violet": "2025-04-23 02:44:16 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/building_blocks/magic_wood": {
-    "criteria": {
-      "has_log": "2025-04-23 02:30:05 +0000"
-    },
-    "done": true
-  },
-  "ae2:recipes/misc/smelting/silicon_from_certus_quartz_dust": {
-    "criteria": {
-      "has_certus_quartz_dust": "2025-04-23 03:12:21 +0000"
-    },
-    "done": true
-  },
-  "nova_structures:adventure/find_swamp_village": {
-    "criteria": {
-      "minecraft:village_swamp": "2025-04-23 03:24:43 +0000"
     },
     "done": true
   },
@@ -12644,6 +12599,51 @@
   "ae2:recipes/misc/misc/chests_sky_stone": {
     "criteria": {
       "has_sky_stone_block": "2025-04-23 03:04:37 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/shaped/not_so_mysterious_cube": {
+    "criteria": {
+      "press": "2025-04-23 03:04:45 +0000"
+    },
+    "done": true
+  },
+  "ae2:main/presses": {
+    "criteria": {
+      "calculation": "2025-04-23 03:15:47 +0000",
+      "silicon": "2025-04-23 03:04:45 +0000",
+      "engineering": "2025-04-23 03:15:47 +0000",
+      "logic": "2025-04-23 03:15:47 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/parts/quartz_fiber_part": {
+    "criteria": {
+      "has_dusts/quartz": "2025-04-23 03:12:21 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/decorative/quartz_glass": {
+    "criteria": {
+      "has_quartz_dust": "2025-04-23 03:12:21 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/blasting/silicon_from_certus_quartz_dust": {
+    "criteria": {
+      "has_certus_quartz_dust": "2025-04-23 03:12:21 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/smelting/silicon_from_certus_quartz_dust": {
+    "criteria": {
+      "has_certus_quartz_dust": "2025-04-23 03:12:21 +0000"
+    },
+    "done": true
+  },
+  "nova_structures:adventure/find_swamp_village": {
+    "criteria": {
+      "minecraft:village_swamp": "2025-04-23 03:24:43 +0000"
     },
     "done": true
   },

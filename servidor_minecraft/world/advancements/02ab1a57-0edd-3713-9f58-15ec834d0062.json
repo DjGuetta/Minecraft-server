@@ -12540,12 +12540,6 @@
     },
     "done": true
   },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "requirement": "2025-04-23 03:26:08 +0000"
-    },
-    "done": false
-  },
   "iceandfire:recipes/building_blocks/dragonforge_fire_core_disabled": {
     "criteria": {
       "has_item": "2025-04-23 03:00:03 +0000"
