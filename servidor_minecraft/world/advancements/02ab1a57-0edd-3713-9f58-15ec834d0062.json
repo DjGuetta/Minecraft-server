@@ -12540,81 +12540,15 @@
     },
     "done": true
   },
-  "iceandfire:recipes/building_blocks/dragonforge_fire_core_disabled": {
-    "criteria": {
-      "has_item": "2025-04-23 03:00:03 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/decorations/biomesoplenty/sign_post_mahogany": {
-    "criteria": {
-      "has_item": "2025-04-23 02:42:06 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/misc/dragonscale_green_to_dragonscales_green": {
-    "criteria": {
-      "has_dragonscale_green": "2025-04-23 03:01:36 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/misc/dragonscale_gray_to_dragonscales_gray": {
-    "criteria": {
-      "has_dragonscale_gray": "2025-04-23 03:02:03 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/rib_armor_trim_smithing_template": {
-    "criteria": {
-      "has_rib_armor_trim_smithing_template": "2025-04-23 01:12:55 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/stonecutting/blackstone_tile_wall_from_bricks": {
-    "criteria": {
-      "has_blackstone_tile": "2025-04-23 03:17:54 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/blackstone_tile_wall": {
-    "criteria": {
-      "has_blackstone_tile": "2025-04-23 03:17:54 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/redstone/mahogany_fence_gate": {
-    "criteria": {
-      "has_planks": "2025-04-23 02:42:06 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/rib_armor_trim_smithing_template_smithing_trim": {
-    "criteria": {
-      "has_smithing_trim_template": "2025-04-23 01:12:55 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/decorations/mahogany_sign": {
-    "criteria": {
-      "has_planks": "2025-04-23 02:42:06 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/crimson_hanging_sign": {
     "criteria": {
       "has_stripped_logs": "2025-04-23 01:01:18 +0000"
     },
     "done": true
   },
-  "supplementaries:recipes/stonecutting/blackstone_tile_slab": {
+  "minecraft:recipes/building_blocks/stripped_crimson_hyphae": {
     "criteria": {
-      "has_blackstone_tile": "2025-04-23 03:17:54 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/building_blocks/mahogany_stairs": {
-    "criteria": {
-      "has_planks": "2025-04-23 02:42:06 +0000"
+      "has_log": "2025-04-23 01:01:18 +0000"
     },
     "done": true
   },
@@ -12624,15 +12558,39 @@
     },
     "done": true
   },
-  "supplementaries:recipes/blackstone_tile_slab": {
+  "minecraft:recipes/misc/rib_armor_trim_smithing_template": {
     "criteria": {
-      "has_blackstone_tile": "2025-04-23 03:17:54 +0000"
+      "has_rib_armor_trim_smithing_template": "2025-04-23 01:12:55 +0000"
     },
     "done": true
   },
-  "iceandfire:iceandfire/dragon_forge_core": {
+  "minecraft:recipes/misc/rib_armor_trim_smithing_template_smithing_trim": {
     "criteria": {
-      "core": "2025-04-23 03:02:17 +0000"
+      "has_smithing_trim_template": "2025-04-23 01:12:55 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/decorations/biomesoplenty/sign_post_mahogany": {
+    "criteria": {
+      "has_item": "2025-04-23 02:42:06 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/mahogany_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-04-23 02:42:06 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/decorations/mahogany_sign": {
+    "criteria": {
+      "has_planks": "2025-04-23 02:42:06 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/mahogany_stairs": {
+    "criteria": {
+      "has_planks": "2025-04-23 02:42:06 +0000"
     },
     "done": true
   },
@@ -12654,27 +12612,9 @@
     },
     "done": true
   },
-  "create:saw_processing": {
-    "criteria": {
-      "0": "2025-04-23 03:17:53 +0000"
-    },
-    "done": true
-  },
   "biomesoplenty:recipes/redstone/mahogany_button": {
     "criteria": {
       "has_planks": "2025-04-23 02:42:06 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:iceandfire/dragon_forge_brick": {
-    "criteria": {
-      "forge": "2025-04-23 03:00:03 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/stripped_crimson_hyphae": {
-    "criteria": {
-      "has_log": "2025-04-23 01:01:18 +0000"
     },
     "done": true
   },
@@ -12684,9 +12624,9 @@
     },
     "done": true
   },
-  "supplementaries:recipes/blackstone_tile_stairs": {
+  "biomesoplenty:recipes/redstone/mahogany_trapdoor": {
     "criteria": {
-      "has_blackstone_tile": "2025-04-23 03:17:54 +0000"
+      "has_planks": "2025-04-23 02:42:06 +0000"
     },
     "done": true
   },
@@ -12696,21 +12636,81 @@
     },
     "done": true
   },
-  "iceandfire:recipes/building_blocks/dragonforge_fire_input": {
-    "criteria": {
-      "has_item": "2025-04-23 03:00:03 +0000"
-    },
-    "done": true
-  },
   "iceandfire:recipes/misc/dragonbone": {
     "criteria": {
       "has_dragon_bone_block": "2025-04-23 02:58:11 +0000"
     },
     "done": true
   },
-  "biomesoplenty:recipes/redstone/mahogany_trapdoor": {
+  "iceandfire:recipes/building_blocks/dragonforge_fire_core_disabled": {
     "criteria": {
-      "has_planks": "2025-04-23 02:42:06 +0000"
+      "has_item": "2025-04-23 03:00:03 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/dragon_forge_brick": {
+    "criteria": {
+      "forge": "2025-04-23 03:00:03 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonforge_fire_input": {
+    "criteria": {
+      "has_item": "2025-04-23 03:00:03 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/dragonscale_green_to_dragonscales_green": {
+    "criteria": {
+      "has_dragonscale_green": "2025-04-23 03:01:36 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/dragonscale_gray_to_dragonscales_gray": {
+    "criteria": {
+      "has_dragonscale_gray": "2025-04-23 03:02:03 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/dragon_forge_core": {
+    "criteria": {
+      "core": "2025-04-23 03:02:17 +0000"
+    },
+    "done": true
+  },
+  "create:saw_processing": {
+    "criteria": {
+      "0": "2025-04-23 03:17:53 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/stonecutting/blackstone_tile_wall_from_bricks": {
+    "criteria": {
+      "has_blackstone_tile": "2025-04-23 03:17:54 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/blackstone_tile_wall": {
+    "criteria": {
+      "has_blackstone_tile": "2025-04-23 03:17:54 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/stonecutting/blackstone_tile_slab": {
+    "criteria": {
+      "has_blackstone_tile": "2025-04-23 03:17:54 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/blackstone_tile_slab": {
+    "criteria": {
+      "has_blackstone_tile": "2025-04-23 03:17:54 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/blackstone_tile_stairs": {
+    "criteria": {
+      "has_blackstone_tile": "2025-04-23 03:17:54 +0000"
     },
     "done": true
   },

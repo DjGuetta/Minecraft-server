@@ -4372,7 +4372,8 @@
   },
   "deeperdarker:main/kill_all_sculk_mobs": {
     "criteria": {
-      "phantom": "2025-02-23 06:41:33 +0000"
+      "phantom": "2025-02-23 06:41:33 +0000",
+      "warden": "2025-04-23 05:32:30 +0000"
     },
     "done": false
   },
@@ -12871,77 +12872,17 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
+  "deeperdarker:main/kill_warden": {
     "criteria": {
-      "log_spam_fixer": "2025-04-23 05:06:09 +0000"
+      "warden": "2025-04-23 05:32:30 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/on_kill": {
+  "deeperdarker:recipes/combat/sonorous_staff": {
     "criteria": {
-      "log_spam_fixer": "2025-04-23 05:06:09 +0000"
+      "has_heart_of_the_deep": "2025-04-23 05:41:00 +0000"
     },
-    "done": false
-  },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-23 05:06:09 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/holy_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-23 05:06:09 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_block": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-23 05:06:09 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/feed_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-23 05:06:09 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-23 05:06:09 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-23 05:06:09 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-23 05:06:09 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_player_hurt": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-23 05:06:09 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-23 05:06:09 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-23 05:06:09 +0000"
-    },
-    "done": false
+    "done": true
   },
   "DataVersion": 3465
 }

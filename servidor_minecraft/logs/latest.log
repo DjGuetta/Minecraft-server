@@ -1435,3 +1435,78 @@ io.netty.channel.unix.Errors$NativeIoException: recvAddress(..) failed: Connecti
 [05:08:33] [Server thread/INFO]: DjTwistfly joined the game
 [05:08:33] [Netty Epoll Server IO #4/INFO]: Priority overwritten for player DjTwistfly. Claiming: GRAVE / Robbing: INVENTORY
 [05:10:04] [Server thread/INFO]: Named entity class_1549['Arag the Lurker'/458643, l='ServerLevel[world]', x=-8892.15, y=-42.00, z=-775.50] died: Arag the Lurker was shot by DjTwistfly
+[05:11:23] [Server thread/INFO]: MARAVILLA claimed a grave belonging to MARAVILLA at -8823, -43, -512, minecraft:overworld
+[05:14:39] [Server thread/INFO]: Santialpz was doomed to fall by DjGuetta11 using [Lanza penes]
+[05:15:00] [Server thread/INFO]: Santialpz claimed a grave belonging to Santialpz at -1585, 71, 375, minecraft:overworld
+[05:15:16] [Server thread/INFO]: iamluisxd has made the advancement [The Light In The Darkness]
+[05:16:30] [Server thread/INFO]: MARAVILLA was obliterated by a sonically-charged shriek
+[05:16:58] [Server thread/INFO]: DjTwistfly was obliterated by a sonically-charged shriek
+[05:18:12] [Server thread/INFO]: DjTwistfly was doomed to fall by Skeleton Creeper
+[05:18:13] [Server thread/WARN]: DjGuetta11 moved wrongly!
+[05:22:51] [Server thread/INFO]: djgerad has made the advancement [Mother of Dragons]
+[05:24:54] [Server thread/INFO]: DjTwistfly fell from a high place
+[05:27:57] [Server thread/INFO]: DjTwistfly claimed a grave belonging to DjTwistfly at -8677, -46, -659, minecraft:overworld
+[05:28:14] [Server thread/INFO]: DjTwistfly claimed a grave belonging to DjTwistfly at -8673, -44, -633, minecraft:overworld
+[05:29:00] [Server thread/WARN]: Hippocampus (vehicle of iamluisxd) moved wrongly! 0.8217094502940031
+[05:29:00] [Server thread/WARN]: Hippocampus (vehicle of iamluisxd) moved wrongly! 0.43611209937375284
+[05:29:17] [Server thread/WARN]: Hippocampus (vehicle of iamluisxd) moved wrongly! 0.8081130373055043
+[05:29:19] [Server thread/WARN]: Hippocampus (vehicle of iamluisxd) moved wrongly! 0.5984134898734352
+[05:29:20] [Server thread/WARN]: Hippocampus (vehicle of iamluisxd) moved wrongly! 0.28163387784965505
+[05:29:21] [Server thread/WARN]: Hippocampus (vehicle of iamluisxd) moved wrongly! 0.7628280118425484
+[05:29:21] [Server thread/WARN]: Hippocampus (vehicle of iamluisxd) moved wrongly! 0.506410111576263
+[05:29:22] [Server thread/WARN]: Hippocampus (vehicle of iamluisxd) moved wrongly! 0.48158479512893315
+[05:29:23] [Server thread/WARN]: Hippocampus (vehicle of iamluisxd) moved wrongly! 0.35232265792185036
+[05:29:24] [Server thread/WARN]: Hippocampus (vehicle of iamluisxd) moved wrongly! 1.0191198357746283
+[05:29:24] [Server thread/WARN]: Hippocampus (vehicle of iamluisxd) moved wrongly! 0.45173124606954423
+[05:29:25] [Server thread/WARN]: Hippocampus (vehicle of iamluisxd) moved wrongly! 0.8022623766135757
+[05:29:30] [Server thread/WARN]: Hippocampus (vehicle of iamluisxd) moved wrongly! 0.2599440493952479
+[05:29:33] [Server thread/WARN]: Hippocampus (vehicle of iamluisxd) moved wrongly! 1.063918970317359
+[05:29:55] [Server thread/INFO]: MARAVILLA claimed a grave belonging to MARAVILLA at -8808, -44, -516, minecraft:overworld
+[05:30:55] [Server thread/INFO]: iamluisxd lost connection: Disconnected
+[05:30:55] [Server thread/INFO]: iamluisxd left the game
+[05:32:30] [Server thread/INFO]: DjTwistfly has completed the challenge [Phantom Thief]
+[05:35:56] [Server thread/ERROR]: POI data mismatch: already registered at class_2338{x=-3493, y=-20, z=-1086}
+[05:35:56] [Server thread/ERROR]: POI data mismatch: already registered at class_2338{x=-3493, y=-20, z=-1088}
+[05:36:01] [Server thread/ERROR]: POI data mismatch: already registered at class_2338{x=-3515, y=-34, z=-1053}
+[05:36:31] [Server thread/INFO]: djgerad was impaled by Drowned
+[05:37:01] [Server thread/INFO]: DjGuetta11 was slain by Siren
+[05:37:18] [Server thread/WARN]: djgerad moved too quickly! 0.0,-20.0,0.0
+[05:37:18] [Server thread/WARN]: djgerad moved too quickly! 0.0,-21.0,0.0
+[05:37:18] [Server thread/WARN]: djgerad moved too quickly! 0.0,-21.0,0.0
+[05:37:19] [Server thread/WARN]: djgerad moved too quickly! 0.0,-21.0,0.0
+[05:37:47] [Server thread/INFO]: DjGuetta11 lost connection: Timed out
+[05:37:47] [Server thread/INFO]: DjGuetta11 left the game
+[05:38:33] [Server thread/INFO]: Santialpz lost connection: Disconnected
+[05:38:33] [Server thread/INFO]: Santialpz left the game
+[05:40:53] [Server thread/INFO]: DjGuetta11[/100.71.91.78:62519] logged in with entity id 518745 at (-3510.3203760270812, 46.96472397827813, -1263.3710178397703)
+[05:40:53] [Server thread/INFO]: Syncing config to DjGuetta11 (02ab1a57-0edd-3713-9f58-15ec834d0062)
+[05:40:53] [Server thread/INFO]: Loading config from file...
+[05:40:53] [Server thread/INFO]: DjGuetta11 joined the game
+[05:40:56] [Netty Epoll Server IO #0/INFO]: Priority overwritten for player DjGuetta11. Claiming: GRAVE / Robbing: INVENTORY
+[05:41:30] [Server thread/INFO]: djgerad was impaled by Drowned
+[05:41:33] [Server thread/INFO]: [DjGuetta11: Teleported DjGuetta11 to -3510.500000, 47.000000, -1263.500000]
+[05:41:35] [Server thread/INFO]: DjGuetta11 claimed a grave belonging to DjGuetta11 at -3511, 47, -1264, minecraft:overworld
+[05:42:40] [Server thread/WARN]: djgerad moved too quickly! 0.0,-20.0,0.0
+[05:42:40] [Server thread/WARN]: djgerad moved too quickly! 0.0,-21.0,0.0
+[05:42:41] [Server thread/WARN]: djgerad moved too quickly! 0.0,-21.0,0.0
+[05:42:41] [Server thread/WARN]: djgerad moved too quickly! 0.0,-21.0,0.0
+[05:43:53] [Server thread/WARN]: DjGuetta11 moved wrongly!
+[05:43:54] [Server thread/WARN]: DjGuetta11 moved wrongly!
+[05:43:54] [Server thread/WARN]: DjGuetta11 moved wrongly!
+[05:43:55] [Server thread/WARN]: DjGuetta11 moved wrongly!
+[05:43:55] [Server thread/WARN]: DjGuetta11 moved wrongly!
+[05:47:00] [Server thread/WARN]: Hippocampus (vehicle of djgerad) moved wrongly! 1.530663972913161
+[05:47:05] [Server thread/WARN]: Hippocampus (vehicle of djgerad) moved wrongly! 0.613617728786607
+[05:47:13] [Server thread/WARN]: DjGuetta11 moved wrongly!
+[05:47:16] [Server thread/WARN]: Hippocampus (vehicle of djgerad) moved wrongly! 0.5713167931411434
+[05:47:21] [Server thread/WARN]: Hippocampus (vehicle of djgerad) moved wrongly! 0.512371969646077
+[05:47:22] [Server thread/INFO]: djgerad claimed a grave belonging to djgerad at -3113, 60, -521, minecraft:overworld
+[05:48:44] [Worker-Main-3/WARN]: Tried to access a block entity before it was created. class_2338{x=-1928, y=9, z=-375}
+[05:49:34] [Server thread/WARN]: Hippocampus (vehicle of djgerad) moved wrongly! 0.5254700456878104
+[05:49:58] [Server thread/WARN]: djgerad moved too quickly! -0.006709910204335756,20.580000013113022,0.19999998807907104
+[05:49:58] [Server thread/WARN]: djgerad moved too quickly! 0.0,20.580000013113022,0.0
+[05:49:59] [Server thread/WARN]: djgerad moved too quickly! 0.0,20.580000013113022,0.0
+[05:49:59] [Server thread/WARN]: djgerad moved too quickly! 0.0,19.580000013113022,0.0
+[05:58:38] [Server thread/INFO]: djgerad lost connection: Disconnected
+[05:58:38] [Server thread/INFO]: djgerad left the game
+[06:00:59] [Server thread/WARN]: DjGuetta11 moved wrongly!
