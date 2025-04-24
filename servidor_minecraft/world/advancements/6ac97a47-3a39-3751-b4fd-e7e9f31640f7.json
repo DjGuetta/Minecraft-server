@@ -10623,5 +10623,11 @@
     },
     "done": true
   },
+  "infinitybuttons:recipes/redstone/bookshelf_secret_button": {
+    "criteria": {
+      "has_thing": "2025-04-24 18:49:03 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
