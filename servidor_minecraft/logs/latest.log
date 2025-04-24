@@ -1372,3 +1372,17 @@ io.netty.handler.timeout.ReadTimeoutException: null
 [06:57:16] [Server thread/INFO]: DjGuetta11 lost connection: Timed out
 [06:57:16] [Server thread/INFO]: DjGuetta11 left the game
 [06:58:08] [Server thread/INFO]: Named entity class_1613['Brog the Bulwark'/369886, l='ServerLevel[world]', x=-1504.30, y=-18.13, z=-2445.30] died: Brog the Bulwark was slain by MARAVILLA using [MARAVILLA]
+[06:59:53] [Server thread/INFO]: Named entity class_1428['Evil Chicken'/369928, l='ServerLevel[world]', x=-1537.20, y=52.00, z=-2400.87] died: Evil Chicken was slain by MARAVILLA using [MARAVILLA]
+[07:03:20] [Server thread/INFO]: DjGuetta11[/100.71.91.78:55776] logged in with entity id 375701 at (3321.9395047630364, 32.0, -1205.5873038912941)
+[07:03:20] [Server thread/INFO]: Syncing config to DjGuetta11 (02ab1a57-0edd-3713-9f58-15ec834d0062)
+[07:03:20] [Server thread/INFO]: Loading config from file...
+[07:03:20] [Server thread/INFO]: DjGuetta11 joined the game
+[07:03:20] [Netty Epoll Server IO #0/INFO]: Priority overwritten for player DjGuetta11. Claiming: GRAVE / Robbing: INVENTORY
+[07:03:45] [Server thread/INFO]: [Not Secure] <DjGuetta11> la luz nos dijo: 'Mamense un webo'
+[07:05:50] [Server thread/INFO]: DjGuetta11 lost connection: Timed out
+[07:05:50] [Server thread/INFO]: DjGuetta11 left the game
+[07:06:41] [Server thread/INFO]: DjGuetta11[/100.71.91.78:55057] logged in with entity id 380947 at (3295.977363925752, 17.0, -1189.5942988327859)
+[07:06:41] [Server thread/INFO]: Syncing config to DjGuetta11 (02ab1a57-0edd-3713-9f58-15ec834d0062)
+[07:06:41] [Server thread/INFO]: Loading config from file...
+[07:06:41] [Server thread/INFO]: DjGuetta11 joined the game
+[07:06:41] [Netty Epoll Server IO #3/INFO]: Priority overwritten for player DjGuetta11. Claiming: GRAVE / Robbing: INVENTORY
