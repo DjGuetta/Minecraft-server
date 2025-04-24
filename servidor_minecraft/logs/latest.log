@@ -1304,3 +1304,18 @@ io.netty.handler.timeout.ReadTimeoutException: null
 [05:43:47] [Server thread/INFO]: Named entity class_1634['Restless Spirit'/296284, l='ServerLevel[world]', x=-919.36, y=50.41, z=-60.29] died: Restless Spirit starved to death
 [05:44:36] [Server thread/INFO]: DjTwistfly lost connection: Disconnected
 [05:44:36] [Server thread/INFO]: DjTwistfly left the game
+[05:46:16] [Server thread/INFO]: MARAVILLA was slain by Piglin
+[05:46:37] [Server thread/INFO]: DjTwistfly[/100.95.48.32:59546] logged in with entity id 301570 at (-1321.49438798344, 182.0, 44.36204176376613)
+[05:46:37] [Server thread/INFO]: Syncing config to DjTwistfly (ce1a9492-5b4d-3fbb-9f7e-c74699881e3b)
+[05:46:37] [Server thread/INFO]: Loading config from file...
+[05:46:37] [Server thread/INFO]: DjTwistfly joined the game
+[05:46:40] [Netty Epoll Server IO #1/INFO]: Priority overwritten for player DjTwistfly. Claiming: GRAVE / Robbing: INVENTORY
+[05:51:27] [Server thread/INFO]: Named entity class_1576['Fisk of the Sand'/302219, l='ServerLevel[world]', x=-6455.30, y=-38.00, z=-343.50] died: Fisk of the Sand was shot by DjTwistfly
+[05:51:44] [Server thread/INFO]: Named entity class_1634['Restless Spirit'/307928, l='ServerLevel[world]', x=-633.15, y=113.47, z=-158.50] died: Restless Spirit starved to death
+[05:51:44] [Server thread/INFO]: Named entity class_1634['Restless Spirit'/307933, l='ServerLevel[world]', x=-659.71, y=92.84, z=-168.34] died: Restless Spirit starved to death
+[05:51:57] [Server thread/INFO]: Named entity class_1634['Restless Spirit'/308019, l='ServerLevel[world]', x=-679.89, y=72.05, z=-189.34] died: Restless Spirit starved to death
+[05:52:41] [Server thread/INFO]: Named entity class_1634['Restless Spirit'/309005, l='ServerLevel[world]', x=-915.39, y=38.55, z=-115.51] died: Restless Spirit starved to death
+[05:53:02] [Server thread/INFO]: MARAVILLA was shot by Skeleton
+[05:56:14] [Server thread/INFO]: [Not Secure] <DjGuetta11> toy buscando
+[05:56:18] [Server thread/INFO]: Named entity class_1634['Restless Spirit'/312440, l='ServerLevel[world]', x=-527.76, y=72.06, z=-182.31] died: Restless Spirit starved to death
+[05:56:24] [Server thread/INFO]: [Not Secure] <DjGuetta11> me marcó uno por aquí
