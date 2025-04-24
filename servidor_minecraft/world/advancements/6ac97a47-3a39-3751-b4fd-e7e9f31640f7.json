@@ -45,6 +45,7 @@
     "criteria": {
       "woodland": "2025-02-17 03:26:34 +0000",
       "shrubland": "2025-04-23 03:49:39 +0000",
+      "snowblossom_grove": "2025-04-24 19:22:30 +0000",
       "rocky_shrubland": "2025-04-23 05:07:38 +0000",
       "scrubland": "2025-02-17 04:14:10 +0000",
       "fungal_jungle": "2025-04-23 02:54:44 +0000",
@@ -61,6 +62,7 @@
       "crystalline_chasm": "2025-04-19 05:14:28 +0000",
       "withered_abyss": "2025-04-24 03:48:27 +0000",
       "orchard": "2025-02-19 03:13:23 +0000",
+      "field": "2025-04-24 19:20:32 +0000",
       "overgrown_greens": "2025-02-19 03:03:09 +0000",
       "mediterranean_forest": "2025-02-17 04:18:13 +0000",
       "bog": "2025-02-24 20:22:16 +0000",
@@ -80,7 +82,9 @@
       "lavender_field": "2025-02-17 04:55:56 +0000",
       "fir_clearing": "2025-04-23 03:20:42 +0000",
       "prairie": "2025-02-17 05:05:25 +0000",
+      "tundra": "2025-04-24 19:22:52 +0000",
       "glowing_grotto": "2025-04-13 23:23:12 +0000",
+      "gravel_beach": "2025-04-24 19:20:23 +0000",
       "undergrowth": "2025-04-19 04:58:47 +0000",
       "rainforest": "2025-02-17 05:40:39 +0000",
       "crag": "2025-02-17 04:24:36 +0000"
@@ -786,6 +790,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:old_growth_pine_taiga": "2025-04-23 03:07:57 +0000",
+      "minecraft:taiga": "2025-04-24 19:20:43 +0000",
       "minecraft:deep_ocean": "2025-02-23 02:03:02 +0000",
       "minecraft:eroded_badlands": "2025-04-13 21:40:10 +0000",
       "minecraft:sunflower_plains": "2025-02-23 05:15:06 +0000",
@@ -10623,9 +10628,33 @@
     },
     "done": true
   },
+  "takesapillage:pillager_camp": {
+    "criteria": {
+      "in_pillager_camp": "2025-04-24 19:24:10 +0000"
+    },
+    "done": true
+  },
   "infinitybuttons:recipes/redstone/bookshelf_secret_button": {
     "criteria": {
       "has_thing": "2025-04-24 18:49:03 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/decorations/wood/birch_banister": {
+    "criteria": {
+      "has_item": "2025-04-24 19:19:19 +0000"
+    },
+    "done": true
+  },
+  "repurposed_structures:temples": {
+    "criteria": {
+      "in_temple_taiga": "2025-04-24 19:25:05 +0000"
+    },
+    "done": false
+  },
+  "iceandfire:iceandfire/kill_cyclops": {
+    "criteria": {
+      "killed_fire_dragon": "2025-04-24 19:13:41 +0000"
     },
     "done": true
   },
