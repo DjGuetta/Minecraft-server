@@ -1336,3 +1336,9 @@ io.netty.handler.timeout.ReadTimeoutException: null
 [06:09:47] [Server thread/INFO]: DjGuetta11 lost connection: Timed out
 [06:09:47] [Server thread/INFO]: DjGuetta11 left the game
 [06:12:49] [Server thread/INFO]: MARAVILLA claimed a grave belonging to MARAVILLA at -1256, 77, -206, minecraft:the_nether
+[06:20:30] [Server thread/INFO]: DjTwistfly[/100.95.48.32:55511] logged in with entity id 331675 at (-6362.419769117344, 29.0, -138.77455758768426)
+[06:20:30] [Server thread/INFO]: Syncing config to DjTwistfly (ce1a9492-5b4d-3fbb-9f7e-c74699881e3b)
+[06:20:30] [Server thread/INFO]: Loading config from file...
+[06:20:30] [Server thread/INFO]: DjTwistfly joined the game
+[06:20:31] [Netty Epoll Server IO #2/INFO]: Priority overwritten for player DjTwistfly. Claiming: GRAVE / Robbing: INVENTORY
+[06:26:38] [Server thread/INFO]: MARAVILLA claimed a grave belonging to MARAVILLA at -2170, 33, -459, minecraft:the_nether
