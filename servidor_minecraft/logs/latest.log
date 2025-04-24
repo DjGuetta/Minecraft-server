@@ -920,3 +920,125 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'farmers
 [03:07:31] [Server thread/INFO]: Loading config from file...
 [03:07:31] [Server thread/INFO]: DjTwistfly joined the game
 [03:07:33] [Netty Epoll Server IO #7/INFO]: Priority overwritten for player DjTwistfly. Claiming: GRAVE / Robbing: INVENTORY
+[03:15:21] [Server thread/INFO]: Named entity class_1642['Corvin the Rotten'/942, l='ServerLevel[world]', x=-413.50, y=19.00, z=575.30] died: Corvin the Rotten was slain by DjTwistfly
+[03:15:50] [Server thread/INFO]: Gindaz[/100.98.201.97:63870] logged in with entity id 8537 at (-1788.300000011921, 54.0, -344.5117730921934)
+[03:15:50] [Server thread/INFO]: Syncing config to Gindaz (faa106bb-40b1-3df5-b221-082432d1d867)
+[03:15:50] [Server thread/INFO]: Loading config from file...
+[03:15:50] [Server thread/INFO]: Gindaz joined the game
+[03:15:51] [Netty Epoll Server IO #1/INFO]: Priority overwritten for player Gindaz. Claiming: GRAVE / Robbing: INVENTORY
+[03:18:12] [Server thread/INFO]: Gindaz was slain by Fire Dragon
+[03:20:11] [Server thread/ERROR]: POI data mismatch: already registered at class_2338{x=147, y=-21, z=549}
+[03:20:36] [pool-7-thread-1/INFO]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / minecraft:village_plains], ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_crimson], ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_jungle], ResourceKey[minecraft:worldgen/structure / minecraft:village_desert], ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_bamboo], ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_cherry], ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_mushroom], ResourceKey[minecraft:worldgen/structure / minecraft:village_savanna]] from pos class_2338{x=91, y=73, z=405}
+[03:22:52] [Server thread/INFO]: DjTwistfly has made the advancement [Hanging Tree]
+[03:27:40] [Server thread/WARN]: Hippocampus (vehicle of DjGuetta11) moved wrongly! 0.46043245986959186
+[03:29:13] [Server thread/WARN]: Hippocampus (vehicle of DjGuetta11) moved wrongly! 0.9116212355787737
+[03:29:22] [Server thread/WARN]: Hippocampus (vehicle of DjGuetta11) moved wrongly! 0.7929412386025757
+[03:29:30] [Server thread/WARN]: Hippocampus (vehicle of DjGuetta11) moved wrongly! 0.534715385302322
+[03:29:32] [Server thread/WARN]: Hippocampus (vehicle of DjGuetta11) moved wrongly! 1.159212431523893
+[03:29:32] [Server thread/WARN]: Hippocampus (vehicle of DjGuetta11) moved wrongly! 1.3323729488414593
+[03:29:33] [Server thread/WARN]: Hippocampus (vehicle of DjGuetta11) moved wrongly! 0.534371626926454
+[03:29:36] [Server thread/WARN]: Hippocampus (vehicle of DjGuetta11) moved wrongly! 1.2181806977899967
+[03:29:36] [Server thread/WARN]: Hippocampus (vehicle of DjGuetta11) moved wrongly! 0.933294131062941
+[03:29:37] [Server thread/WARN]: Hippocampus (vehicle of DjGuetta11) moved wrongly! 1.206674723515705
+[03:29:38] [Server thread/WARN]: Hippocampus (vehicle of DjGuetta11) moved wrongly! 0.9425113996948075
+[03:29:38] [Server thread/WARN]: Hippocampus (vehicle of DjGuetta11) moved wrongly! 0.6337198044069079
+[03:30:56] [Server thread/INFO]: Named entity class_1634['Restless Spirit'/28157, l='ServerLevel[world]', x=-140.62, y=61.95, z=-29.72] died: Restless Spirit starved to death
+[03:31:02] [Server thread/INFO]: Named entity class_1634['Restless Spirit'/28250, l='ServerLevel[world]', x=-142.79, y=101.82, z=25.73] died: Restless Spirit starved to death
+[03:31:03] [Server thread/WARN]: Hippocampus (vehicle of DjGuetta11) moved wrongly! 0.33597070115690647
+[03:32:12] [Server thread/WARN]: Hippocampus (vehicle of DjGuetta11) moved wrongly! 1.3377756958980376
+[03:32:26] [Server thread/INFO]: Named entity class_1634['Restless Spirit'/30179, l='ServerLevel[world]', x=-151.14, y=94.34, z=14.50] died: Restless Spirit starved to death
+[03:33:54] [Server thread/INFO]: Named entity class_1634['Restless Spirit'/32250, l='ServerLevel[world]', x=-104.73, y=67.82, z=-17.40] died: Restless Spirit starved to death
+[03:35:33] [Server thread/INFO]: Gindaz tried to swim in lava
+[03:35:42] [Server thread/WARN]: Hippocampus (vehicle of DjGuetta11) moved wrongly! 1.2332160150779796
+[03:35:59] [Server thread/WARN]: Hippocampus (vehicle of DjGuetta11) moved wrongly! 0.9923972421708993
+[03:36:03] [Server thread/WARN]: Hippocampus (vehicle of DjGuetta11) moved wrongly! 0.7213928312508558
+[03:36:07] [Server thread/WARN]: Hippocampus (vehicle of DjGuetta11) moved wrongly! 1.0039346326913852
+[03:37:03] [Server thread/WARN]: Hippocampus (vehicle of DjGuetta11) moved too quickly! 5.307808849799699,0.0,-8.821274928417495
+[03:37:03] [Server thread/WARN]: Hippocampus (vehicle of DjGuetta11) moved too quickly! 5.832055266586394,0.0,-9.36494532097771
+[03:37:03] [Server thread/WARN]: Hippocampus (vehicle of DjGuetta11) moved too quickly! 6.368548794387834,0.0,-9.908587301382624
+[03:37:03] [Server thread/WARN]: Hippocampus (vehicle of DjGuetta11) moved too quickly! 6.884413404796419,0.0,-10.478515398074705
+[03:37:03] [Server thread/WARN]: Hippocampus (vehicle of DjGuetta11) moved too quickly! 7.412736504963391,0.0,-11.049181947301065
+[03:37:03] [Server thread/WARN]: Hippocampus (vehicle of DjGuetta11) moved too quickly! 7.97598033075667,0.0,-11.575746412257558
+[03:37:03] [Server thread/WARN]: Hippocampus (vehicle of DjGuetta11) moved too quickly! 8.57262985799207,0.0,-12.045303460171908
+[03:37:03] [Server thread/WARN]: Hippocampus (vehicle of DjGuetta11) moved too quickly! 9.198780436348898,0.0,-12.463794685593655
+[03:37:03] [Server thread/WARN]: Hippocampus (vehicle of DjGuetta11) moved too quickly! 9.85095094179485,0.0,-12.837245855576953
+[03:37:03] [Server thread/WARN]: Hippocampus (vehicle of DjGuetta11) moved too quickly! 10.526071022933365,0.0,-13.170971696663514
+[03:37:03] [Server thread/WARN]: Hippocampus (vehicle of DjGuetta11) moved too quickly! 11.221432629832748,0.0,-13.469659797663155
+[03:37:03] [Server thread/WARN]: Hippocampus (vehicle of DjGuetta11) moved too quickly! 11.934647262453154,0.0,-13.737444611906142
+[03:37:03] [Server thread/WARN]: Hippocampus (vehicle of DjGuetta11) moved too quickly! 12.663608263759556,0.0,-13.97797272722977
+[03:37:03] [Server thread/WARN]: Hippocampus (vehicle of DjGuetta11) moved too quickly! 13.406457562247056,0.0,-14.194460434106475
+[03:37:03] [Server thread/WARN]: Hippocampus (vehicle of DjGuetta11) moved too quickly! 14.161556338848186,0.0,-14.389744500733116
+[03:37:03] [Server thread/WARN]: Hippocampus (vehicle of DjGuetta11) moved too quickly! 14.927459155145584,0.0,-14.566326956659111
+[03:37:03] [Server thread/WARN]: Hippocampus (vehicle of DjGuetta11) moved too quickly! 15.702867315979233,0.0,-14.726931761149956
+[03:37:03] [Server thread/WARN]: Hippocampus (vehicle of DjGuetta11) moved too quickly! 11.689122401103873,0.0,-6.597441764169048
+[03:37:03] [Server thread/WARN]: Hippocampus (vehicle of DjGuetta11) moved too quickly! 12.480141696794021,0.0,-6.7344792632901544
+[03:37:03] [Server thread/WARN]: Hippocampus (vehicle of DjGuetta11) moved too quickly! 13.277613849270551,0.0,-6.86177522550247
+[03:37:03] [Server thread/WARN]: Hippocampus (vehicle of DjGuetta11) moved too quickly! 14.080723800207238,0.0,-6.981263483868702
+[03:37:03] [Server thread/WARN]: Hippocampus (vehicle of DjGuetta11) moved too quickly! 14.888766865150046,0.0,-7.0943911771825015
+[03:37:03] [Server thread/WARN]: Hippocampus (vehicle of DjGuetta11) moved too quickly! 15.701119533202132,0.0,-7.202424912432889
+[03:37:03] [Server thread/WARN]: Hippocampus (vehicle of DjGuetta11) moved too quickly! 16.517251567874837,0.0,-7.306223724194183
+[03:37:03] [Server thread/WARN]: Hippocampus (vehicle of DjGuetta11) moved too quickly! 17.336693793188147,0.0,-7.40655477316534
+[03:37:03] [Server thread/WARN]: Hippocampus (vehicle of DjGuetta11) moved too quickly! 18.15890524010581,0.0,-7.505392362859084
+[03:37:03] [Server thread/WARN]: Hippocampus (vehicle of DjGuetta11) moved too quickly! 18.983185973694503,0.0,-7.606025375499371
+[03:37:03] [Server thread/WARN]: Hippocampus (vehicle of DjGuetta11) moved too quickly! 19.808198812513638,0.0,-7.714697082005841
+[03:37:03] [Server thread/WARN]: Hippocampus (vehicle of DjGuetta11) moved too quickly! 20.628589143384715,0.0,-7.847979893165643
+[03:37:03] [Server thread/WARN]: Hippocampus (vehicle of DjGuetta11) moved too quickly! 21.43329197151047,0.0,-8.02401421702325
+[03:37:03] [Server thread/WARN]: Hippocampus (vehicle of DjGuetta11) moved too quickly! 22.212897936208265,0.0,-8.250829617831414
+[03:37:03] [Server thread/WARN]: Hippocampus (vehicle of DjGuetta11) moved too quickly! 22.88099342663088,0.0,-8.495826191980768
+[03:37:03] [Server thread/WARN]: Hippocampus (vehicle of DjGuetta11) moved too quickly! 23.4505042508099,0.0,-8.756756914411312
+[03:37:03] [Server thread/WARN]: Hippocampus (vehicle of DjGuetta11) moved too quickly! 23.933063399362027,0.0,-9.0317415556259
+[03:37:03] [Server thread/WARN]: Hippocampus (vehicle of DjGuetta11) moved too quickly! 24.35868056838501,0.0,-9.274278009177124
+[03:37:03] [Server thread/WARN]: Hippocampus (vehicle of DjGuetta11) moved too quickly! 24.734074911463267,0.0,-9.488195161209319
+[03:37:03] [Server thread/WARN]: Hippocampus (vehicle of DjGuetta11) moved too quickly! 25.065172722058264,0.0,-9.676870089301701
+[03:37:03] [Server thread/WARN]: Hippocampus (vehicle of DjGuetta11) moved too quickly! 25.357200991003083,0.0,-9.8432813758792
+[03:37:03] [Server thread/WARN]: Hippocampus (vehicle of DjGuetta11) moved too quickly! 25.614769924212396,0.0,-9.990056130640482
+[03:37:03] [Server thread/WARN]: Hippocampus (vehicle of DjGuetta11) moved too quickly! 25.84194572330307,0.0,-10.119511464340007
+[03:37:03] [Server thread/WARN]: Hippocampus (vehicle of DjGuetta11) moved too quickly! 26.04231477810106,0.0,-10.233691068663006
+[03:37:03] [Server thread/WARN]: Hippocampus (vehicle of DjGuetta11) moved too quickly! 26.219040284432822,0.0,-10.334397479675886
+[03:37:03] [Server thread/WARN]: Hippocampus (vehicle of DjGuetta11) moved too quickly! 26.374912181017407,0.0,-10.423220534189227
+[03:37:03] [Server thread/WARN]: Hippocampus (vehicle of DjGuetta11) moved too quickly! 26.512391193805,0.0,-10.50156246826998
+[03:37:03] [Server thread/WARN]: Hippocampus (vehicle of DjGuetta11) moved too quickly! 26.633647683083723,0.0,-10.570660054129235
+[03:37:03] [Server thread/WARN]: Hippocampus (vehicle of DjGuetta11) moved too quickly! 26.740595906627505,0.0,-10.631604124857063
+[03:37:03] [Server thread/WARN]: Hippocampus (vehicle of DjGuetta11) moved too quickly! 26.834924239793168,0.0,-10.685356795239045
+[03:37:03] [Server thread/WARN]: Hippocampus (vehicle of DjGuetta11) moved too quickly! 26.918121829645315,0.0,-10.732766650515941
+[03:37:03] [Server thread/WARN]: Hippocampus (vehicle of DjGuetta11) moved too quickly! 26.991502103894845,0.0,-10.774582142870145
+[03:37:03] [Server thread/WARN]: Hippocampus (vehicle of DjGuetta11) moved too quickly! 27.056223505782896,0.0,-10.811463407126553
+[03:37:03] [Server thread/WARN]: Hippocampus (vehicle of DjGuetta11) moved too quickly! 27.11330778224817,0.0,-10.843992682200678
+[03:37:03] [Server thread/WARN]: Hippocampus (vehicle of DjGuetta11) moved too quickly! 27.19768662836782,0.0,-10.780781793439246
+[03:37:03] [Server thread/WARN]: Hippocampus (vehicle of DjGuetta11) moved too quickly! 27.261229304949097,0.0,-10.62562336657561
+[03:37:03] [Server thread/WARN]: Hippocampus (vehicle of DjGuetta11) moved too quickly! 27.306394479997607,0.0,-10.389367211105764
+[03:37:03] [Server thread/WARN]: Hippocampus (vehicle of DjGuetta11) moved too quickly! 27.335350698694242,0.0,-10.081582859005266
+[03:37:03] [Server thread/WARN]: Hippocampus (vehicle of DjGuetta11) moved too quickly! 27.349753331434727,0.0,-9.710739127417696
+[03:37:03] [Server thread/WARN]: Hippocampus (vehicle of DjGuetta11) moved too quickly! 27.351062492210417,0.0,-9.284306187460857
+[03:37:03] [Server thread/WARN]: Hippocampus (vehicle of DjGuetta11) moved too quickly! 27.33966853090908,0.0,-8.808843565722213
+[03:37:03] [Server thread/WARN]: Hippocampus (vehicle of DjGuetta11) moved too quickly! 27.318225095739876,0.0,-8.290136764652175
+[03:37:03] [Server thread/WARN]: Hippocampus (vehicle of DjGuetta11) moved too quickly! 27.28791802461933,0.0,-7.733288597411729
+[03:37:03] [Server thread/WARN]: Hippocampus (vehicle of DjGuetta11) moved too quickly! 27.24979322658953,0.0,-7.142799745209004
+[03:37:09] [Server thread/WARN]: Hippocampus (vehicle of DjGuetta11) moved wrongly! 0.8571523926821208
+[03:37:48] [Server thread/WARN]: Hippocampus (vehicle of DjGuetta11) moved wrongly! 0.6100113704578789
+[03:37:49] [Server thread/WARN]: Hippocampus (vehicle of DjGuetta11) moved wrongly! 0.7999836890901946
+[03:37:49] [Server thread/WARN]: Hippocampus (vehicle of DjGuetta11) moved wrongly! 0.521465423664453
+[03:37:50] [Server thread/WARN]: Hippocampus (vehicle of DjGuetta11) moved wrongly! 0.7876135647608596
+[03:37:51] [Server thread/WARN]: Hippocampus (vehicle of DjGuetta11) moved wrongly! 0.9570059583965309
+[03:37:51] [Server thread/WARN]: Hippocampus (vehicle of DjGuetta11) moved wrongly! 1.099644365873952
+[03:37:54] [Server thread/WARN]: Hippocampus (vehicle of DjGuetta11) moved wrongly! 0.49901382004718153
+[03:38:01] [Server thread/WARN]: Hippocampus (vehicle of DjGuetta11) moved too quickly! 9.955554156653989,-2.956602882970728,1.0718319244723489
+[03:38:01] [Server thread/WARN]: Hippocampus (vehicle of DjGuetta11) moved too quickly! 10.64346320672189,-3.0530095792575196,1.232030172925306
+[03:38:01] [Server thread/WARN]: Hippocampus (vehicle of DjGuetta11) moved too quickly! 11.335885695985098,-3.1380402853824734,1.4208832969309242
+[03:38:01] [Server thread/WARN]: Hippocampus (vehicle of DjGuetta11) moved too quickly! 12.0322890386185,-3.213037368184679,1.6350100211739118
+[03:38:01] [Server thread/WARN]: Hippocampus (vehicle of DjGuetta11) moved too quickly! 12.736504585504917,-3.2791847952162243,1.8626795396148736
+[03:38:01] [Server thread/WARN]: Hippocampus (vehicle of DjGuetta11) moved too quickly! 13.45413947797556,-3.337526825858049,2.080469704155121
+[03:38:01] [Server thread/WARN]: Hippocampus (vehicle of DjGuetta11) moved too quickly! 14.184908452261652,-3.3889844968841416,2.266541819076224
+[03:38:01] [Server thread/WARN]: Hippocampus (vehicle of DjGuetta11) moved too quickly! 14.926841262352355,-3.4343701627291523,2.419780944109334
+[03:38:52] [Server thread/INFO]: Gindaz tried to swim in lava
+[03:38:52] [Server thread/INFO]: Did not backup data (grave data empty)
+[03:39:01] [Server thread/WARN]: DjTwistfly moved wrongly!
+[03:39:02] [Server thread/WARN]: DjTwistfly moved too quickly! -0.062139807270796155,20.580000013113022,0.19999998807907104
+[03:39:02] [Server thread/WARN]: DjTwistfly moved too quickly! 0.0,20.580000013113022,0.0
+[03:39:04] [Server thread/WARN]: DjTwistfly moved too quickly! 0.0,20.580000013113022,0.0
+[03:39:05] [Server thread/WARN]: DjTwistfly moved too quickly! 0.0,19.580000013113022,0.0
+[03:39:41] [Worker-Main-2/WARN]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wheat_grain_bin
+[03:39:54] [Server thread/WARN]: Hippocampus (vehicle of DjGuetta11) moved wrongly! 0.5436876428137907
+[03:41:11] [Server thread/ERROR]: Grave could not be replaced at X: -336, Y: 32, Z: 0 / minecraft:the_nether
+[03:41:11] [Server thread/INFO]: Gindaz claimed a grave belonging to Gindaz at -336, 32, 0, minecraft:the_nether
+[03:42:47] [Worker-Main-3/WARN]: Empty or non-existent pool: minecraft:minecraft_empty
