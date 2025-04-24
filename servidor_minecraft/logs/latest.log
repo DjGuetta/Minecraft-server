@@ -1319,3 +1319,20 @@ io.netty.handler.timeout.ReadTimeoutException: null
 [05:56:14] [Server thread/INFO]: [Not Secure] <DjGuetta11> toy buscando
 [05:56:18] [Server thread/INFO]: Named entity class_1634['Restless Spirit'/312440, l='ServerLevel[world]', x=-527.76, y=72.06, z=-182.31] died: Restless Spirit starved to death
 [05:56:24] [Server thread/INFO]: [Not Secure] <DjGuetta11> me marcó uno por aquí
+[05:57:50] [Server thread/INFO]: Named entity class_1634['Restless Spirit'/314237, l='ServerLevel[world]', x=-673.06, y=62.30, z=-170.73] died: Restless Spirit starved to death
+[05:57:52] [Server thread/INFO]: Named entity class_1634['Restless Spirit'/314360, l='ServerLevel[world]', x=-656.19, y=96.24, z=-162.34] died: Restless Spirit starved to death
+[05:57:52] [Server thread/INFO]: Named entity class_1634['Restless Spirit'/314362, l='ServerLevel[world]', x=-643.42, y=95.78, z=-169.38] died: Restless Spirit starved to death
+[05:57:58] [Server thread/INFO]: Named entity class_1634['Restless Spirit'/314576, l='ServerLevel[world]', x=-626.64, y=98.01, z=-151.60] died: Restless Spirit starved to death
+[05:58:15] [Server thread/INFO]: DjTwistfly was obliterated by a sonically-charged shriek
+[05:58:37] [Server thread/INFO]: DjTwistfly claimed a grave belonging to DjTwistfly at -6421, -31, -353, minecraft:overworld
+[05:58:48] [Server thread/INFO]: MARAVILLA claimed a grave belonging to MARAVILLA at -876, 42, -104, minecraft:the_nether
+[05:59:40] [Server thread/INFO]: MARAVILLA was doomed to fall by Piglin
+[06:04:11] [Server thread/INFO]: Named entity class_1549['Arag the Lurker'/315525, l='ServerLevel[world]', x=-6401.95, y=0.00, z=-228.96] died: Arag the Lurker was slain by DjTwistfly
+[06:04:33] [Server thread/INFO]: Named entity class_1634['Restless Spirit'/321612, l='ServerLevel[world]', x=-657.75, y=89.36, z=-172.13] died: Restless Spirit starved to death
+[06:04:39] [Server thread/INFO]: Named entity class_1634['Restless Spirit'/321615, l='ServerLevel[world]', x=-648.81, y=95.88, z=-183.67] died: Restless Spirit starved to death
+[06:04:42] [Server thread/INFO]: Named entity class_1634['Restless Spirit'/321576, l='ServerLevel[world]', x=-679.00, y=45.84, z=-173.26] died: Restless Spirit starved to death
+[06:09:40] [Server thread/INFO]: DjTwistfly lost connection: Timed out
+[06:09:40] [Server thread/INFO]: DjTwistfly left the game
+[06:09:47] [Server thread/INFO]: DjGuetta11 lost connection: Timed out
+[06:09:47] [Server thread/INFO]: DjGuetta11 left the game
+[06:12:49] [Server thread/INFO]: MARAVILLA claimed a grave belonging to MARAVILLA at -1256, 77, -206, minecraft:the_nether
