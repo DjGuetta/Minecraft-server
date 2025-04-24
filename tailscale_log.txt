@@ -1,0 +1,489 @@
+2025/04/24 03:02:22 logtail started
+2025/04/24 03:02:22 Program starting: v1.80.2-t62b8bf6a0-g3c35ee987, Go 1.23.5: []string{"./tailscaled"}
+2025/04/24 03:02:22 LogID: 9341da86d5f55fd10cf095995c37ad645ec80e188ca399d6f3aeec9e318fadb8
+2025/04/24 03:02:22 logpolicy: using system state directory "/var/lib/tailscale"
+2025/04/24 03:02:22 dns: resolvedIsActuallyResolver error: resolv.conf doesn't point to systemd-resolved; points to [127.0.0.53 168.63.129.16]
+2025/04/24 03:02:22 dns: [rc=resolved resolved=not-in-use ret=direct]
+2025/04/24 03:02:22 dns: using "direct" mode
+2025/04/24 03:02:22 dns: using *dns.directManager
+2025/04/24 03:02:22 dns: inotify addwatch: context canceled
+2025/04/24 03:02:22 wgengine.NewUserspaceEngine(tun "tailscale0") ...
+2025/04/24 03:02:22 dns: resolvedIsActuallyResolver error: resolv.conf doesn't point to systemd-resolved; points to [127.0.0.53 168.63.129.16]
+2025/04/24 03:02:22 dns: [rc=resolved resolved=not-in-use ret=direct]
+2025/04/24 03:02:22 dns: using "direct" mode
+2025/04/24 03:02:22 dns: using *dns.directManager
+2025/04/24 03:02:22 link state: interfaces.State{defaultRoute=eth0 ifs={docker0:[172.17.0.1/16] eth0:[10.0.2.215/16 llu6]} v4=true v6=false}
+2025/04/24 03:02:22 onPortUpdate(port=55526, network=udp6)
+2025/04/24 03:02:22 router: using firewall mode pref 
+2025/04/24 03:02:22 router: default choosing iptables
+2025/04/24 03:02:22 router: netfilter running in iptables mode v6 = true, v6filter = true, v6nat = true
+2025/04/24 03:02:22 onPortUpdate(port=50143, network=udp4)
+2025/04/24 03:02:22 magicsock: disco key = d:41515a6618c6c4a0
+2025/04/24 03:02:22 Creating WireGuard device...
+2025/04/24 03:02:22 Bringing WireGuard device up...
+2025/04/24 03:02:22 external route: up
+2025/04/24 03:02:22 Bringing router up...
+2025/04/24 03:02:22 Clearing router settings...
+2025/04/24 03:02:22 Starting network monitor...
+2025/04/24 03:02:22 Engine created.
+2025/04/24 03:02:22 monitor: [unexpected] network state changed, but stringification didn't: interfaces.State{defaultRoute=eth0 ifs={docker0:[172.17.0.1/16] eth0:[10.0.2.215/16 llu6]} v4=true v6=false}
+2025/04/24 03:02:22 monitor: [unexpected] old: {"InterfaceIPs":{"docker0":["172.17.0.1/16"],"eth0":["10.0.2.215/16","fe80::7e1e:52ff:fe9b:e196/64"],"lo":["127.0.0.1/8","::1/128"]},"Interface":{"docker0":{"Index":3,"MTU":1500,"Name":"docker0","HardwareAddr":"AkKJGC/N","Flags":19,"AltAddrs":null,"Desc":""},"eth0":{"Index":2,"MTU":1500,"Name":"eth0","HardwareAddr":"fB5Sm+GW","Flags":51,"AltAddrs":null,"Desc":""},"lo":{"Index":1,"MTU":65536,"Name":"lo","HardwareAddr":null,"Flags":37,"AltAddrs":null,"Desc":""}},"HaveV6":false,"HaveV4":true,"IsExpensive":false,"DefaultRouteInterface":"eth0","HTTPProxy":"","PAC":""}
+2025/04/24 03:02:22 monitor: [unexpected] new: {"InterfaceIPs":{"docker0":["172.17.0.1/16"],"eth0":["10.0.2.215/16","fe80::7e1e:52ff:fe9b:e196/64"],"lo":["127.0.0.1/8","::1/128"],"tailscale0":["fe80::e315:f944:b8e7:6f/64"]},"Interface":{"docker0":{"Index":3,"MTU":1500,"Name":"docker0","HardwareAddr":"AkKJGC/N","Flags":19,"AltAddrs":null,"Desc":""},"eth0":{"Index":2,"MTU":1500,"Name":"eth0","HardwareAddr":"fB5Sm+GW","Flags":51,"AltAddrs":null,"Desc":""},"lo":{"Index":1,"MTU":65536,"Name":"lo","HardwareAddr":null,"Flags":37,"AltAddrs":null,"Desc":""},"tailscale0":{"Index":4,"MTU":1280,"Name":"tailscale0","HardwareAddr":null,"Flags":57,"AltAddrs":null,"Desc":""}},"HaveV6":false,"HaveV4":true,"IsExpensive":false,"DefaultRouteInterface":"eth0","HTTPProxy":"","PAC":""}
+2025/04/24 03:02:22 LinkChange: major, rebinding. New state: interfaces.State{defaultRoute=eth0 ifs={docker0:[172.17.0.1/16] eth0:[10.0.2.215/16 llu6]} v4=true v6=false}
+2025/04/24 03:02:22 onPortUpdate(port=55526, network=udp6)
+2025/04/24 03:02:22 pm: using backend prefs for "profile-fa69": Prefs{ra=false dns=true want=true routes=[] statefulFiltering=false nf=on update=check Persist{o=, n=[ueo5s] u="repelos25@gmail.com"}}
+2025/04/24 03:02:22 onPortUpdate(port=50143, network=udp4)
+2025/04/24 03:02:22 Rebind; defIf="eth0", ips=[10.0.2.215/16 fe80::7e1e:52ff:fe9b:e196/64]
+2025/04/24 03:02:22 logpolicy: using system state directory "/var/lib/tailscale"
+2025/04/24 03:02:22 magicsock: 0 active derp conns
+2025/04/24 03:02:22 monitor: gateway and self IP changed: gw=10.0.0.1 self=10.0.2.215
+2025/04/24 03:02:22 got LocalBackend in 54ms
+2025/04/24 03:02:22 Start
+2025/04/24 03:02:22 Backend: logs: be:9341da86d5f55fd10cf095995c37ad645ec80e188ca399d6f3aeec9e318fadb8 fe:
+2025/04/24 03:02:22 control: client.Login(0)
+2025/04/24 03:02:22 health(warnable=warming-up): error: Tailscale is starting. Please wait.
+2025/04/24 03:02:22 control: doLogin(regen=false, hasUrl=false)
+2025/04/24 03:02:23 control: control server key from https://controlplane.tailscale.com: ts2021=[fSeS+], legacy=[nlFWp]
+2025/04/24 03:02:23 control: RegisterReq: onode= node=[ueo5s] fup=false nks=false
+2025/04/24 03:02:23 control: RegisterReq: got response; nodeKeyExpired=false, machineAuthorized=true; authURL=false
+2025/04/24 03:02:23 control: netmap: got new dial plan from control
+2025/04/24 03:02:23 health(warnable=not-in-map-poll): ok
+2025/04/24 03:02:23 active login: repelos25@gmail.com
+2025/04/24 03:02:23 Switching ipn state NoState -> Starting (WantRunning=true, nm=true)
+2025/04/24 03:02:23 magicsock: SetPrivateKey called (init)
+2025/04/24 03:02:23 wgengine: Reconfig: configuring userspace WireGuard config (with 0/11 peers)
+2025/04/24 03:02:23 wgengine: Reconfig: configuring router
+2025/04/24 03:02:23 health(warnable=router): error: adding [-i tailscale0 -j MARK --set-mark 0x40000/0xff0000] in v6/filter/ts-forward: running [/usr/sbin/ip6tables -t filter -A ts-forward -i tailscale0 -j MARK --set-mark 0x40000/0xff0000 --wait]: exit status 2: ip6tables v1.8.4 (legacy): unknown option "--set-mark"
+Try `ip6tables -h' or 'ip6tables --help' for more information.
+2025/04/24 03:02:23 peerapi: serving on http://100.77.38.57:52397
+2025/04/24 03:02:23 peerapi: serving on http://[fd7a:115c:a1e0::7401:2639]:47113
+2025/04/24 03:02:23 magicsock: home DERP changing from derp-0 [0ms] to derp-27 [5ms]
+2025/04/24 03:02:23 magicsock: home is now derp-27 (iad)
+2025/04/24 03:02:23 magicsock: adding connection to derp-27 for home-keep-alive
+2025/04/24 03:02:23 magicsock: 1 active derp conns: derp-27=cr0s,wr0s
+2025/04/24 03:02:23 derphttp.Client.Connect: connecting to derp-27 (iad)
+2025/04/24 03:02:23 Switching ipn state Starting -> Running (WantRunning=true, nm=true)
+2025/04/24 03:02:23 magicsock: endpoints changed: 135.237.130.228:46592 (stun), 10.0.2.215:50143 (local), 172.17.0.1:50143 (local)
+2025/04/24 03:02:23 control: NetInfo: NetInfo{varies=false hairpin= ipv6=false ipv6os=true udp=true icmpv4=false derp=#27 portmap= link="" firewallmode="ipt-default"}
+2025/04/24 03:02:23 health(warnable=warming-up): ok
+2025/04/24 03:02:23 health(warnable=no-derp-connection): ok
+2025/04/24 03:02:23 health(warnable=no-derp-connection): ok
+2025/04/24 03:02:23 magicsock: derp-27 connected; connGen=1
+2025/04/24 03:02:23 health(warnable=no-derp-connection): ok
+2025/04/24 03:02:23 [RATELIMIT] format("health(warnable=%s): ok")
+2025/04/24 03:02:42 wgengine: idle peer [LNq7P] now active, reconfiguring WireGuard
+2025/04/24 03:02:42 wgengine: Reconfig: configuring userspace WireGuard config (with 1/11 peers)
+2025/04/24 03:02:42 magicsock: disco: node [LNq7P] d:c2ad698f94319428 now using 16.98.10.5:34569 mtu=1360 tx=04c68f56d76d
+2025/04/24 03:03:54 wgengine: Reconfig: [ogvtv] changed from "discokey:b88ce915e5d42f140b02371873c7983456fb07fd972acf9d8914bb44ada50a05" to "discokey:95ac70d11bbeeeec56f3b4fef5405f661ad85a4816a641242fc54f0c641b9d39"
+2025/04/24 03:07:11 wgengine: idle peer [ogvtv] now active, reconfiguring WireGuard
+2025/04/24 03:07:11 wgengine: Reconfig: configuring userspace WireGuard config (with 2/11 peers)
+2025/04/24 03:07:17 Received error: PollNetMap: unexpected EOF
+2025/04/24 03:07:18 control: controlhttp: forcing port 443 dial due to recent noise dial
+2025/04/24 03:07:18 control: controlhttp: forcing port 443 dial due to recent noise dial
+2025/04/24 03:07:18 control: netmap: got new dial plan from control
+2025/04/24 03:07:24 wgengine: Reconfig: [DBqSg] changed from "discokey:85816f08a1ebb6678159fdab736939b8b34cda5f1608decce5e08eb396a8ee70" to "discokey:dbeed0dfa8ef22e016f71d21a056ca51d0cefb9e33ef6b32c636644718209b5d"
+2025/04/24 03:07:29 wgengine: idle peer [DBqSg] now active, reconfiguring WireGuard
+2025/04/24 03:07:29 wgengine: Reconfig: configuring userspace WireGuard config (with 3/11 peers)
+2025/04/24 03:07:29 magicsock: disco: node [DBqSg] d:dbeed0dfa8ef22e0 now using 190.6.47.192:45104 mtu=1360 tx=dc2013c7c796
+2025/04/24 03:09:17 magicsock: disco: node [ogvtv] d:95ac70d11bbeeeec now using 190.6.47.192:49161 mtu=1360 tx=cbe24bc9d89a
+2025/04/24 03:15:20 magicsock: disco: node [ogvtv] d:95ac70d11bbeeeec now using 190.6.47.192:18461 mtu=1360 tx=d4699d2cdfb8
+2025/04/24 03:15:48 wgengine: idle peer [owS0O] now active, reconfiguring WireGuard
+2025/04/24 03:15:48 wgengine: Reconfig: configuring userspace WireGuard config (with 4/11 peers)
+2025/04/24 03:15:48 magicsock: disco: node [owS0O] d:17f53fa5ed58e0b2 now using 201.221.112.19:41641 mtu=1360 tx=2cecad083bb7
+2025/04/24 03:20:20 magicsock: disco: node [ogvtv] d:95ac70d11bbeeeec now using 190.6.47.192:49161 mtu=1360 tx=ca823ac6f38c
+2025/04/24 03:23:35 magicsock: disco: node [DBqSg] d:dbeed0dfa8ef22e0 now using 190.6.47.192:45070 mtu=1360 tx=5083cf8e24cb
+2025/04/24 03:34:35 magicsock: disco: node [DBqSg] d:dbeed0dfa8ef22e0 now using 190.6.47.192:45104 mtu=1360 tx=3ba5412ca098
+2025/04/24 03:37:35 magicsock: disco: node [DBqSg] d:dbeed0dfa8ef22e0 now using 190.6.47.192:45070 mtu=1360 tx=b7211276f5ae
+2025/04/24 03:46:25 magicsock: adding connection to derp-16 for [owS0O]
+2025/04/24 03:46:25 magicsock: 2 active derp conns: derp-16=cr0s,wr0s derp-27=cr44m0s,wr9ms
+2025/04/24 03:46:25 derphttp.Client.Send: connecting to derp-16 (mia)
+2025/04/24 03:46:25 magicsock: derp-16 connected; connGen=1
+2025/04/24 03:46:25 magicsock: derp-16 does not know about peer [owS0O], removing route
+2025/04/24 03:46:30 magicsock: derp-16 does not know about peer [owS0O], removing route
+2025/04/24 03:46:35 magicsock: derp-16 does not know about peer [owS0O], removing route
+2025/04/24 03:46:40 magicsock: derp-16 does not know about peer [owS0O], removing route
+2025/04/24 03:46:45 magicsock: derp-16 does not know about peer [owS0O], removing route
+2025/04/24 03:46:51 magicsock: derp-16 does not know about peer [owS0O], removing route
+2025/04/24 03:46:56 magicsock: derp-16 does not know about peer [owS0O], removing route
+2025/04/24 03:47:01 magicsock: derp-16 does not know about peer [owS0O], removing route
+2025/04/24 03:47:06 magicsock: derp-16 does not know about peer [owS0O], removing route
+2025/04/24 03:47:12 magicsock: derp-16 does not know about peer [owS0O], removing route
+2025/04/24 03:47:17 magicsock: derp-16 does not know about peer [owS0O], removing route
+2025/04/24 03:47:22 magicsock: derp-16 does not know about peer [owS0O], removing route
+2025/04/24 03:47:25 wgengine: Reconfig: [owS0O] changed from "discokey:17f53fa5ed58e0b24111a82164a5adff6852ba0ad6dc2c1da9687f76a70f6f15" to "discokey:3ac2fae4cc2804d513bb7145dfcebbd1c004b5153a3c99d0ec8361b8458f731e"
+2025/04/24 03:47:25 wgengine: Reconfig: removing session keys for 1 peers
+2025/04/24 03:47:25 wgengine: Reconfig: configuring userspace WireGuard config (with 4/11 peers)
+2025/04/24 03:50:12 magicsock: disco: node [owS0O] d:3ac2fae4cc2804d5 now using 201.221.112.19:41641 mtu=1360 tx=d2c63da8be2b
+2025/04/24 04:29:36 magicsock: disco: node [DBqSg] d:dbeed0dfa8ef22e0 now using 190.6.47.192:53279 mtu=1360 tx=38b460b4e53c
+2025/04/24 04:38:36 magicsock: disco: node [DBqSg] d:dbeed0dfa8ef22e0 now using 190.6.47.192:53279 mtu=1360 tx=32fc7d3033da
+2025/04/24 04:44:01 magicsock: derp-16 does not know about peer [owS0O], removing route
+2025/04/24 04:44:06 magicsock: derp-16 does not know about peer [owS0O], removing route
+2025/04/24 04:44:11 magicsock: derp-16 does not know about peer [owS0O], removing route
+2025/04/24 04:44:16 magicsock: derp-16 does not know about peer [owS0O], removing route
+2025/04/24 04:44:21 magicsock: derp-16 does not know about peer [owS0O], removing route
+2025/04/24 04:44:26 magicsock: derp-16 does not know about peer [owS0O], removing route
+2025/04/24 04:44:32 magicsock: derp-16 does not know about peer [owS0O], removing route
+2025/04/24 04:44:37 magicsock: derp-16 does not know about peer [owS0O], removing route
+2025/04/24 04:44:42 magicsock: derp-16 does not know about peer [owS0O], removing route
+2025/04/24 04:44:47 magicsock: derp-16 does not know about peer [owS0O], removing route
+2025/04/24 04:44:52 magicsock: derp-16 does not know about peer [owS0O], removing route
+2025/04/24 04:44:57 magicsock: derp-16 does not know about peer [owS0O], removing route
+2025/04/24 04:45:03 magicsock: derp-16 does not know about peer [owS0O], removing route
+2025/04/24 04:45:08 magicsock: derp-16 does not know about peer [owS0O], removing route
+2025/04/24 04:45:13 magicsock: derp-16 does not know about peer [owS0O], removing route
+2025/04/24 04:45:18 magicsock: derp-16 does not know about peer [owS0O], removing route
+2025/04/24 04:45:23 magicsock: derp-16 does not know about peer [owS0O], removing route
+2025/04/24 04:45:29 magicsock: derp-16 does not know about peer [owS0O], removing route
+2025/04/24 04:45:34 magicsock: derp-16 does not know about peer [owS0O], removing route
+2025/04/24 04:45:39 magicsock: derp-16 does not know about peer [owS0O], removing route
+2025/04/24 04:45:44 magicsock: derp-16 does not know about peer [owS0O], removing route
+2025/04/24 04:45:49 magicsock: derp-16 does not know about peer [owS0O], removing route
+2025/04/24 04:45:54 magicsock: derp-16 does not know about peer [owS0O], removing route
+2025/04/24 04:46:00 magicsock: derp-16 does not know about peer [owS0O], removing route
+2025/04/24 04:46:05 magicsock: derp-16 does not know about peer [owS0O], removing route
+2025/04/24 04:46:10 magicsock: derp-16 does not know about peer [owS0O], removing route
+2025/04/24 04:46:15 magicsock: derp-16 does not know about peer [owS0O], removing route
+2025/04/24 04:46:20 magicsock: derp-16 does not know about peer [owS0O], removing route
+2025/04/24 04:46:25 magicsock: derp-16 does not know about peer [owS0O], removing route
+2025/04/24 04:46:30 magicsock: derp-16 does not know about peer [owS0O], removing route
+2025/04/24 04:46:36 magicsock: derp-16 does not know about peer [owS0O], removing route
+2025/04/24 04:46:41 magicsock: derp-16 does not know about peer [owS0O], removing route
+2025/04/24 04:46:46 magicsock: derp-16 does not know about peer [owS0O], removing route
+2025/04/24 04:46:51 magicsock: derp-16 does not know about peer [owS0O], removing route
+2025/04/24 04:46:58 magicsock: derp-16 does not know about peer [owS0O], removing route
+2025/04/24 04:47:04 magicsock: derp-16 does not know about peer [owS0O], removing route
+2025/04/24 04:47:10 magicsock: derp-16 does not know about peer [owS0O], removing route
+2025/04/24 04:47:16 magicsock: derp-16 does not know about peer [owS0O], removing route
+2025/04/24 04:47:22 magicsock: derp-16 does not know about peer [owS0O], removing route
+2025/04/24 04:47:28 magicsock: derp-16 does not know about peer [owS0O], removing route
+2025/04/24 04:47:34 magicsock: derp-16 does not know about peer [owS0O], removing route
+2025/04/24 04:50:02 magicsock: derp-16 does not know about peer [DBqSg], removing route
+2025/04/24 04:50:09 magicsock: derp-16 does not know about peer [DBqSg], removing route
+2025/04/24 04:50:15 magicsock: derp-16 does not know about peer [DBqSg], removing route
+2025/04/24 04:50:21 magicsock: derp-16 does not know about peer [DBqSg], removing route
+2025/04/24 04:50:27 magicsock: derp-16 does not know about peer [DBqSg], removing route
+2025/04/24 04:50:33 magicsock: derp-16 does not know about peer [DBqSg], removing route
+2025/04/24 04:50:39 magicsock: derp-16 does not know about peer [DBqSg], removing route
+2025/04/24 04:50:40 wgengine: Reconfig: [DBqSg] changed from "discokey:dbeed0dfa8ef22e016f71d21a056ca51d0cefb9e33ef6b32c636644718209b5d" to "discokey:a81dad54e0967d12680899edafabe20c2c846ae85d4774de5a5a62f954ba907a"
+2025/04/24 04:50:40 wgengine: Reconfig: removing session keys for 1 peers
+2025/04/24 04:50:40 wgengine: Reconfig: configuring userspace WireGuard config (with 3/11 peers)
+2025/04/24 04:51:19 magicsock: disco: node [DBqSg] d:a81dad54e0967d12 now using 190.6.47.192:45104 mtu=1360 tx=4e62cc86e03c
+2025/04/24 04:51:29 magicsock: derp-16 does not know about peer [DBqSg], removing route
+2025/04/24 04:51:37 magicsock: derp-16 does not know about peer [DBqSg], removing route
+2025/04/24 04:51:43 magicsock: derp-16 does not know about peer [DBqSg], removing route
+2025/04/24 04:51:49 magicsock: derp-16 does not know about peer [DBqSg], removing route
+2025/04/24 04:51:55 magicsock: derp-16 does not know about peer [DBqSg], removing route
+2025/04/24 04:52:01 magicsock: derp-16 does not know about peer [DBqSg], removing route
+2025/04/24 04:52:07 magicsock: derp-16 does not know about peer [DBqSg], removing route
+2025/04/24 04:52:12 wgengine: idle peer [owS0O] now active, reconfiguring WireGuard
+2025/04/24 04:52:12 wgengine: Reconfig: configuring userspace WireGuard config (with 4/11 peers)
+2025/04/24 04:52:12 magicsock: disco: node [owS0O] d:3ac2fae4cc2804d5 now using 190.199.132.90:41641 mtu=1360 tx=e3320ec7eb4f
+2025/04/24 04:52:13 magicsock: derp-16 does not know about peer [DBqSg], removing route
+2025/04/24 04:52:30 wgengine: Reconfig: [DBqSg] changed from "discokey:a81dad54e0967d12680899edafabe20c2c846ae85d4774de5a5a62f954ba907a" to "discokey:e699f6cfda0953a2270e07fbcb1da0702b66a54e860b7c2cb7850bb889585b74"
+2025/04/24 04:52:30 wgengine: Reconfig: removing session keys for 1 peers
+2025/04/24 04:52:30 wgengine: Reconfig: configuring userspace WireGuard config (with 4/11 peers)
+2025/04/24 04:57:39 magicsock: derp-16 does not know about peer [owS0O], removing route
+2025/04/24 05:17:09 magicsock: derp-16 does not know about peer [DBqSg], removing route
+2025/04/24 05:17:15 magicsock: derp-16 does not know about peer [DBqSg], removing route
+2025/04/24 05:17:26 wgengine: Reconfig: [DBqSg] changed from "discokey:e699f6cfda0953a2270e07fbcb1da0702b66a54e860b7c2cb7850bb889585b74" to "discokey:156b8dad2c319c25a3ac12f11573f5fc7622eed97ed4aa5b6b32e3fbbfb19b00"
+2025/04/24 05:17:26 wgengine: Reconfig: removing session keys for 1 peers
+2025/04/24 05:17:26 wgengine: Reconfig: configuring userspace WireGuard config (with 4/11 peers)
+2025/04/24 05:19:12 magicsock: disco: node [DBqSg] d:156b8dad2c319c25 now using 190.6.47.192:22544 mtu=1360 tx=fbcd9775e883
+2025/04/24 05:19:15 magicsock: disco: node [DBqSg] d:156b8dad2c319c25 now using 190.6.47.192:22544 mtu=1360 tx=b6a15f1a366c
+2025/04/24 05:19:37 magicsock: derp-16 does not know about peer [owS0O], removing route
+2025/04/24 05:19:43 magicsock: derp-16 does not know about peer [owS0O], removing route
+2025/04/24 05:19:49 magicsock: derp-16 does not know about peer [owS0O], removing route
+2025/04/24 05:19:55 magicsock: derp-16 does not know about peer [owS0O], removing route
+2025/04/24 05:20:01 magicsock: derp-16 does not know about peer [owS0O], removing route
+2025/04/24 05:20:07 magicsock: derp-16 does not know about peer [owS0O], removing route
+2025/04/24 05:20:12 magicsock: derp-16 does not know about peer [owS0O], removing route
+2025/04/24 05:20:17 magicsock: derp-16 does not know about peer [owS0O], removing route
+2025/04/24 05:20:22 magicsock: derp-16 does not know about peer [owS0O], removing route
+2025/04/24 05:20:24 wgengine: Reconfig: [owS0O] changed from "discokey:3ac2fae4cc2804d513bb7145dfcebbd1c004b5153a3c99d0ec8361b8458f731e" to "discokey:c1d00f1adc09a7d0d422343dc3d8b09e6e43b437c9c663409ab8dbcb7aa60819"
+2025/04/24 05:20:24 wgengine: Reconfig: removing session keys for 1 peers
+2025/04/24 05:20:24 wgengine: Reconfig: configuring userspace WireGuard config (with 4/11 peers)
+2025/04/24 05:20:45 magicsock: disco: node [owS0O] d:c1d00f1adc09a7d0 now using 190.199.132.90:41641 mtu=1360 tx=6ab71f9235a6
+2025/04/24 05:27:44 magicsock: adding connection to derp-1 for [owS0O]
+2025/04/24 05:27:44 magicsock: 3 active derp conns: derp-1=cr0s,wr0s derp-16=cr1h41m0s,wr18ms derp-27=cr2h25m0s,wr7m0s
+2025/04/24 05:27:44 derphttp.Client.Recv: connecting to derp-1 (nyc)
+2025/04/24 05:27:44 magicsock: derp-1 connected; connGen=1
+2025/04/24 05:28:55 magicsock: closing connection to derp-1 (idle), age 1m12s
+2025/04/24 05:28:55 magicsock: 2 active derp conns: derp-16=cr1h43m0s,wr6ms derp-27=cr2h27m0s,wr8m0s
+2025/04/24 05:35:59 magicsock: derp-16 does not know about peer [owS0O], removing route
+2025/04/24 05:41:44 magicsock: derp-16 does not know about peer [owS0O], removing route
+2025/04/24 05:41:50 magicsock: derp-16 does not know about peer [owS0O], removing route
+2025/04/24 05:41:56 magicsock: derp-16 does not know about peer [owS0O], removing route
+2025/04/24 05:42:02 magicsock: derp-16 does not know about peer [owS0O], removing route
+2025/04/24 05:42:07 magicsock: derp-16 does not know about peer [owS0O], removing route
+2025/04/24 05:42:13 magicsock: derp-16 does not know about peer [owS0O], removing route
+2025/04/24 05:42:18 magicsock: derp-16 does not know about peer [owS0O], removing route
+2025/04/24 05:42:23 magicsock: derp-16 does not know about peer [owS0O], removing route
+2025/04/24 05:42:28 magicsock: derp-16 does not know about peer [owS0O], removing route
+2025/04/24 05:42:34 magicsock: derp-16 does not know about peer [owS0O], removing route
+2025/04/24 05:42:39 magicsock: derp-16 does not know about peer [owS0O], removing route
+2025/04/24 05:42:44 magicsock: derp-16 does not know about peer [owS0O], removing route
+2025/04/24 05:42:49 magicsock: derp-16 does not know about peer [owS0O], removing route
+2025/04/24 05:42:54 magicsock: derp-16 does not know about peer [owS0O], removing route
+2025/04/24 05:43:00 magicsock: derp-16 does not know about peer [owS0O], removing route
+2025/04/24 05:43:05 magicsock: derp-16 does not know about peer [owS0O], removing route
+2025/04/24 05:43:10 magicsock: derp-16 does not know about peer [owS0O], removing route
+2025/04/24 05:43:15 magicsock: derp-16 does not know about peer [owS0O], removing route
+2025/04/24 05:43:20 magicsock: derp-16 does not know about peer [owS0O], removing route
+2025/04/24 05:43:26 magicsock: derp-16 does not know about peer [owS0O], removing route
+2025/04/24 05:43:31 magicsock: derp-16 does not know about peer [owS0O], removing route
+2025/04/24 05:43:36 magicsock: derp-16 does not know about peer [owS0O], removing route
+2025/04/24 05:43:41 magicsock: derp-16 does not know about peer [owS0O], removing route
+2025/04/24 05:43:46 magicsock: derp-16 does not know about peer [owS0O], removing route
+2025/04/24 05:43:51 magicsock: derp-16 does not know about peer [owS0O], removing route
+2025/04/24 05:43:57 magicsock: derp-16 does not know about peer [owS0O], removing route
+2025/04/24 05:44:02 magicsock: derp-16 does not know about peer [owS0O], removing route
+2025/04/24 05:44:07 magicsock: derp-16 does not know about peer [owS0O], removing route
+2025/04/24 05:44:12 magicsock: derp-16 does not know about peer [owS0O], removing route
+2025/04/24 05:44:17 magicsock: derp-16 does not know about peer [owS0O], removing route
+2025/04/24 05:44:23 magicsock: derp-16 does not know about peer [owS0O], removing route
+2025/04/24 05:44:28 magicsock: derp-16 does not know about peer [owS0O], removing route
+2025/04/24 05:44:33 magicsock: derp-16 does not know about peer [owS0O], removing route
+2025/04/24 05:44:41 magicsock: derp-16 does not know about peer [owS0O], removing route
+2025/04/24 05:44:47 magicsock: derp-16 does not know about peer [owS0O], removing route
+2025/04/24 05:44:53 magicsock: derp-16 does not know about peer [owS0O], removing route
+2025/04/24 05:44:59 magicsock: derp-16 does not know about peer [owS0O], removing route
+2025/04/24 05:45:05 magicsock: derp-16 does not know about peer [owS0O], removing route
+2025/04/24 05:45:11 magicsock: derp-16 does not know about peer [owS0O], removing route
+2025/04/24 05:45:17 magicsock: derp-16 does not know about peer [owS0O], removing route
+2025/04/24 05:45:52 wgengine: Reconfig: [owS0O] changed from "discokey:c1d00f1adc09a7d0d422343dc3d8b09e6e43b437c9c663409ab8dbcb7aa60819" to "discokey:7bfe0dccc96c9833d96e6070d819c019b4fc56f4fc44ab30ca3a21ab7e040853"
+2025/04/24 05:45:52 wgengine: Reconfig: removing session keys for 1 peers
+2025/04/24 05:45:52 wgengine: Reconfig: configuring userspace WireGuard config (with 4/11 peers)
+2025/04/24 05:49:48 wgengine: Reconfig: [owS0O] changed from "discokey:7bfe0dccc96c9833d96e6070d819c019b4fc56f4fc44ab30ca3a21ab7e040853" to "discokey:ebf865de2561debd17b1cb9ca8302c5b274b9a8d946e9f1f66f98fb76a247d0e"
+2025/04/24 05:49:48 wgengine: Reconfig: configuring userspace WireGuard config (with 3/11 peers)
+2025/04/24 05:51:29 wgengine: Reconfig: [owS0O] changed from "discokey:ebf865de2561debd17b1cb9ca8302c5b274b9a8d946e9f1f66f98fb76a247d0e" to "discokey:1b57121057ddca6f73d6b34e55c9941539c75e539f423fd3dbdbbe40ddbd1711"
+2025/04/24 06:09:43 magicsock: derp-16 does not know about peer [DBqSg], removing route
+2025/04/24 06:09:48 magicsock: derp-16 does not know about peer [DBqSg], removing route
+2025/04/24 06:09:52 magicsock: derp-16 does not know about peer [ogvtv], removing route
+2025/04/24 06:09:53 magicsock: derp-16 does not know about peer [ogvtv], removing route
+2025/04/24 06:09:53 magicsock: derp-16 does not know about peer [DBqSg], removing route
+2025/04/24 06:09:58 magicsock: derp-16 does not know about peer [ogvtv], removing route
+2025/04/24 06:09:58 magicsock: derp-16 does not know about peer [ogvtv], removing route
+2025/04/24 06:09:58 magicsock: derp-16 does not know about peer [DBqSg], removing route
+2025/04/24 06:09:58 [RATELIMIT] format("magicsock: derp-%d does not know about peer %s, removing route")
+2025/04/24 06:10:08 [RATELIMIT] format("magicsock: derp-%d does not know about peer %s, removing route") (3 dropped)
+2025/04/24 06:10:08 magicsock: derp-16 does not know about peer [DBqSg], removing route
+2025/04/24 06:10:08 magicsock: derp-16 does not know about peer [ogvtv], removing route
+2025/04/24 06:10:08 [RATELIMIT] format("magicsock: derp-%d does not know about peer %s, removing route")
+2025/04/24 06:10:19 [RATELIMIT] format("magicsock: derp-%d does not know about peer %s, removing route") (2 dropped)
+2025/04/24 06:10:19 magicsock: derp-16 does not know about peer [ogvtv], removing route
+2025/04/24 06:10:19 magicsock: derp-16 does not know about peer [DBqSg], removing route
+2025/04/24 06:10:19 [RATELIMIT] format("magicsock: derp-%d does not know about peer %s, removing route")
+2025/04/24 06:10:29 [RATELIMIT] format("magicsock: derp-%d does not know about peer %s, removing route") (2 dropped)
+2025/04/24 06:10:29 magicsock: derp-16 does not know about peer [ogvtv], removing route
+2025/04/24 06:10:29 magicsock: derp-16 does not know about peer [DBqSg], removing route
+2025/04/24 06:10:29 [RATELIMIT] format("magicsock: derp-%d does not know about peer %s, removing route")
+2025/04/24 06:10:39 [RATELIMIT] format("magicsock: derp-%d does not know about peer %s, removing route") (2 dropped)
+2025/04/24 06:10:39 magicsock: derp-16 does not know about peer [ogvtv], removing route
+2025/04/24 06:10:40 magicsock: derp-16 does not know about peer [DBqSg], removing route
+2025/04/24 06:10:40 [RATELIMIT] format("magicsock: derp-%d does not know about peer %s, removing route")
+2025/04/24 06:10:50 [RATELIMIT] format("magicsock: derp-%d does not know about peer %s, removing route") (2 dropped)
+2025/04/24 06:10:50 magicsock: derp-16 does not know about peer [ogvtv], removing route
+2025/04/24 06:10:50 magicsock: derp-16 does not know about peer [DBqSg], removing route
+2025/04/24 06:10:50 [RATELIMIT] format("magicsock: derp-%d does not know about peer %s, removing route")
+2025/04/24 06:11:00 [RATELIMIT] format("magicsock: derp-%d does not know about peer %s, removing route") (2 dropped)
+2025/04/24 06:11:00 magicsock: derp-16 does not know about peer [ogvtv], removing route
+2025/04/24 06:11:00 magicsock: derp-16 does not know about peer [DBqSg], removing route
+2025/04/24 06:11:00 [RATELIMIT] format("magicsock: derp-%d does not know about peer %s, removing route")
+2025/04/24 06:11:05 [RATELIMIT] format("magicsock: derp-%d does not know about peer %s, removing route") (1 dropped)
+2025/04/24 06:11:05 magicsock: derp-16 does not know about peer [DBqSg], removing route
+2025/04/24 06:11:10 magicsock: derp-16 does not know about peer [ogvtv], removing route
+2025/04/24 06:11:10 [RATELIMIT] format("magicsock: derp-%d does not know about peer %s, removing route")
+2025/04/24 06:11:15 [RATELIMIT] format("magicsock: derp-%d does not know about peer %s, removing route") (2 dropped)
+2025/04/24 06:11:15 magicsock: derp-16 does not know about peer [DBqSg], removing route
+2025/04/24 06:11:20 magicsock: derp-16 does not know about peer [ogvtv], removing route
+2025/04/24 06:11:20 [RATELIMIT] format("magicsock: derp-%d does not know about peer %s, removing route")
+2025/04/24 06:11:26 [RATELIMIT] format("magicsock: derp-%d does not know about peer %s, removing route") (2 dropped)
+2025/04/24 06:11:26 magicsock: derp-16 does not know about peer [DBqSg], removing route
+2025/04/24 06:11:30 magicsock: derp-16 does not know about peer [ogvtv], removing route
+2025/04/24 06:11:30 [RATELIMIT] format("magicsock: derp-%d does not know about peer %s, removing route")
+2025/04/24 06:11:35 [RATELIMIT] format("magicsock: derp-%d does not know about peer %s, removing route") (1 dropped)
+2025/04/24 06:11:35 magicsock: derp-16 does not know about peer [ogvtv], removing route
+2025/04/24 06:11:36 magicsock: derp-16 does not know about peer [DBqSg], removing route
+2025/04/24 06:11:36 [RATELIMIT] format("magicsock: derp-%d does not know about peer %s, removing route")
+2025/04/24 06:11:46 [RATELIMIT] format("magicsock: derp-%d does not know about peer %s, removing route") (2 dropped)
+2025/04/24 06:11:46 magicsock: derp-16 does not know about peer [ogvtv], removing route
+2025/04/24 06:11:46 magicsock: derp-16 does not know about peer [DBqSg], removing route
+2025/04/24 06:11:46 [RATELIMIT] format("magicsock: derp-%d does not know about peer %s, removing route")
+2025/04/24 06:11:56 [RATELIMIT] format("magicsock: derp-%d does not know about peer %s, removing route") (2 dropped)
+2025/04/24 06:11:56 magicsock: derp-16 does not know about peer [ogvtv], removing route
+2025/04/24 06:11:57 magicsock: derp-16 does not know about peer [DBqSg], removing route
+2025/04/24 06:11:57 [RATELIMIT] format("magicsock: derp-%d does not know about peer %s, removing route")
+2025/04/24 06:12:06 [RATELIMIT] format("magicsock: derp-%d does not know about peer %s, removing route") (2 dropped)
+2025/04/24 06:12:06 magicsock: derp-16 does not know about peer [ogvtv], removing route
+2025/04/24 06:12:07 magicsock: derp-16 does not know about peer [DBqSg], removing route
+2025/04/24 06:12:07 [RATELIMIT] format("magicsock: derp-%d does not know about peer %s, removing route")
+2025/04/24 06:12:17 [RATELIMIT] format("magicsock: derp-%d does not know about peer %s, removing route") (2 dropped)
+2025/04/24 06:12:17 magicsock: derp-16 does not know about peer [ogvtv], removing route
+2025/04/24 06:12:18 magicsock: derp-16 does not know about peer [DBqSg], removing route
+2025/04/24 06:12:18 [RATELIMIT] format("magicsock: derp-%d does not know about peer %s, removing route")
+2025/04/24 06:12:27 [RATELIMIT] format("magicsock: derp-%d does not know about peer %s, removing route") (2 dropped)
+2025/04/24 06:12:27 magicsock: derp-16 does not know about peer [ogvtv], removing route
+2025/04/24 06:12:28 magicsock: derp-16 does not know about peer [DBqSg], removing route
+2025/04/24 06:12:28 [RATELIMIT] format("magicsock: derp-%d does not know about peer %s, removing route")
+2025/04/24 06:12:39 [RATELIMIT] format("magicsock: derp-%d does not know about peer %s, removing route") (2 dropped)
+2025/04/24 06:12:39 magicsock: derp-16 does not know about peer [DBqSg], removing route
+2025/04/24 06:12:40 magicsock: derp-16 does not know about peer [ogvtv], removing route
+2025/04/24 06:12:40 [RATELIMIT] format("magicsock: derp-%d does not know about peer %s, removing route")
+2025/04/24 06:12:46 [RATELIMIT] format("magicsock: derp-%d does not know about peer %s, removing route") (1 dropped)
+2025/04/24 06:12:46 magicsock: derp-16 does not know about peer [ogvtv], removing route
+2025/04/24 06:12:50 magicsock: derp-16 does not know about peer [DBqSg], removing route
+2025/04/24 06:12:52 magicsock: derp-16 does not know about peer [ogvtv], removing route
+2025/04/24 06:12:52 [RATELIMIT] format("magicsock: derp-%d does not know about peer %s, removing route")
+2025/04/24 06:13:02 [RATELIMIT] format("magicsock: derp-%d does not know about peer %s, removing route") (2 dropped)
+2025/04/24 06:13:02 magicsock: derp-16 does not know about peer [DBqSg], removing route
+2025/04/24 06:13:04 magicsock: derp-16 does not know about peer [ogvtv], removing route
+2025/04/24 06:13:04 [RATELIMIT] format("magicsock: derp-%d does not know about peer %s, removing route")
+2025/04/24 06:13:14 [RATELIMIT] format("magicsock: derp-%d does not know about peer %s, removing route") (2 dropped)
+2025/04/24 06:13:14 magicsock: derp-16 does not know about peer [DBqSg], removing route
+2025/04/24 06:13:16 magicsock: derp-16 does not know about peer [ogvtv], removing route
+2025/04/24 06:13:20 magicsock: derp-16 does not know about peer [DBqSg], removing route
+2025/04/24 06:14:25 magicsock: closing connection to derp-16 (idle), age 2h28m0s
+2025/04/24 06:14:25 magicsock: 1 active derp conns: derp-27=cr3h12m0s,wr54m0s
+2025/04/24 06:15:00 magicsock: adding connection to derp-16 for [LNq7P]
+2025/04/24 06:15:00 magicsock: 2 active derp conns: derp-16=cr0s,wr0s derp-27=cr3h13m0s,wr54m0s
+2025/04/24 06:15:00 derphttp.Client.Send: connecting to derp-16 (mia)
+2025/04/24 06:15:00 magicsock: derp-16 connected; connGen=1
+2025/04/24 06:16:00 magicsock: closing connection to derp-16 (idle), age 1m0s
+2025/04/24 06:16:00 magicsock: 1 active derp conns: derp-27=cr3h14m0s,wr55m0s
+2025/04/24 06:16:03 magicsock: adding connection to derp-16 for [LNq7P]
+2025/04/24 06:16:03 magicsock: 2 active derp conns: derp-16=cr0s,wr0s derp-27=cr3h14m0s,wr55m0s
+2025/04/24 06:16:03 derphttp.Client.Send: connecting to derp-16 (mia)
+2025/04/24 06:16:03 magicsock: derp-16 connected; connGen=1
+2025/04/24 06:17:03 magicsock: closing connection to derp-16 (idle), age 1m0s
+2025/04/24 06:17:03 magicsock: 1 active derp conns: derp-27=cr3h15m0s,wr56m0s
+2025/04/24 06:17:06 magicsock: adding connection to derp-16 for [LNq7P]
+2025/04/24 06:17:06 magicsock: 2 active derp conns: derp-16=cr0s,wr0s derp-27=cr3h15m0s,wr56m0s
+2025/04/24 06:17:06 derphttp.Client.Recv: connecting to derp-16 (mia)
+2025/04/24 06:17:06 magicsock: derp-16 connected; connGen=1
+2025/04/24 06:18:06 magicsock: closing connection to derp-16 (idle), age 1m0s
+2025/04/24 06:18:06 magicsock: 1 active derp conns: derp-27=cr3h16m0s,wr57m0s
+2025/04/24 06:18:09 magicsock: adding connection to derp-16 for [LNq7P]
+2025/04/24 06:18:09 magicsock: 2 active derp conns: derp-16=cr0s,wr0s derp-27=cr3h16m0s,wr57m0s
+2025/04/24 06:18:09 derphttp.Client.Send: connecting to derp-16 (mia)
+2025/04/24 06:18:09 magicsock: derp-16 connected; connGen=1
+2025/04/24 06:19:09 magicsock: closing connection to derp-16 (idle), age 1m0s
+2025/04/24 06:19:09 magicsock: 1 active derp conns: derp-27=cr3h17m0s,wr58m0s
+2025/04/24 06:19:12 magicsock: adding connection to derp-16 for [LNq7P]
+2025/04/24 06:19:12 magicsock: 2 active derp conns: derp-16=cr0s,wr0s derp-27=cr3h17m0s,wr58m0s
+2025/04/24 06:19:12 derphttp.Client.Recv: connecting to derp-16 (mia)
+2025/04/24 06:19:12 magicsock: derp-16 connected; connGen=1
+2025/04/24 06:20:12 magicsock: closing connection to derp-16 (idle), age 1m0s
+2025/04/24 06:20:12 magicsock: 1 active derp conns: derp-27=cr3h18m0s,wr59m0s
+2025/04/24 06:20:15 magicsock: adding connection to derp-16 for [LNq7P]
+2025/04/24 06:20:15 magicsock: 2 active derp conns: derp-16=cr0s,wr0s derp-27=cr3h18m0s,wr1h0m0s
+2025/04/24 06:20:15 derphttp.Client.Send: connecting to derp-16 (mia)
+2025/04/24 06:20:15 magicsock: derp-16 connected; connGen=1
+2025/04/24 06:20:30 wgengine: Reconfig: configuring userspace WireGuard config (with 2/11 peers)
+2025/04/24 06:32:57 wgengine: idle peer [ogvtv] now active, reconfiguring WireGuard
+2025/04/24 06:32:57 wgengine: Reconfig: configuring userspace WireGuard config (with 3/11 peers)
+2025/04/24 06:32:58 magicsock: disco: node [ogvtv] d:95ac70d11bbeeeec now using 190.6.47.37:26627 mtu=1360 tx=089a09970691
+2025/04/24 06:36:31 magicsock: derp-16 does not know about peer [DBqSg], removing route
+2025/04/24 06:47:47 wgengine: Reconfig: [KKVbG] changed from "discokey:3a6cb9a2675e1450bd24d0994a14c7521befceaa8f9dfbda70cdcf9cc827045a" to "discokey:eb8f3a482476467721313551fede62e51aaee919b9a03e97216e71f5b0437b7e"
+2025/04/24 06:57:08 magicsock: derp-16 does not know about peer [DBqSg], removing route
+2025/04/24 06:57:14 magicsock: derp-16 does not know about peer [DBqSg], removing route
+2025/04/24 06:57:14 magicsock: derp-16 does not know about peer [ogvtv], removing route
+2025/04/24 06:57:19 magicsock: derp-16 does not know about peer [DBqSg], removing route
+2025/04/24 06:57:19 magicsock: derp-16 does not know about peer [ogvtv], removing route
+2025/04/24 06:57:24 magicsock: derp-16 does not know about peer [DBqSg], removing route
+2025/04/24 06:57:24 magicsock: derp-16 does not know about peer [ogvtv], removing route
+2025/04/24 06:57:29 magicsock: derp-16 does not know about peer [DBqSg], removing route
+2025/04/24 06:57:29 magicsock: derp-16 does not know about peer [ogvtv], removing route
+2025/04/24 06:57:29 [RATELIMIT] format("magicsock: derp-%d does not know about peer %s, removing route")
+2025/04/24 06:57:39 [RATELIMIT] format("magicsock: derp-%d does not know about peer %s, removing route") (2 dropped)
+2025/04/24 06:57:39 magicsock: derp-16 does not know about peer [ogvtv], removing route
+2025/04/24 06:57:40 magicsock: derp-16 does not know about peer [DBqSg], removing route
+2025/04/24 06:57:40 [RATELIMIT] format("magicsock: derp-%d does not know about peer %s, removing route")
+2025/04/24 06:57:50 [RATELIMIT] format("magicsock: derp-%d does not know about peer %s, removing route") (2 dropped)
+2025/04/24 06:57:50 magicsock: derp-16 does not know about peer [DBqSg], removing route
+2025/04/24 06:57:50 magicsock: derp-16 does not know about peer [ogvtv], removing route
+2025/04/24 06:57:50 [RATELIMIT] format("magicsock: derp-%d does not know about peer %s, removing route")
+2025/04/24 06:57:55 [RATELIMIT] format("magicsock: derp-%d does not know about peer %s, removing route") (1 dropped)
+2025/04/24 06:57:55 magicsock: derp-16 does not know about peer [ogvtv], removing route
+2025/04/24 06:58:00 magicsock: derp-16 does not know about peer [ogvtv], removing route
+2025/04/24 06:58:00 magicsock: derp-16 does not know about peer [DBqSg], removing route
+2025/04/24 06:58:00 [RATELIMIT] format("magicsock: derp-%d does not know about peer %s, removing route")
+2025/04/24 06:58:11 [RATELIMIT] format("magicsock: derp-%d does not know about peer %s, removing route") (2 dropped)
+2025/04/24 06:58:11 magicsock: derp-16 does not know about peer [ogvtv], removing route
+2025/04/24 06:58:11 magicsock: derp-16 does not know about peer [DBqSg], removing route
+2025/04/24 06:58:11 [RATELIMIT] format("magicsock: derp-%d does not know about peer %s, removing route")
+2025/04/24 06:58:21 [RATELIMIT] format("magicsock: derp-%d does not know about peer %s, removing route") (2 dropped)
+2025/04/24 06:58:21 magicsock: derp-16 does not know about peer [DBqSg], removing route
+2025/04/24 06:58:21 magicsock: derp-16 does not know about peer [ogvtv], removing route
+2025/04/24 06:58:21 [RATELIMIT] format("magicsock: derp-%d does not know about peer %s, removing route")
+2025/04/24 06:58:31 [RATELIMIT] format("magicsock: derp-%d does not know about peer %s, removing route") (2 dropped)
+2025/04/24 06:58:31 magicsock: derp-16 does not know about peer [DBqSg], removing route
+2025/04/24 06:58:31 magicsock: derp-16 does not know about peer [ogvtv], removing route
+2025/04/24 06:58:31 [RATELIMIT] format("magicsock: derp-%d does not know about peer %s, removing route")
+2025/04/24 06:58:42 [RATELIMIT] format("magicsock: derp-%d does not know about peer %s, removing route") (2 dropped)
+2025/04/24 06:58:42 magicsock: derp-16 does not know about peer [DBqSg], removing route
+2025/04/24 06:58:42 magicsock: derp-16 does not know about peer [ogvtv], removing route
+2025/04/24 06:58:42 [RATELIMIT] format("magicsock: derp-%d does not know about peer %s, removing route")
+2025/04/24 06:58:52 [RATELIMIT] format("magicsock: derp-%d does not know about peer %s, removing route") (2 dropped)
+2025/04/24 06:58:52 magicsock: derp-16 does not know about peer [DBqSg], removing route
+2025/04/24 06:58:52 magicsock: derp-16 does not know about peer [ogvtv], removing route
+2025/04/24 06:58:52 [RATELIMIT] format("magicsock: derp-%d does not know about peer %s, removing route")
+2025/04/24 06:59:02 [RATELIMIT] format("magicsock: derp-%d does not know about peer %s, removing route") (2 dropped)
+2025/04/24 06:59:02 magicsock: derp-16 does not know about peer [DBqSg], removing route
+2025/04/24 06:59:02 magicsock: derp-16 does not know about peer [ogvtv], removing route
+2025/04/24 06:59:02 [RATELIMIT] format("magicsock: derp-%d does not know about peer %s, removing route")
+2025/04/24 06:59:13 [RATELIMIT] format("magicsock: derp-%d does not know about peer %s, removing route") (2 dropped)
+2025/04/24 06:59:13 magicsock: derp-16 does not know about peer [DBqSg], removing route
+2025/04/24 06:59:13 magicsock: derp-16 does not know about peer [ogvtv], removing route
+2025/04/24 06:59:13 [RATELIMIT] format("magicsock: derp-%d does not know about peer %s, removing route")
+2025/04/24 06:59:23 [RATELIMIT] format("magicsock: derp-%d does not know about peer %s, removing route") (2 dropped)
+2025/04/24 06:59:23 magicsock: derp-16 does not know about peer [DBqSg], removing route
+2025/04/24 06:59:23 magicsock: derp-16 does not know about peer [ogvtv], removing route
+2025/04/24 06:59:23 [RATELIMIT] format("magicsock: derp-%d does not know about peer %s, removing route")
+2025/04/24 06:59:33 [RATELIMIT] format("magicsock: derp-%d does not know about peer %s, removing route") (2 dropped)
+2025/04/24 06:59:33 magicsock: derp-16 does not know about peer [ogvtv], removing route
+2025/04/24 06:59:33 magicsock: derp-16 does not know about peer [DBqSg], removing route
+2025/04/24 06:59:33 [RATELIMIT] format("magicsock: derp-%d does not know about peer %s, removing route")
+2025/04/24 06:59:44 [RATELIMIT] format("magicsock: derp-%d does not know about peer %s, removing route") (2 dropped)
+2025/04/24 06:59:44 magicsock: derp-16 does not know about peer [ogvtv], removing route
+2025/04/24 06:59:44 magicsock: derp-16 does not know about peer [DBqSg], removing route
+2025/04/24 06:59:44 [RATELIMIT] format("magicsock: derp-%d does not know about peer %s, removing route")
+2025/04/24 06:59:51 [RATELIMIT] format("magicsock: derp-%d does not know about peer %s, removing route") (1 dropped)
+2025/04/24 06:59:51 magicsock: derp-16 does not know about peer [ogvtv], removing route
+2025/04/24 06:59:54 magicsock: derp-16 does not know about peer [DBqSg], removing route
+2025/04/24 06:59:54 [RATELIMIT] format("magicsock: derp-%d does not know about peer %s, removing route")
+2025/04/24 07:00:02 [RATELIMIT] format("magicsock: derp-%d does not know about peer %s, removing route") (1 dropped)
+2025/04/24 07:00:02 magicsock: derp-16 does not know about peer [DBqSg], removing route
+2025/04/24 07:00:03 magicsock: derp-16 does not know about peer [ogvtv], removing route
+2025/04/24 07:00:03 [RATELIMIT] format("magicsock: derp-%d does not know about peer %s, removing route")
+2025/04/24 07:00:14 [RATELIMIT] format("magicsock: derp-%d does not know about peer %s, removing route") (2 dropped)
+2025/04/24 07:00:14 magicsock: derp-16 does not know about peer [DBqSg], removing route
+2025/04/24 07:00:15 magicsock: derp-16 does not know about peer [ogvtv], removing route
+2025/04/24 07:00:20 magicsock: derp-16 does not know about peer [DBqSg], removing route
+2025/04/24 07:00:20 [RATELIMIT] format("magicsock: derp-%d does not know about peer %s, removing route")
+2025/04/24 07:00:26 [RATELIMIT] format("magicsock: derp-%d does not know about peer %s, removing route") (1 dropped)
+2025/04/24 07:00:26 magicsock: derp-16 does not know about peer [DBqSg], removing route
+2025/04/24 07:00:27 magicsock: derp-16 does not know about peer [ogvtv], removing route
+2025/04/24 07:00:27 [RATELIMIT] format("magicsock: derp-%d does not know about peer %s, removing route")
+2025/04/24 07:00:38 [RATELIMIT] format("magicsock: derp-%d does not know about peer %s, removing route") (1 dropped)
+2025/04/24 07:00:38 magicsock: derp-16 does not know about peer [DBqSg], removing route
+2025/04/24 07:01:45 magicsock: closing connection to derp-16 (idle), age 41m30s
+2025/04/24 07:01:45 magicsock: 1 active derp conns: derp-27=cr3h59m0s,wr1h41m0s
+2025/04/24 07:03:18 magicsock: adding connection to derp-16 for [ogvtv]
+2025/04/24 07:03:18 magicsock: 2 active derp conns: derp-16=cr0s,wr0s derp-27=cr4h1m0s,wr1h43m0s
+2025/04/24 07:03:18 derphttp.Client.Recv: connecting to derp-16 (mia)
+2025/04/24 07:03:18 magicsock: derp-16 connected; connGen=1
+2025/04/24 07:03:18 wgengine: Reconfig: configuring userspace WireGuard config (with 2/11 peers)
+2025/04/24 07:13:32 magicsock: disco: node [ogvtv] d:95ac70d11bbeeeec now using 190.6.47.129:51204 mtu=1360 tx=b96600f4f2da
+2025/04/24 07:14:33 magicsock: closing connection to derp-16 (idle), age 11m15s
+2025/04/24 07:14:33 magicsock: 1 active derp conns: derp-27=cr4h12m0s,wr1h54m0s
+2025/04/24 07:25:19 magicsock: adding connection to derp-16 for [LNq7P]
+2025/04/24 07:25:19 magicsock: 2 active derp conns: derp-16=cr0s,wr0s derp-27=cr4h23m0s,wr2h5m0s
+2025/04/24 07:25:19 derphttp.Client.Recv: connecting to derp-16 (mia)
+2025/04/24 07:25:19 magicsock: derp-16 connected; connGen=1
+2025/04/24 07:25:19 magicsock: derp-16 does not know about peer [LNq7P], removing route
+2025/04/24 07:25:25 magicsock: derp-16 does not know about peer [LNq7P], removing route
+2025/04/24 07:25:31 magicsock: derp-16 does not know about peer [LNq7P], removing route
+2025/04/24 07:25:37 magicsock: derp-16 does not know about peer [LNq7P], removing route
+2025/04/24 07:25:43 magicsock: derp-16 does not know about peer [LNq7P], removing route
+2025/04/24 07:26:49 magicsock: closing connection to derp-16 (idle), age 1m30s
+2025/04/24 07:26:49 magicsock: 1 active derp conns: derp-27=cr4h24m0s,wr2h6m0s
