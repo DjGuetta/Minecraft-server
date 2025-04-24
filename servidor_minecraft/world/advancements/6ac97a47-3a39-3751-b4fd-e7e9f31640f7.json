@@ -10413,77 +10413,11 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
+  "minecraft:nether/return_to_sender": {
     "criteria": {
-      "log_spam_fixer": "2025-04-24 07:24:43 +0000"
+      "killed_ghast": "2025-04-24 05:07:31 +0000"
     },
-    "done": false
-  },
-  "incendium:technical/on_kill": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-24 07:24:43 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-24 07:24:43 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/holy_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-24 07:24:43 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_block": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-24 07:24:43 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/feed_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-24 07:24:43 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-24 07:24:43 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-24 07:24:43 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-24 07:24:43 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_player_hurt": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-24 07:24:43 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-24 07:24:43 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-24 07:24:43 +0000"
-    },
-    "done": false
+    "done": true
   },
   "create:recipes/building_blocks/scoria_from_stone_types_scoria_stonecutting": {
     "criteria": {
@@ -10515,33 +10449,9 @@
     },
     "done": true
   },
-  "biomesoplenty:recipes/redstone/hellbark_pressure_plate": {
-    "criteria": {
-      "has_planks": "2025-04-24 06:07:59 +0000"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/scoria_pillar_from_stone_types_scoria_stonecutting": {
     "criteria": {
       "has_stone_types_scoria": "2025-04-24 05:34:46 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/decorations/hellbark_sign": {
-    "criteria": {
-      "has_planks": "2025-04-24 06:07:59 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/redstone/hellbark_trapdoor": {
-    "criteria": {
-      "has_planks": "2025-04-24 06:07:59 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/building_blocks/hellbark_slab": {
-    "criteria": {
-      "has_planks": "2025-04-24 06:07:59 +0000"
     },
     "done": true
   },
@@ -10563,27 +10473,9 @@
     },
     "done": true
   },
-  "minecraft:nether/return_to_sender": {
-    "criteria": {
-      "killed_ghast": "2025-04-24 05:07:31 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/redstone/hellbark_button": {
-    "criteria": {
-      "has_planks": "2025-04-24 06:07:59 +0000"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/small_scoria_bricks_from_stone_types_scoria_stonecutting": {
     "criteria": {
       "has_stone_types_scoria": "2025-04-24 05:34:46 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/building_blocks/hellbark_planks": {
-    "criteria": {
-      "has_logs": "2025-04-24 06:07:54 +0000"
     },
     "done": true
   },
@@ -10617,12 +10509,6 @@
     },
     "done": true
   },
-  "biomesoplenty:recipes/redstone/hellbark_fence_gate": {
-    "criteria": {
-      "has_planks": "2025-04-24 06:07:59 +0000"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/cut_scoria_wall_from_stone_types_scoria_stonecutting": {
     "criteria": {
       "has_stone_types_scoria": "2025-04-24 05:34:46 +0000"
@@ -10635,18 +10521,6 @@
     },
     "done": true
   },
-  "biomesoplenty:recipes/redstone/hellbark_door": {
-    "criteria": {
-      "has_planks": "2025-04-24 06:07:59 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/building_blocks/hellbark_stairs": {
-    "criteria": {
-      "has_planks": "2025-04-24 06:07:59 +0000"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/cut_scoria_from_stone_types_scoria_stonecutting": {
     "criteria": {
       "has_stone_types_scoria": "2025-04-24 05:34:46 +0000"
@@ -10656,6 +10530,78 @@
   "create:recipes/building_blocks/cut_scoria_brick_stairs_from_stone_types_scoria_stonecutting": {
     "criteria": {
       "has_stone_types_scoria": "2025-04-24 05:34:46 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_scoria_brick_slab_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2025-04-24 05:34:46 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_scoria_stairs_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2025-04-24 05:34:46 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/hellbark_planks": {
+    "criteria": {
+      "has_logs": "2025-04-24 06:07:54 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/hellbark_wood": {
+    "criteria": {
+      "has_log": "2025-04-24 06:07:54 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/hellbark_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-04-24 06:07:59 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/decorations/hellbark_sign": {
+    "criteria": {
+      "has_planks": "2025-04-24 06:07:59 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/hellbark_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-04-24 06:07:59 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/hellbark_slab": {
+    "criteria": {
+      "has_planks": "2025-04-24 06:07:59 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/hellbark_button": {
+    "criteria": {
+      "has_planks": "2025-04-24 06:07:59 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/hellbark_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-04-24 06:07:59 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/hellbark_door": {
+    "criteria": {
+      "has_planks": "2025-04-24 06:07:59 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/hellbark_stairs": {
+    "criteria": {
+      "has_planks": "2025-04-24 06:07:59 +0000"
     },
     "done": true
   },
@@ -10674,24 +10620,6 @@
   "travelersbackpack:recipes/misc/sheep_smithing": {
     "criteria": {
       "has_sheep": "2025-04-24 06:31:28 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/cut_scoria_brick_slab_from_stone_types_scoria_stonecutting": {
-    "criteria": {
-      "has_stone_types_scoria": "2025-04-24 05:34:46 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/cut_scoria_stairs_from_stone_types_scoria_stonecutting": {
-    "criteria": {
-      "has_stone_types_scoria": "2025-04-24 05:34:46 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/building_blocks/hellbark_wood": {
-    "criteria": {
-      "has_log": "2025-04-24 06:07:54 +0000"
     },
     "done": true
   },

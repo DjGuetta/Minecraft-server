@@ -1,16 +1,16 @@
-[03:02:30] [main/INFO]: Loading Minecraft 1.20.1 with Fabric Loader 0.16.10
-[03:02:30] [ForkJoinPool-1-worker-4/WARN]: The mod "openblocks" contains invalid entries in its mod json:
+[18:16:58] [main/INFO]: Loading Minecraft 1.20.1 with Fabric Loader 0.16.10
+[18:16:58] [ForkJoinPool-1-worker-4/WARN]: The mod "openblocks" contains invalid entries in its mod json:
 - Unsupported root entry "client" at line 24 column 11
-[03:02:31] [ForkJoinPool-1-worker-2/WARN]: Mod tectonic uses the version 2.4.1b which isn't compatible with Loader's extended semantic version format (Could not parse version number component '1b'!), SemVer is recommended for reliably evaluating dependencies and prioritizing newer version
-[03:02:31] [ForkJoinPool-1-worker-2/WARN]: Mod mr_dungeons_andtaverns uses the version 3.0.3.f which isn't compatible with Loader's extended semantic version format (Could not parse version number component 'f'!), SemVer is recommended for reliably evaluating dependencies and prioritizing newer version
-[03:02:31] [main/WARN]: Warnings were found!
+[18:16:59] [ForkJoinPool-1-worker-2/WARN]: Mod tectonic uses the version 2.4.1b which isn't compatible with Loader's extended semantic version format (Could not parse version number component '1b'!), SemVer is recommended for reliably evaluating dependencies and prioritizing newer version
+[18:16:59] [ForkJoinPool-1-worker-4/WARN]: Mod mr_dungeons_andtaverns uses the version 3.0.3.f which isn't compatible with Loader's extended semantic version format (Could not parse version number component 'f'!), SemVer is recommended for reliably evaluating dependencies and prioritizing newer version
+[18:16:59] [main/WARN]: Warnings were found!
  - Mod 'Dynamic Lights' (dynamiclights) 1.8.3+mod recommends any version of modmenu, which is missing!
 	 - You should install any version of modmenu for the optimal experience.
  - Mod 'Dynamic Lights' (dynamiclights) 1.8.3+mod recommends any version of modmenu-badges-lib, which is missing!
 	 - You should install any version of modmenu-badges-lib for the optimal experience.
  - Mod 'Simply Swords' (simplyswords) 1.56.0-1.20.1 recommends version 1.7.2 or later of bettercombat, which is missing!
 	 - You should install version 1.7.2 or later of bettercombat for the optimal experience.
-[03:02:31] [main/INFO]: Loading 235 mods:
+[18:16:59] [main/INFO]: Loading 235 mods:
 	- ae2 15.3.3
 	   \-- team_reborn_energy 3.0.0
 	- almanac 1.0.2
@@ -289,167 +289,167 @@
 	- yungsapi 1.20-Fabric-4.0.6
 	   |-- org_javassist_javassist 3.29.2-GA
 	   \-- org_reflections_reflections 0.10.2
-[03:02:31] [main/WARN]: Found 2 non-fabric mods:
+[18:16:59] [main/WARN]: Found 2 non-fabric mods:
 	- spark-1.10.53-forge.jar
 	- another_furniture-forge-1.20.1-3.0.2.jar
-[03:02:32] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/minecraft-server/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.15.4+mixin.0.8.7/sponge-mixin-0.15.4+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
-[03:02:32] [main/INFO]: Compatibility level set to JAVA_11
-[03:02:32] [main/INFO]: Compatibility level set to JAVA_17
-[03:02:32] [main/WARN]: Reference map 'create_connected-refmap.json' for create_connected.mixins.json could not be read. If this is a development environment you can ignore this message
-[03:02:32] [main/WARN]: Reference map 'createdeco-fabric-refmap.json' for createdeco.mixins.json could not be read. If this is a development environment you can ignore this message
-[03:02:32] [main/WARN]: Reference map 'graveyard-FABRIC-fabric-refmap.json' for graveyard-fabric.mixins.json could not be read. If this is a development environment you can ignore this message
-[03:02:32] [main/INFO]: Loaded configuration file for Lithium: 131 options available, 2 override(s) found
-[03:02:32] [main/WARN]: Reference map 'lookinsharp-fabric-1.20.1-fabric-refmap.json' for lookinsharp.mixins.json could not be read. If this is a development environment you can ignore this message
-[03:02:32] [main/WARN]: Reference map 'memoryleakfix-fabric-1.17+-fabric-refmap.json' for memoryleakfix-fabric.mixins.json could not be read. If this is a development environment you can ignore this message
-[03:02:32] [main/INFO]: Loaded configuration file for ModernFix 5.20.2+mc1.20.1: 64 options available, 0 override(s) found
-[03:02:32] [main/INFO]: Applying Nashorn fix
-[03:02:32] [main/WARN]: Reference map 'OctoLib-COMMON-common-refmap.json' for octolib.mixins.json could not be read. If this is a development environment you can ignore this message
-[03:02:32] [main/WARN]: Reference map 'rechiseled.mixins.refmap.json' for rechiseled.mixins.json could not be read. If this is a development environment you can ignore this message
-[03:02:32] [main/WARN]: Reference map 'simplyswords-fabric-refmap.json' for simplyswords.mixins.json could not be read. If this is a development environment you can ignore this message
-[03:02:32] [main/WARN]: Reference map 'supermartijn642configlib.mixins.refmap.json' for supermartijn642configlib.mixins.json could not be read. If this is a development environment you can ignore this message
-[03:02:33] [main/WARN]: Error loading class: net/minecraft/class_881 (java.lang.ClassNotFoundException: net/minecraft/class_881)
-[03:02:33] [main/WARN]: @Mixin target net.minecraft.class_881 was not found porting_lib_base.mixins.json:client.BoatRendererMixin from mod porting_lib_base
-[03:02:33] [main/WARN]: Error loading class: net/minecraft/class_525 (java.lang.ClassNotFoundException: net/minecraft/class_525)
-[03:02:33] [main/WARN]: @Mixin target net.minecraft.class_525 was not found porting_lib_base.mixins.json:client.CreateWorldScreenMixin from mod porting_lib_base
-[03:02:33] [main/WARN]: Error loading class: net/minecraft/class_906 (java.lang.ClassNotFoundException: net/minecraft/class_906)
-[03:02:33] [main/WARN]: @Mixin target net.minecraft.class_906 was not found porting_lib_tool_actions.mixins.json:FishingHookRendererMixin from mod porting_lib_tool_actions
-[03:02:33] [main/WARN]: Error loading class: net/minecraft/class_793 (java.lang.ClassNotFoundException: net/minecraft/class_793)
-[03:02:33] [main/WARN]: @Mixin target net.minecraft.class_793 was not found twilight.mixins.json:BlockModelAccessor from mod twilightforest
-[03:02:33] [main/WARN]: Force-disabling mixin 'alloc.blockstate.StateMixin' as rule 'mixin.alloc.blockstate' (added by mods [ferritecore]) disables it and children
-[03:02:33] [main/WARN]: Force-disabling mixin 'block.moving_block_shapes.PistonBlockEntityMixin' as rule 'mixin.block.moving_block_shapes' (added by mods [supplementaries]) disables it and children
-[03:02:33] [main/WARN]: Force-disabling mixin 'block.moving_block_shapes.VoxelShapeMixin' as rule 'mixin.block.moving_block_shapes' (added by mods [supplementaries]) disables it and children
-[03:02:34] [main/WARN]: Error loading class: fr/catcore/server/translations/api/resource/language/SystemDelegatedLanguage (java.lang.ClassNotFoundException: fr/catcore/server/translations/api/resource/language/SystemDelegatedLanguage)
-[03:02:34] [main/WARN]: Error loading class: vectorwing/farmersdelight/common/block/TomatoVineBlock (java.lang.ClassNotFoundException: vectorwing/farmersdelight/common/block/TomatoVineBlock)
-[03:02:34] [main/WARN]: Error loading class: me/jellysquid/mods/sodium/client/render/chunk/compile/pipeline/FluidRenderer (java.lang.ClassNotFoundException: me/jellysquid/mods/sodium/client/render/chunk/compile/pipeline/FluidRenderer)
-[03:02:34] [main/WARN]: Error loading class: io/wispforest/accessories/impl/AccessoriesEventHandler (java.lang.ClassNotFoundException: io/wispforest/accessories/impl/AccessoriesEventHandler)
-[03:02:34] [main/WARN]: @Mixin target io.wispforest.accessories.impl.AccessoriesEventHandler was not found travelersbackpack.mixins.json:AccessoriesEventHandlerMixin from mod travelersbackpack
-[03:02:34] [main/WARN]: Error loading class: com/beansgalaxy/backpacks/compat/TrinketsRegistry$1 (java.lang.ClassNotFoundException: com/beansgalaxy/backpacks/compat/TrinketsRegistry$1)
-[03:02:34] [main/WARN]: Error loading class: io/github/apace100/apoli/power/KeepInventoryPower (java.lang.ClassNotFoundException: io/github/apace100/apoli/power/KeepInventoryPower)
-[03:02:34] [main/INFO]: [MemoryLeakFix] Will be applying 1 memory leak fixes!
-[03:02:34] [main/INFO]: [MemoryLeakFix] Currently enabled memory leak fixes: [biomeTemperatureLeak]
-[03:02:34] [main/WARN]: Error loading class: net/fabricmc/fabric/api/client/rendering/v1/EntityModelLayerRegistry$TexturedModelDataProvider (java.lang.ClassNotFoundException: net/fabricmc/fabric/api/client/rendering/v1/EntityModelLayerRegistry$TexturedModelDataProvider)
-[03:02:34] [main/WARN]: Error loading class: net/minecraft/class_1163 (java.lang.ClassNotFoundException: net/minecraft/class_1163)
-[03:02:34] [main/WARN]: @Mixin target net.minecraft.class_1163 was not found mixins.mm.json:net.minecraft.class_1163 from mod mm
-[03:02:34] [main/WARN]: Error loading class: net/minecraft/class_1142 (java.lang.ClassNotFoundException: net/minecraft/class_1142)
-[03:02:34] [main/WARN]: @Mixin target net.minecraft.class_1142 was not found mixins.mm.json:net.minecraft.class_1142 from mod mm
-[03:02:34] [main/WARN]: Error loading class: net/minecraft/class_898 (java.lang.ClassNotFoundException: net/minecraft/class_898)
-[03:02:34] [main/WARN]: @Mixin target net.minecraft.class_898 was not found mixins.mm.json:net.minecraft.class_898 from mod mm
-[03:02:34] [main/WARN]: Error loading class: net/minecraft/class_761 (java.lang.ClassNotFoundException: net/minecraft/class_761)
-[03:02:34] [main/WARN]: @Mixin target net.minecraft.class_761 was not found mixins.mm.json:net.minecraft.class_761 from mod mm
-[03:02:34] [main/WARN]: Error loading class: net/minecraft/class_759 (java.lang.ClassNotFoundException: net/minecraft/class_759)
-[03:02:34] [main/WARN]: @Mixin target net.minecraft.class_759 was not found mixins.mm.json:net.minecraft.class_759 from mod mm
-[03:02:34] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
-[03:02:38] [main/INFO]: Injecting BlockStateBase cache population hook into getNeighborPathNodeType from me.jellysquid.mods.lithium.mixin.ai.pathing.AbstractBlockStateMixin
-[03:02:38] [main/INFO]: Injecting BlockStateBase cache population hook into getPathNodeType from me.jellysquid.mods.lithium.mixin.ai.pathing.AbstractBlockStateMixin
-[03:02:38] [main/INFO]: Injecting BlockStateBase cache population hook into getOpacityIfCached from ca.spottedleaf.starlight.mixin.common.blockstate.BlockStateBaseMixin
-[03:02:38] [main/INFO]: Injecting BlockStateBase cache population hook into isConditionallyFullOpaque from ca.spottedleaf.starlight.mixin.common.blockstate.BlockStateBaseMixin
-[03:02:38] [main/INFO]: Injecting BlockStateBase cache population hook into getAllFlags from me.jellysquid.mods.lithium.mixin.util.block_tracking.AbstractBlockStateMixin
-[03:02:42] [main/WARN]: Static binding violation: PRIVATE @Overwrite method method_21740 in modernfix-common.mixins.json:perf.remove_biome_temperature_cache.BiomeMixin from mod modernfix cannot reduce visibiliy of PUBLIC target method, visibility will be upgraded.
-[03:02:42] [main/WARN]: Method overwrite conflict for method_21740 in modernfix-common.mixins.json:perf.remove_biome_temperature_cache.BiomeMixin from mod modernfix, previously written by me.jellysquid.mods.lithium.mixin.world.temperature_cache.BiomeMixin. Skipping method.
-[03:02:43] [main/INFO]: Vanilla bootstrap took 7639 milliseconds
-[03:02:43] [main/INFO]: Loaded config for: cupboard.json
-[03:02:43] [main/INFO]: Loaded config amendments-common.json
-[03:02:43] [main/INFO]: Successfully initialized antixray for fabric
-[03:02:44] [main/INFO]: Registering C2S receiver with id artifacts:networking_channel/42a7ad70b1cc371599a0eff744096b8a
-[03:02:44] [main/INFO]: Registering C2S receiver with id artifacts:networking_channel/74a5e841822a3a87854ae896a33430d6
-[03:02:44] [main/INFO]: Registering C2S receiver with id artifacts:networking_channel/eb3d1e2748533430848cadf0f37c7e9c
-[03:02:44] [main/INFO]: Registering C2S receiver with id artifacts:networking_channel/91c8520f19f93b3e8b6a727568e194ab
-[03:02:44] [main/INFO]: Registering C2S receiver with id artifacts:networking_channel/8c2784d778293fd482ed84b8aa5fedb9
-[03:02:44] [main/INFO]: Registering C2S receiver with id artifacts:networking_channel/ea038224ea783d40b2863f52239e2604
-[03:02:44] [main/INFO]: Registering C2S receiver with id artifacts:networking_channel/97ad64b7ecaf33209991c4f031501a58
-[03:02:44] [main/INFO]: Registering Item Groups for bellsandwhistles
-[03:02:44] [main/INFO]: Create addon mod [Create: Bells & Whistles] is loading alongside Create [0.5.1d]!
-[03:02:44] [main/INFO]: Create: Bells & Whistles is accessinsg Porting Lib from the server!
-[03:02:44] [main/INFO]: Better Archeology says Hello
-[03:02:44] [main/INFO]: Registering Items from betterarcheology
-[03:02:44] [main/INFO]: Registering Blocks from betterarcheology
-[03:02:44] [main/INFO]: ModEntityTypes of betterarcheology registered.
-[03:02:44] [main/INFO]: Registering JEI Recipe Serializers for betterarcheology
-[03:02:44] [main/INFO]: Registering Enchantments for betterarcheology
-[03:02:44] [main/INFO]: Brutal bosses initialized
-[03:02:44] [main/INFO]: Loading Collective version 7.93.
-[03:02:45] [main/WARN]: Method overwrite conflict for getHeldItem in the_bumblezone-common.mixins.json:entities.EntityCollisionContextAccessor from mod the_bumblezone, previously written by me.jellysquid.mods.lithium.mixin.shapes.lazy_shape_context.EntityShapeContextMixin. Skipping method.
-[03:02:46] [main/INFO]: Initializing CreateCopperAndZincMod
-[03:02:46] [main/INFO]: Registering items for Create Deco
-[03:02:46] [main/INFO]: Registering blocks for Create Deco
-[03:02:46] [main/INFO]: Create Deco is accessing Porting Lib on a Fabric server!
-[03:02:46] [main/INFO]: placard tooltip was null
-[03:02:46] [main/INFO]: placard tooltip was null
-[03:02:46] [main/INFO]: placard tooltip was null
-[03:02:46] [main/INFO]: placard tooltip was null
-[03:02:46] [main/INFO]: placard tooltip was null
-[03:02:46] [main/INFO]: placard tooltip was null
-[03:02:46] [main/INFO]: placard tooltip was null
-[03:02:46] [main/INFO]: placard tooltip was null
-[03:02:46] [main/INFO]: placard tooltip was null
-[03:02:46] [main/INFO]: placard tooltip was null
-[03:02:46] [main/INFO]: placard tooltip was null
-[03:02:46] [main/INFO]: placard tooltip was null
-[03:02:46] [main/INFO]: placard tooltip was null
-[03:02:46] [main/INFO]: placard tooltip was null
-[03:02:46] [main/INFO]: placard tooltip was null
-[03:02:46] [main/INFO]: Bypassed Mojang DFU
-[03:02:46] [main/INFO]: Instantiating Mojang DFU
-[03:02:47] [main/ERROR]: No data fixer registered for crystallized_amber
-[03:02:47] [main/ERROR]: No data fixer registered for sculk_jaw
-[03:02:47] [main/INFO]: Constructing common components for diagonalblocks:main
-[03:02:47] [main/INFO]: Constructing common components for diagonalfences:main
-[03:02:47] [main/INFO]: Constructing shapes for DiagonalFenceBlock[NodeWidth=2.0,ExtensionWidth=2.0,NodeTop=24.0,ExtensionBottom=0.0,ExtensionTop=24.0] took 49ms
-[03:02:47] [main/INFO]: Constructing shapes for DiagonalFenceBlock[NodeWidth=2.0,ExtensionWidth=2.0,NodeTop=16.0,ExtensionBottom=0.0,ExtensionTop=16.0] took 44ms
-[03:02:47] [main/INFO]: Constructing shapes for DiagonalFenceBlock[NodeWidth=2.0,ExtensionWidth=1.0,NodeTop=16.0,ExtensionBottom=6.0,ExtensionTop=15.0] took 88ms
-[03:02:47] [main/INFO]: [Dynamic Lights] MidnightLib detected!
-[03:02:47] [main/INFO]: [Dynamic Lights] Registering server started event...
-[03:02:47] [main/INFO]: [Dynamic Lights] Loaded Dynamic Lights by Tschipcraft successfully!
-[03:02:47] [main/INFO]: Constructing common components for easyanvils:main
-[03:02:47] [main/INFO]: Constructing common components for easymagic:main
-[03:02:48] [main/INFO]: ExpandAbility here, who dis?
-[03:02:48] [main/ERROR]: No data fixer registered for anomaly
-[03:02:48] [main/INFO]: Registered JSON trade offer adapter.
-[03:02:48] [main/INFO]: Ice And Fire common config version match.
-[03:02:48] [main/INFO]: Registering C2S receiver with id iceandfire:myrmex_sync
-[03:02:48] [main/INFO]: Registering C2S receiver with id iceandfire:dragon_control
-[03:02:48] [main/INFO]: Registering C2S receiver with id iceandfire:multipart_interact
-[03:02:48] [main/INFO]: Registering C2S receiver with id iceandfire:player_hit_multipart
-[03:02:48] [main/INFO]: Registering C2S receiver with id iceandfire:start_riding_mob_c2s
-[03:02:49] [main/INFO]: [STDOUT]: Registering Sounds for Infinity Buttons
-[03:02:49] [main/INFO]: Registering Particle Types
-[03:02:49] [main/INFO]: Initializing ServerSide Packet Registries
-[03:02:49] [main/INFO]: 1 Jupiter entrypoint(s) detected: jupiter:jupiter
-[03:02:49] [main/INFO]: Initialize mod Library Ferret
-[03:02:49] [main/INFO]: Initialized mod Library Ferret
-[03:02:49] [main/INFO]: Definitely not up to no good
-[03:02:49] [main/INFO]: Giving mobs a fresh coat of paint...
-[03:02:49] [main/INFO]: [STDOUT]: All 1 have been set properly
-[03:02:49] [main/INFO]: I bet DeetHunter will never see this one!
-[03:02:49] [main/INFO]: Constructing common components for puzzleslib:main
-[03:02:50] [main/INFO]: [STDOUT]: /workspaces/minecraft-server/servidor_minecraft/config
-[03:02:50] [Thread-5/INFO]: Starting to fetch sponsor list.
-[03:02:50] [main/INFO]: Loaded config supplementaries-common.json
-[03:02:51] [main/INFO]: Registered region minecraft:overworld to index 0 for type OVERWORLD
-[03:02:51] [main/INFO]: Registered region minecraft:nether to index 0 for type NETHER
-[03:02:51] [main/INFO]: Registered region biomesoplenty:overworld_primary to index 1 for type OVERWORLD
-[03:02:51] [main/INFO]: Registered region biomesoplenty:overworld_secondary to index 2 for type OVERWORLD
-[03:02:51] [main/INFO]: Registered region biomesoplenty:overworld_rare to index 3 for type OVERWORLD
-[03:02:51] [main/INFO]: Registered region biomesoplenty:nether_common to index 1 for type NETHER
-[03:02:51] [main/INFO]: Registered region biomesoplenty:nether_rare to index 2 for type NETHER
-[03:02:51] [Thread-5/INFO]: Successfully fetch sponsor list.
-[03:02:51] [main/INFO]: Registered the FluidEffect with Unique ID of minecraft:water for minecraft:water 81000 with the ID 0
-[03:02:51] [main/INFO]: Registered the FluidEffect with Unique ID of minecraft:lava for minecraft:lava 81000 with the ID 1
-[03:02:51] [main/INFO]: Registered the FluidEffect with Unique ID of travelersbackpack:potion for travelersbackpack:potion_still 27000 with the ID 2
-[03:02:51] [main/INFO]: Registered the FluidEffect with Unique ID of travelersbackpack:milk for travelersbackpack:milk_still 81000 with the ID 3
-[03:02:52] [main/INFO]: Registered JSON trade offer adapter.
-[03:02:52] [main/INFO]: Reflections took 57 ms to scan 1 urls, producing 1 keys and 4 values
-[03:02:52] [main/INFO]: Reflections took 5 ms to scan 1 urls, producing 1 keys and 4 values
-[03:02:53] [main/INFO]: Initialized block sets in 30ms
-[03:02:54] [main/INFO]: Loaded config moonlight-common.json
-[03:02:54] [main/INFO]: Initialized color sets in 101ms
-[03:02:54] [main/INFO]: Finished mod setup in: [7, 0, 0, 1, 0, 0, 13, 6, 0] ms
-[03:02:54] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[03:02:54] [main/INFO]: Generated runtime SERVER_DATA for pack Supplementaries Generated Pack (supplementaries) in: 36 ms
-[03:02:57] [main/INFO]: [fabric-registry-sync] Loaded registry data [file 1/4]
-[03:02:59] [Worker-Main-1/ERROR]: Couldn't load tag supplementaries:lunch_basket_blacklist as it is missing following references: potionbundles:potion_bundle (from fabric)
-[03:02:59] [Worker-Main-3/ERROR]: Couldn't load tag create:safe_nbt as it is missing following references: create_connected:linked_stone_button (from fabric), create_connected:linked_polished_blackstone_button (from fabric), create_connected:linked_oak_button (from fabric), create_connected:linked_spruce_button (from fabric), create_connected:linked_birch_button (from fabric), create_connected:linked_acacia_button (from fabric), create_connected:linked_cherry_button (from fabric), create_connected:linked_jungle_button (from fabric), create_connected:linked_dark_oak_button (from fabric), create_connected:linked_crimson_button (from fabric), create_connected:linked_warped_button (from fabric), create_connected:linked_mangrove_button (from fabric), create_connected:linked_bamboo_button (from fabric), create_connected:linked_lever (from fabric), create_connected:linked_analog_lever (from fabric)
-[03:03:00] [Worker-Main-1/ERROR]: Couldn't parse element loot_tables:create_connected:blocks/encased_chain_cogwheel
+[18:17:00] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/minecraft-server/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.15.4+mixin.0.8.7/sponge-mixin-0.15.4+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
+[18:17:00] [main/INFO]: Compatibility level set to JAVA_11
+[18:17:00] [main/INFO]: Compatibility level set to JAVA_17
+[18:17:00] [main/WARN]: Reference map 'create_connected-refmap.json' for create_connected.mixins.json could not be read. If this is a development environment you can ignore this message
+[18:17:00] [main/WARN]: Reference map 'createdeco-fabric-refmap.json' for createdeco.mixins.json could not be read. If this is a development environment you can ignore this message
+[18:17:00] [main/WARN]: Reference map 'graveyard-FABRIC-fabric-refmap.json' for graveyard-fabric.mixins.json could not be read. If this is a development environment you can ignore this message
+[18:17:00] [main/INFO]: Loaded configuration file for Lithium: 131 options available, 2 override(s) found
+[18:17:00] [main/WARN]: Reference map 'lookinsharp-fabric-1.20.1-fabric-refmap.json' for lookinsharp.mixins.json could not be read. If this is a development environment you can ignore this message
+[18:17:00] [main/WARN]: Reference map 'memoryleakfix-fabric-1.17+-fabric-refmap.json' for memoryleakfix-fabric.mixins.json could not be read. If this is a development environment you can ignore this message
+[18:17:01] [main/INFO]: Loaded configuration file for ModernFix 5.20.2+mc1.20.1: 64 options available, 0 override(s) found
+[18:17:01] [main/INFO]: Applying Nashorn fix
+[18:17:01] [main/WARN]: Reference map 'OctoLib-COMMON-common-refmap.json' for octolib.mixins.json could not be read. If this is a development environment you can ignore this message
+[18:17:01] [main/WARN]: Reference map 'rechiseled.mixins.refmap.json' for rechiseled.mixins.json could not be read. If this is a development environment you can ignore this message
+[18:17:01] [main/WARN]: Reference map 'simplyswords-fabric-refmap.json' for simplyswords.mixins.json could not be read. If this is a development environment you can ignore this message
+[18:17:01] [main/WARN]: Reference map 'supermartijn642configlib.mixins.refmap.json' for supermartijn642configlib.mixins.json could not be read. If this is a development environment you can ignore this message
+[18:17:01] [main/WARN]: Error loading class: net/minecraft/class_881 (java.lang.ClassNotFoundException: net/minecraft/class_881)
+[18:17:01] [main/WARN]: @Mixin target net.minecraft.class_881 was not found porting_lib_base.mixins.json:client.BoatRendererMixin from mod porting_lib_base
+[18:17:01] [main/WARN]: Error loading class: net/minecraft/class_525 (java.lang.ClassNotFoundException: net/minecraft/class_525)
+[18:17:01] [main/WARN]: @Mixin target net.minecraft.class_525 was not found porting_lib_base.mixins.json:client.CreateWorldScreenMixin from mod porting_lib_base
+[18:17:01] [main/WARN]: Error loading class: net/minecraft/class_906 (java.lang.ClassNotFoundException: net/minecraft/class_906)
+[18:17:01] [main/WARN]: @Mixin target net.minecraft.class_906 was not found porting_lib_tool_actions.mixins.json:FishingHookRendererMixin from mod porting_lib_tool_actions
+[18:17:01] [main/WARN]: Error loading class: net/minecraft/class_793 (java.lang.ClassNotFoundException: net/minecraft/class_793)
+[18:17:01] [main/WARN]: @Mixin target net.minecraft.class_793 was not found twilight.mixins.json:BlockModelAccessor from mod twilightforest
+[18:17:02] [main/WARN]: Force-disabling mixin 'alloc.blockstate.StateMixin' as rule 'mixin.alloc.blockstate' (added by mods [ferritecore]) disables it and children
+[18:17:02] [main/WARN]: Force-disabling mixin 'block.moving_block_shapes.PistonBlockEntityMixin' as rule 'mixin.block.moving_block_shapes' (added by mods [supplementaries]) disables it and children
+[18:17:02] [main/WARN]: Force-disabling mixin 'block.moving_block_shapes.VoxelShapeMixin' as rule 'mixin.block.moving_block_shapes' (added by mods [supplementaries]) disables it and children
+[18:17:02] [main/WARN]: Error loading class: fr/catcore/server/translations/api/resource/language/SystemDelegatedLanguage (java.lang.ClassNotFoundException: fr/catcore/server/translations/api/resource/language/SystemDelegatedLanguage)
+[18:17:02] [main/WARN]: Error loading class: vectorwing/farmersdelight/common/block/TomatoVineBlock (java.lang.ClassNotFoundException: vectorwing/farmersdelight/common/block/TomatoVineBlock)
+[18:17:02] [main/WARN]: Error loading class: me/jellysquid/mods/sodium/client/render/chunk/compile/pipeline/FluidRenderer (java.lang.ClassNotFoundException: me/jellysquid/mods/sodium/client/render/chunk/compile/pipeline/FluidRenderer)
+[18:17:02] [main/WARN]: Error loading class: io/wispforest/accessories/impl/AccessoriesEventHandler (java.lang.ClassNotFoundException: io/wispforest/accessories/impl/AccessoriesEventHandler)
+[18:17:02] [main/WARN]: @Mixin target io.wispforest.accessories.impl.AccessoriesEventHandler was not found travelersbackpack.mixins.json:AccessoriesEventHandlerMixin from mod travelersbackpack
+[18:17:02] [main/WARN]: Error loading class: com/beansgalaxy/backpacks/compat/TrinketsRegistry$1 (java.lang.ClassNotFoundException: com/beansgalaxy/backpacks/compat/TrinketsRegistry$1)
+[18:17:02] [main/WARN]: Error loading class: io/github/apace100/apoli/power/KeepInventoryPower (java.lang.ClassNotFoundException: io/github/apace100/apoli/power/KeepInventoryPower)
+[18:17:02] [main/INFO]: [MemoryLeakFix] Will be applying 1 memory leak fixes!
+[18:17:02] [main/INFO]: [MemoryLeakFix] Currently enabled memory leak fixes: [biomeTemperatureLeak]
+[18:17:03] [main/WARN]: Error loading class: net/fabricmc/fabric/api/client/rendering/v1/EntityModelLayerRegistry$TexturedModelDataProvider (java.lang.ClassNotFoundException: net/fabricmc/fabric/api/client/rendering/v1/EntityModelLayerRegistry$TexturedModelDataProvider)
+[18:17:03] [main/WARN]: Error loading class: net/minecraft/class_1163 (java.lang.ClassNotFoundException: net/minecraft/class_1163)
+[18:17:03] [main/WARN]: @Mixin target net.minecraft.class_1163 was not found mixins.mm.json:net.minecraft.class_1163 from mod mm
+[18:17:03] [main/WARN]: Error loading class: net/minecraft/class_1142 (java.lang.ClassNotFoundException: net/minecraft/class_1142)
+[18:17:03] [main/WARN]: @Mixin target net.minecraft.class_1142 was not found mixins.mm.json:net.minecraft.class_1142 from mod mm
+[18:17:03] [main/WARN]: Error loading class: net/minecraft/class_898 (java.lang.ClassNotFoundException: net/minecraft/class_898)
+[18:17:03] [main/WARN]: @Mixin target net.minecraft.class_898 was not found mixins.mm.json:net.minecraft.class_898 from mod mm
+[18:17:03] [main/WARN]: Error loading class: net/minecraft/class_761 (java.lang.ClassNotFoundException: net/minecraft/class_761)
+[18:17:03] [main/WARN]: @Mixin target net.minecraft.class_761 was not found mixins.mm.json:net.minecraft.class_761 from mod mm
+[18:17:03] [main/WARN]: Error loading class: net/minecraft/class_759 (java.lang.ClassNotFoundException: net/minecraft/class_759)
+[18:17:03] [main/WARN]: @Mixin target net.minecraft.class_759 was not found mixins.mm.json:net.minecraft.class_759 from mod mm
+[18:17:03] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
+[18:17:07] [main/INFO]: Injecting BlockStateBase cache population hook into getNeighborPathNodeType from me.jellysquid.mods.lithium.mixin.ai.pathing.AbstractBlockStateMixin
+[18:17:07] [main/INFO]: Injecting BlockStateBase cache population hook into getPathNodeType from me.jellysquid.mods.lithium.mixin.ai.pathing.AbstractBlockStateMixin
+[18:17:07] [main/INFO]: Injecting BlockStateBase cache population hook into getOpacityIfCached from ca.spottedleaf.starlight.mixin.common.blockstate.BlockStateBaseMixin
+[18:17:07] [main/INFO]: Injecting BlockStateBase cache population hook into isConditionallyFullOpaque from ca.spottedleaf.starlight.mixin.common.blockstate.BlockStateBaseMixin
+[18:17:07] [main/INFO]: Injecting BlockStateBase cache population hook into getAllFlags from me.jellysquid.mods.lithium.mixin.util.block_tracking.AbstractBlockStateMixin
+[18:17:11] [main/WARN]: Static binding violation: PRIVATE @Overwrite method method_21740 in modernfix-common.mixins.json:perf.remove_biome_temperature_cache.BiomeMixin from mod modernfix cannot reduce visibiliy of PUBLIC target method, visibility will be upgraded.
+[18:17:11] [main/WARN]: Method overwrite conflict for method_21740 in modernfix-common.mixins.json:perf.remove_biome_temperature_cache.BiomeMixin from mod modernfix, previously written by me.jellysquid.mods.lithium.mixin.world.temperature_cache.BiomeMixin. Skipping method.
+[18:17:12] [main/INFO]: Vanilla bootstrap took 8108 milliseconds
+[18:17:12] [main/INFO]: Loaded config for: cupboard.json
+[18:17:13] [main/INFO]: Loaded config amendments-common.json
+[18:17:13] [main/INFO]: Successfully initialized antixray for fabric
+[18:17:13] [main/INFO]: Registering C2S receiver with id artifacts:networking_channel/42a7ad70b1cc371599a0eff744096b8a
+[18:17:13] [main/INFO]: Registering C2S receiver with id artifacts:networking_channel/74a5e841822a3a87854ae896a33430d6
+[18:17:13] [main/INFO]: Registering C2S receiver with id artifacts:networking_channel/eb3d1e2748533430848cadf0f37c7e9c
+[18:17:13] [main/INFO]: Registering C2S receiver with id artifacts:networking_channel/91c8520f19f93b3e8b6a727568e194ab
+[18:17:13] [main/INFO]: Registering C2S receiver with id artifacts:networking_channel/8c2784d778293fd482ed84b8aa5fedb9
+[18:17:13] [main/INFO]: Registering C2S receiver with id artifacts:networking_channel/ea038224ea783d40b2863f52239e2604
+[18:17:13] [main/INFO]: Registering C2S receiver with id artifacts:networking_channel/97ad64b7ecaf33209991c4f031501a58
+[18:17:13] [main/INFO]: Registering Item Groups for bellsandwhistles
+[18:17:13] [main/INFO]: Create addon mod [Create: Bells & Whistles] is loading alongside Create [0.5.1d]!
+[18:17:13] [main/INFO]: Create: Bells & Whistles is accessinsg Porting Lib from the server!
+[18:17:13] [main/INFO]: Better Archeology says Hello
+[18:17:13] [main/INFO]: Registering Items from betterarcheology
+[18:17:13] [main/INFO]: Registering Blocks from betterarcheology
+[18:17:13] [main/INFO]: ModEntityTypes of betterarcheology registered.
+[18:17:13] [main/INFO]: Registering JEI Recipe Serializers for betterarcheology
+[18:17:14] [main/INFO]: Registering Enchantments for betterarcheology
+[18:17:14] [main/INFO]: Brutal bosses initialized
+[18:17:14] [main/INFO]: Loading Collective version 7.93.
+[18:17:15] [main/WARN]: Method overwrite conflict for getHeldItem in the_bumblezone-common.mixins.json:entities.EntityCollisionContextAccessor from mod the_bumblezone, previously written by me.jellysquid.mods.lithium.mixin.shapes.lazy_shape_context.EntityShapeContextMixin. Skipping method.
+[18:17:16] [main/INFO]: Initializing CreateCopperAndZincMod
+[18:17:16] [main/INFO]: Registering items for Create Deco
+[18:17:16] [main/INFO]: Registering blocks for Create Deco
+[18:17:16] [main/INFO]: Create Deco is accessing Porting Lib on a Fabric server!
+[18:17:16] [main/INFO]: placard tooltip was null
+[18:17:16] [main/INFO]: placard tooltip was null
+[18:17:16] [main/INFO]: placard tooltip was null
+[18:17:16] [main/INFO]: placard tooltip was null
+[18:17:16] [main/INFO]: placard tooltip was null
+[18:17:16] [main/INFO]: placard tooltip was null
+[18:17:16] [main/INFO]: placard tooltip was null
+[18:17:16] [main/INFO]: placard tooltip was null
+[18:17:16] [main/INFO]: placard tooltip was null
+[18:17:16] [main/INFO]: placard tooltip was null
+[18:17:16] [main/INFO]: placard tooltip was null
+[18:17:16] [main/INFO]: placard tooltip was null
+[18:17:16] [main/INFO]: placard tooltip was null
+[18:17:16] [main/INFO]: placard tooltip was null
+[18:17:16] [main/INFO]: placard tooltip was null
+[18:17:16] [main/INFO]: Bypassed Mojang DFU
+[18:17:16] [main/INFO]: Instantiating Mojang DFU
+[18:17:17] [main/ERROR]: No data fixer registered for crystallized_amber
+[18:17:17] [main/ERROR]: No data fixer registered for sculk_jaw
+[18:17:17] [main/INFO]: Constructing common components for diagonalblocks:main
+[18:17:17] [main/INFO]: Constructing common components for diagonalfences:main
+[18:17:17] [main/INFO]: Constructing shapes for DiagonalFenceBlock[NodeWidth=2.0,ExtensionWidth=2.0,NodeTop=24.0,ExtensionBottom=0.0,ExtensionTop=24.0] took 61ms
+[18:17:17] [main/INFO]: Constructing shapes for DiagonalFenceBlock[NodeWidth=2.0,ExtensionWidth=2.0,NodeTop=16.0,ExtensionBottom=0.0,ExtensionTop=16.0] took 59ms
+[18:17:17] [main/INFO]: Constructing shapes for DiagonalFenceBlock[NodeWidth=2.0,ExtensionWidth=1.0,NodeTop=16.0,ExtensionBottom=6.0,ExtensionTop=15.0] took 99ms
+[18:17:17] [main/INFO]: [Dynamic Lights] MidnightLib detected!
+[18:17:17] [main/INFO]: [Dynamic Lights] Registering server started event...
+[18:17:17] [main/INFO]: [Dynamic Lights] Loaded Dynamic Lights by Tschipcraft successfully!
+[18:17:17] [main/INFO]: Constructing common components for easyanvils:main
+[18:17:17] [main/INFO]: Constructing common components for easymagic:main
+[18:17:18] [main/INFO]: ExpandAbility here, who dis?
+[18:17:18] [main/ERROR]: No data fixer registered for anomaly
+[18:17:18] [main/INFO]: Registered JSON trade offer adapter.
+[18:17:18] [main/INFO]: Ice And Fire common config version match.
+[18:17:19] [main/INFO]: Registering C2S receiver with id iceandfire:myrmex_sync
+[18:17:19] [main/INFO]: Registering C2S receiver with id iceandfire:dragon_control
+[18:17:19] [main/INFO]: Registering C2S receiver with id iceandfire:multipart_interact
+[18:17:19] [main/INFO]: Registering C2S receiver with id iceandfire:player_hit_multipart
+[18:17:19] [main/INFO]: Registering C2S receiver with id iceandfire:start_riding_mob_c2s
+[18:17:19] [main/INFO]: [STDOUT]: Registering Sounds for Infinity Buttons
+[18:17:19] [main/INFO]: Registering Particle Types
+[18:17:19] [main/INFO]: Initializing ServerSide Packet Registries
+[18:17:19] [main/INFO]: 1 Jupiter entrypoint(s) detected: jupiter:jupiter
+[18:17:19] [main/INFO]: Initialize mod Library Ferret
+[18:17:19] [main/INFO]: Initialized mod Library Ferret
+[18:17:19] [main/INFO]: Definitely not up to no good
+[18:17:19] [main/INFO]: Giving mobs a fresh coat of paint...
+[18:17:20] [main/INFO]: [STDOUT]: All 1 have been set properly
+[18:17:20] [main/INFO]: glisco: I like this approach, cause it's stateless. And stateless approaches are always good since state management is pain - BasiqueEvangelist: I like french bread
+[18:17:20] [main/INFO]: Constructing common components for puzzleslib:main
+[18:17:21] [main/INFO]: [STDOUT]: /workspaces/minecraft-server/servidor_minecraft/config
+[18:17:21] [Thread-5/INFO]: Starting to fetch sponsor list.
+[18:17:21] [main/INFO]: Loaded config supplementaries-common.json
+[18:17:21] [main/INFO]: Registered region minecraft:overworld to index 0 for type OVERWORLD
+[18:17:21] [main/INFO]: Registered region minecraft:nether to index 0 for type NETHER
+[18:17:21] [main/INFO]: Registered region biomesoplenty:overworld_primary to index 1 for type OVERWORLD
+[18:17:21] [main/INFO]: Registered region biomesoplenty:overworld_secondary to index 2 for type OVERWORLD
+[18:17:21] [main/INFO]: Registered region biomesoplenty:overworld_rare to index 3 for type OVERWORLD
+[18:17:21] [main/INFO]: Registered region biomesoplenty:nether_common to index 1 for type NETHER
+[18:17:21] [main/INFO]: Registered region biomesoplenty:nether_rare to index 2 for type NETHER
+[18:17:22] [Thread-5/INFO]: Successfully fetch sponsor list.
+[18:17:22] [main/INFO]: Registered the FluidEffect with Unique ID of minecraft:water for minecraft:water 81000 with the ID 0
+[18:17:22] [main/INFO]: Registered the FluidEffect with Unique ID of minecraft:lava for minecraft:lava 81000 with the ID 1
+[18:17:22] [main/INFO]: Registered the FluidEffect with Unique ID of travelersbackpack:potion for travelersbackpack:potion_still 27000 with the ID 2
+[18:17:22] [main/INFO]: Registered the FluidEffect with Unique ID of travelersbackpack:milk for travelersbackpack:milk_still 81000 with the ID 3
+[18:17:23] [main/INFO]: Registered JSON trade offer adapter.
+[18:17:23] [main/INFO]: Reflections took 75 ms to scan 1 urls, producing 1 keys and 4 values
+[18:17:23] [main/INFO]: Reflections took 4 ms to scan 1 urls, producing 1 keys and 4 values
+[18:17:25] [main/INFO]: Initialized block sets in 35ms
+[18:17:25] [main/INFO]: Loaded config moonlight-common.json
+[18:17:25] [main/INFO]: Initialized color sets in 103ms
+[18:17:25] [main/INFO]: Finished mod setup in: [6, 0, 0, 1, 0, 0, 17, 7, 1] ms
+[18:17:25] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[18:17:26] [main/INFO]: Generated runtime SERVER_DATA for pack Supplementaries Generated Pack (supplementaries) in: 39 ms
+[18:17:29] [main/INFO]: [fabric-registry-sync] Loaded registry data [file 1/4]
+[18:17:31] [Worker-Main-3/ERROR]: Couldn't load tag create:safe_nbt as it is missing following references: create_connected:linked_stone_button (from fabric), create_connected:linked_polished_blackstone_button (from fabric), create_connected:linked_oak_button (from fabric), create_connected:linked_spruce_button (from fabric), create_connected:linked_birch_button (from fabric), create_connected:linked_acacia_button (from fabric), create_connected:linked_cherry_button (from fabric), create_connected:linked_jungle_button (from fabric), create_connected:linked_dark_oak_button (from fabric), create_connected:linked_crimson_button (from fabric), create_connected:linked_warped_button (from fabric), create_connected:linked_mangrove_button (from fabric), create_connected:linked_bamboo_button (from fabric), create_connected:linked_lever (from fabric), create_connected:linked_analog_lever (from fabric)
+[18:17:31] [Worker-Main-1/ERROR]: Couldn't load tag supplementaries:lunch_basket_blacklist as it is missing following references: potionbundles:potion_bundle (from fabric)
+[18:17:32] [Worker-Main-3/ERROR]: Couldn't parse element loot_tables:create_connected:blocks/encased_chain_cogwheel
 com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown string 'create_connected:encased_chain_cogwheel'
 	at net.minecraft.class_3518.method_17995(class_3518.java:145) ~[server-intermediary.jar:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -500,7 +500,7 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
-[03:03:05] [main/ERROR]: Parsing error loading recipe iceandfire:delight/pixie_dust_milky_tea
+[18:17:38] [main/ERROR]: Parsing error loading recipe iceandfire:delight/pixie_dust_milky_tea
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'farmersdelight:cooking'
 	at net.minecraft.class_1863.method_17875(class_1863.java:134) ~[server-intermediary.jar:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -519,7 +519,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'farmers
 	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) ~[fabric-loader-0.16.10.jar:?]
 	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) ~[fabric-loader-0.16.10.jar:?]
 	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) ~[fabric-server-launch.jar:1.0.1]
-[03:03:06] [main/ERROR]: Parsing error loading recipe lookinsharp:vitalium_sword
+[18:17:38] [main/ERROR]: Parsing error loading recipe lookinsharp:vitalium_sword
 com.google.gson.JsonSyntaxException: Unknown item 'lookinsharp:vitalium_ingot'
 	at net.minecraft.class_1869.method_17878(class_1869.java:272) ~[server-intermediary.jar:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -544,7 +544,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'lookinsharp:vitalium_ingot'
 	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) ~[fabric-loader-0.16.10.jar:?]
 	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) ~[fabric-loader-0.16.10.jar:?]
 	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) ~[fabric-server-launch.jar:1.0.1]
-[03:03:06] [main/ERROR]: Parsing error loading recipe lookinsharp:forging/vitalium_swords
+[18:17:38] [main/ERROR]: Parsing error loading recipe lookinsharp:forging/vitalium_swords
 com.google.gson.JsonSyntaxException: Unknown item 'lookinsharp:vitalium_sword'
 	at net.minecraft.class_1869.method_17878(class_1869.java:272) ~[server-intermediary.jar:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -587,7 +587,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'lookinsharp:vitalium_sword'
 	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) ~[fabric-loader-0.16.10.jar:?]
 	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) ~[fabric-loader-0.16.10.jar:?]
 	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) ~[fabric-server-launch.jar:1.0.1]
-[03:03:06] [main/ERROR]: Parsing error loading recipe iceandfire:delight/cooked_rice_with_fire_dragon_meat
+[18:17:38] [main/ERROR]: Parsing error loading recipe iceandfire:delight/cooked_rice_with_fire_dragon_meat
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'farmersdelight:cooking'
 	at net.minecraft.class_1863.method_17875(class_1863.java:134) ~[server-intermediary.jar:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -606,7 +606,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'farmers
 	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) ~[fabric-loader-0.16.10.jar:?]
 	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) ~[fabric-loader-0.16.10.jar:?]
 	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) ~[fabric-server-launch.jar:1.0.1]
-[03:03:06] [main/ERROR]: Parsing error loading recipe iceandfire:delight/cooked_rice_with_ice_dragon_meat
+[18:17:38] [main/ERROR]: Parsing error loading recipe iceandfire:delight/cooked_rice_with_ice_dragon_meat
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'farmersdelight:cooking'
 	at net.minecraft.class_1863.method_17875(class_1863.java:134) ~[server-intermediary.jar:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -625,7 +625,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'farmers
 	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) ~[fabric-loader-0.16.10.jar:?]
 	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) ~[fabric-loader-0.16.10.jar:?]
 	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) ~[fabric-server-launch.jar:1.0.1]
-[03:03:06] [main/ERROR]: Parsing error loading recipe lookinsharp:vitalium_ingot
+[18:17:38] [main/ERROR]: Parsing error loading recipe lookinsharp:vitalium_ingot
 com.google.gson.JsonSyntaxException: Unknown item 'lookinsharp:vitalium_ingot'
 	at net.minecraft.class_1869.method_17878(class_1869.java:272) ~[server-intermediary.jar:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -648,7 +648,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'lookinsharp:vitalium_ingot'
 	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) ~[fabric-loader-0.16.10.jar:?]
 	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) ~[fabric-loader-0.16.10.jar:?]
 	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) ~[fabric-server-launch.jar:1.0.1]
-[03:03:06] [main/ERROR]: Parsing error loading recipe create_connected:crafting/shapeless/linked_transmitter_from_conversion
+[18:17:38] [main/ERROR]: Parsing error loading recipe create_connected:crafting/shapeless/linked_transmitter_from_conversion
 com.google.gson.JsonSyntaxException: Unknown item 'create_connected:linked_transmitter'
 	at net.minecraft.class_1869.method_17878(class_1869.java:272) ~[server-intermediary.jar:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -671,7 +671,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'create_connected:linked_trans
 	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) ~[fabric-loader-0.16.10.jar:?]
 	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) ~[fabric-loader-0.16.10.jar:?]
 	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) ~[fabric-server-launch.jar:1.0.1]
-[03:03:06] [main/ERROR]: Parsing error loading recipe iceandfire:delight/cooked_rice_with_lightning_dragon_meat
+[18:17:38] [main/ERROR]: Parsing error loading recipe iceandfire:delight/cooked_rice_with_lightning_dragon_meat
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'farmersdelight:cooking'
 	at net.minecraft.class_1863.method_17875(class_1863.java:134) ~[server-intermediary.jar:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -690,7 +690,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'farmers
 	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) ~[fabric-loader-0.16.10.jar:?]
 	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) ~[fabric-loader-0.16.10.jar:?]
 	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) ~[fabric-server-launch.jar:1.0.1]
-[03:03:06] [main/ERROR]: Parsing error loading recipe create_connected:crafting/shapeless/redstone_link_from_conversion
+[18:17:38] [main/ERROR]: Parsing error loading recipe create_connected:crafting/shapeless/redstone_link_from_conversion
 com.google.gson.JsonSyntaxException: Unknown item 'create_connected:linked_transmitter'
 	at net.minecraft.class_1869.method_17878(class_1869.java:272) ~[server-intermediary.jar:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -715,7 +715,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'create_connected:linked_trans
 	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) ~[fabric-loader-0.16.10.jar:?]
 	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) ~[fabric-loader-0.16.10.jar:?]
 	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) ~[fabric-server-launch.jar:1.0.1]
-[03:03:06] [main/ERROR]: Parsing error loading recipe create_connected:crafting/shapeless/encased_chain_cogwheel
+[18:17:38] [main/ERROR]: Parsing error loading recipe create_connected:crafting/shapeless/encased_chain_cogwheel
 com.google.gson.JsonSyntaxException: Unknown item 'create_connected:encased_chain_cogwheel'
 	at net.minecraft.class_1869.method_17878(class_1869.java:272) ~[server-intermediary.jar:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -738,7 +738,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'create_connected:encased_chai
 	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) ~[fabric-loader-0.16.10.jar:?]
 	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) ~[fabric-loader-0.16.10.jar:?]
 	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) ~[fabric-server-launch.jar:1.0.1]
-[03:03:06] [main/ERROR]: Parsing error loading recipe iceandfire:delight/ghost_cream
+[18:17:38] [main/ERROR]: Parsing error loading recipe iceandfire:delight/ghost_cream
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'farmersdelight:cooking'
 	at net.minecraft.class_1863.method_17875(class_1863.java:134) ~[server-intermediary.jar:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -757,667 +757,178 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'farmers
 	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) ~[fabric-loader-0.16.10.jar:?]
 	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) ~[fabric-loader-0.16.10.jar:?]
 	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) ~[fabric-server-launch.jar:1.0.1]
-[03:03:06] [main/INFO]: Loaded 35 recipes
-[03:03:06] [main/ERROR]: Parsing error loading custom advancement supplementaries:recipes/planter_rich: Unknown item id 'farmersdelight:rich_soil'
-[03:03:06] [main/INFO]: Loaded 6693 advancements
-[03:03:06] [main/ERROR]: Ice And Fire compatibility is not enabled for Better Village and Ice And Fire is present in your mod list.
+[18:17:38] [main/INFO]: Loaded 35 recipes
+[18:17:38] [main/ERROR]: Parsing error loading custom advancement supplementaries:recipes/planter_rich: Unknown item id 'farmersdelight:rich_soil'
+[18:17:38] [main/INFO]: Loaded 6693 advancements
+[18:17:38] [main/ERROR]: Ice And Fire compatibility is not enabled for Better Village and Ice And Fire is present in your mod list.
      - Please install the datapack for better compatibility between Better Villages and Ice And Fire.
      - You can find the datapack URL in the `compatibility` section of the Better Villages description.
      - URL=https://www.curseforge.com/minecraft/mc-mods/better-village-fabric
-[03:03:06] [main/INFO]: Loaded boss variant for: minecraft:drowned
-[03:03:06] [main/INFO]: Loaded boss variant for: minecraft:iron_golem
-[03:03:06] [main/INFO]: Loaded boss variant for: minecraft:snow_golem
-[03:03:06] [main/INFO]: Loaded boss variant for: minecraft:zombie
-[03:03:06] [main/INFO]: Loaded boss variant for: minecraft:skeleton
-[03:03:06] [main/INFO]: Loaded boss variant for: minecraft:pillager
-[03:03:06] [main/INFO]: Loaded boss variant for: minecraft:vex
-[03:03:06] [main/INFO]: Loaded boss variant for: minecraft:evoker
-[03:03:06] [main/INFO]: Loaded boss variant for: minecraft:zombie
-[03:03:06] [main/INFO]: Loaded boss variant for: minecraft:vindicator
-[03:03:06] [main/INFO]: Loaded boss variant for: minecraft:wither_skeleton
-[03:03:06] [main/INFO]: Loaded boss variant for: minecraft:wither_skeleton
-[03:03:06] [main/INFO]: Loaded boss variant for: minecraft:cave_spider
-[03:03:06] [main/INFO]: Loaded boss variant for: minecraft:zombie
-[03:03:06] [main/INFO]: Loaded boss variant for: minecraft:husk
-[03:03:06] [main/INFO]: Loaded boss variant for: minecraft:evoker
-[03:03:06] [main/INFO]: Loaded boss variant for: minecraft:wandering_trader
-[03:03:06] [main/INFO]: Loaded boss variant for: minecraft:guardian
-[03:03:06] [main/INFO]: Loaded boss variant for: minecraft:vindicator
-[03:03:06] [main/INFO]: Loaded boss variant for: minecraft:shulker
-[03:03:06] [main/INFO]: Loaded boss variant for: minecraft:zoglin
-[03:03:06] [main/INFO]: Loaded boss variant for: minecraft:chicken
-[03:03:06] [main/INFO]: Loaded boss variant for: minecraft:blaze
-[03:03:06] [main/INFO]: Loaded boss variant for: minecraft:witch
-[03:03:06] [main/INFO]: Loaded boss variant for: minecraft:phantom
-[03:03:06] [main/INFO]: Loaded boss variant for: minecraft:mooshroom
-[03:03:06] [main/INFO]: Loaded boss variant for: minecraft:rabbit
-[03:03:06] [main/INFO]: Loaded boss variant for: minecraft:piglin_brute
-[03:03:06] [main/INFO]: Loaded boss variant for: minecraft:ghast
-[03:03:06] [main/INFO]: Loaded boss variant for: minecraft:stray
-[03:03:06] [main/INFO]: Ice And Fire common config version match.
-[03:03:06] [main/INFO]: Successfully reload 2 server config(s).
-[03:03:06] [main/INFO]: Reloading config...
-[03:03:06] [main/WARN]: Could not decode GlobalLootModifier with json id supplementaries:ash_from_burning_mobs - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: moonlight:add_item
-[03:03:06] [main/WARN]: Could not decode GlobalLootModifier with json id supplementaries:straw_from_flax - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: moonlight:add_item
-[03:03:06] [main/WARN]: Could not decode GlobalLootModifier with json id supplementaries:fishing_antique_ink - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: moonlight:add_item
-[03:03:06] [main/WARN]: Could not decode GlobalLootModifier with json id supplementaries:fishing_antique_ink_treasure - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: moonlight:add_item
-[03:03:06] [main/WARN]: Could not decode GlobalLootModifier with json id supplementaries:replace_rope - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: supplementaries:replace_rope
-[03:03:06] [main/INFO]: Loaded 44 chiseling recipes
-[03:03:06] [main/INFO]: Loaded 27 flute songs
-[03:03:06] [main/INFO]: Loaded 9 Stalactite configs!
-[03:03:06] [main/INFO]: Deserializing default trades of profession: villagersplus:alchemist
-[03:03:06] [main/INFO]: Deserializing default trades of profession: villagersplus:horticulturist
-[03:03:06] [main/INFO]: Deserializing default trades of profession: villagersplus:occultist
-[03:03:06] [main/INFO]: Deserializing default trades of profession: villagersplus:oceanographer
-[03:03:06] [main/INFO]: Reloading grave shape (server)
-[03:03:06] [main/INFO]: Grave model and shape reload successful (server)
-[03:03:06] [main/INFO]: Reloading YIGD graveyard data (server)
-[03:03:06] [main/INFO]: Graveyard data successfully reloaded (server)
-[03:03:06] [main/INFO]: Reloading YIGD grave area overrides (server)
-[03:03:06] [main/INFO]: Grave area overrides successfully reloaded (server)
-[03:03:06] [main/INFO]: Applied 7 data villager trades
-[03:03:07] [main/INFO]: Finished additional setup in 0 ms
-[03:03:08] [main/INFO]: Initialized TerraBlender biomes for level stem minecraft:overworld
-[03:03:08] [main/INFO]: Initialized TerraBlender biomes for level stem minecraft:the_nether
-[03:03:08] [main/INFO]: Applied 5408 biome modifications to 277 of 277 new biomes in 125.5 ms
-[03:03:08] [Server thread/INFO]: Loading server config for easyanvils
-[03:03:08] [Server thread/INFO]: Loading server config for easymagic
-[03:03:08] [Thread-3/INFO]: Reloading server config for easyanvils
-[03:03:08] [Thread-3/INFO]: Reloading server config for easyanvils
-[03:03:08] [Server thread/INFO]: Scanning class appeng.server.testplots.TestPlots for plots
-[03:03:08] [Server thread/INFO]: Scanning class appeng.server.testplots.AutoCraftingTestPlots for plots
-[03:03:08] [Server thread/INFO]: Scanning class appeng.server.testplots.InscriberTestPlots for plots
-[03:03:08] [Server thread/INFO]: Scanning class appeng.server.testplots.P2PTestPlots for plots
-[03:03:08] [Server thread/INFO]: Scanning class appeng.server.testplots.ItemP2PTestPlots for plots
-[03:03:08] [Server thread/INFO]: Scanning class appeng.server.testplots.MemoryCardTestPlots for plots
-[03:03:08] [Server thread/INFO]: Scanning class appeng.server.testplots.PatternProviderLockModePlots for plots
-[03:03:08] [Server thread/INFO]: Scanning class appeng.server.testplots.PatternProviderPlots for plots
-[03:03:08] [Server thread/INFO]: Scanning class appeng.server.testplots.SpatialTestPlots for plots
-[03:03:08] [Server thread/INFO]: Scanning class appeng.server.testplots.QnbTestPlots for plots
-[03:03:08] [Server thread/INFO]: Scanning class appeng.server.testplots.GuidebookPlot for plots
-[03:03:08] [Server thread/INFO]: Scanning class appeng.server.testplots.SubnetPlots for plots
-[03:03:08] [Server thread/INFO]: Scanning class appeng.server.testplots.ChannelTests for plots
-[03:03:08] [Server thread/INFO]: Scanning class appeng.server.testplots.AnnihilationPlaneTests for plots
-[03:03:08] [Server thread/INFO]: Starting minecraft server version 1.20.1
-[03:03:08] [Server thread/INFO]: Loading properties
-[03:03:08] [Server thread/INFO]: Default game type: SURVIVAL
-[03:03:08] [Server thread/INFO]: Generating keypair
-[03:03:09] [Server thread/INFO]: Starting Minecraft server on *:25565
-[03:03:09] [Server thread/INFO]: Using epoll channel type
-[03:03:09] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[03:03:09] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[03:03:09] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[03:03:09] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[03:03:09] [Server thread/INFO]: Preparing level "world"
-[03:03:12] [Server thread/WARN]: Lithium Class Analysis Error: Class com.simibubi.create.content.kinetics.waterwheel.WaterWheelStructuralBlock cannot be analysed, because getting declared methods crashes with NoClassDefFoundError: net/minecraft/class_638. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @Environment(value=EnvType.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
-[03:03:12] [Server thread/WARN]: Lithium Class Analysis Error: Class com.simibubi.create.content.kinetics.waterwheel.WaterWheelStructuralBlock cannot be analysed, because getting declared methods crashes with NoClassDefFoundError: net/minecraft/class_638. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @Environment(value=EnvType.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
-[03:03:12] [Server thread/WARN]: Lithium Class Analysis Error: Class com.simibubi.create.content.kinetics.waterwheel.WaterWheelStructuralBlock cannot be analysed, because getting declared methods crashes with NoClassDefFoundError: net/minecraft/class_638. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @Environment(value=EnvType.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
-[03:03:12] [Server thread/WARN]: Lithium Class Analysis Error: Class com.simibubi.create.content.kinetics.waterwheel.WaterWheelStructuralBlock cannot be analysed, because getting declared methods crashes with NoClassDefFoundError: net/minecraft/class_638. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @Environment(value=EnvType.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
-[03:03:12] [Server thread/WARN]: Lithium Class Analysis Error: Class com.simibubi.create.content.kinetics.waterwheel.WaterWheelStructuralBlock cannot be analysed, because getting declared methods crashes with NoClassDefFoundError: net/minecraft/class_638. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @Environment(value=EnvType.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
-[03:03:12] [Server thread/WARN]: Lithium Class Analysis Error: Class com.simibubi.create.content.kinetics.waterwheel.WaterWheelStructuralBlock cannot be analysed, because getting declared methods crashes with NoClassDefFoundError: net/minecraft/class_638. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @Environment(value=EnvType.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
-[03:03:12] [Server thread/WARN]: Lithium Class Analysis Error: Class com.simibubi.create.content.trains.bogey.AbstractBogeyBlock cannot be analysed, because getting declared methods crashes with NoClassDefFoundError: net/minecraft/class_4587. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @Environment(value=EnvType.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
-[03:03:12] [Server thread/WARN]: Lithium Class Analysis Error: Class com.simibubi.create.content.trains.bogey.AbstractBogeyBlock cannot be analysed, because getting declared methods crashes with NoClassDefFoundError: net/minecraft/class_4587. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @Environment(value=EnvType.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
-[03:03:12] [Server thread/WARN]: Lithium Class Analysis Error: Class com.simibubi.create.content.trains.bogey.AbstractBogeyBlock cannot be analysed, because getting declared methods crashes with NoClassDefFoundError: net/minecraft/class_4587. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @Environment(value=EnvType.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
-[03:03:12] [Server thread/WARN]: Lithium Class Analysis Error: Class com.simibubi.create.content.trains.bogey.AbstractBogeyBlock cannot be analysed, because getting declared methods crashes with NoClassDefFoundError: net/minecraft/class_4587. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @Environment(value=EnvType.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
-[03:03:12] [Server thread/WARN]: Lithium Class Analysis Error: Class com.simibubi.create.content.trains.bogey.AbstractBogeyBlock cannot be analysed, because getting declared methods crashes with NoClassDefFoundError: net/minecraft/class_4587. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @Environment(value=EnvType.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
-[03:03:12] [Server thread/WARN]: Lithium Class Analysis Error: Class com.simibubi.create.content.trains.bogey.AbstractBogeyBlock cannot be analysed, because getting declared methods crashes with NoClassDefFoundError: net/minecraft/class_4587. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @Environment(value=EnvType.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
-[03:03:12] [Server thread/WARN]: Lithium Class Analysis Error: Class com.simibubi.create.content.trains.bogey.AbstractBogeyBlock cannot be analysed, because getting declared methods crashes with NoClassDefFoundError: net/minecraft/class_4587. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @Environment(value=EnvType.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
-[03:03:12] [Server thread/WARN]: Lithium Class Analysis Error: Class com.simibubi.create.content.trains.bogey.AbstractBogeyBlock cannot be analysed, because getting declared methods crashes with NoClassDefFoundError: net/minecraft/class_4587. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @Environment(value=EnvType.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
-[03:03:18] [Server thread/WARN]: Lithium Class Analysis Error: Class twilightforest.block.CloudBlock cannot be analysed, because getting declared methods crashes with NoClassDefFoundError: net/minecraft/class_638. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @Environment(value=EnvType.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
-[03:03:18] [Server thread/WARN]: Lithium Class Analysis Error: Class twilightforest.block.CloudBlock cannot be analysed, because getting declared methods crashes with NoClassDefFoundError: net/minecraft/class_638. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @Environment(value=EnvType.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
-[03:03:18] [Server thread/WARN]: Lithium Class Analysis Error: Class twilightforest.block.CloudBlock cannot be analysed, because getting declared methods crashes with NoClassDefFoundError: net/minecraft/class_638. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @Environment(value=EnvType.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
-[03:03:18] [Server thread/WARN]: Lithium Class Analysis Error: Class twilightforest.block.CloudBlock cannot be analysed, because getting declared methods crashes with NoClassDefFoundError: net/minecraft/class_638. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @Environment(value=EnvType.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
-[03:03:20] [Server thread/WARN]: Lithium Class Analysis Error: Class net.mehvahdjukaar.supplementaries.common.block.blocks.CannonBlock cannot be analysed, because getting declared methods crashes with NoClassDefFoundError: net/minecraft/class_4587. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @Environment(value=EnvType.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
-[03:03:20] [Server thread/WARN]: Lithium Class Analysis Error: Class net.mehvahdjukaar.supplementaries.common.block.blocks.CannonBlock cannot be analysed, because getting declared methods crashes with NoClassDefFoundError: net/minecraft/class_4587. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @Environment(value=EnvType.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
-[03:03:20] [Server thread/WARN]: Lithium Class Analysis Error: Class net.mehvahdjukaar.supplementaries.common.block.blocks.CannonBlock cannot be analysed, because getting declared methods crashes with NoClassDefFoundError: net/minecraft/class_4587. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @Environment(value=EnvType.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
-[03:03:20] [Server thread/WARN]: Lithium Class Analysis Error: Class net.mehvahdjukaar.supplementaries.common.block.blocks.CannonBlock cannot be analysed, because getting declared methods crashes with NoClassDefFoundError: net/minecraft/class_4587. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @Environment(value=EnvType.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
-[03:03:20] [Server thread/WARN]: Lithium Class Analysis Error: Class net.mehvahdjukaar.supplementaries.common.block.blocks.CannonBlock cannot be analysed, because getting declared methods crashes with NoClassDefFoundError: net/minecraft/class_4587. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @Environment(value=EnvType.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
-[03:03:20] [Server thread/WARN]: Lithium Class Analysis Error: Class net.mehvahdjukaar.supplementaries.common.block.blocks.CannonBlock cannot be analysed, because getting declared methods crashes with NoClassDefFoundError: net/minecraft/class_4587. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @Environment(value=EnvType.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
-[03:03:20] [Server thread/WARN]: Lithium Class Analysis Error: Class net.mehvahdjukaar.supplementaries.common.block.blocks.CannonBlock cannot be analysed, because getting declared methods crashes with NoClassDefFoundError: net/minecraft/class_4587. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @Environment(value=EnvType.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
-[03:03:20] [Server thread/WARN]: Lithium Class Analysis Error: Class net.mehvahdjukaar.supplementaries.common.block.blocks.CannonBlock cannot be analysed, because getting declared methods crashes with NoClassDefFoundError: net/minecraft/class_4587. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @Environment(value=EnvType.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
-[03:03:20] [Server thread/WARN]: Lithium Class Analysis Error: Class net.mehvahdjukaar.supplementaries.common.block.blocks.CannonBlock cannot be analysed, because getting declared methods crashes with NoClassDefFoundError: net/minecraft/class_4587. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @Environment(value=EnvType.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
-[03:03:20] [Server thread/WARN]: Lithium Class Analysis Error: Class net.mehvahdjukaar.supplementaries.common.block.blocks.CannonBlock cannot be analysed, because getting declared methods crashes with NoClassDefFoundError: net/minecraft/class_4587. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @Environment(value=EnvType.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
-[03:03:20] [Server thread/WARN]: Lithium Class Analysis Error: Class net.mehvahdjukaar.supplementaries.common.block.blocks.CannonBlock cannot be analysed, because getting declared methods crashes with NoClassDefFoundError: net/minecraft/class_4587. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @Environment(value=EnvType.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
-[03:03:20] [Server thread/WARN]: Lithium Class Analysis Error: Class net.mehvahdjukaar.supplementaries.common.block.blocks.CannonBlock cannot be analysed, because getting declared methods crashes with NoClassDefFoundError: net/minecraft/class_4587. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @Environment(value=EnvType.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
-[03:03:21] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[03:03:21] [Server thread/WARN]: Method overwrite conflict for removeIf in modernfix-common.mixins.json:bugfix.paper_chunk_patches.SortedArraySetMixin from mod modernfix, previously written by me.jellysquid.mods.lithium.mixin.world.chunk_tickets.SortedArraySetMixin. Skipping method.
-[03:03:22] [Server thread/INFO]: Preparing spawn area: 0%
-[03:03:22] [Server thread/INFO]: Preparing spawn area: 0%
-[03:03:22] [Server thread/INFO]: Preparing spawn area: 0%
-[03:03:22] [Server thread/INFO]: Preparing spawn area: 0%
-[03:03:23] [Server thread/INFO]: Preparing spawn area: 0%
-[03:03:23] [Server thread/INFO]: Preparing spawn area: 59%
-[03:03:23] [Server thread/INFO]: Loaded config for: brutalbosses.json
-[03:03:23] [Server thread/INFO]: Time elapsed: 2812 ms
-[03:03:23] [Server thread/INFO]: Done (14.628s)! For help, type "help"
-[03:03:23] [Server thread/WARN]: Dedicated server took 54.962 seconds to load
-[03:03:23] [Server thread/INFO]: [Dynamic Lights] Sending global config to server...
-[03:03:23] [Server thread/INFO]: [STDOUT]: PREPARING FOR RELOAD
-[03:03:23] [Server thread/INFO]: Start loading plugin from Applied Energistics 2
-[03:03:23] [Server thread/INFO]: Start loading plugin from Ice And Fire Community Edition
-[03:03:23] [Server thread/INFO]: Start loading plugin from Infinity Buttons
-[03:03:23] [Server thread/INFO]: Start loading plugin from Jade
-[03:03:23] [Server thread/INFO]: Start loading plugin from Jade
-[03:03:24] [Server thread/INFO]: Start loading plugin from Jade
-[03:03:24] [Server thread/INFO]: Start loading plugin from Supplementaries
-[03:03:24] [Server thread/INFO]: Start loading plugin from HT's TreeChop
-[03:03:24] [Server thread/INFO]: Start loading plugin from The Twilight Forest
-[03:03:24] [Server thread/INFO]: Start loading plugin from Waystones
-[03:03:24] [Server thread/INFO]: UDP server is started on /[0:0:0:0:0:0:0:0]:25565
-[03:04:00] [Server thread/INFO]: MARAVILLA[/100.123.118.39:58673] logged in with entity id 63 at (-1576.300000011921, 77.0, -2794.3078808213363)
-[03:04:00] [Server thread/INFO]: Syncing config to MARAVILLA (6ac97a47-3a39-3751-b4fd-e7e9f31640f7)
-[03:04:01] [Server thread/INFO]: Loading config from file...
-[03:04:01] [Server thread/INFO]: MARAVILLA joined the game
-[03:04:02] [Netty Epoll Server IO #3/INFO]: Priority overwritten for player MARAVILLA. Claiming: GRAVE / Robbing: INVENTORY
-[03:04:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7986ms or 159 ticks behind
-[03:07:13] [Server thread/INFO]: DjGuetta11[/100.71.91.78:53822] logged in with entity id 691 at (-369.4059257278082, -2.0, 624.1573542784394)
-[03:07:13] [Server thread/INFO]: Syncing config to DjGuetta11 (02ab1a57-0edd-3713-9f58-15ec834d0062)
-[03:07:13] [Server thread/INFO]: Loading config from file...
-[03:07:13] [Server thread/INFO]: DjGuetta11 joined the game
-[03:07:17] [Netty Epoll Server IO #5/INFO]: Priority overwritten for player DjGuetta11. Claiming: GRAVE / Robbing: INVENTORY
-[03:07:31] [Server thread/INFO]: DjTwistfly[/100.95.48.32:49219] logged in with entity id 1392 at (-485.90522836853944, -33.0, 719.5790510349216)
-[03:07:31] [Server thread/INFO]: Syncing config to DjTwistfly (ce1a9492-5b4d-3fbb-9f7e-c74699881e3b)
-[03:07:31] [Server thread/INFO]: Loading config from file...
-[03:07:31] [Server thread/INFO]: DjTwistfly joined the game
-[03:07:33] [Netty Epoll Server IO #7/INFO]: Priority overwritten for player DjTwistfly. Claiming: GRAVE / Robbing: INVENTORY
-[03:15:21] [Server thread/INFO]: Named entity class_1642['Corvin the Rotten'/942, l='ServerLevel[world]', x=-413.50, y=19.00, z=575.30] died: Corvin the Rotten was slain by DjTwistfly
-[03:15:50] [Server thread/INFO]: Gindaz[/100.98.201.97:63870] logged in with entity id 8537 at (-1788.300000011921, 54.0, -344.5117730921934)
-[03:15:50] [Server thread/INFO]: Syncing config to Gindaz (faa106bb-40b1-3df5-b221-082432d1d867)
-[03:15:50] [Server thread/INFO]: Loading config from file...
-[03:15:50] [Server thread/INFO]: Gindaz joined the game
-[03:15:51] [Netty Epoll Server IO #1/INFO]: Priority overwritten for player Gindaz. Claiming: GRAVE / Robbing: INVENTORY
-[03:18:12] [Server thread/INFO]: Gindaz was slain by Fire Dragon
-[03:20:11] [Server thread/ERROR]: POI data mismatch: already registered at class_2338{x=147, y=-21, z=549}
-[03:20:36] [pool-7-thread-1/INFO]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / minecraft:village_plains], ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_crimson], ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_jungle], ResourceKey[minecraft:worldgen/structure / minecraft:village_desert], ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_bamboo], ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_cherry], ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_mushroom], ResourceKey[minecraft:worldgen/structure / minecraft:village_savanna]] from pos class_2338{x=91, y=73, z=405}
-[03:22:52] [Server thread/INFO]: DjTwistfly has made the advancement [Hanging Tree]
-[03:27:40] [Server thread/WARN]: Hippocampus (vehicle of DjGuetta11) moved wrongly! 0.46043245986959186
-[03:29:13] [Server thread/WARN]: Hippocampus (vehicle of DjGuetta11) moved wrongly! 0.9116212355787737
-[03:29:22] [Server thread/WARN]: Hippocampus (vehicle of DjGuetta11) moved wrongly! 0.7929412386025757
-[03:29:30] [Server thread/WARN]: Hippocampus (vehicle of DjGuetta11) moved wrongly! 0.534715385302322
-[03:29:32] [Server thread/WARN]: Hippocampus (vehicle of DjGuetta11) moved wrongly! 1.159212431523893
-[03:29:32] [Server thread/WARN]: Hippocampus (vehicle of DjGuetta11) moved wrongly! 1.3323729488414593
-[03:29:33] [Server thread/WARN]: Hippocampus (vehicle of DjGuetta11) moved wrongly! 0.534371626926454
-[03:29:36] [Server thread/WARN]: Hippocampus (vehicle of DjGuetta11) moved wrongly! 1.2181806977899967
-[03:29:36] [Server thread/WARN]: Hippocampus (vehicle of DjGuetta11) moved wrongly! 0.933294131062941
-[03:29:37] [Server thread/WARN]: Hippocampus (vehicle of DjGuetta11) moved wrongly! 1.206674723515705
-[03:29:38] [Server thread/WARN]: Hippocampus (vehicle of DjGuetta11) moved wrongly! 0.9425113996948075
-[03:29:38] [Server thread/WARN]: Hippocampus (vehicle of DjGuetta11) moved wrongly! 0.6337198044069079
-[03:30:56] [Server thread/INFO]: Named entity class_1634['Restless Spirit'/28157, l='ServerLevel[world]', x=-140.62, y=61.95, z=-29.72] died: Restless Spirit starved to death
-[03:31:02] [Server thread/INFO]: Named entity class_1634['Restless Spirit'/28250, l='ServerLevel[world]', x=-142.79, y=101.82, z=25.73] died: Restless Spirit starved to death
-[03:31:03] [Server thread/WARN]: Hippocampus (vehicle of DjGuetta11) moved wrongly! 0.33597070115690647
-[03:32:12] [Server thread/WARN]: Hippocampus (vehicle of DjGuetta11) moved wrongly! 1.3377756958980376
-[03:32:26] [Server thread/INFO]: Named entity class_1634['Restless Spirit'/30179, l='ServerLevel[world]', x=-151.14, y=94.34, z=14.50] died: Restless Spirit starved to death
-[03:33:54] [Server thread/INFO]: Named entity class_1634['Restless Spirit'/32250, l='ServerLevel[world]', x=-104.73, y=67.82, z=-17.40] died: Restless Spirit starved to death
-[03:35:33] [Server thread/INFO]: Gindaz tried to swim in lava
-[03:35:42] [Server thread/WARN]: Hippocampus (vehicle of DjGuetta11) moved wrongly! 1.2332160150779796
-[03:35:59] [Server thread/WARN]: Hippocampus (vehicle of DjGuetta11) moved wrongly! 0.9923972421708993
-[03:36:03] [Server thread/WARN]: Hippocampus (vehicle of DjGuetta11) moved wrongly! 0.7213928312508558
-[03:36:07] [Server thread/WARN]: Hippocampus (vehicle of DjGuetta11) moved wrongly! 1.0039346326913852
-[03:37:03] [Server thread/WARN]: Hippocampus (vehicle of DjGuetta11) moved too quickly! 5.307808849799699,0.0,-8.821274928417495
-[03:37:03] [Server thread/WARN]: Hippocampus (vehicle of DjGuetta11) moved too quickly! 5.832055266586394,0.0,-9.36494532097771
-[03:37:03] [Server thread/WARN]: Hippocampus (vehicle of DjGuetta11) moved too quickly! 6.368548794387834,0.0,-9.908587301382624
-[03:37:03] [Server thread/WARN]: Hippocampus (vehicle of DjGuetta11) moved too quickly! 6.884413404796419,0.0,-10.478515398074705
-[03:37:03] [Server thread/WARN]: Hippocampus (vehicle of DjGuetta11) moved too quickly! 7.412736504963391,0.0,-11.049181947301065
-[03:37:03] [Server thread/WARN]: Hippocampus (vehicle of DjGuetta11) moved too quickly! 7.97598033075667,0.0,-11.575746412257558
-[03:37:03] [Server thread/WARN]: Hippocampus (vehicle of DjGuetta11) moved too quickly! 8.57262985799207,0.0,-12.045303460171908
-[03:37:03] [Server thread/WARN]: Hippocampus (vehicle of DjGuetta11) moved too quickly! 9.198780436348898,0.0,-12.463794685593655
-[03:37:03] [Server thread/WARN]: Hippocampus (vehicle of DjGuetta11) moved too quickly! 9.85095094179485,0.0,-12.837245855576953
-[03:37:03] [Server thread/WARN]: Hippocampus (vehicle of DjGuetta11) moved too quickly! 10.526071022933365,0.0,-13.170971696663514
-[03:37:03] [Server thread/WARN]: Hippocampus (vehicle of DjGuetta11) moved too quickly! 11.221432629832748,0.0,-13.469659797663155
-[03:37:03] [Server thread/WARN]: Hippocampus (vehicle of DjGuetta11) moved too quickly! 11.934647262453154,0.0,-13.737444611906142
-[03:37:03] [Server thread/WARN]: Hippocampus (vehicle of DjGuetta11) moved too quickly! 12.663608263759556,0.0,-13.97797272722977
-[03:37:03] [Server thread/WARN]: Hippocampus (vehicle of DjGuetta11) moved too quickly! 13.406457562247056,0.0,-14.194460434106475
-[03:37:03] [Server thread/WARN]: Hippocampus (vehicle of DjGuetta11) moved too quickly! 14.161556338848186,0.0,-14.389744500733116
-[03:37:03] [Server thread/WARN]: Hippocampus (vehicle of DjGuetta11) moved too quickly! 14.927459155145584,0.0,-14.566326956659111
-[03:37:03] [Server thread/WARN]: Hippocampus (vehicle of DjGuetta11) moved too quickly! 15.702867315979233,0.0,-14.726931761149956
-[03:37:03] [Server thread/WARN]: Hippocampus (vehicle of DjGuetta11) moved too quickly! 11.689122401103873,0.0,-6.597441764169048
-[03:37:03] [Server thread/WARN]: Hippocampus (vehicle of DjGuetta11) moved too quickly! 12.480141696794021,0.0,-6.7344792632901544
-[03:37:03] [Server thread/WARN]: Hippocampus (vehicle of DjGuetta11) moved too quickly! 13.277613849270551,0.0,-6.86177522550247
-[03:37:03] [Server thread/WARN]: Hippocampus (vehicle of DjGuetta11) moved too quickly! 14.080723800207238,0.0,-6.981263483868702
-[03:37:03] [Server thread/WARN]: Hippocampus (vehicle of DjGuetta11) moved too quickly! 14.888766865150046,0.0,-7.0943911771825015
-[03:37:03] [Server thread/WARN]: Hippocampus (vehicle of DjGuetta11) moved too quickly! 15.701119533202132,0.0,-7.202424912432889
-[03:37:03] [Server thread/WARN]: Hippocampus (vehicle of DjGuetta11) moved too quickly! 16.517251567874837,0.0,-7.306223724194183
-[03:37:03] [Server thread/WARN]: Hippocampus (vehicle of DjGuetta11) moved too quickly! 17.336693793188147,0.0,-7.40655477316534
-[03:37:03] [Server thread/WARN]: Hippocampus (vehicle of DjGuetta11) moved too quickly! 18.15890524010581,0.0,-7.505392362859084
-[03:37:03] [Server thread/WARN]: Hippocampus (vehicle of DjGuetta11) moved too quickly! 18.983185973694503,0.0,-7.606025375499371
-[03:37:03] [Server thread/WARN]: Hippocampus (vehicle of DjGuetta11) moved too quickly! 19.808198812513638,0.0,-7.714697082005841
-[03:37:03] [Server thread/WARN]: Hippocampus (vehicle of DjGuetta11) moved too quickly! 20.628589143384715,0.0,-7.847979893165643
-[03:37:03] [Server thread/WARN]: Hippocampus (vehicle of DjGuetta11) moved too quickly! 21.43329197151047,0.0,-8.02401421702325
-[03:37:03] [Server thread/WARN]: Hippocampus (vehicle of DjGuetta11) moved too quickly! 22.212897936208265,0.0,-8.250829617831414
-[03:37:03] [Server thread/WARN]: Hippocampus (vehicle of DjGuetta11) moved too quickly! 22.88099342663088,0.0,-8.495826191980768
-[03:37:03] [Server thread/WARN]: Hippocampus (vehicle of DjGuetta11) moved too quickly! 23.4505042508099,0.0,-8.756756914411312
-[03:37:03] [Server thread/WARN]: Hippocampus (vehicle of DjGuetta11) moved too quickly! 23.933063399362027,0.0,-9.0317415556259
-[03:37:03] [Server thread/WARN]: Hippocampus (vehicle of DjGuetta11) moved too quickly! 24.35868056838501,0.0,-9.274278009177124
-[03:37:03] [Server thread/WARN]: Hippocampus (vehicle of DjGuetta11) moved too quickly! 24.734074911463267,0.0,-9.488195161209319
-[03:37:03] [Server thread/WARN]: Hippocampus (vehicle of DjGuetta11) moved too quickly! 25.065172722058264,0.0,-9.676870089301701
-[03:37:03] [Server thread/WARN]: Hippocampus (vehicle of DjGuetta11) moved too quickly! 25.357200991003083,0.0,-9.8432813758792
-[03:37:03] [Server thread/WARN]: Hippocampus (vehicle of DjGuetta11) moved too quickly! 25.614769924212396,0.0,-9.990056130640482
-[03:37:03] [Server thread/WARN]: Hippocampus (vehicle of DjGuetta11) moved too quickly! 25.84194572330307,0.0,-10.119511464340007
-[03:37:03] [Server thread/WARN]: Hippocampus (vehicle of DjGuetta11) moved too quickly! 26.04231477810106,0.0,-10.233691068663006
-[03:37:03] [Server thread/WARN]: Hippocampus (vehicle of DjGuetta11) moved too quickly! 26.219040284432822,0.0,-10.334397479675886
-[03:37:03] [Server thread/WARN]: Hippocampus (vehicle of DjGuetta11) moved too quickly! 26.374912181017407,0.0,-10.423220534189227
-[03:37:03] [Server thread/WARN]: Hippocampus (vehicle of DjGuetta11) moved too quickly! 26.512391193805,0.0,-10.50156246826998
-[03:37:03] [Server thread/WARN]: Hippocampus (vehicle of DjGuetta11) moved too quickly! 26.633647683083723,0.0,-10.570660054129235
-[03:37:03] [Server thread/WARN]: Hippocampus (vehicle of DjGuetta11) moved too quickly! 26.740595906627505,0.0,-10.631604124857063
-[03:37:03] [Server thread/WARN]: Hippocampus (vehicle of DjGuetta11) moved too quickly! 26.834924239793168,0.0,-10.685356795239045
-[03:37:03] [Server thread/WARN]: Hippocampus (vehicle of DjGuetta11) moved too quickly! 26.918121829645315,0.0,-10.732766650515941
-[03:37:03] [Server thread/WARN]: Hippocampus (vehicle of DjGuetta11) moved too quickly! 26.991502103894845,0.0,-10.774582142870145
-[03:37:03] [Server thread/WARN]: Hippocampus (vehicle of DjGuetta11) moved too quickly! 27.056223505782896,0.0,-10.811463407126553
-[03:37:03] [Server thread/WARN]: Hippocampus (vehicle of DjGuetta11) moved too quickly! 27.11330778224817,0.0,-10.843992682200678
-[03:37:03] [Server thread/WARN]: Hippocampus (vehicle of DjGuetta11) moved too quickly! 27.19768662836782,0.0,-10.780781793439246
-[03:37:03] [Server thread/WARN]: Hippocampus (vehicle of DjGuetta11) moved too quickly! 27.261229304949097,0.0,-10.62562336657561
-[03:37:03] [Server thread/WARN]: Hippocampus (vehicle of DjGuetta11) moved too quickly! 27.306394479997607,0.0,-10.389367211105764
-[03:37:03] [Server thread/WARN]: Hippocampus (vehicle of DjGuetta11) moved too quickly! 27.335350698694242,0.0,-10.081582859005266
-[03:37:03] [Server thread/WARN]: Hippocampus (vehicle of DjGuetta11) moved too quickly! 27.349753331434727,0.0,-9.710739127417696
-[03:37:03] [Server thread/WARN]: Hippocampus (vehicle of DjGuetta11) moved too quickly! 27.351062492210417,0.0,-9.284306187460857
-[03:37:03] [Server thread/WARN]: Hippocampus (vehicle of DjGuetta11) moved too quickly! 27.33966853090908,0.0,-8.808843565722213
-[03:37:03] [Server thread/WARN]: Hippocampus (vehicle of DjGuetta11) moved too quickly! 27.318225095739876,0.0,-8.290136764652175
-[03:37:03] [Server thread/WARN]: Hippocampus (vehicle of DjGuetta11) moved too quickly! 27.28791802461933,0.0,-7.733288597411729
-[03:37:03] [Server thread/WARN]: Hippocampus (vehicle of DjGuetta11) moved too quickly! 27.24979322658953,0.0,-7.142799745209004
-[03:37:09] [Server thread/WARN]: Hippocampus (vehicle of DjGuetta11) moved wrongly! 0.8571523926821208
-[03:37:48] [Server thread/WARN]: Hippocampus (vehicle of DjGuetta11) moved wrongly! 0.6100113704578789
-[03:37:49] [Server thread/WARN]: Hippocampus (vehicle of DjGuetta11) moved wrongly! 0.7999836890901946
-[03:37:49] [Server thread/WARN]: Hippocampus (vehicle of DjGuetta11) moved wrongly! 0.521465423664453
-[03:37:50] [Server thread/WARN]: Hippocampus (vehicle of DjGuetta11) moved wrongly! 0.7876135647608596
-[03:37:51] [Server thread/WARN]: Hippocampus (vehicle of DjGuetta11) moved wrongly! 0.9570059583965309
-[03:37:51] [Server thread/WARN]: Hippocampus (vehicle of DjGuetta11) moved wrongly! 1.099644365873952
-[03:37:54] [Server thread/WARN]: Hippocampus (vehicle of DjGuetta11) moved wrongly! 0.49901382004718153
-[03:38:01] [Server thread/WARN]: Hippocampus (vehicle of DjGuetta11) moved too quickly! 9.955554156653989,-2.956602882970728,1.0718319244723489
-[03:38:01] [Server thread/WARN]: Hippocampus (vehicle of DjGuetta11) moved too quickly! 10.64346320672189,-3.0530095792575196,1.232030172925306
-[03:38:01] [Server thread/WARN]: Hippocampus (vehicle of DjGuetta11) moved too quickly! 11.335885695985098,-3.1380402853824734,1.4208832969309242
-[03:38:01] [Server thread/WARN]: Hippocampus (vehicle of DjGuetta11) moved too quickly! 12.0322890386185,-3.213037368184679,1.6350100211739118
-[03:38:01] [Server thread/WARN]: Hippocampus (vehicle of DjGuetta11) moved too quickly! 12.736504585504917,-3.2791847952162243,1.8626795396148736
-[03:38:01] [Server thread/WARN]: Hippocampus (vehicle of DjGuetta11) moved too quickly! 13.45413947797556,-3.337526825858049,2.080469704155121
-[03:38:01] [Server thread/WARN]: Hippocampus (vehicle of DjGuetta11) moved too quickly! 14.184908452261652,-3.3889844968841416,2.266541819076224
-[03:38:01] [Server thread/WARN]: Hippocampus (vehicle of DjGuetta11) moved too quickly! 14.926841262352355,-3.4343701627291523,2.419780944109334
-[03:38:52] [Server thread/INFO]: Gindaz tried to swim in lava
-[03:38:52] [Server thread/INFO]: Did not backup data (grave data empty)
-[03:39:01] [Server thread/WARN]: DjTwistfly moved wrongly!
-[03:39:02] [Server thread/WARN]: DjTwistfly moved too quickly! -0.062139807270796155,20.580000013113022,0.19999998807907104
-[03:39:02] [Server thread/WARN]: DjTwistfly moved too quickly! 0.0,20.580000013113022,0.0
-[03:39:04] [Server thread/WARN]: DjTwistfly moved too quickly! 0.0,20.580000013113022,0.0
-[03:39:05] [Server thread/WARN]: DjTwistfly moved too quickly! 0.0,19.580000013113022,0.0
-[03:39:41] [Worker-Main-2/WARN]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wheat_grain_bin
-[03:39:54] [Server thread/WARN]: Hippocampus (vehicle of DjGuetta11) moved wrongly! 0.5436876428137907
-[03:41:11] [Server thread/ERROR]: Grave could not be replaced at X: -336, Y: 32, Z: 0 / minecraft:the_nether
-[03:41:11] [Server thread/INFO]: Gindaz claimed a grave belonging to Gindaz at -336, 32, 0, minecraft:the_nether
-[03:42:47] [Worker-Main-3/WARN]: Empty or non-existent pool: minecraft:minecraft_empty
-[03:43:18] [Worker-Main-3/WARN]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wooden_wheat_farm
-[03:43:47] [Server thread/WARN]: MARAVILLA moved too quickly! -4.423996297677945,-9.169282532606928,-2.6216946332584143
-[03:43:47] [Server thread/WARN]: DjGuetta11 moved too quickly! -4.756524012214413,3.5725883537260046,-8.346755815402503
-[03:44:03] [pool-7-thread-2/INFO]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_crimson], ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_warped], ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_mountains], ResourceKey[minecraft:worldgen/structure / minecraft:village_savanna], ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_badlands], ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_cherry], ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_mushroom], ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_jungle]] from pos class_2338{x=2741, y=81, z=-1435}
-[03:44:07] [Server thread/WARN]: DjGuetta11 moved too quickly! -1.3916268035977737,8.7808162583826,-5.224363993212592
-[03:44:07] [Server thread/WARN]: MARAVILLA moved too quickly! -2.3268493297482564,-5.464159374955443,-8.23760679945039
-[03:44:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4297ms or 85 ticks behind
-[03:44:10] [Server thread/WARN]: MARAVILLA moved too quickly! -4.957590100418315,6.619458849380727,-6.426688067037958
-[03:44:10] [Server thread/WARN]: Gindaz moved too quickly! -4.347586463796688,-0.7448407234098795,-9.146289402570574
-[03:46:25] [Server thread/INFO]: Gindaz lost connection: Timed out
-[03:46:25] [Server thread/INFO]: Gindaz left the game
-[03:46:25] [Server thread/WARN]: handleDisconnection() called twice
-[03:50:13] [Server thread/INFO]: Gindaz[/100.98.201.97:49964] logged in with entity id 64503 at (-779.5610683577346, 32.0, -132.56533650887013)
-[03:50:13] [Server thread/INFO]: Syncing config to Gindaz (faa106bb-40b1-3df5-b221-082432d1d867)
-[03:50:13] [Server thread/INFO]: Loading config from file...
-[03:50:13] [Server thread/INFO]: Gindaz joined the game
-[03:50:14] [Netty Epoll Server IO #3/INFO]: Priority overwritten for player Gindaz. Claiming: GRAVE / Robbing: INVENTORY
-[03:50:37] [Server thread/INFO]: Villager class_1646['Occultist'/63545, l='ServerLevel[world]', x=3033.43, y=97.00, z=-1368.87] died, message: 'Occultist was incinerated by Fire Dragon'
-[03:51:33] [Server thread/INFO]: Named entity class_1634['Restless Spirit'/64754, l='ServerLevel[world]', x=-919.25, y=39.00, z=-123.96] died: Restless Spirit starved to death
-[04:02:24] [Server thread/WARN]: DjTwistfly moved too quickly! 0.0,-20.0,0.0
-[04:02:24] [Server thread/WARN]: DjTwistfly moved too quickly! 0.0,-21.0,0.0
-[04:02:24] [Server thread/WARN]: DjTwistfly moved too quickly! 0.0,-21.0,0.0
-[04:02:25] [Server thread/WARN]: DjTwistfly moved too quickly! 0.0,20.580000013113022,0.0
-[04:02:27] [Server thread/WARN]: DjTwistfly moved too quickly! 0.0,20.580000013113022,0.0
-[04:02:27] [Server thread/WARN]: DjTwistfly moved too quickly! 0.0,19.580000013113022,0.0
-[04:06:03] [Server thread/WARN]: DjGuetta11 moved wrongly!
-[04:06:41] [Server thread/WARN]: DjGuetta11 moved wrongly!
-[04:07:21] [Server thread/INFO]: Gindaz was turned into KFC by Fire Dragon
-[04:07:54] [Server thread/INFO]: Gindaz was slain by Headless Warrior
-[04:08:03] [Server thread/INFO]: Gindaz claimed a grave belonging to Gindaz at -145, 61, -33, minecraft:the_nether
-[04:08:18] [Server thread/INFO]: Named entity class_1634['Restless Spirit'/93731, l='ServerLevel[world]', x=-121.37, y=64.46, z=-9.86] died: Restless Spirit starved to death
-[04:08:48] [Server thread/INFO]: Gindaz withered away whilst fighting Headless Warrior
-[04:09:02] [Server thread/INFO]: Gindaz claimed a grave belonging to Gindaz at -154, 68, -23, minecraft:the_nether
-[04:12:09] [Server thread/INFO]: Named entity class_1634['Restless Spirit'/100174, l='ServerLevel[world]', x=-631.45, y=49.77, z=156.01] died: Restless Spirit starved to death
-[04:12:09] [Server thread/INFO]: Named entity class_1634['Restless Spirit'/100175, l='ServerLevel[world]', x=-634.20, y=61.29, z=152.42] died: Restless Spirit starved to death
-[04:12:12] [Server thread/INFO]: Named entity class_1634['Restless Spirit'/100442, l='ServerLevel[world]', x=-640.33, y=54.52, z=142.90] died: Restless Spirit starved to death
-[04:12:14] [Server thread/INFO]: Named entity class_1634['Restless Spirit'/100444, l='ServerLevel[world]', x=-649.30, y=59.09, z=151.80] died: Restless Spirit starved to death
-[04:12:17] [Server thread/INFO]: Named entity class_1634['Restless Spirit'/100011, l='ServerLevel[world]', x=-615.41, y=68.70, z=177.13] died: Restless Spirit starved to death
-[04:12:17] [Server thread/INFO]: Named entity class_1634['Restless Spirit'/100012, l='ServerLevel[world]', x=-618.73, y=46.28, z=184.22] died: Restless Spirit starved to death
-[04:12:19] [Server thread/INFO]: Named entity class_1634['Restless Spirit'/100451, l='ServerLevel[world]', x=-658.06, y=61.03, z=159.36] died: Restless Spirit starved to death
-[04:12:24] [Server thread/INFO]: Named entity class_1634['Restless Spirit'/100530, l='ServerLevel[world]', x=-661.34, y=71.11, z=158.35] died: Restless Spirit starved to death
-[04:12:24] [Server thread/INFO]: Named entity class_1634['Restless Spirit'/100531, l='ServerLevel[world]', x=-664.47, y=66.29, z=155.93] died: Restless Spirit starved to death
-[04:12:25] [Server thread/INFO]: Named entity class_1634['Restless Spirit'/100607, l='ServerLevel[world]', x=-603.18, y=80.67, z=184.58] died: Restless Spirit starved to death
-[04:12:28] [Server thread/INFO]: Named entity class_1634['Restless Spirit'/100010, l='ServerLevel[world]', x=-612.34, y=76.29, z=193.87] died: Restless Spirit starved to death
-[04:12:31] [Server thread/INFO]: Named entity class_1634['Restless Spirit'/100768, l='ServerLevel[world]', x=-689.83, y=80.81, z=147.74] died: Restless Spirit starved to death
-[04:12:31] [Server thread/INFO]: Named entity class_1634['Restless Spirit'/100443, l='ServerLevel[world]', x=-648.34, y=-10.57, z=132.09] died: Restless Spirit starved to death
-[04:12:32] [Server thread/INFO]: Named entity class_1634['Restless Spirit'/100533, l='ServerLevel[world]', x=-654.18, y=64.44, z=152.49] died: Restless Spirit starved to death
-[04:12:34] [Server thread/INFO]: Named entity class_1634['Restless Spirit'/100524, l='ServerLevel[world]', x=-690.75, y=94.42, z=185.99] died: Restless Spirit starved to death
-[04:12:35] [Server thread/INFO]: Named entity class_1634['Restless Spirit'/100767, l='ServerLevel[world]', x=-691.38, y=69.32, z=167.05] died: Restless Spirit starved to death
-[04:12:36] [Server thread/INFO]: Named entity class_1634['Restless Spirit'/100938, l='ServerLevel[world]', x=-666.76, y=103.62, z=193.36] died: Restless Spirit starved to death
-[04:12:40] [Server thread/INFO]: Named entity class_1634['Restless Spirit'/100827, l='ServerLevel[world]', x=-714.61, y=72.98, z=145.39] died: Restless Spirit starved to death
-[04:12:42] [Server thread/INFO]: Named entity class_1634['Restless Spirit'/100766, l='ServerLevel[world]', x=-693.52, y=72.09, z=166.21] died: Restless Spirit starved to death
-[04:12:43] [Server thread/INFO]: Named entity class_1634['Restless Spirit'/101122, l='ServerLevel[world]', x=-689.31, y=72.25, z=166.94] died: Restless Spirit starved to death
-[04:12:44] [Server thread/INFO]: Named entity class_1634['Restless Spirit'/100828, l='ServerLevel[world]', x=-700.29, y=74.70, z=166.23] died: Restless Spirit starved to death
-[04:12:44] [Server thread/INFO]: Named entity class_1634['Restless Spirit'/101119, l='ServerLevel[world]', x=-703.57, y=74.35, z=147.29] died: Restless Spirit starved to death
-[04:12:48] [Server thread/INFO]: Named entity class_1634['Restless Spirit'/100966, l='ServerLevel[world]', x=-606.57, y=88.36, z=216.67] died: Restless Spirit starved to death
-[04:12:48] [Server thread/INFO]: Named entity class_1634['Restless Spirit'/100968, l='ServerLevel[world]', x=-620.36, y=86.47, z=198.57] died: Restless Spirit starved to death
-[04:12:48] [Server thread/INFO]: Named entity class_1634['Restless Spirit'/101065, l='ServerLevel[world]', x=-589.67, y=85.94, z=206.87] died: Restless Spirit starved to death
-[04:12:54] [Server thread/INFO]: Named entity class_1634['Restless Spirit'/100942, l='ServerLevel[world]', x=-687.32, y=82.30, z=225.11] died: Restless Spirit starved to death
-[04:13:00] [Server thread/INFO]: Named entity class_1634['Restless Spirit'/101116, l='ServerLevel[world]', x=-708.39, y=74.41, z=153.27] died: Restless Spirit starved to death
-[04:13:03] [Server thread/INFO]: Named entity class_1634['Restless Spirit'/101682, l='ServerLevel[world]', x=-663.68, y=74.66, z=215.30] died: Restless Spirit starved to death
-[04:13:05] [Server thread/INFO]: Named entity class_1634['Restless Spirit'/101699, l='ServerLevel[world]', x=-613.69, y=87.63, z=249.51] died: Restless Spirit starved to death
-[04:13:06] [Server thread/INFO]: Named entity class_1634['Restless Spirit'/101768, l='ServerLevel[world]', x=-659.56, y=67.82, z=160.65] died: Restless Spirit starved to death
-[04:13:11] [Server thread/INFO]: Named entity class_1634['Restless Spirit'/101156, l='ServerLevel[world]', x=-749.42, y=74.07, z=154.00] died: Restless Spirit starved to death
-[04:13:16] [Server thread/INFO]: Named entity class_1634['Restless Spirit'/101943, l='ServerLevel[world]', x=-661.68, y=81.02, z=231.48] died: Restless Spirit starved to death
-[04:13:16] [Server thread/INFO]: Named entity class_1634['Restless Spirit'/101596, l='ServerLevel[world]', x=-712.33, y=70.08, z=153.10] died: Restless Spirit starved to death
-[04:13:21] [Server thread/INFO]: Named entity class_1634['Restless Spirit'/102039, l='ServerLevel[world]', x=-705.53, y=73.43, z=180.09] died: Restless Spirit starved to death
-[04:13:21] [Server thread/INFO]: Named entity class_1634['Restless Spirit'/100922, l='ServerLevel[world]', x=-717.28, y=73.99, z=154.18] died: Restless Spirit starved to death
-[04:13:38] [Server thread/INFO]: Named entity class_1634['Restless Spirit'/102308, l='ServerLevel[world]', x=-733.34, y=98.65, z=203.22] died: Restless Spirit starved to death
-[04:13:38] [Server thread/INFO]: Named entity class_1634['Restless Spirit'/102311, l='ServerLevel[world]', x=-742.54, y=89.14, z=215.56] died: Restless Spirit starved to death
-[04:13:38] [Server thread/INFO]: Named entity class_1634['Restless Spirit'/102313, l='ServerLevel[world]', x=-722.83, y=93.69, z=195.86] died: Restless Spirit starved to death
-[04:13:52] [Server thread/INFO]: Named entity class_1634['Restless Spirit'/102059, l='ServerLevel[world]', x=-787.25, y=85.23, z=178.65] died: Restless Spirit starved to death
-[04:16:02] [Server thread/INFO]: Named entity class_1634['Restless Spirit'/106536, l='ServerLevel[world]', x=-946.25, y=52.39, z=182.46] died: Restless Spirit starved to death
-[04:17:53] [Server thread/WARN]: DjGuetta11 moved wrongly!
-[04:18:36] [Server thread/INFO]: MARAVILLA has made the advancement [Hellfire Mantle]
-[04:21:03] [Server thread/WARN]: DjGuetta11 moved wrongly!
-[04:21:22] [Server thread/INFO]: Gindaz tried to swim in lava
-[04:21:59] [Server thread/WARN]: DjGuetta11 moved wrongly!
-[04:22:44] [Server thread/INFO]: DjTwistfly was blown up by Creeper
-[04:24:30] [Server thread/INFO]: DjTwistfly was incinerated by Fire Dragon
-[04:24:40] [Server thread/INFO]: Gindaz has completed the challenge [Hot Tourist Destinations]
-[04:26:01] [Server thread/INFO]: DjTwistfly was turned into KFC by Fire Dragon
-[04:26:01] [Server thread/INFO]: Did not backup data (grave data empty)
-[04:26:02] [Server thread/ERROR]: POI data mismatch: already registered at class_2338{x=-6432, y=-49, z=226}
-[04:26:02] [Server thread/ERROR]: POI data mismatch: already registered at class_2338{x=-6432, y=-49, z=225}
-[04:26:55] [Server thread/INFO]: DjTwistfly was incinerated by Fire Dragon
-[04:28:42] [Server thread/WARN]: DjGuetta11 moved wrongly!
-[04:30:37] [Server thread/INFO]: DjTwistfly claimed a grave belonging to DjTwistfly at -6483, 17, -130, minecraft:overworld
-[04:36:20] [Server thread/INFO]: MARAVILLA lost connection: Disconnected
-[04:36:20] [Server thread/INFO]: MARAVILLA left the game
-[04:36:28] [Server thread/INFO]: MARAVILLA[/100.123.118.39:58947] logged in with entity id 157632 at (-1181.4345335297858, 39.0, -267.37477291560356)
-[04:36:28] [Server thread/INFO]: Syncing config to MARAVILLA (6ac97a47-3a39-3751-b4fd-e7e9f31640f7)
-[04:36:28] [Server thread/INFO]: Loading config from file...
-[04:36:28] [Server thread/INFO]: MARAVILLA joined the game
-[04:36:28] [Netty Epoll Server IO #6/INFO]: Priority overwritten for player MARAVILLA. Claiming: GRAVE / Robbing: INVENTORY
-[04:43:21] [Server thread/INFO]: DjGuetta11 has made the advancement [My Name is Nobody]
-[04:43:48] [Server thread/INFO]: Named entity class_1632['Klaudius Bloodglare'/162073, l='ServerLevel[world]', x=-6357.66, y=37.00, z=-322.36] died: Klaudius Bloodglare was shot by DjTwistfly
-[04:44:03] [Server thread/INFO]: Gindaz lost connection: Timed out
-[04:44:03] [Server thread/INFO]: Gindaz left the game
-[04:44:30] [Server thread/INFO]: DjGuetta11 has made the advancement [Gravedigger]
-[04:49:46] [Server thread/WARN]: DjTwistfly moved too quickly! 7.062038521376053,2.64653730139754,6.778662801009602
-[04:49:52] [Server thread/WARN]: DjTwistfly moved too quickly! -0.22815148747213243,-3.7493310259317023,9.473820673354624
-[04:50:26] [Server thread/INFO]: DjTwistfly lost connection: Timed out
-[04:50:26] [Server thread/INFO]: DjTwistfly left the game
-[04:51:40] [Server thread/INFO]: Named entity class_1545['Pipeline Sentry'/186102, l='ServerLevel[world]', x=-1916.35, y=31.00, z=-23.69] died: Pipeline Sentry suffocated in a wall
-[04:52:13] [Server thread/INFO]: Gindaz[/100.98.201.97:55007] logged in with entity id 188762 at (-1713.5246578654812, 33.0, -252.35190448083452)
-[04:52:13] [Server thread/INFO]: Syncing config to Gindaz (faa106bb-40b1-3df5-b221-082432d1d867)
-[04:52:13] [Server thread/INFO]: Loading config from file...
-[04:52:13] [Server thread/INFO]: Gindaz joined the game
-[04:52:14] [Netty Epoll Server IO #0/INFO]: Priority overwritten for player Gindaz. Claiming: GRAVE / Robbing: INVENTORY
-[04:52:24] [Server thread/INFO]: Gindaz claimed a grave belonging to Gindaz at -1714, 32, -253, minecraft:the_nether
-[04:52:39] [Server thread/INFO]: Named entity class_5136['Gork the Big'/186006, l='ServerLevel[world]', x=-1939.27, y=75.00, z=2.03] died: Gork the Big was slain by Samuel the Pit Master
-[04:52:40] [Server thread/INFO]: Named entity class_5419['Samuel the Pit Master'/185337, l='ServerLevel[world]', x=-1934.92, y=75.00, z=2.38] died: Samuel the Pit Master was slain by MARAVILLA using [MARAVILLA]
-[04:53:36] [Server thread/INFO]: Named entity class_1545['Pipeline Sentry'/186434, l='ServerLevel[world]', x=-1883.13, y=50.16, z=-21.11] died: Pipeline Sentry was shot by MARAVILLA using [MARAVILLA]
-[04:53:56] [Server thread/INFO]: Named entity class_1545['Pipeline Sentry'/186438, l='ServerLevel[world]', x=-1890.01, y=31.00, z=-25.45] died: Pipeline Sentry was slain by MARAVILLA using [MARAVILLA]
-[04:54:11] [Server thread/INFO]: Named entity class_1545['Pipeline Sentry'/186426, l='ServerLevel[world]', x=-1895.30, y=33.20, z=-19.30] died: Pipeline Sentry was slain by MARAVILLA using [MARAVILLA]
-[04:54:51] [Server thread/INFO]: DjTwistfly[/100.95.48.32:49853] logged in with entity id 194937 at (-6477.419059115802, -2.039524695339135, -330.31160726658413)
-[04:54:51] [Server thread/INFO]: Syncing config to DjTwistfly (ce1a9492-5b4d-3fbb-9f7e-c74699881e3b)
-[04:54:51] [Server thread/INFO]: Loading config from file...
-[04:54:51] [Server thread/INFO]: DjTwistfly joined the game
-[04:54:53] [Netty Epoll Server IO #3/INFO]: Priority overwritten for player DjTwistfly. Claiming: GRAVE / Robbing: INVENTORY
-[04:55:06] [Server thread/INFO]: Named entity class_1545['Prime Pipeline Sentry'/186429, l='ServerLevel[world]', x=-1882.88, y=35.88, z=-7.51] died: Prime Pipeline Sentry was slain by MARAVILLA using [MARAVILLA]
-[04:55:08] [Server thread/INFO]: Named entity class_1545['Prime Pipeline Sentry'/186428, l='ServerLevel[world]', x=-1883.51, y=34.88, z=-6.84] died: Prime Pipeline Sentry was slain by MARAVILLA using [MARAVILLA]
-[04:55:43] [Netty Epoll Server IO #0/ERROR]: Exception occurred in netty pipeline
+[18:17:38] [main/INFO]: Loaded boss variant for: minecraft:drowned
+[18:17:38] [main/INFO]: Loaded boss variant for: minecraft:iron_golem
+[18:17:38] [main/INFO]: Loaded boss variant for: minecraft:snow_golem
+[18:17:38] [main/INFO]: Loaded boss variant for: minecraft:zombie
+[18:17:38] [main/INFO]: Loaded boss variant for: minecraft:skeleton
+[18:17:38] [main/INFO]: Loaded boss variant for: minecraft:pillager
+[18:17:38] [main/INFO]: Loaded boss variant for: minecraft:vex
+[18:17:38] [main/INFO]: Loaded boss variant for: minecraft:evoker
+[18:17:38] [main/INFO]: Loaded boss variant for: minecraft:zombie
+[18:17:38] [main/INFO]: Loaded boss variant for: minecraft:vindicator
+[18:17:38] [main/INFO]: Loaded boss variant for: minecraft:wither_skeleton
+[18:17:38] [main/INFO]: Loaded boss variant for: minecraft:wither_skeleton
+[18:17:38] [main/INFO]: Loaded boss variant for: minecraft:cave_spider
+[18:17:38] [main/INFO]: Loaded boss variant for: minecraft:zombie
+[18:17:38] [main/INFO]: Loaded boss variant for: minecraft:husk
+[18:17:38] [main/INFO]: Loaded boss variant for: minecraft:evoker
+[18:17:38] [main/INFO]: Loaded boss variant for: minecraft:wandering_trader
+[18:17:38] [main/INFO]: Loaded boss variant for: minecraft:guardian
+[18:17:38] [main/INFO]: Loaded boss variant for: minecraft:vindicator
+[18:17:38] [main/INFO]: Loaded boss variant for: minecraft:shulker
+[18:17:38] [main/INFO]: Loaded boss variant for: minecraft:zoglin
+[18:17:38] [main/INFO]: Loaded boss variant for: minecraft:chicken
+[18:17:38] [main/INFO]: Loaded boss variant for: minecraft:blaze
+[18:17:38] [main/INFO]: Loaded boss variant for: minecraft:witch
+[18:17:38] [main/INFO]: Loaded boss variant for: minecraft:phantom
+[18:17:38] [main/INFO]: Loaded boss variant for: minecraft:mooshroom
+[18:17:38] [main/INFO]: Loaded boss variant for: minecraft:rabbit
+[18:17:38] [main/INFO]: Loaded boss variant for: minecraft:piglin_brute
+[18:17:38] [main/INFO]: Loaded boss variant for: minecraft:ghast
+[18:17:38] [main/INFO]: Loaded boss variant for: minecraft:stray
+[18:17:38] [main/INFO]: Ice And Fire common config version match.
+[18:17:38] [main/INFO]: Successfully reload 2 server config(s).
+[18:17:38] [main/INFO]: Reloading config...
+[18:17:38] [main/WARN]: Could not decode GlobalLootModifier with json id supplementaries:ash_from_burning_mobs - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: moonlight:add_item
+[18:17:38] [main/WARN]: Could not decode GlobalLootModifier with json id supplementaries:straw_from_flax - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: moonlight:add_item
+[18:17:38] [main/WARN]: Could not decode GlobalLootModifier with json id supplementaries:fishing_antique_ink - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: moonlight:add_item
+[18:17:38] [main/WARN]: Could not decode GlobalLootModifier with json id supplementaries:fishing_antique_ink_treasure - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: moonlight:add_item
+[18:17:38] [main/WARN]: Could not decode GlobalLootModifier with json id supplementaries:replace_rope - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: supplementaries:replace_rope
+[18:17:38] [main/INFO]: Loaded 44 chiseling recipes
+[18:17:38] [main/INFO]: Loaded 27 flute songs
+[18:17:38] [main/INFO]: Loaded 9 Stalactite configs!
+[18:17:38] [main/INFO]: Deserializing default trades of profession: villagersplus:alchemist
+[18:17:38] [main/INFO]: Deserializing default trades of profession: villagersplus:horticulturist
+[18:17:38] [main/INFO]: Deserializing default trades of profession: villagersplus:occultist
+[18:17:38] [main/INFO]: Deserializing default trades of profession: villagersplus:oceanographer
+[18:17:38] [main/INFO]: Reloading grave shape (server)
+[18:17:38] [main/INFO]: Grave model and shape reload successful (server)
+[18:17:38] [main/INFO]: Reloading YIGD graveyard data (server)
+[18:17:38] [main/INFO]: Graveyard data successfully reloaded (server)
+[18:17:38] [main/INFO]: Reloading YIGD grave area overrides (server)
+[18:17:38] [main/INFO]: Grave area overrides successfully reloaded (server)
+[18:17:39] [main/INFO]: Applied 7 data villager trades
+[18:17:39] [main/INFO]: Finished additional setup in 0 ms
+[18:17:40] [main/INFO]: Initialized TerraBlender biomes for level stem minecraft:overworld
+[18:17:40] [main/INFO]: Initialized TerraBlender biomes for level stem minecraft:the_nether
+[18:17:40] [main/INFO]: Applied 5408 biome modifications to 277 of 277 new biomes in 136.5 ms
+[18:17:40] [Server thread/INFO]: Loading server config for easyanvils
+[18:17:40] [Server thread/INFO]: Loading server config for easymagic
+[18:17:41] [Server thread/INFO]: Scanning class appeng.server.testplots.TestPlots for plots
+[18:17:41] [Server thread/INFO]: Scanning class appeng.server.testplots.AutoCraftingTestPlots for plots
+[18:17:41] [Server thread/INFO]: Scanning class appeng.server.testplots.InscriberTestPlots for plots
+[18:17:41] [Server thread/INFO]: Scanning class appeng.server.testplots.P2PTestPlots for plots
+[18:17:41] [Server thread/INFO]: Scanning class appeng.server.testplots.ItemP2PTestPlots for plots
+[18:17:41] [Server thread/INFO]: Scanning class appeng.server.testplots.MemoryCardTestPlots for plots
+[18:17:41] [Server thread/INFO]: Scanning class appeng.server.testplots.PatternProviderLockModePlots for plots
+[18:17:41] [Server thread/INFO]: Scanning class appeng.server.testplots.PatternProviderPlots for plots
+[18:17:41] [Server thread/INFO]: Scanning class appeng.server.testplots.SpatialTestPlots for plots
+[18:17:41] [Server thread/INFO]: Scanning class appeng.server.testplots.QnbTestPlots for plots
+[18:17:41] [Server thread/INFO]: Scanning class appeng.server.testplots.GuidebookPlot for plots
+[18:17:41] [Server thread/INFO]: Scanning class appeng.server.testplots.SubnetPlots for plots
+[18:17:41] [Server thread/INFO]: Scanning class appeng.server.testplots.ChannelTests for plots
+[18:17:41] [Server thread/INFO]: Scanning class appeng.server.testplots.AnnihilationPlaneTests for plots
+[18:17:41] [Server thread/INFO]: Starting minecraft server version 1.20.1
+[18:17:41] [Server thread/INFO]: Loading properties
+[18:17:41] [Server thread/INFO]: Default game type: SURVIVAL
+[18:17:41] [Server thread/INFO]: Generating keypair
+[18:17:41] [Server thread/INFO]: Starting Minecraft server on *:25565
+[18:17:41] [Server thread/INFO]: Using epoll channel type
+[18:17:41] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[18:17:41] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[18:17:41] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[18:17:41] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[18:17:41] [Server thread/INFO]: Preparing level "world"
+[18:17:44] [Server thread/WARN]: Lithium Class Analysis Error: Class com.simibubi.create.content.kinetics.waterwheel.WaterWheelStructuralBlock cannot be analysed, because getting declared methods crashes with NoClassDefFoundError: net/minecraft/class_638. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @Environment(value=EnvType.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
+[18:17:44] [Server thread/WARN]: Lithium Class Analysis Error: Class com.simibubi.create.content.kinetics.waterwheel.WaterWheelStructuralBlock cannot be analysed, because getting declared methods crashes with NoClassDefFoundError: net/minecraft/class_638. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @Environment(value=EnvType.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
+[18:17:44] [Server thread/WARN]: Lithium Class Analysis Error: Class com.simibubi.create.content.kinetics.waterwheel.WaterWheelStructuralBlock cannot be analysed, because getting declared methods crashes with NoClassDefFoundError: net/minecraft/class_638. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @Environment(value=EnvType.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
+[18:17:44] [Server thread/WARN]: Lithium Class Analysis Error: Class com.simibubi.create.content.kinetics.waterwheel.WaterWheelStructuralBlock cannot be analysed, because getting declared methods crashes with NoClassDefFoundError: net/minecraft/class_638. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @Environment(value=EnvType.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
+[18:17:44] [Server thread/WARN]: Lithium Class Analysis Error: Class com.simibubi.create.content.kinetics.waterwheel.WaterWheelStructuralBlock cannot be analysed, because getting declared methods crashes with NoClassDefFoundError: net/minecraft/class_638. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @Environment(value=EnvType.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
+[18:17:44] [Server thread/WARN]: Lithium Class Analysis Error: Class com.simibubi.create.content.kinetics.waterwheel.WaterWheelStructuralBlock cannot be analysed, because getting declared methods crashes with NoClassDefFoundError: net/minecraft/class_638. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @Environment(value=EnvType.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
+[18:17:45] [Server thread/WARN]: Lithium Class Analysis Error: Class com.simibubi.create.content.trains.bogey.AbstractBogeyBlock cannot be analysed, because getting declared methods crashes with NoClassDefFoundError: net/minecraft/class_4587. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @Environment(value=EnvType.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
+[18:17:45] [Server thread/WARN]: Lithium Class Analysis Error: Class com.simibubi.create.content.trains.bogey.AbstractBogeyBlock cannot be analysed, because getting declared methods crashes with NoClassDefFoundError: net/minecraft/class_4587. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @Environment(value=EnvType.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
+[18:17:45] [Server thread/WARN]: Lithium Class Analysis Error: Class com.simibubi.create.content.trains.bogey.AbstractBogeyBlock cannot be analysed, because getting declared methods crashes with NoClassDefFoundError: net/minecraft/class_4587. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @Environment(value=EnvType.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
+[18:17:45] [Server thread/WARN]: Lithium Class Analysis Error: Class com.simibubi.create.content.trains.bogey.AbstractBogeyBlock cannot be analysed, because getting declared methods crashes with NoClassDefFoundError: net/minecraft/class_4587. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @Environment(value=EnvType.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
+[18:17:45] [Server thread/WARN]: Lithium Class Analysis Error: Class com.simibubi.create.content.trains.bogey.AbstractBogeyBlock cannot be analysed, because getting declared methods crashes with NoClassDefFoundError: net/minecraft/class_4587. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @Environment(value=EnvType.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
+[18:17:45] [Server thread/WARN]: Lithium Class Analysis Error: Class com.simibubi.create.content.trains.bogey.AbstractBogeyBlock cannot be analysed, because getting declared methods crashes with NoClassDefFoundError: net/minecraft/class_4587. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @Environment(value=EnvType.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
+[18:17:45] [Server thread/WARN]: Lithium Class Analysis Error: Class com.simibubi.create.content.trains.bogey.AbstractBogeyBlock cannot be analysed, because getting declared methods crashes with NoClassDefFoundError: net/minecraft/class_4587. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @Environment(value=EnvType.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
+[18:17:45] [Server thread/WARN]: Lithium Class Analysis Error: Class com.simibubi.create.content.trains.bogey.AbstractBogeyBlock cannot be analysed, because getting declared methods crashes with NoClassDefFoundError: net/minecraft/class_4587. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @Environment(value=EnvType.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
+[18:17:52] [Server thread/WARN]: Lithium Class Analysis Error: Class twilightforest.block.CloudBlock cannot be analysed, because getting declared methods crashes with NoClassDefFoundError: net/minecraft/class_638. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @Environment(value=EnvType.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
+[18:17:52] [Server thread/WARN]: Lithium Class Analysis Error: Class twilightforest.block.CloudBlock cannot be analysed, because getting declared methods crashes with NoClassDefFoundError: net/minecraft/class_638. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @Environment(value=EnvType.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
+[18:17:52] [Server thread/WARN]: Lithium Class Analysis Error: Class twilightforest.block.CloudBlock cannot be analysed, because getting declared methods crashes with NoClassDefFoundError: net/minecraft/class_638. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @Environment(value=EnvType.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
+[18:17:52] [Server thread/WARN]: Lithium Class Analysis Error: Class twilightforest.block.CloudBlock cannot be analysed, because getting declared methods crashes with NoClassDefFoundError: net/minecraft/class_638. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @Environment(value=EnvType.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
+[18:17:54] [Server thread/WARN]: Lithium Class Analysis Error: Class net.mehvahdjukaar.supplementaries.common.block.blocks.CannonBlock cannot be analysed, because getting declared methods crashes with NoClassDefFoundError: net/minecraft/class_4587. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @Environment(value=EnvType.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
+[18:17:54] [Server thread/WARN]: Lithium Class Analysis Error: Class net.mehvahdjukaar.supplementaries.common.block.blocks.CannonBlock cannot be analysed, because getting declared methods crashes with NoClassDefFoundError: net/minecraft/class_4587. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @Environment(value=EnvType.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
+[18:17:54] [Server thread/WARN]: Lithium Class Analysis Error: Class net.mehvahdjukaar.supplementaries.common.block.blocks.CannonBlock cannot be analysed, because getting declared methods crashes with NoClassDefFoundError: net/minecraft/class_4587. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @Environment(value=EnvType.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
+[18:17:54] [Server thread/WARN]: Lithium Class Analysis Error: Class net.mehvahdjukaar.supplementaries.common.block.blocks.CannonBlock cannot be analysed, because getting declared methods crashes with NoClassDefFoundError: net/minecraft/class_4587. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @Environment(value=EnvType.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
+[18:17:54] [Server thread/WARN]: Lithium Class Analysis Error: Class net.mehvahdjukaar.supplementaries.common.block.blocks.CannonBlock cannot be analysed, because getting declared methods crashes with NoClassDefFoundError: net/minecraft/class_4587. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @Environment(value=EnvType.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
+[18:17:54] [Server thread/WARN]: Lithium Class Analysis Error: Class net.mehvahdjukaar.supplementaries.common.block.blocks.CannonBlock cannot be analysed, because getting declared methods crashes with NoClassDefFoundError: net/minecraft/class_4587. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @Environment(value=EnvType.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
+[18:17:54] [Server thread/WARN]: Lithium Class Analysis Error: Class net.mehvahdjukaar.supplementaries.common.block.blocks.CannonBlock cannot be analysed, because getting declared methods crashes with NoClassDefFoundError: net/minecraft/class_4587. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @Environment(value=EnvType.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
+[18:17:54] [Server thread/WARN]: Lithium Class Analysis Error: Class net.mehvahdjukaar.supplementaries.common.block.blocks.CannonBlock cannot be analysed, because getting declared methods crashes with NoClassDefFoundError: net/minecraft/class_4587. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @Environment(value=EnvType.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
+[18:17:54] [Server thread/WARN]: Lithium Class Analysis Error: Class net.mehvahdjukaar.supplementaries.common.block.blocks.CannonBlock cannot be analysed, because getting declared methods crashes with NoClassDefFoundError: net/minecraft/class_4587. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @Environment(value=EnvType.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
+[18:17:54] [Server thread/WARN]: Lithium Class Analysis Error: Class net.mehvahdjukaar.supplementaries.common.block.blocks.CannonBlock cannot be analysed, because getting declared methods crashes with NoClassDefFoundError: net/minecraft/class_4587. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @Environment(value=EnvType.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
+[18:17:54] [Server thread/WARN]: Lithium Class Analysis Error: Class net.mehvahdjukaar.supplementaries.common.block.blocks.CannonBlock cannot be analysed, because getting declared methods crashes with NoClassDefFoundError: net/minecraft/class_4587. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @Environment(value=EnvType.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
+[18:17:54] [Server thread/WARN]: Lithium Class Analysis Error: Class net.mehvahdjukaar.supplementaries.common.block.blocks.CannonBlock cannot be analysed, because getting declared methods crashes with NoClassDefFoundError: net/minecraft/class_4587. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @Environment(value=EnvType.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
+[18:17:55] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[18:17:55] [Server thread/WARN]: Method overwrite conflict for removeIf in modernfix-common.mixins.json:bugfix.paper_chunk_patches.SortedArraySetMixin from mod modernfix, previously written by me.jellysquid.mods.lithium.mixin.world.chunk_tickets.SortedArraySetMixin. Skipping method.
+[18:17:56] [Server thread/INFO]: Preparing spawn area: 0%
+[18:17:56] [Server thread/INFO]: Preparing spawn area: 0%
+[18:17:56] [Server thread/INFO]: Preparing spawn area: 0%
+[18:17:56] [Server thread/INFO]: Preparing spawn area: 0%
+[18:17:57] [Server thread/INFO]: Preparing spawn area: 0%
+[18:17:57] [Server thread/INFO]: Preparing spawn area: 0%
+[18:17:58] [Server thread/INFO]: Preparing spawn area: 0%
+[18:17:58] [Server thread/INFO]: Preparing spawn area: 20%
+[18:17:59] [Server thread/INFO]: Preparing spawn area: 99%
+[18:17:59] [Server thread/INFO]: Loaded config for: brutalbosses.json
+[18:17:59] [Server thread/INFO]: Time elapsed: 4029 ms
+[18:17:59] [Server thread/INFO]: Done (17.159s)! For help, type "help"
+[18:17:59] [Server thread/WARN]: Dedicated server took 65.698 seconds to load
+[18:17:59] [Server thread/INFO]: [Dynamic Lights] Sending global config to server...
+[18:17:59] [Server thread/INFO]: [STDOUT]: PREPARING FOR RELOAD
+[18:17:59] [Server thread/INFO]: Start loading plugin from Applied Energistics 2
+[18:17:59] [Server thread/INFO]: Start loading plugin from Ice And Fire Community Edition
+[18:17:59] [Server thread/INFO]: Start loading plugin from Infinity Buttons
+[18:17:59] [Server thread/INFO]: Start loading plugin from Jade
+[18:17:59] [Server thread/INFO]: Start loading plugin from Jade
+[18:17:59] [Server thread/INFO]: Start loading plugin from Jade
+[18:17:59] [Server thread/INFO]: Start loading plugin from Supplementaries
+[18:17:59] [Server thread/INFO]: Start loading plugin from HT's TreeChop
+[18:17:59] [Server thread/INFO]: Start loading plugin from The Twilight Forest
+[18:17:59] [Server thread/INFO]: Start loading plugin from Waystones
+[18:17:59] [Server thread/INFO]: UDP server is started on /[0:0:0:0:0:0:0:0]:25565
+[18:18:10] [Server thread/INFO]: DjGuetta11[/100.71.91.78:58099] logged in with entity id 61 at (3275.9830015586913, 74.0, -1300.8167055023805)
+[18:18:10] [Server thread/INFO]: Syncing config to DjGuetta11 (02ab1a57-0edd-3713-9f58-15ec834d0062)
+[18:18:10] [Server thread/INFO]: Loading config from file...
+[18:18:11] [Server thread/INFO]: DjGuetta11 joined the game
+[18:18:13] [Netty Epoll Server IO #5/INFO]: Priority overwritten for player DjGuetta11. Claiming: GRAVE / Robbing: INVENTORY
+[18:18:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8310ms or 166 ticks behind
+[18:18:38] [Netty Epoll Server IO #3/ERROR]: Exception occurred in netty pipeline
 io.netty.handler.timeout.ReadTimeoutException: null
-[04:55:43] [Netty Epoll Server IO #0/ERROR]: Twilight Forest: Exception occurred in netty pipeline
+[18:18:38] [Netty Epoll Server IO #3/ERROR]: Twilight Forest: Exception occurred in netty pipeline
 io.netty.handler.timeout.ReadTimeoutException: null
-[04:55:43] [Server thread/INFO]: Gindaz lost connection: Disconnected
-[04:55:43] [Server thread/INFO]: Gindaz left the game
-[04:55:54] [Server thread/INFO]: Named entity class_1545['Pipeline Sentry'/186427, l='ServerLevel[world]', x=-1874.66, y=36.11, z=-7.28] died: Pipeline Sentry was slain by MARAVILLA using [MARAVILLA]
-[04:55:58] [Server thread/INFO]: Gindaz[/100.98.201.97:55086] logged in with entity id 197417 at (-1773.0432058801002, 59.231523797587016, -337.9339593296659)
-[04:55:58] [Server thread/INFO]: Syncing config to Gindaz (faa106bb-40b1-3df5-b221-082432d1d867)
-[04:55:58] [Server thread/INFO]: Loading config from file...
-[04:55:58] [Server thread/INFO]: Gindaz joined the game
-[04:55:58] [Netty Epoll Server IO #4/INFO]: Priority overwritten for player Gindaz. Claiming: GRAVE / Robbing: INVENTORY
-[04:56:58] [Netty Epoll Server IO #4/ERROR]: Exception occurred in netty pipeline
-io.netty.handler.timeout.ReadTimeoutException: null
-[04:56:58] [Netty Epoll Server IO #4/ERROR]: Twilight Forest: Exception occurred in netty pipeline
-io.netty.handler.timeout.ReadTimeoutException: null
-[04:56:58] [Server thread/INFO]: Gindaz lost connection: Timed out
-[04:56:58] [Server thread/INFO]: Gindaz left the game
-[05:06:37] [Server thread/INFO]: Villager class_1646['Librarian'/209637, l='ServerLevel[world]', x=3049.75, y=66.00, z=-1227.50] died, message: 'Librarian was sniped by Archer'
-[05:07:31] [Server thread/INFO]: MARAVILLA has completed the challenge [Return to Sender]
-[05:07:40] [Server thread/INFO]: [Not Secure] <DjTwistfly> q le paso
-[05:08:13] [Server thread/INFO]: Named entity class_1621['Toxic Slime'/219278, l='ServerLevel[world]', x=-2502.26, y=-20.00, z=-304.74] died: Toxic Slime was killed
-[05:08:13] [Server thread/INFO]: Named entity class_1621['Toxic Slime'/219279, l='ServerLevel[world]', x=-2496.01, y=-20.00, z=-301.10] died: Toxic Slime was killed
-[05:08:20] [Worker-Main-3/WARN]: Skipped emitting ENTITY_MOUNT game event for entity class_4985['Strider'/226003, l='ServerLevel[world]', x=-2440.00, y=31.00, z=-507.00] as it would cause deadlock
-[05:08:20] [Server thread/WARN]: Skipped emitting ENTITY_MOUNT game event for entity class_4985['Strider'/226005, l='ServerLevel[world]', x=-2440.00, y=31.00, z=-507.00] as it would cause deadlock
-[05:08:28] [Server thread/INFO]: Named entity class_1621['Toxic Slime'/219952, l='ServerLevel[world]', x=-2488.04, y=-20.00, z=-276.44] died: Toxic Slime was killed
-[05:08:32] [Server thread/INFO]: Named entity class_1621['Toxic Slime'/220094, l='ServerLevel[world]', x=-2478.78, y=-20.00, z=-361.10] died: Toxic Slime was killed
-[05:08:36] [Server thread/INFO]: Gindaz[/100.98.201.97:65384] logged in with entity id 226628 at (-1773.0432058801002, 59.231523797587016, -337.9339593296659)
-[05:08:36] [Server thread/INFO]: Syncing config to Gindaz (faa106bb-40b1-3df5-b221-082432d1d867)
-[05:08:36] [Server thread/INFO]: Loading config from file...
-[05:08:36] [Server thread/INFO]: Gindaz joined the game
-[05:08:39] [Netty Epoll Server IO #6/INFO]: Priority overwritten for player Gindaz. Claiming: GRAVE / Robbing: INVENTORY
-[05:09:33] [Server thread/INFO]: Named entity class_1639['Fenire the Fiery'/226016, l='ServerLevel[world]', x=-2512.35, y=58.00, z=-503.66] died: Fenire the Fiery was slain by MARAVILLA using [MARAVILLA]
-[05:09:37] [Netty Epoll Server IO #6/ERROR]: Exception occurred in netty pipeline
-io.netty.handler.timeout.ReadTimeoutException: null
-[05:09:37] [Netty Epoll Server IO #6/ERROR]: Twilight Forest: Exception occurred in netty pipeline
-io.netty.handler.timeout.ReadTimeoutException: null
-[05:09:37] [Server thread/INFO]: Gindaz lost connection: Timed out
-[05:09:37] [Server thread/INFO]: Gindaz left the game
-[05:10:18] [Worker-Main-1/WARN]: Skipped emitting ENTITY_MOUNT game event for entity class_4985['Strider'/232212, l='ServerLevel[world]', x=-2572.00, y=31.00, z=-666.00] as it would cause deadlock
-[05:10:18] [Server thread/WARN]: Skipped emitting ENTITY_MOUNT game event for entity class_4985['Strider'/232215, l='ServerLevel[world]', x=-2572.00, y=31.00, z=-666.00] as it would cause deadlock
-[05:10:41] [Server thread/INFO]: [Not Secure] <DjGuetta11> Andrei, según reddit, se pueden conseguir entre la 0 y la 20
-[05:10:42] [Server thread/INFO]: [Not Secure] <MARAVILLA> de que
-[05:10:44] [Server thread/INFO]: [Not Secure] <DjGuetta11> en cuanto a altura
-[05:10:56] [Server thread/INFO]: [Not Secure] <DjTwistfly> no sea sapo roymer
-[05:11:05] [Server thread/INFO]: [Not Secure] <DjTwistfly> pero en esta version?
-[05:12:05] [Worker-Main-1/WARN]: Skipped emitting ENTITY_MOUNT game event for entity class_4985['Strider'/235411, l='ServerLevel[world]', x=-2695.00, y=58.00, z=-507.00] as it would cause deadlock
-[05:12:28] [Server thread/INFO]: Named entity class_1621['Toxic Slime'/231488, l='ServerLevel[world]', x=-2625.77, y=-20.00, z=-548.26] died: Toxic Slime was killed
-[05:13:17] [Server thread/WARN]: Skipped emitting ENTITY_MOUNT game event for entity class_4985['Strider'/237275, l='ServerLevel[world]', x=-2695.00, y=58.00, z=-507.00] as it would cause deadlock
-[05:13:51] [Server thread/INFO]: Gindaz[/100.98.201.97:61700] logged in with entity id 238104 at (-1773.0432058801002, 59.231523797587016, -337.9339593296659)
-[05:13:51] [Server thread/INFO]: Syncing config to Gindaz (faa106bb-40b1-3df5-b221-082432d1d867)
-[05:13:51] [Server thread/INFO]: Loading config from file...
-[05:13:51] [Server thread/INFO]: Gindaz joined the game
-[05:13:52] [Server thread/INFO]: Named entity class_1621['Toxic Slime'/233974, l='ServerLevel[world]', x=-2640.18, y=-20.00, z=-623.24] died: Toxic Slime was killed
-[05:13:52] [Netty Epoll Server IO #0/INFO]: Priority overwritten for player Gindaz. Claiming: GRAVE / Robbing: INVENTORY
-[05:15:36] [Server thread/INFO]: Named entity class_1621['Toxic Slime'/236903, l='ServerLevel[world]', x=-2654.50, y=-20.00, z=-663.50] died: Toxic Slime was killed
-[05:15:49] [Server thread/INFO]: DjTwistfly was obliterated by a sonically-charged shriek
-[05:16:02] [Server thread/INFO]: Gindaz claimed a grave belonging to Gindaz at -1773, 92, -334, minecraft:the_nether
-[05:17:17] [Server thread/INFO]: DjTwistfly was slain by Gowl the Mad
-[05:17:23] [Server thread/INFO]: DjTwistfly lost connection: Timed out
-[05:17:23] [Server thread/INFO]: DjTwistfly left the game
-[05:19:13] [Server thread/INFO]: DjTwistfly[/100.95.48.32:59060] logged in with entity id 247183 at (-6381.3949497572285, 29.06383597911215, -71.70377214011653)
-[05:19:14] [Server thread/INFO]: Syncing config to DjTwistfly (ce1a9492-5b4d-3fbb-9f7e-c74699881e3b)
-[05:19:14] [Server thread/INFO]: Loading config from file...
-[05:19:14] [Server thread/INFO]: DjTwistfly joined the game
-[05:19:14] [Netty Epoll Server IO #2/INFO]: Priority overwritten for player DjTwistfly. Claiming: GRAVE / Robbing: INVENTORY
-[05:19:37] [Server thread/INFO]: Gindaz lost connection: Timed out
-[05:19:37] [Server thread/INFO]: Gindaz left the game
-[05:23:25] [Server thread/INFO]: DjTwistfly fell from a high place
-[05:23:54] [Server thread/INFO]: [Not Secure] <DjGuetta11> XD
-[05:23:59] [Server thread/INFO]: DjTwistfly was shot by Skeleton
-[05:23:59] [Server thread/INFO]: Did not backup data (grave data empty)
-[05:24:01] [Server thread/INFO]: Named entity class_1621['Toxic Slime'/258524, l='ServerLevel[world]', x=-2550.74, y=-20.00, z=-299.26] died: Toxic Slime was killed
-[05:24:14] [Server thread/INFO]: DjTwistfly was slain by Zombie
-[05:25:22] [Server thread/INFO]: Named entity class_1621['Toxic Slime'/258780, l='ServerLevel[world]', x=-2499.74, y=-20.00, z=-310.20] died: Toxic Slime was killed
-[05:25:40] [Server thread/INFO]: DjTwistfly was shot by Skeleton
-[05:25:40] [Server thread/INFO]: Did not backup data (grave data empty)
-[05:25:49] [Server thread/INFO]: DjTwistfly claimed a grave belonging to DjTwistfly at -6382, 29, -72, minecraft:overworld
-[05:25:51] [Server thread/INFO]: DjTwistfly claimed a grave belonging to DjTwistfly at -6385, 29, -76, minecraft:overworld
-[05:25:55] [Server thread/INFO]: DjTwistfly was slain by Zombie
-[05:25:55] [Server thread/INFO]: Did not backup data (grave data empty)
-[05:26:09] [Server thread/INFO]: DjTwistfly was slain by Zombie
-[05:26:09] [Server thread/INFO]: Did not backup data (grave data empty)
-[05:26:30] [Worker-Main-2/WARN]: Skipped emitting ENTITY_MOUNT game event for entity class_4985['Strider'/265135, l='ServerLevel[world]', x=-2148.00, y=31.00, z=-470.00] as it would cause deadlock
-[05:26:30] [Server thread/WARN]: Skipped emitting ENTITY_MOUNT game event for entity class_4985['Strider'/265137, l='ServerLevel[world]', x=-2148.00, y=31.00, z=-470.00] as it would cause deadlock
-[05:27:18] [Server thread/INFO]: MARAVILLA was slain by Piglin Brute
-[05:27:46] [Server thread/INFO]: Gindaz[/100.98.201.97:50163] logged in with entity id 267012 at (-1768.893601026011, 61.0, -311.7082984462274)
-[05:27:46] [Server thread/INFO]: Syncing config to Gindaz (faa106bb-40b1-3df5-b221-082432d1d867)
-[05:27:46] [Server thread/INFO]: Loading config from file...
-[05:27:46] [Server thread/INFO]: Gindaz joined the game
-[05:27:47] [Netty Epoll Server IO #4/INFO]: Priority overwritten for player Gindaz. Claiming: GRAVE / Robbing: INVENTORY
-[05:28:30] [Server thread/INFO]: MARAVILLA was slain by Headless Warrior
-[05:28:46] [Server thread/INFO]: MARAVILLA was slain by Headless Warrior
-[05:28:46] [Server thread/INFO]: Did not backup data (grave data empty)
-[05:29:10] [Server thread/INFO]: MARAVILLA claimed a grave belonging to MARAVILLA at -153, 60, -38, minecraft:the_nether
-[05:31:25] [Server thread/WARN]: DjTwistfly moved too quickly! -0.004916706099947987,20.580000013113022,-0.09543094199167967
-[05:31:25] [Server thread/WARN]: DjTwistfly moved too quickly! 0.0,20.580000013113022,0.0
-[05:31:25] [Server thread/WARN]: DjTwistfly moved too quickly! 0.0,20.580000013113022,0.0
-[05:31:26] [Server thread/WARN]: DjTwistfly moved too quickly! 0.0,19.580000013113022,0.0
-[05:32:15] [Server thread/INFO]: MARAVILLA tried to swim in lava
-[05:32:23] [Server thread/INFO]: DjTwistfly claimed a grave belonging to DjTwistfly at -6437, -40, -361, minecraft:overworld
-[05:34:23] [Server thread/INFO]: DjTwistfly claimed a grave belonging to DjTwistfly at -6404, -32, -362, minecraft:overworld
-[05:35:17] [Server thread/INFO]: Gindaz lost connection: Timed out
-[05:35:17] [Server thread/INFO]: Gindaz left the game
-[05:37:06] [Server thread/ERROR]: POI data mismatch: already registered at class_2338{x=-1583, y=-40, z=-2369}
-[05:37:14] [Server thread/ERROR]: POI data mismatch: already registered at class_2338{x=-1511, y=-6, z=-2450}
-[05:37:14] [Server thread/ERROR]: POI data mismatch: already registered at class_2338{x=-1510, y=-6, z=-2450}
-[05:37:15] [Server thread/ERROR]: POI data mismatch: already registered at class_2338{x=-1663, y=-1, z=-2467}
-[05:38:05] [Server thread/INFO]: DjTwistfly was obliterated by a sonically-charged shriek
-[05:38:25] [Server thread/INFO]: DjTwistfly claimed a grave belonging to DjTwistfly at -6420, -31, -353, minecraft:overworld
-[05:38:45] [Worker-Main-3/WARN]: Tried to access a block entity before it was created. class_2339{x=-1497, y=-48, z=-2161}
-[05:39:35] [Server thread/INFO]: DjTwistfly was obliterated by a sonically-charged shriek
-[05:39:56] [Server thread/INFO]: Gindaz[/100.98.201.97:51495] logged in with entity id 289546 at (-1632.5183918964262, 31.0, -319.6128598618426)
-[05:39:56] [Server thread/INFO]: Syncing config to Gindaz (faa106bb-40b1-3df5-b221-082432d1d867)
-[05:39:56] [Server thread/INFO]: Loading config from file...
-[05:39:56] [Server thread/INFO]: Gindaz joined the game
-[05:39:57] [Netty Epoll Server IO #6/INFO]: Priority overwritten for player Gindaz. Claiming: GRAVE / Robbing: INVENTORY
-[05:40:00] [Server thread/INFO]: DjTwistfly claimed a grave belonging to DjTwistfly at -6423, -30, -353, minecraft:overworld
-[05:40:25] [Server thread/INFO]: Named entity class_1634['Restless Spirit'/289470, l='ServerLevel[world]', x=-487.91, y=59.92, z=-180.83] died: Restless Spirit starved to death
-[05:40:26] [Server thread/INFO]: DjTwistfly was obliterated by a sonically-charged shriek
-[05:40:37] [Server thread/WARN]: Horse (vehicle of DjTwistfly) moved wrongly! 0.37995187312822054
-[05:40:37] [Server thread/WARN]: Horse (vehicle of DjTwistfly) moved wrongly! 0.4596892956690226
-[05:40:37] [Server thread/WARN]: Horse (vehicle of DjTwistfly) moved wrongly! 0.4596605926956272
-[05:40:37] [Server thread/WARN]: Horse (vehicle of DjTwistfly) moved wrongly! 0.2676877319859159
-[05:40:37] [Server thread/WARN]: Horse (vehicle of DjTwistfly) moved wrongly! 0.3441541413972118
-[05:40:37] [Server thread/WARN]: Horse (vehicle of DjTwistfly) moved wrongly! 0.42055303942402134
-[05:40:38] [Server thread/WARN]: Horse (vehicle of DjTwistfly) moved wrongly! 0.34337347133327967
-[05:40:38] [Server thread/WARN]: Horse (vehicle of DjTwistfly) moved wrongly! 0.41911113914966336
-[05:40:38] [Server thread/WARN]: Horse (vehicle of DjTwistfly) moved wrongly! 0.4947377513935862
-[05:40:38] [Server thread/WARN]: Horse (vehicle of DjTwistfly) moved wrongly! 0.41848202490177755
-[05:40:38] [Server thread/WARN]: Horse (vehicle of DjTwistfly) moved wrongly! 0.49378726244754034
-[05:40:38] [Server thread/WARN]: Horse (vehicle of DjTwistfly) moved wrongly! 0.49216144463389355
-[05:40:49] [Server thread/INFO]: DjTwistfly claimed a grave belonging to DjTwistfly at -6422, -31, -353, minecraft:overworld
-[05:41:27] [Server thread/INFO]: Gindaz lost connection: Timed out
-[05:41:27] [Server thread/INFO]: Gindaz left the game
-[05:43:00] [Server thread/INFO]: Named entity class_1634['Restless Spirit'/294842, l='ServerLevel[world]', x=-668.30, y=78.05, z=-191.85] died: Restless Spirit starved to death
-[05:43:47] [Server thread/INFO]: Named entity class_1634['Restless Spirit'/296284, l='ServerLevel[world]', x=-919.36, y=50.41, z=-60.29] died: Restless Spirit starved to death
-[05:44:36] [Server thread/INFO]: DjTwistfly lost connection: Disconnected
-[05:44:36] [Server thread/INFO]: DjTwistfly left the game
-[05:46:16] [Server thread/INFO]: MARAVILLA was slain by Piglin
-[05:46:37] [Server thread/INFO]: DjTwistfly[/100.95.48.32:59546] logged in with entity id 301570 at (-1321.49438798344, 182.0, 44.36204176376613)
-[05:46:37] [Server thread/INFO]: Syncing config to DjTwistfly (ce1a9492-5b4d-3fbb-9f7e-c74699881e3b)
-[05:46:37] [Server thread/INFO]: Loading config from file...
-[05:46:37] [Server thread/INFO]: DjTwistfly joined the game
-[05:46:40] [Netty Epoll Server IO #1/INFO]: Priority overwritten for player DjTwistfly. Claiming: GRAVE / Robbing: INVENTORY
-[05:51:27] [Server thread/INFO]: Named entity class_1576['Fisk of the Sand'/302219, l='ServerLevel[world]', x=-6455.30, y=-38.00, z=-343.50] died: Fisk of the Sand was shot by DjTwistfly
-[05:51:44] [Server thread/INFO]: Named entity class_1634['Restless Spirit'/307928, l='ServerLevel[world]', x=-633.15, y=113.47, z=-158.50] died: Restless Spirit starved to death
-[05:51:44] [Server thread/INFO]: Named entity class_1634['Restless Spirit'/307933, l='ServerLevel[world]', x=-659.71, y=92.84, z=-168.34] died: Restless Spirit starved to death
-[05:51:57] [Server thread/INFO]: Named entity class_1634['Restless Spirit'/308019, l='ServerLevel[world]', x=-679.89, y=72.05, z=-189.34] died: Restless Spirit starved to death
-[05:52:41] [Server thread/INFO]: Named entity class_1634['Restless Spirit'/309005, l='ServerLevel[world]', x=-915.39, y=38.55, z=-115.51] died: Restless Spirit starved to death
-[05:53:02] [Server thread/INFO]: MARAVILLA was shot by Skeleton
-[05:56:14] [Server thread/INFO]: [Not Secure] <DjGuetta11> toy buscando
-[05:56:18] [Server thread/INFO]: Named entity class_1634['Restless Spirit'/312440, l='ServerLevel[world]', x=-527.76, y=72.06, z=-182.31] died: Restless Spirit starved to death
-[05:56:24] [Server thread/INFO]: [Not Secure] <DjGuetta11> me marcó uno por aquí
-[05:57:50] [Server thread/INFO]: Named entity class_1634['Restless Spirit'/314237, l='ServerLevel[world]', x=-673.06, y=62.30, z=-170.73] died: Restless Spirit starved to death
-[05:57:52] [Server thread/INFO]: Named entity class_1634['Restless Spirit'/314360, l='ServerLevel[world]', x=-656.19, y=96.24, z=-162.34] died: Restless Spirit starved to death
-[05:57:52] [Server thread/INFO]: Named entity class_1634['Restless Spirit'/314362, l='ServerLevel[world]', x=-643.42, y=95.78, z=-169.38] died: Restless Spirit starved to death
-[05:57:58] [Server thread/INFO]: Named entity class_1634['Restless Spirit'/314576, l='ServerLevel[world]', x=-626.64, y=98.01, z=-151.60] died: Restless Spirit starved to death
-[05:58:15] [Server thread/INFO]: DjTwistfly was obliterated by a sonically-charged shriek
-[05:58:37] [Server thread/INFO]: DjTwistfly claimed a grave belonging to DjTwistfly at -6421, -31, -353, minecraft:overworld
-[05:58:48] [Server thread/INFO]: MARAVILLA claimed a grave belonging to MARAVILLA at -876, 42, -104, minecraft:the_nether
-[05:59:40] [Server thread/INFO]: MARAVILLA was doomed to fall by Piglin
-[06:04:11] [Server thread/INFO]: Named entity class_1549['Arag the Lurker'/315525, l='ServerLevel[world]', x=-6401.95, y=0.00, z=-228.96] died: Arag the Lurker was slain by DjTwistfly
-[06:04:33] [Server thread/INFO]: Named entity class_1634['Restless Spirit'/321612, l='ServerLevel[world]', x=-657.75, y=89.36, z=-172.13] died: Restless Spirit starved to death
-[06:04:39] [Server thread/INFO]: Named entity class_1634['Restless Spirit'/321615, l='ServerLevel[world]', x=-648.81, y=95.88, z=-183.67] died: Restless Spirit starved to death
-[06:04:42] [Server thread/INFO]: Named entity class_1634['Restless Spirit'/321576, l='ServerLevel[world]', x=-679.00, y=45.84, z=-173.26] died: Restless Spirit starved to death
-[06:09:40] [Server thread/INFO]: DjTwistfly lost connection: Timed out
-[06:09:40] [Server thread/INFO]: DjTwistfly left the game
-[06:09:47] [Server thread/INFO]: DjGuetta11 lost connection: Timed out
-[06:09:47] [Server thread/INFO]: DjGuetta11 left the game
-[06:12:49] [Server thread/INFO]: MARAVILLA claimed a grave belonging to MARAVILLA at -1256, 77, -206, minecraft:the_nether
-[06:20:30] [Server thread/INFO]: DjTwistfly[/100.95.48.32:55511] logged in with entity id 331675 at (-6362.419769117344, 29.0, -138.77455758768426)
-[06:20:30] [Server thread/INFO]: Syncing config to DjTwistfly (ce1a9492-5b4d-3fbb-9f7e-c74699881e3b)
-[06:20:30] [Server thread/INFO]: Loading config from file...
-[06:20:30] [Server thread/INFO]: DjTwistfly joined the game
-[06:20:31] [Netty Epoll Server IO #2/INFO]: Priority overwritten for player DjTwistfly. Claiming: GRAVE / Robbing: INVENTORY
-[06:26:38] [Server thread/INFO]: MARAVILLA claimed a grave belonging to MARAVILLA at -2170, 33, -459, minecraft:the_nether
-[06:32:58] [Server thread/INFO]: DjGuetta11[/100.71.91.78:60689] logged in with entity id 341390 at (3111.074183899406, -22.0, -1162.1342208632748)
-[06:32:58] [Server thread/INFO]: Syncing config to DjGuetta11 (02ab1a57-0edd-3713-9f58-15ec834d0062)
-[06:32:58] [Server thread/INFO]: Loading config from file...
-[06:32:58] [Server thread/INFO]: DjGuetta11 joined the game
-[06:32:59] [Netty Epoll Server IO #4/INFO]: Priority overwritten for player DjGuetta11. Claiming: GRAVE / Robbing: INVENTORY
-[06:33:38] [Server thread/INFO]: Villager class_1646['Oceanographer'/341479, l='ServerLevel[world]', x=3096.38, y=66.36, z=-1209.70] died, message: 'Oceanographer was sniped by Archer'
-[06:34:59] [Server thread/INFO]: Named entity class_1642['Corvin the Rotten'/341436, l='ServerLevel[world]', x=3106.70, y=-22.00, z=-1162.95] died: Corvin the Rotten was shot by DjGuetta11 using [Lanza penes]
-[06:36:43] [Server thread/INFO]: DjTwistfly lost connection: Disconnected
-[06:36:43] [Server thread/INFO]: DjTwistfly left the game
-[06:38:42] [Server thread/INFO]: DjTwistfly[/100.95.48.32:58307] logged in with entity id 346346 at (-6371.823095458383, 10.0, -361.29182698719575)
-[06:38:42] [Server thread/INFO]: Syncing config to DjTwistfly (ce1a9492-5b4d-3fbb-9f7e-c74699881e3b)
-[06:38:42] [Server thread/INFO]: Loading config from file...
-[06:38:42] [Server thread/INFO]: DjTwistfly joined the game
-[06:38:44] [Netty Epoll Server IO #6/INFO]: Priority overwritten for player DjTwistfly. Claiming: GRAVE / Robbing: INVENTORY
-[06:43:13] [Server thread/WARN]: DjGuetta11 moved wrongly!
-[06:49:00] [pool-7-thread-3/INFO]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_swamp], ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_badlands], ResourceKey[minecraft:worldgen/structure / minecraft:village_snowy], ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_ocean], ResourceKey[minecraft:worldgen/structure / minecraft:village_plains], ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_mountains], ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_birch], ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_oak]] from pos class_2338{x=-1445, y=83, z=-2715}
-[06:49:03] [Server thread/WARN]: DjGuetta11 moved too quickly! -5.028927373195984,6.179770932654478,-7.061527134024345
-[06:49:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4058ms or 81 ticks behind
-[06:49:05] [Server thread/WARN]: DjGuetta11 moved too quickly! -5.580241081588156,0.8531499365937805,-8.70430452672963
-[06:51:02] [Server thread/WARN]: DjGuetta11 moved wrongly!
-[06:52:38] [Server thread/ERROR]: POI data mismatch: already registered at class_2338{x=-1447, y=31, z=-2522}
-[06:52:38] [Server thread/ERROR]: POI data mismatch: already registered at class_2338{x=-1449, y=31, z=-2525}
-[06:52:38] [Server thread/ERROR]: POI data mismatch: already registered at class_2338{x=-1449, y=31, z=-2524}
-[06:52:55] [Server thread/ERROR]: POI data mismatch: already registered at class_2338{x=-1344, y=17, z=-2458}
-[06:53:59] [Server thread/INFO]: Named entity class_1564['Vouzhul the Darkmaster'/363523, l='ServerLevel[world]', x=-1397.70, y=-41.00, z=-2574.70] died: Vouzhul the Darkmaster was slain by MARAVILLA using [MARAVILLA]
-[06:57:14] [Server thread/INFO]: DjTwistfly lost connection: Timed out
-[06:57:14] [Server thread/INFO]: DjTwistfly left the game
-[06:57:16] [Server thread/INFO]: DjGuetta11 lost connection: Timed out
-[06:57:16] [Server thread/INFO]: DjGuetta11 left the game
-[06:58:08] [Server thread/INFO]: Named entity class_1613['Brog the Bulwark'/369886, l='ServerLevel[world]', x=-1504.30, y=-18.13, z=-2445.30] died: Brog the Bulwark was slain by MARAVILLA using [MARAVILLA]
-[06:59:53] [Server thread/INFO]: Named entity class_1428['Evil Chicken'/369928, l='ServerLevel[world]', x=-1537.20, y=52.00, z=-2400.87] died: Evil Chicken was slain by MARAVILLA using [MARAVILLA]
-[07:03:20] [Server thread/INFO]: DjGuetta11[/100.71.91.78:55776] logged in with entity id 375701 at (3321.9395047630364, 32.0, -1205.5873038912941)
-[07:03:20] [Server thread/INFO]: Syncing config to DjGuetta11 (02ab1a57-0edd-3713-9f58-15ec834d0062)
-[07:03:20] [Server thread/INFO]: Loading config from file...
-[07:03:20] [Server thread/INFO]: DjGuetta11 joined the game
-[07:03:20] [Netty Epoll Server IO #0/INFO]: Priority overwritten for player DjGuetta11. Claiming: GRAVE / Robbing: INVENTORY
-[07:03:45] [Server thread/INFO]: [Not Secure] <DjGuetta11> la luz nos dijo: 'Mamense un webo'
-[07:05:50] [Server thread/INFO]: DjGuetta11 lost connection: Timed out
-[07:05:50] [Server thread/INFO]: DjGuetta11 left the game
-[07:06:41] [Server thread/INFO]: DjGuetta11[/100.71.91.78:55057] logged in with entity id 380947 at (3295.977363925752, 17.0, -1189.5942988327859)
-[07:06:41] [Server thread/INFO]: Syncing config to DjGuetta11 (02ab1a57-0edd-3713-9f58-15ec834d0062)
-[07:06:41] [Server thread/INFO]: Loading config from file...
-[07:06:41] [Server thread/INFO]: DjGuetta11 joined the game
-[07:06:41] [Netty Epoll Server IO #3/INFO]: Priority overwritten for player DjGuetta11. Claiming: GRAVE / Robbing: INVENTORY
-[07:10:43] [Server thread/INFO]: Named entity class_1642['Corvin the Rotten'/380076, l='ServerLevel[world]', x=-1554.20, y=-48.00, z=-2477.01] died: Corvin the Rotten was slain by MARAVILLA using [MARAVILLA]
-[07:15:03] [Server thread/WARN]: DjGuetta11 moved wrongly!
-[07:20:40] [pool-7-thread-4/INFO]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_warped], ResourceKey[minecraft:worldgen/structure / minecraft:village_snowy], ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_bamboo], ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_cherry], ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_badlands], ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_mountains], ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_oak], ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_ocean]] from pos class_2338{x=3413, y=94, z=-1493}
-[07:20:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2585ms or 51 ticks behind
-[07:20:43] [Server thread/WARN]: DjGuetta11 moved too quickly! 4.954867175150412,-7.396210777940382,-5.180247816868587
-[07:20:48] [Server thread/WARN]: DjGuetta11 moved too quickly! 4.874278755869909,7.587279592767899,-4.618535297925064
-[07:20:48] [Server thread/WARN]: MARAVILLA moved too quickly! -6.956340445240812,2.0,7.004904889235149
-[07:24:48] [Server thread/INFO]: MARAVILLA lost connection: Disconnected
-[07:24:48] [Server thread/INFO]: MARAVILLA left the game
-[07:26:25] [Server thread/INFO]: DjGuetta11 lost connection: Disconnected
-[07:26:25] [Server thread/INFO]: DjGuetta11 left the game
-[07:26:32] [Server thread/INFO]: Stopping the server
-[07:26:32] [Server thread/INFO]: UDP server is stopped
-[07:26:32] [Server thread/INFO]: Stopping server
-[07:26:32] [Server thread/INFO]: Saving players
-[07:26:32] [Server thread/INFO]: Saving worlds
-[07:26:32] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[07:26:32] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/twilightforest:twilight_forest
-[07:26:32] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[07:26:32] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/iceandfire:dread_land
-[07:26:32] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/deeperdarker:otherside
-[07:26:32] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/the_bumblezone:the_bumblezone
-[07:26:32] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/graveyard:past
-[07:26:32] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[07:26:32] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/ae2:spatial_storage
-[07:26:32] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[07:26:32] [Server thread/INFO]: ThreadedAnvilChunkStorage (twilight_forest): All chunks are saved
-[07:26:32] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[07:26:32] [Server thread/INFO]: ThreadedAnvilChunkStorage (dread_land): All chunks are saved
-[07:26:32] [Server thread/INFO]: ThreadedAnvilChunkStorage (otherside): All chunks are saved
-[07:26:32] [Server thread/INFO]: ThreadedAnvilChunkStorage (the_bumblezone): All chunks are saved
-[07:26:32] [Server thread/INFO]: ThreadedAnvilChunkStorage (past): All chunks are saved
-[07:26:32] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[07:26:32] [Server thread/INFO]: ThreadedAnvilChunkStorage (spatial_storage): All chunks are saved
-[07:26:32] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[18:18:58] [Server thread/INFO]: MARAVILLA[/100.123.118.39:52548] logged in with entity id 1939 at (-1759.699999988079, -24.0, -2919.5869463621543)
+[18:18:58] [Server thread/INFO]: Syncing config to MARAVILLA (6ac97a47-3a39-3751-b4fd-e7e9f31640f7)
+[18:18:58] [Server thread/INFO]: Loading config from file...
+[18:18:58] [Server thread/INFO]: MARAVILLA joined the game
+[18:18:59] [Netty Epoll Server IO #7/INFO]: Priority overwritten for player MARAVILLA. Claiming: GRAVE / Robbing: INVENTORY
+[18:20:57] [Server thread/INFO]: kevin2353hh[/100.95.11.123:50720] logged in with entity id 5171 at (-800.78970700124, 78.0, 8.588415620797935)
+[18:20:57] [Server thread/INFO]: Syncing config to kevin2353hh (7447ad97-9fc9-3db9-9805-556bdd2bcbb4)
+[18:20:57] [Server thread/INFO]: Loading config from file...
+[18:20:57] [Server thread/INFO]: kevin2353hh joined the game
+[18:20:59] [Netty Epoll Server IO #1/INFO]: Priority overwritten for player kevin2353hh. Claiming: GRAVE / Robbing: INVENTORY
+[18:24:44] [Server thread/INFO]: Named entity class_1642['Corvin the Rotten'/6095, l='ServerLevel[world]', x=-1531.50, y=-19.00, z=-3048.76] died: Corvin the Rotten was shot by MARAVILLA using [MARAVILLA]
+[18:25:25] [Server thread/INFO]: DjTwistfly[/100.95.48.32:49917] logged in with entity id 10902 at (-1380.9887050182003, 167.0, 57.36513963099825)
+[18:25:25] [Server thread/INFO]: Syncing config to DjTwistfly (ce1a9492-5b4d-3fbb-9f7e-c74699881e3b)
+[18:25:25] [Server thread/INFO]: Loading config from file...
+[18:25:25] [Server thread/INFO]: DjTwistfly joined the game
+[18:25:28] [Netty Epoll Server IO #3/INFO]: Priority overwritten for player DjTwistfly. Claiming: GRAVE / Robbing: INVENTORY
+[18:25:38] [Server thread/INFO]: kevin2353hh claimed a grave belonging to MARAVILLA at -1656, 75, 435, minecraft:overworld
