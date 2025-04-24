@@ -12722,79 +12722,55 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-23 07:40:20 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_kill": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-23 07:40:20 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-23 07:40:20 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/holy_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-23 07:40:20 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_block": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-23 07:40:20 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/feed_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-23 07:40:20 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-23 07:40:20 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-23 07:40:20 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-23 07:40:20 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_player_hurt": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-23 07:40:20 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-23 07:40:20 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-23 07:40:20 +0000"
-    },
-    "done": false
-  },
   "infinitybuttons:recipes/redstone/cracked_deepslate_tile_secret_button": {
+    "criteria": {
+      "has_thing": "2025-04-23 07:05:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/deepslate_tile_wall_from_deepslate_tiles_stonecutting": {
+    "criteria": {
+      "has_deepslate_tiles": "2025-04-23 07:05:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/deepslate_tile_wall": {
+    "criteria": {
+      "has_deepslate_tiles": "2025-04-23 07:05:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_deepslate_tiles": {
+    "criteria": {
+      "has_deepslate_tiles": "2025-04-23 07:05:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_slab": {
+    "criteria": {
+      "has_deepslate_tiles": "2025-04-23 07:05:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_deepslate_tiles_stonecutting": {
+    "criteria": {
+      "has_deepslate_tiles": "2025-04-23 07:05:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_slab_from_deepslate_tiles_stonecutting": {
+    "criteria": {
+      "has_deepslate_tiles": "2025-04-23 07:05:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_stairs": {
+    "criteria": {
+      "has_deepslate_tiles": "2025-04-23 07:05:18 +0000"
+    },
+    "done": true
+  },
+  "infinitybuttons:recipes/redstone/deepslate_tile_secret_button": {
     "criteria": {
       "has_thing": "2025-04-23 07:05:18 +0000"
     },
@@ -12803,12 +12779,6 @@
   "graveyard:graveyard/crypt": {
     "criteria": {
       "crypt": "2025-04-23 07:05:20 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/deepslate_tile_wall_from_deepslate_tiles_stonecutting": {
-    "criteria": {
-      "has_deepslate_tiles": "2025-04-23 07:05:18 +0000"
     },
     "done": true
   },
@@ -12821,12 +12791,6 @@
   "create:recipes/building_blocks/polished_cut_asurine_stairs_from_stone_types_asurine_stonecutting": {
     "criteria": {
       "has_stone_types_asurine": "2025-04-23 07:26:08 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/deepslate_tile_wall": {
-    "criteria": {
-      "has_deepslate_tiles": "2025-04-23 07:05:18 +0000"
     },
     "done": true
   },
@@ -12866,30 +12830,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/cracked_deepslate_tiles": {
-    "criteria": {
-      "has_deepslate_tiles": "2025-04-23 07:05:18 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/deepslate_tile_slab": {
-    "criteria": {
-      "has_deepslate_tiles": "2025-04-23 07:05:18 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_deepslate_tiles_stonecutting": {
-    "criteria": {
-      "has_deepslate_tiles": "2025-04-23 07:05:18 +0000"
-    },
-    "done": true
-  },
-  "graveyard:graveyard/kill_wraith": {
-    "criteria": {
-      "wraith": "2025-04-23 07:36:12 +0000"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/cut_asurine_slab_from_stone_types_asurine_stonecutting": {
     "criteria": {
       "has_stone_types_asurine": "2025-04-23 07:26:08 +0000"
@@ -12899,12 +12839,6 @@
   "create:recipes/building_blocks/cut_asurine_wall_from_stone_types_asurine_stonecutting": {
     "criteria": {
       "has_stone_types_asurine": "2025-04-23 07:26:08 +0000"
-    },
-    "done": true
-  },
-  "graveyard:graveyard/wraith_dim_light": {
-    "criteria": {
-      "dim_light": "2025-04-23 07:36:18 +0000"
     },
     "done": true
   },
@@ -12944,18 +12878,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/deepslate_tile_slab_from_deepslate_tiles_stonecutting": {
-    "criteria": {
-      "has_deepslate_tiles": "2025-04-23 07:05:18 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/deepslate_tile_stairs": {
-    "criteria": {
-      "has_deepslate_tiles": "2025-04-23 07:05:18 +0000"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/polished_cut_asurine_from_stone_types_asurine_stonecutting": {
     "criteria": {
       "has_stone_types_asurine": "2025-04-23 07:26:08 +0000"
@@ -12974,15 +12896,21 @@
     },
     "done": true
   },
-  "infinitybuttons:recipes/redstone/deepslate_tile_secret_button": {
-    "criteria": {
-      "has_thing": "2025-04-23 07:05:18 +0000"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/layered_asurine_from_stone_types_asurine_stonecutting": {
     "criteria": {
       "has_stone_types_asurine": "2025-04-23 07:26:08 +0000"
+    },
+    "done": true
+  },
+  "graveyard:graveyard/kill_wraith": {
+    "criteria": {
+      "wraith": "2025-04-23 07:36:12 +0000"
+    },
+    "done": true
+  },
+  "graveyard:graveyard/wraith_dim_light": {
+    "criteria": {
+      "dim_light": "2025-04-23 07:36:18 +0000"
     },
     "done": true
   },

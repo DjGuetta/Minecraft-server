@@ -1,16 +1,16 @@
-[06:04:27] [main/INFO]: Loading Minecraft 1.20.1 with Fabric Loader 0.16.10
-[06:04:27] [ForkJoinPool-1-worker-4/WARN]: The mod "openblocks" contains invalid entries in its mod json:
+[03:02:30] [main/INFO]: Loading Minecraft 1.20.1 with Fabric Loader 0.16.10
+[03:02:30] [ForkJoinPool-1-worker-4/WARN]: The mod "openblocks" contains invalid entries in its mod json:
 - Unsupported root entry "client" at line 24 column 11
-[06:04:27] [ForkJoinPool-1-worker-4/WARN]: Mod tectonic uses the version 2.4.1b which isn't compatible with Loader's extended semantic version format (Could not parse version number component '1b'!), SemVer is recommended for reliably evaluating dependencies and prioritizing newer version
-[06:04:27] [ForkJoinPool-1-worker-4/WARN]: Mod mr_dungeons_andtaverns uses the version 3.0.3.f which isn't compatible with Loader's extended semantic version format (Could not parse version number component 'f'!), SemVer is recommended for reliably evaluating dependencies and prioritizing newer version
-[06:04:28] [main/WARN]: Warnings were found!
+[03:02:31] [ForkJoinPool-1-worker-2/WARN]: Mod tectonic uses the version 2.4.1b which isn't compatible with Loader's extended semantic version format (Could not parse version number component '1b'!), SemVer is recommended for reliably evaluating dependencies and prioritizing newer version
+[03:02:31] [ForkJoinPool-1-worker-2/WARN]: Mod mr_dungeons_andtaverns uses the version 3.0.3.f which isn't compatible with Loader's extended semantic version format (Could not parse version number component 'f'!), SemVer is recommended for reliably evaluating dependencies and prioritizing newer version
+[03:02:31] [main/WARN]: Warnings were found!
  - Mod 'Dynamic Lights' (dynamiclights) 1.8.3+mod recommends any version of modmenu, which is missing!
 	 - You should install any version of modmenu for the optimal experience.
  - Mod 'Dynamic Lights' (dynamiclights) 1.8.3+mod recommends any version of modmenu-badges-lib, which is missing!
 	 - You should install any version of modmenu-badges-lib for the optimal experience.
  - Mod 'Simply Swords' (simplyswords) 1.56.0-1.20.1 recommends version 1.7.2 or later of bettercombat, which is missing!
 	 - You should install version 1.7.2 or later of bettercombat for the optimal experience.
-[06:04:28] [main/INFO]: Loading 235 mods:
+[03:02:31] [main/INFO]: Loading 235 mods:
 	- ae2 15.3.3
 	   \-- team_reborn_energy 3.0.0
 	- almanac 1.0.2
@@ -289,167 +289,167 @@
 	- yungsapi 1.20-Fabric-4.0.6
 	   |-- org_javassist_javassist 3.29.2-GA
 	   \-- org_reflections_reflections 0.10.2
-[06:04:28] [main/WARN]: Found 2 non-fabric mods:
+[03:02:31] [main/WARN]: Found 2 non-fabric mods:
 	- spark-1.10.53-forge.jar
 	- another_furniture-forge-1.20.1-3.0.2.jar
-[06:04:28] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/minecraft-server/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.15.4+mixin.0.8.7/sponge-mixin-0.15.4+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
-[06:04:28] [main/INFO]: Compatibility level set to JAVA_11
-[06:04:28] [main/INFO]: Compatibility level set to JAVA_17
-[06:04:29] [main/WARN]: Reference map 'create_connected-refmap.json' for create_connected.mixins.json could not be read. If this is a development environment you can ignore this message
-[06:04:29] [main/WARN]: Reference map 'createdeco-fabric-refmap.json' for createdeco.mixins.json could not be read. If this is a development environment you can ignore this message
-[06:04:29] [main/WARN]: Reference map 'graveyard-FABRIC-fabric-refmap.json' for graveyard-fabric.mixins.json could not be read. If this is a development environment you can ignore this message
-[06:04:29] [main/INFO]: Loaded configuration file for Lithium: 131 options available, 2 override(s) found
-[06:04:29] [main/WARN]: Reference map 'lookinsharp-fabric-1.20.1-fabric-refmap.json' for lookinsharp.mixins.json could not be read. If this is a development environment you can ignore this message
-[06:04:29] [main/WARN]: Reference map 'memoryleakfix-fabric-1.17+-fabric-refmap.json' for memoryleakfix-fabric.mixins.json could not be read. If this is a development environment you can ignore this message
-[06:04:29] [main/INFO]: Loaded configuration file for ModernFix 5.20.2+mc1.20.1: 64 options available, 0 override(s) found
-[06:04:29] [main/INFO]: Applying Nashorn fix
-[06:04:29] [main/WARN]: Reference map 'OctoLib-COMMON-common-refmap.json' for octolib.mixins.json could not be read. If this is a development environment you can ignore this message
-[06:04:29] [main/WARN]: Reference map 'rechiseled.mixins.refmap.json' for rechiseled.mixins.json could not be read. If this is a development environment you can ignore this message
-[06:04:29] [main/WARN]: Reference map 'simplyswords-fabric-refmap.json' for simplyswords.mixins.json could not be read. If this is a development environment you can ignore this message
-[06:04:29] [main/WARN]: Reference map 'supermartijn642configlib.mixins.refmap.json' for supermartijn642configlib.mixins.json could not be read. If this is a development environment you can ignore this message
-[06:04:29] [main/WARN]: Error loading class: net/minecraft/class_881 (java.lang.ClassNotFoundException: net/minecraft/class_881)
-[06:04:29] [main/WARN]: @Mixin target net.minecraft.class_881 was not found porting_lib_base.mixins.json:client.BoatRendererMixin from mod porting_lib_base
-[06:04:29] [main/WARN]: Error loading class: net/minecraft/class_525 (java.lang.ClassNotFoundException: net/minecraft/class_525)
-[06:04:29] [main/WARN]: @Mixin target net.minecraft.class_525 was not found porting_lib_base.mixins.json:client.CreateWorldScreenMixin from mod porting_lib_base
-[06:04:29] [main/WARN]: Error loading class: net/minecraft/class_906 (java.lang.ClassNotFoundException: net/minecraft/class_906)
-[06:04:29] [main/WARN]: @Mixin target net.minecraft.class_906 was not found porting_lib_tool_actions.mixins.json:FishingHookRendererMixin from mod porting_lib_tool_actions
-[06:04:29] [main/WARN]: Error loading class: net/minecraft/class_793 (java.lang.ClassNotFoundException: net/minecraft/class_793)
-[06:04:29] [main/WARN]: @Mixin target net.minecraft.class_793 was not found twilight.mixins.json:BlockModelAccessor from mod twilightforest
-[06:04:30] [main/WARN]: Force-disabling mixin 'alloc.blockstate.StateMixin' as rule 'mixin.alloc.blockstate' (added by mods [ferritecore]) disables it and children
-[06:04:30] [main/WARN]: Force-disabling mixin 'block.moving_block_shapes.PistonBlockEntityMixin' as rule 'mixin.block.moving_block_shapes' (added by mods [supplementaries]) disables it and children
-[06:04:30] [main/WARN]: Force-disabling mixin 'block.moving_block_shapes.VoxelShapeMixin' as rule 'mixin.block.moving_block_shapes' (added by mods [supplementaries]) disables it and children
-[06:04:30] [main/WARN]: Error loading class: fr/catcore/server/translations/api/resource/language/SystemDelegatedLanguage (java.lang.ClassNotFoundException: fr/catcore/server/translations/api/resource/language/SystemDelegatedLanguage)
-[06:04:30] [main/WARN]: Error loading class: vectorwing/farmersdelight/common/block/TomatoVineBlock (java.lang.ClassNotFoundException: vectorwing/farmersdelight/common/block/TomatoVineBlock)
-[06:04:30] [main/WARN]: Error loading class: me/jellysquid/mods/sodium/client/render/chunk/compile/pipeline/FluidRenderer (java.lang.ClassNotFoundException: me/jellysquid/mods/sodium/client/render/chunk/compile/pipeline/FluidRenderer)
-[06:04:30] [main/WARN]: Error loading class: io/wispforest/accessories/impl/AccessoriesEventHandler (java.lang.ClassNotFoundException: io/wispforest/accessories/impl/AccessoriesEventHandler)
-[06:04:30] [main/WARN]: @Mixin target io.wispforest.accessories.impl.AccessoriesEventHandler was not found travelersbackpack.mixins.json:AccessoriesEventHandlerMixin from mod travelersbackpack
-[06:04:30] [main/WARN]: Error loading class: com/beansgalaxy/backpacks/compat/TrinketsRegistry$1 (java.lang.ClassNotFoundException: com/beansgalaxy/backpacks/compat/TrinketsRegistry$1)
-[06:04:30] [main/WARN]: Error loading class: io/github/apace100/apoli/power/KeepInventoryPower (java.lang.ClassNotFoundException: io/github/apace100/apoli/power/KeepInventoryPower)
-[06:04:30] [main/INFO]: [MemoryLeakFix] Will be applying 1 memory leak fixes!
-[06:04:30] [main/INFO]: [MemoryLeakFix] Currently enabled memory leak fixes: [biomeTemperatureLeak]
-[06:04:31] [main/WARN]: Error loading class: net/fabricmc/fabric/api/client/rendering/v1/EntityModelLayerRegistry$TexturedModelDataProvider (java.lang.ClassNotFoundException: net/fabricmc/fabric/api/client/rendering/v1/EntityModelLayerRegistry$TexturedModelDataProvider)
-[06:04:31] [main/WARN]: Error loading class: net/minecraft/class_1163 (java.lang.ClassNotFoundException: net/minecraft/class_1163)
-[06:04:31] [main/WARN]: @Mixin target net.minecraft.class_1163 was not found mixins.mm.json:net.minecraft.class_1163 from mod mm
-[06:04:31] [main/WARN]: Error loading class: net/minecraft/class_1142 (java.lang.ClassNotFoundException: net/minecraft/class_1142)
-[06:04:31] [main/WARN]: @Mixin target net.minecraft.class_1142 was not found mixins.mm.json:net.minecraft.class_1142 from mod mm
-[06:04:31] [main/WARN]: Error loading class: net/minecraft/class_898 (java.lang.ClassNotFoundException: net/minecraft/class_898)
-[06:04:31] [main/WARN]: @Mixin target net.minecraft.class_898 was not found mixins.mm.json:net.minecraft.class_898 from mod mm
-[06:04:31] [main/WARN]: Error loading class: net/minecraft/class_761 (java.lang.ClassNotFoundException: net/minecraft/class_761)
-[06:04:31] [main/WARN]: @Mixin target net.minecraft.class_761 was not found mixins.mm.json:net.minecraft.class_761 from mod mm
-[06:04:31] [main/WARN]: Error loading class: net/minecraft/class_759 (java.lang.ClassNotFoundException: net/minecraft/class_759)
-[06:04:31] [main/WARN]: @Mixin target net.minecraft.class_759 was not found mixins.mm.json:net.minecraft.class_759 from mod mm
-[06:04:31] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
-[06:04:34] [main/INFO]: Injecting BlockStateBase cache population hook into getNeighborPathNodeType from me.jellysquid.mods.lithium.mixin.ai.pathing.AbstractBlockStateMixin
-[06:04:34] [main/INFO]: Injecting BlockStateBase cache population hook into getPathNodeType from me.jellysquid.mods.lithium.mixin.ai.pathing.AbstractBlockStateMixin
-[06:04:34] [main/INFO]: Injecting BlockStateBase cache population hook into getOpacityIfCached from ca.spottedleaf.starlight.mixin.common.blockstate.BlockStateBaseMixin
-[06:04:34] [main/INFO]: Injecting BlockStateBase cache population hook into isConditionallyFullOpaque from ca.spottedleaf.starlight.mixin.common.blockstate.BlockStateBaseMixin
-[06:04:34] [main/INFO]: Injecting BlockStateBase cache population hook into getAllFlags from me.jellysquid.mods.lithium.mixin.util.block_tracking.AbstractBlockStateMixin
-[06:04:37] [main/WARN]: Static binding violation: PRIVATE @Overwrite method method_21740 in modernfix-common.mixins.json:perf.remove_biome_temperature_cache.BiomeMixin from mod modernfix cannot reduce visibiliy of PUBLIC target method, visibility will be upgraded.
-[06:04:37] [main/WARN]: Method overwrite conflict for method_21740 in modernfix-common.mixins.json:perf.remove_biome_temperature_cache.BiomeMixin from mod modernfix, previously written by me.jellysquid.mods.lithium.mixin.world.temperature_cache.BiomeMixin. Skipping method.
-[06:04:38] [main/INFO]: Vanilla bootstrap took 6298 milliseconds
-[06:04:38] [main/INFO]: Loaded config for: cupboard.json
-[06:04:38] [main/INFO]: Loaded config amendments-common.json
-[06:04:38] [main/INFO]: Successfully initialized antixray for fabric
-[06:04:39] [main/INFO]: Registering C2S receiver with id artifacts:networking_channel/42a7ad70b1cc371599a0eff744096b8a
-[06:04:39] [main/INFO]: Registering C2S receiver with id artifacts:networking_channel/74a5e841822a3a87854ae896a33430d6
-[06:04:39] [main/INFO]: Registering C2S receiver with id artifacts:networking_channel/eb3d1e2748533430848cadf0f37c7e9c
-[06:04:39] [main/INFO]: Registering C2S receiver with id artifacts:networking_channel/91c8520f19f93b3e8b6a727568e194ab
-[06:04:39] [main/INFO]: Registering C2S receiver with id artifacts:networking_channel/8c2784d778293fd482ed84b8aa5fedb9
-[06:04:39] [main/INFO]: Registering C2S receiver with id artifacts:networking_channel/ea038224ea783d40b2863f52239e2604
-[06:04:39] [main/INFO]: Registering C2S receiver with id artifacts:networking_channel/97ad64b7ecaf33209991c4f031501a58
-[06:04:39] [main/INFO]: Registering Item Groups for bellsandwhistles
-[06:04:39] [main/INFO]: Create addon mod [Create: Bells & Whistles] is loading alongside Create [0.5.1d]!
-[06:04:39] [main/INFO]: Create: Bells & Whistles is accessinsg Porting Lib from the server!
-[06:04:39] [main/INFO]: Better Archeology says Hello
-[06:04:39] [main/INFO]: Registering Items from betterarcheology
-[06:04:39] [main/INFO]: Registering Blocks from betterarcheology
-[06:04:39] [main/INFO]: ModEntityTypes of betterarcheology registered.
-[06:04:39] [main/INFO]: Registering JEI Recipe Serializers for betterarcheology
-[06:04:39] [main/INFO]: Registering Enchantments for betterarcheology
-[06:04:39] [main/INFO]: Brutal bosses initialized
-[06:04:39] [main/INFO]: Loading Collective version 7.93.
-[06:04:40] [main/WARN]: Method overwrite conflict for getHeldItem in the_bumblezone-common.mixins.json:entities.EntityCollisionContextAccessor from mod the_bumblezone, previously written by me.jellysquid.mods.lithium.mixin.shapes.lazy_shape_context.EntityShapeContextMixin. Skipping method.
-[06:04:40] [main/INFO]: Initializing CreateCopperAndZincMod
-[06:04:40] [main/INFO]: Registering items for Create Deco
-[06:04:40] [main/INFO]: Registering blocks for Create Deco
-[06:04:41] [main/INFO]: Create Deco is accessing Porting Lib on a Fabric server!
-[06:04:41] [main/INFO]: placard tooltip was null
-[06:04:41] [main/INFO]: placard tooltip was null
-[06:04:41] [main/INFO]: placard tooltip was null
-[06:04:41] [main/INFO]: placard tooltip was null
-[06:04:41] [main/INFO]: placard tooltip was null
-[06:04:41] [main/INFO]: placard tooltip was null
-[06:04:41] [main/INFO]: placard tooltip was null
-[06:04:41] [main/INFO]: placard tooltip was null
-[06:04:41] [main/INFO]: placard tooltip was null
-[06:04:41] [main/INFO]: placard tooltip was null
-[06:04:41] [main/INFO]: placard tooltip was null
-[06:04:41] [main/INFO]: placard tooltip was null
-[06:04:41] [main/INFO]: placard tooltip was null
-[06:04:41] [main/INFO]: placard tooltip was null
-[06:04:41] [main/INFO]: placard tooltip was null
-[06:04:41] [main/INFO]: Bypassed Mojang DFU
-[06:04:41] [main/INFO]: Instantiating Mojang DFU
-[06:04:41] [main/ERROR]: No data fixer registered for crystallized_amber
-[06:04:41] [main/ERROR]: No data fixer registered for sculk_jaw
-[06:04:41] [main/INFO]: Constructing common components for diagonalblocks:main
-[06:04:42] [main/INFO]: Constructing common components for diagonalfences:main
-[06:04:42] [main/INFO]: Constructing shapes for DiagonalFenceBlock[NodeWidth=2.0,ExtensionWidth=2.0,NodeTop=24.0,ExtensionBottom=0.0,ExtensionTop=24.0] took 41ms
-[06:04:42] [main/INFO]: Constructing shapes for DiagonalFenceBlock[NodeWidth=2.0,ExtensionWidth=2.0,NodeTop=16.0,ExtensionBottom=0.0,ExtensionTop=16.0] took 43ms
-[06:04:42] [main/INFO]: Constructing shapes for DiagonalFenceBlock[NodeWidth=2.0,ExtensionWidth=1.0,NodeTop=16.0,ExtensionBottom=6.0,ExtensionTop=15.0] took 108ms
-[06:04:42] [main/INFO]: [Dynamic Lights] MidnightLib detected!
-[06:04:42] [main/INFO]: [Dynamic Lights] Registering server started event...
-[06:04:42] [main/INFO]: [Dynamic Lights] Loaded Dynamic Lights by Tschipcraft successfully!
-[06:04:42] [main/INFO]: Constructing common components for easyanvils:main
-[06:04:42] [main/INFO]: Constructing common components for easymagic:main
-[06:04:42] [main/INFO]: ExpandAbility here, who dis?
-[06:04:42] [main/ERROR]: No data fixer registered for anomaly
-[06:04:42] [main/INFO]: Registered JSON trade offer adapter.
-[06:04:42] [main/INFO]: Ice And Fire common config version match.
-[06:04:43] [main/INFO]: Registering C2S receiver with id iceandfire:myrmex_sync
-[06:04:43] [main/INFO]: Registering C2S receiver with id iceandfire:dragon_control
-[06:04:43] [main/INFO]: Registering C2S receiver with id iceandfire:multipart_interact
-[06:04:43] [main/INFO]: Registering C2S receiver with id iceandfire:player_hit_multipart
-[06:04:43] [main/INFO]: Registering C2S receiver with id iceandfire:start_riding_mob_c2s
-[06:04:43] [main/INFO]: [STDOUT]: Registering Sounds for Infinity Buttons
-[06:04:43] [main/INFO]: Registering Particle Types
-[06:04:43] [main/INFO]: Initializing ServerSide Packet Registries
-[06:04:43] [main/INFO]: 1 Jupiter entrypoint(s) detected: jupiter:jupiter
-[06:04:43] [main/INFO]: Initialize mod Library Ferret
-[06:04:43] [main/INFO]: Initialized mod Library Ferret
-[06:04:43] [main/INFO]: Definitely not up to no good
-[06:04:44] [main/INFO]: Giving mobs a fresh coat of paint...
-[06:04:44] [main/INFO]: [STDOUT]: All 1 have been set properly
-[06:04:44] [main/INFO]: Noaaan: I'm talking to my inner demons. Which is all of you
-[06:04:44] [main/INFO]: Constructing common components for puzzleslib:main
-[06:04:45] [main/INFO]: [STDOUT]: /workspaces/minecraft-server/servidor_minecraft/config
-[06:04:45] [Thread-5/INFO]: Starting to fetch sponsor list.
-[06:04:45] [main/INFO]: Loaded config supplementaries-common.json
-[06:04:45] [main/INFO]: Registered region minecraft:overworld to index 0 for type OVERWORLD
-[06:04:45] [main/INFO]: Registered region minecraft:nether to index 0 for type NETHER
-[06:04:45] [main/INFO]: Registered region biomesoplenty:overworld_primary to index 1 for type OVERWORLD
-[06:04:45] [main/INFO]: Registered region biomesoplenty:overworld_secondary to index 2 for type OVERWORLD
-[06:04:45] [main/INFO]: Registered region biomesoplenty:overworld_rare to index 3 for type OVERWORLD
-[06:04:45] [main/INFO]: Registered region biomesoplenty:nether_common to index 1 for type NETHER
-[06:04:45] [main/INFO]: Registered region biomesoplenty:nether_rare to index 2 for type NETHER
-[06:04:45] [Thread-5/INFO]: Successfully fetch sponsor list.
-[06:04:46] [main/INFO]: Registered the FluidEffect with Unique ID of minecraft:water for minecraft:water 81000 with the ID 0
-[06:04:46] [main/INFO]: Registered the FluidEffect with Unique ID of minecraft:lava for minecraft:lava 81000 with the ID 1
-[06:04:46] [main/INFO]: Registered the FluidEffect with Unique ID of travelersbackpack:potion for travelersbackpack:potion_still 27000 with the ID 2
-[06:04:46] [main/INFO]: Registered the FluidEffect with Unique ID of travelersbackpack:milk for travelersbackpack:milk_still 81000 with the ID 3
-[06:04:47] [main/INFO]: Registered JSON trade offer adapter.
-[06:04:47] [main/INFO]: Reflections took 55 ms to scan 1 urls, producing 1 keys and 4 values
-[06:04:47] [main/INFO]: Reflections took 4 ms to scan 1 urls, producing 1 keys and 4 values
-[06:04:48] [main/INFO]: Initialized block sets in 28ms
-[06:04:48] [main/INFO]: Loaded config moonlight-common.json
-[06:04:48] [main/INFO]: Initialized color sets in 94ms
-[06:04:48] [main/INFO]: Finished mod setup in: [9, 0, 0, 1, 0, 0, 29, 8, 1] ms
-[06:04:48] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[06:04:48] [main/INFO]: Generated runtime SERVER_DATA for pack Supplementaries Generated Pack (supplementaries) in: 29 ms
-[06:04:51] [main/INFO]: [fabric-registry-sync] Loaded registry data [file 1/4]
-[06:04:52] [Worker-Main-3/ERROR]: Couldn't load tag supplementaries:lunch_basket_blacklist as it is missing following references: potionbundles:potion_bundle (from fabric)
-[06:04:52] [Worker-Main-2/ERROR]: Couldn't load tag create:safe_nbt as it is missing following references: create_connected:linked_stone_button (from fabric), create_connected:linked_polished_blackstone_button (from fabric), create_connected:linked_oak_button (from fabric), create_connected:linked_spruce_button (from fabric), create_connected:linked_birch_button (from fabric), create_connected:linked_acacia_button (from fabric), create_connected:linked_cherry_button (from fabric), create_connected:linked_jungle_button (from fabric), create_connected:linked_dark_oak_button (from fabric), create_connected:linked_crimson_button (from fabric), create_connected:linked_warped_button (from fabric), create_connected:linked_mangrove_button (from fabric), create_connected:linked_bamboo_button (from fabric), create_connected:linked_lever (from fabric), create_connected:linked_analog_lever (from fabric)
-[06:04:54] [Worker-Main-3/ERROR]: Couldn't parse element loot_tables:create_connected:blocks/encased_chain_cogwheel
+[03:02:32] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/minecraft-server/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.15.4+mixin.0.8.7/sponge-mixin-0.15.4+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
+[03:02:32] [main/INFO]: Compatibility level set to JAVA_11
+[03:02:32] [main/INFO]: Compatibility level set to JAVA_17
+[03:02:32] [main/WARN]: Reference map 'create_connected-refmap.json' for create_connected.mixins.json could not be read. If this is a development environment you can ignore this message
+[03:02:32] [main/WARN]: Reference map 'createdeco-fabric-refmap.json' for createdeco.mixins.json could not be read. If this is a development environment you can ignore this message
+[03:02:32] [main/WARN]: Reference map 'graveyard-FABRIC-fabric-refmap.json' for graveyard-fabric.mixins.json could not be read. If this is a development environment you can ignore this message
+[03:02:32] [main/INFO]: Loaded configuration file for Lithium: 131 options available, 2 override(s) found
+[03:02:32] [main/WARN]: Reference map 'lookinsharp-fabric-1.20.1-fabric-refmap.json' for lookinsharp.mixins.json could not be read. If this is a development environment you can ignore this message
+[03:02:32] [main/WARN]: Reference map 'memoryleakfix-fabric-1.17+-fabric-refmap.json' for memoryleakfix-fabric.mixins.json could not be read. If this is a development environment you can ignore this message
+[03:02:32] [main/INFO]: Loaded configuration file for ModernFix 5.20.2+mc1.20.1: 64 options available, 0 override(s) found
+[03:02:32] [main/INFO]: Applying Nashorn fix
+[03:02:32] [main/WARN]: Reference map 'OctoLib-COMMON-common-refmap.json' for octolib.mixins.json could not be read. If this is a development environment you can ignore this message
+[03:02:32] [main/WARN]: Reference map 'rechiseled.mixins.refmap.json' for rechiseled.mixins.json could not be read. If this is a development environment you can ignore this message
+[03:02:32] [main/WARN]: Reference map 'simplyswords-fabric-refmap.json' for simplyswords.mixins.json could not be read. If this is a development environment you can ignore this message
+[03:02:32] [main/WARN]: Reference map 'supermartijn642configlib.mixins.refmap.json' for supermartijn642configlib.mixins.json could not be read. If this is a development environment you can ignore this message
+[03:02:33] [main/WARN]: Error loading class: net/minecraft/class_881 (java.lang.ClassNotFoundException: net/minecraft/class_881)
+[03:02:33] [main/WARN]: @Mixin target net.minecraft.class_881 was not found porting_lib_base.mixins.json:client.BoatRendererMixin from mod porting_lib_base
+[03:02:33] [main/WARN]: Error loading class: net/minecraft/class_525 (java.lang.ClassNotFoundException: net/minecraft/class_525)
+[03:02:33] [main/WARN]: @Mixin target net.minecraft.class_525 was not found porting_lib_base.mixins.json:client.CreateWorldScreenMixin from mod porting_lib_base
+[03:02:33] [main/WARN]: Error loading class: net/minecraft/class_906 (java.lang.ClassNotFoundException: net/minecraft/class_906)
+[03:02:33] [main/WARN]: @Mixin target net.minecraft.class_906 was not found porting_lib_tool_actions.mixins.json:FishingHookRendererMixin from mod porting_lib_tool_actions
+[03:02:33] [main/WARN]: Error loading class: net/minecraft/class_793 (java.lang.ClassNotFoundException: net/minecraft/class_793)
+[03:02:33] [main/WARN]: @Mixin target net.minecraft.class_793 was not found twilight.mixins.json:BlockModelAccessor from mod twilightforest
+[03:02:33] [main/WARN]: Force-disabling mixin 'alloc.blockstate.StateMixin' as rule 'mixin.alloc.blockstate' (added by mods [ferritecore]) disables it and children
+[03:02:33] [main/WARN]: Force-disabling mixin 'block.moving_block_shapes.PistonBlockEntityMixin' as rule 'mixin.block.moving_block_shapes' (added by mods [supplementaries]) disables it and children
+[03:02:33] [main/WARN]: Force-disabling mixin 'block.moving_block_shapes.VoxelShapeMixin' as rule 'mixin.block.moving_block_shapes' (added by mods [supplementaries]) disables it and children
+[03:02:34] [main/WARN]: Error loading class: fr/catcore/server/translations/api/resource/language/SystemDelegatedLanguage (java.lang.ClassNotFoundException: fr/catcore/server/translations/api/resource/language/SystemDelegatedLanguage)
+[03:02:34] [main/WARN]: Error loading class: vectorwing/farmersdelight/common/block/TomatoVineBlock (java.lang.ClassNotFoundException: vectorwing/farmersdelight/common/block/TomatoVineBlock)
+[03:02:34] [main/WARN]: Error loading class: me/jellysquid/mods/sodium/client/render/chunk/compile/pipeline/FluidRenderer (java.lang.ClassNotFoundException: me/jellysquid/mods/sodium/client/render/chunk/compile/pipeline/FluidRenderer)
+[03:02:34] [main/WARN]: Error loading class: io/wispforest/accessories/impl/AccessoriesEventHandler (java.lang.ClassNotFoundException: io/wispforest/accessories/impl/AccessoriesEventHandler)
+[03:02:34] [main/WARN]: @Mixin target io.wispforest.accessories.impl.AccessoriesEventHandler was not found travelersbackpack.mixins.json:AccessoriesEventHandlerMixin from mod travelersbackpack
+[03:02:34] [main/WARN]: Error loading class: com/beansgalaxy/backpacks/compat/TrinketsRegistry$1 (java.lang.ClassNotFoundException: com/beansgalaxy/backpacks/compat/TrinketsRegistry$1)
+[03:02:34] [main/WARN]: Error loading class: io/github/apace100/apoli/power/KeepInventoryPower (java.lang.ClassNotFoundException: io/github/apace100/apoli/power/KeepInventoryPower)
+[03:02:34] [main/INFO]: [MemoryLeakFix] Will be applying 1 memory leak fixes!
+[03:02:34] [main/INFO]: [MemoryLeakFix] Currently enabled memory leak fixes: [biomeTemperatureLeak]
+[03:02:34] [main/WARN]: Error loading class: net/fabricmc/fabric/api/client/rendering/v1/EntityModelLayerRegistry$TexturedModelDataProvider (java.lang.ClassNotFoundException: net/fabricmc/fabric/api/client/rendering/v1/EntityModelLayerRegistry$TexturedModelDataProvider)
+[03:02:34] [main/WARN]: Error loading class: net/minecraft/class_1163 (java.lang.ClassNotFoundException: net/minecraft/class_1163)
+[03:02:34] [main/WARN]: @Mixin target net.minecraft.class_1163 was not found mixins.mm.json:net.minecraft.class_1163 from mod mm
+[03:02:34] [main/WARN]: Error loading class: net/minecraft/class_1142 (java.lang.ClassNotFoundException: net/minecraft/class_1142)
+[03:02:34] [main/WARN]: @Mixin target net.minecraft.class_1142 was not found mixins.mm.json:net.minecraft.class_1142 from mod mm
+[03:02:34] [main/WARN]: Error loading class: net/minecraft/class_898 (java.lang.ClassNotFoundException: net/minecraft/class_898)
+[03:02:34] [main/WARN]: @Mixin target net.minecraft.class_898 was not found mixins.mm.json:net.minecraft.class_898 from mod mm
+[03:02:34] [main/WARN]: Error loading class: net/minecraft/class_761 (java.lang.ClassNotFoundException: net/minecraft/class_761)
+[03:02:34] [main/WARN]: @Mixin target net.minecraft.class_761 was not found mixins.mm.json:net.minecraft.class_761 from mod mm
+[03:02:34] [main/WARN]: Error loading class: net/minecraft/class_759 (java.lang.ClassNotFoundException: net/minecraft/class_759)
+[03:02:34] [main/WARN]: @Mixin target net.minecraft.class_759 was not found mixins.mm.json:net.minecraft.class_759 from mod mm
+[03:02:34] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
+[03:02:38] [main/INFO]: Injecting BlockStateBase cache population hook into getNeighborPathNodeType from me.jellysquid.mods.lithium.mixin.ai.pathing.AbstractBlockStateMixin
+[03:02:38] [main/INFO]: Injecting BlockStateBase cache population hook into getPathNodeType from me.jellysquid.mods.lithium.mixin.ai.pathing.AbstractBlockStateMixin
+[03:02:38] [main/INFO]: Injecting BlockStateBase cache population hook into getOpacityIfCached from ca.spottedleaf.starlight.mixin.common.blockstate.BlockStateBaseMixin
+[03:02:38] [main/INFO]: Injecting BlockStateBase cache population hook into isConditionallyFullOpaque from ca.spottedleaf.starlight.mixin.common.blockstate.BlockStateBaseMixin
+[03:02:38] [main/INFO]: Injecting BlockStateBase cache population hook into getAllFlags from me.jellysquid.mods.lithium.mixin.util.block_tracking.AbstractBlockStateMixin
+[03:02:42] [main/WARN]: Static binding violation: PRIVATE @Overwrite method method_21740 in modernfix-common.mixins.json:perf.remove_biome_temperature_cache.BiomeMixin from mod modernfix cannot reduce visibiliy of PUBLIC target method, visibility will be upgraded.
+[03:02:42] [main/WARN]: Method overwrite conflict for method_21740 in modernfix-common.mixins.json:perf.remove_biome_temperature_cache.BiomeMixin from mod modernfix, previously written by me.jellysquid.mods.lithium.mixin.world.temperature_cache.BiomeMixin. Skipping method.
+[03:02:43] [main/INFO]: Vanilla bootstrap took 7639 milliseconds
+[03:02:43] [main/INFO]: Loaded config for: cupboard.json
+[03:02:43] [main/INFO]: Loaded config amendments-common.json
+[03:02:43] [main/INFO]: Successfully initialized antixray for fabric
+[03:02:44] [main/INFO]: Registering C2S receiver with id artifacts:networking_channel/42a7ad70b1cc371599a0eff744096b8a
+[03:02:44] [main/INFO]: Registering C2S receiver with id artifacts:networking_channel/74a5e841822a3a87854ae896a33430d6
+[03:02:44] [main/INFO]: Registering C2S receiver with id artifacts:networking_channel/eb3d1e2748533430848cadf0f37c7e9c
+[03:02:44] [main/INFO]: Registering C2S receiver with id artifacts:networking_channel/91c8520f19f93b3e8b6a727568e194ab
+[03:02:44] [main/INFO]: Registering C2S receiver with id artifacts:networking_channel/8c2784d778293fd482ed84b8aa5fedb9
+[03:02:44] [main/INFO]: Registering C2S receiver with id artifacts:networking_channel/ea038224ea783d40b2863f52239e2604
+[03:02:44] [main/INFO]: Registering C2S receiver with id artifacts:networking_channel/97ad64b7ecaf33209991c4f031501a58
+[03:02:44] [main/INFO]: Registering Item Groups for bellsandwhistles
+[03:02:44] [main/INFO]: Create addon mod [Create: Bells & Whistles] is loading alongside Create [0.5.1d]!
+[03:02:44] [main/INFO]: Create: Bells & Whistles is accessinsg Porting Lib from the server!
+[03:02:44] [main/INFO]: Better Archeology says Hello
+[03:02:44] [main/INFO]: Registering Items from betterarcheology
+[03:02:44] [main/INFO]: Registering Blocks from betterarcheology
+[03:02:44] [main/INFO]: ModEntityTypes of betterarcheology registered.
+[03:02:44] [main/INFO]: Registering JEI Recipe Serializers for betterarcheology
+[03:02:44] [main/INFO]: Registering Enchantments for betterarcheology
+[03:02:44] [main/INFO]: Brutal bosses initialized
+[03:02:44] [main/INFO]: Loading Collective version 7.93.
+[03:02:45] [main/WARN]: Method overwrite conflict for getHeldItem in the_bumblezone-common.mixins.json:entities.EntityCollisionContextAccessor from mod the_bumblezone, previously written by me.jellysquid.mods.lithium.mixin.shapes.lazy_shape_context.EntityShapeContextMixin. Skipping method.
+[03:02:46] [main/INFO]: Initializing CreateCopperAndZincMod
+[03:02:46] [main/INFO]: Registering items for Create Deco
+[03:02:46] [main/INFO]: Registering blocks for Create Deco
+[03:02:46] [main/INFO]: Create Deco is accessing Porting Lib on a Fabric server!
+[03:02:46] [main/INFO]: placard tooltip was null
+[03:02:46] [main/INFO]: placard tooltip was null
+[03:02:46] [main/INFO]: placard tooltip was null
+[03:02:46] [main/INFO]: placard tooltip was null
+[03:02:46] [main/INFO]: placard tooltip was null
+[03:02:46] [main/INFO]: placard tooltip was null
+[03:02:46] [main/INFO]: placard tooltip was null
+[03:02:46] [main/INFO]: placard tooltip was null
+[03:02:46] [main/INFO]: placard tooltip was null
+[03:02:46] [main/INFO]: placard tooltip was null
+[03:02:46] [main/INFO]: placard tooltip was null
+[03:02:46] [main/INFO]: placard tooltip was null
+[03:02:46] [main/INFO]: placard tooltip was null
+[03:02:46] [main/INFO]: placard tooltip was null
+[03:02:46] [main/INFO]: placard tooltip was null
+[03:02:46] [main/INFO]: Bypassed Mojang DFU
+[03:02:46] [main/INFO]: Instantiating Mojang DFU
+[03:02:47] [main/ERROR]: No data fixer registered for crystallized_amber
+[03:02:47] [main/ERROR]: No data fixer registered for sculk_jaw
+[03:02:47] [main/INFO]: Constructing common components for diagonalblocks:main
+[03:02:47] [main/INFO]: Constructing common components for diagonalfences:main
+[03:02:47] [main/INFO]: Constructing shapes for DiagonalFenceBlock[NodeWidth=2.0,ExtensionWidth=2.0,NodeTop=24.0,ExtensionBottom=0.0,ExtensionTop=24.0] took 49ms
+[03:02:47] [main/INFO]: Constructing shapes for DiagonalFenceBlock[NodeWidth=2.0,ExtensionWidth=2.0,NodeTop=16.0,ExtensionBottom=0.0,ExtensionTop=16.0] took 44ms
+[03:02:47] [main/INFO]: Constructing shapes for DiagonalFenceBlock[NodeWidth=2.0,ExtensionWidth=1.0,NodeTop=16.0,ExtensionBottom=6.0,ExtensionTop=15.0] took 88ms
+[03:02:47] [main/INFO]: [Dynamic Lights] MidnightLib detected!
+[03:02:47] [main/INFO]: [Dynamic Lights] Registering server started event...
+[03:02:47] [main/INFO]: [Dynamic Lights] Loaded Dynamic Lights by Tschipcraft successfully!
+[03:02:47] [main/INFO]: Constructing common components for easyanvils:main
+[03:02:47] [main/INFO]: Constructing common components for easymagic:main
+[03:02:48] [main/INFO]: ExpandAbility here, who dis?
+[03:02:48] [main/ERROR]: No data fixer registered for anomaly
+[03:02:48] [main/INFO]: Registered JSON trade offer adapter.
+[03:02:48] [main/INFO]: Ice And Fire common config version match.
+[03:02:48] [main/INFO]: Registering C2S receiver with id iceandfire:myrmex_sync
+[03:02:48] [main/INFO]: Registering C2S receiver with id iceandfire:dragon_control
+[03:02:48] [main/INFO]: Registering C2S receiver with id iceandfire:multipart_interact
+[03:02:48] [main/INFO]: Registering C2S receiver with id iceandfire:player_hit_multipart
+[03:02:48] [main/INFO]: Registering C2S receiver with id iceandfire:start_riding_mob_c2s
+[03:02:49] [main/INFO]: [STDOUT]: Registering Sounds for Infinity Buttons
+[03:02:49] [main/INFO]: Registering Particle Types
+[03:02:49] [main/INFO]: Initializing ServerSide Packet Registries
+[03:02:49] [main/INFO]: 1 Jupiter entrypoint(s) detected: jupiter:jupiter
+[03:02:49] [main/INFO]: Initialize mod Library Ferret
+[03:02:49] [main/INFO]: Initialized mod Library Ferret
+[03:02:49] [main/INFO]: Definitely not up to no good
+[03:02:49] [main/INFO]: Giving mobs a fresh coat of paint...
+[03:02:49] [main/INFO]: [STDOUT]: All 1 have been set properly
+[03:02:49] [main/INFO]: I bet DeetHunter will never see this one!
+[03:02:49] [main/INFO]: Constructing common components for puzzleslib:main
+[03:02:50] [main/INFO]: [STDOUT]: /workspaces/minecraft-server/servidor_minecraft/config
+[03:02:50] [Thread-5/INFO]: Starting to fetch sponsor list.
+[03:02:50] [main/INFO]: Loaded config supplementaries-common.json
+[03:02:51] [main/INFO]: Registered region minecraft:overworld to index 0 for type OVERWORLD
+[03:02:51] [main/INFO]: Registered region minecraft:nether to index 0 for type NETHER
+[03:02:51] [main/INFO]: Registered region biomesoplenty:overworld_primary to index 1 for type OVERWORLD
+[03:02:51] [main/INFO]: Registered region biomesoplenty:overworld_secondary to index 2 for type OVERWORLD
+[03:02:51] [main/INFO]: Registered region biomesoplenty:overworld_rare to index 3 for type OVERWORLD
+[03:02:51] [main/INFO]: Registered region biomesoplenty:nether_common to index 1 for type NETHER
+[03:02:51] [main/INFO]: Registered region biomesoplenty:nether_rare to index 2 for type NETHER
+[03:02:51] [Thread-5/INFO]: Successfully fetch sponsor list.
+[03:02:51] [main/INFO]: Registered the FluidEffect with Unique ID of minecraft:water for minecraft:water 81000 with the ID 0
+[03:02:51] [main/INFO]: Registered the FluidEffect with Unique ID of minecraft:lava for minecraft:lava 81000 with the ID 1
+[03:02:51] [main/INFO]: Registered the FluidEffect with Unique ID of travelersbackpack:potion for travelersbackpack:potion_still 27000 with the ID 2
+[03:02:51] [main/INFO]: Registered the FluidEffect with Unique ID of travelersbackpack:milk for travelersbackpack:milk_still 81000 with the ID 3
+[03:02:52] [main/INFO]: Registered JSON trade offer adapter.
+[03:02:52] [main/INFO]: Reflections took 57 ms to scan 1 urls, producing 1 keys and 4 values
+[03:02:52] [main/INFO]: Reflections took 5 ms to scan 1 urls, producing 1 keys and 4 values
+[03:02:53] [main/INFO]: Initialized block sets in 30ms
+[03:02:54] [main/INFO]: Loaded config moonlight-common.json
+[03:02:54] [main/INFO]: Initialized color sets in 101ms
+[03:02:54] [main/INFO]: Finished mod setup in: [7, 0, 0, 1, 0, 0, 13, 6, 0] ms
+[03:02:54] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[03:02:54] [main/INFO]: Generated runtime SERVER_DATA for pack Supplementaries Generated Pack (supplementaries) in: 36 ms
+[03:02:57] [main/INFO]: [fabric-registry-sync] Loaded registry data [file 1/4]
+[03:02:59] [Worker-Main-1/ERROR]: Couldn't load tag supplementaries:lunch_basket_blacklist as it is missing following references: potionbundles:potion_bundle (from fabric)
+[03:02:59] [Worker-Main-3/ERROR]: Couldn't load tag create:safe_nbt as it is missing following references: create_connected:linked_stone_button (from fabric), create_connected:linked_polished_blackstone_button (from fabric), create_connected:linked_oak_button (from fabric), create_connected:linked_spruce_button (from fabric), create_connected:linked_birch_button (from fabric), create_connected:linked_acacia_button (from fabric), create_connected:linked_cherry_button (from fabric), create_connected:linked_jungle_button (from fabric), create_connected:linked_dark_oak_button (from fabric), create_connected:linked_crimson_button (from fabric), create_connected:linked_warped_button (from fabric), create_connected:linked_mangrove_button (from fabric), create_connected:linked_bamboo_button (from fabric), create_connected:linked_lever (from fabric), create_connected:linked_analog_lever (from fabric)
+[03:03:00] [Worker-Main-1/ERROR]: Couldn't parse element loot_tables:create_connected:blocks/encased_chain_cogwheel
 com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown string 'create_connected:encased_chain_cogwheel'
 	at net.minecraft.class_3518.method_17995(class_3518.java:145) ~[server-intermediary.jar:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -500,7 +500,7 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
-[06:04:58] [main/ERROR]: Parsing error loading recipe iceandfire:delight/pixie_dust_milky_tea
+[03:03:05] [main/ERROR]: Parsing error loading recipe iceandfire:delight/pixie_dust_milky_tea
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'farmersdelight:cooking'
 	at net.minecraft.class_1863.method_17875(class_1863.java:134) ~[server-intermediary.jar:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -519,7 +519,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'farmers
 	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) ~[fabric-loader-0.16.10.jar:?]
 	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) ~[fabric-loader-0.16.10.jar:?]
 	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) ~[fabric-server-launch.jar:1.0.1]
-[06:04:58] [main/ERROR]: Parsing error loading recipe lookinsharp:vitalium_sword
+[03:03:06] [main/ERROR]: Parsing error loading recipe lookinsharp:vitalium_sword
 com.google.gson.JsonSyntaxException: Unknown item 'lookinsharp:vitalium_ingot'
 	at net.minecraft.class_1869.method_17878(class_1869.java:272) ~[server-intermediary.jar:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -544,7 +544,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'lookinsharp:vitalium_ingot'
 	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) ~[fabric-loader-0.16.10.jar:?]
 	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) ~[fabric-loader-0.16.10.jar:?]
 	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) ~[fabric-server-launch.jar:1.0.1]
-[06:04:58] [main/ERROR]: Parsing error loading recipe lookinsharp:forging/vitalium_swords
+[03:03:06] [main/ERROR]: Parsing error loading recipe lookinsharp:forging/vitalium_swords
 com.google.gson.JsonSyntaxException: Unknown item 'lookinsharp:vitalium_sword'
 	at net.minecraft.class_1869.method_17878(class_1869.java:272) ~[server-intermediary.jar:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -587,7 +587,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'lookinsharp:vitalium_sword'
 	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) ~[fabric-loader-0.16.10.jar:?]
 	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) ~[fabric-loader-0.16.10.jar:?]
 	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) ~[fabric-server-launch.jar:1.0.1]
-[06:04:58] [main/ERROR]: Parsing error loading recipe iceandfire:delight/cooked_rice_with_fire_dragon_meat
+[03:03:06] [main/ERROR]: Parsing error loading recipe iceandfire:delight/cooked_rice_with_fire_dragon_meat
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'farmersdelight:cooking'
 	at net.minecraft.class_1863.method_17875(class_1863.java:134) ~[server-intermediary.jar:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -606,7 +606,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'farmers
 	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) ~[fabric-loader-0.16.10.jar:?]
 	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) ~[fabric-loader-0.16.10.jar:?]
 	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) ~[fabric-server-launch.jar:1.0.1]
-[06:04:58] [main/ERROR]: Parsing error loading recipe iceandfire:delight/cooked_rice_with_ice_dragon_meat
+[03:03:06] [main/ERROR]: Parsing error loading recipe iceandfire:delight/cooked_rice_with_ice_dragon_meat
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'farmersdelight:cooking'
 	at net.minecraft.class_1863.method_17875(class_1863.java:134) ~[server-intermediary.jar:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -625,7 +625,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'farmers
 	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) ~[fabric-loader-0.16.10.jar:?]
 	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) ~[fabric-loader-0.16.10.jar:?]
 	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) ~[fabric-server-launch.jar:1.0.1]
-[06:04:58] [main/ERROR]: Parsing error loading recipe lookinsharp:vitalium_ingot
+[03:03:06] [main/ERROR]: Parsing error loading recipe lookinsharp:vitalium_ingot
 com.google.gson.JsonSyntaxException: Unknown item 'lookinsharp:vitalium_ingot'
 	at net.minecraft.class_1869.method_17878(class_1869.java:272) ~[server-intermediary.jar:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -648,7 +648,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'lookinsharp:vitalium_ingot'
 	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) ~[fabric-loader-0.16.10.jar:?]
 	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) ~[fabric-loader-0.16.10.jar:?]
 	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) ~[fabric-server-launch.jar:1.0.1]
-[06:04:58] [main/ERROR]: Parsing error loading recipe create_connected:crafting/shapeless/linked_transmitter_from_conversion
+[03:03:06] [main/ERROR]: Parsing error loading recipe create_connected:crafting/shapeless/linked_transmitter_from_conversion
 com.google.gson.JsonSyntaxException: Unknown item 'create_connected:linked_transmitter'
 	at net.minecraft.class_1869.method_17878(class_1869.java:272) ~[server-intermediary.jar:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -671,7 +671,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'create_connected:linked_trans
 	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) ~[fabric-loader-0.16.10.jar:?]
 	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) ~[fabric-loader-0.16.10.jar:?]
 	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) ~[fabric-server-launch.jar:1.0.1]
-[06:04:58] [main/ERROR]: Parsing error loading recipe iceandfire:delight/cooked_rice_with_lightning_dragon_meat
+[03:03:06] [main/ERROR]: Parsing error loading recipe iceandfire:delight/cooked_rice_with_lightning_dragon_meat
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'farmersdelight:cooking'
 	at net.minecraft.class_1863.method_17875(class_1863.java:134) ~[server-intermediary.jar:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -690,7 +690,7 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'farmers
 	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) ~[fabric-loader-0.16.10.jar:?]
 	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) ~[fabric-loader-0.16.10.jar:?]
 	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) ~[fabric-server-launch.jar:1.0.1]
-[06:04:58] [main/ERROR]: Parsing error loading recipe create_connected:crafting/shapeless/redstone_link_from_conversion
+[03:03:06] [main/ERROR]: Parsing error loading recipe create_connected:crafting/shapeless/redstone_link_from_conversion
 com.google.gson.JsonSyntaxException: Unknown item 'create_connected:linked_transmitter'
 	at net.minecraft.class_1869.method_17878(class_1869.java:272) ~[server-intermediary.jar:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -715,7 +715,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'create_connected:linked_trans
 	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) ~[fabric-loader-0.16.10.jar:?]
 	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) ~[fabric-loader-0.16.10.jar:?]
 	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) ~[fabric-server-launch.jar:1.0.1]
-[06:04:58] [main/ERROR]: Parsing error loading recipe create_connected:crafting/shapeless/encased_chain_cogwheel
+[03:03:06] [main/ERROR]: Parsing error loading recipe create_connected:crafting/shapeless/encased_chain_cogwheel
 com.google.gson.JsonSyntaxException: Unknown item 'create_connected:encased_chain_cogwheel'
 	at net.minecraft.class_1869.method_17878(class_1869.java:272) ~[server-intermediary.jar:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -738,7 +738,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'create_connected:encased_chai
 	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) ~[fabric-loader-0.16.10.jar:?]
 	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) ~[fabric-loader-0.16.10.jar:?]
 	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) ~[fabric-server-launch.jar:1.0.1]
-[06:04:58] [main/ERROR]: Parsing error loading recipe iceandfire:delight/ghost_cream
+[03:03:06] [main/ERROR]: Parsing error loading recipe iceandfire:delight/ghost_cream
 com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'farmersdelight:cooking'
 	at net.minecraft.class_1863.method_17875(class_1863.java:134) ~[server-intermediary.jar:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -757,230 +757,166 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'farmers
 	at net.fabricmc.loader.impl.launch.knot.KnotServer.main(KnotServer.java:23) ~[fabric-loader-0.16.10.jar:?]
 	at net.fabricmc.loader.impl.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:69) ~[fabric-loader-0.16.10.jar:?]
 	at net.fabricmc.installer.ServerLauncher.main(ServerLauncher.java:69) ~[fabric-server-launch.jar:1.0.1]
-[06:04:58] [main/INFO]: Loaded 35 recipes
-[06:04:58] [main/ERROR]: Parsing error loading custom advancement supplementaries:recipes/planter_rich: Unknown item id 'farmersdelight:rich_soil'
-[06:04:58] [main/INFO]: Loaded 6693 advancements
-[06:04:58] [main/ERROR]: Ice And Fire compatibility is not enabled for Better Village and Ice And Fire is present in your mod list.
+[03:03:06] [main/INFO]: Loaded 35 recipes
+[03:03:06] [main/ERROR]: Parsing error loading custom advancement supplementaries:recipes/planter_rich: Unknown item id 'farmersdelight:rich_soil'
+[03:03:06] [main/INFO]: Loaded 6693 advancements
+[03:03:06] [main/ERROR]: Ice And Fire compatibility is not enabled for Better Village and Ice And Fire is present in your mod list.
      - Please install the datapack for better compatibility between Better Villages and Ice And Fire.
      - You can find the datapack URL in the `compatibility` section of the Better Villages description.
      - URL=https://www.curseforge.com/minecraft/mc-mods/better-village-fabric
-[06:04:58] [main/INFO]: Loaded boss variant for: minecraft:drowned
-[06:04:58] [main/INFO]: Loaded boss variant for: minecraft:iron_golem
-[06:04:58] [main/INFO]: Loaded boss variant for: minecraft:snow_golem
-[06:04:58] [main/INFO]: Loaded boss variant for: minecraft:zombie
-[06:04:58] [main/INFO]: Loaded boss variant for: minecraft:skeleton
-[06:04:58] [main/INFO]: Loaded boss variant for: minecraft:pillager
-[06:04:58] [main/INFO]: Loaded boss variant for: minecraft:vex
-[06:04:58] [main/INFO]: Loaded boss variant for: minecraft:evoker
-[06:04:58] [main/INFO]: Loaded boss variant for: minecraft:zombie
-[06:04:58] [main/INFO]: Loaded boss variant for: minecraft:vindicator
-[06:04:58] [main/INFO]: Loaded boss variant for: minecraft:wither_skeleton
-[06:04:58] [main/INFO]: Loaded boss variant for: minecraft:wither_skeleton
-[06:04:58] [main/INFO]: Loaded boss variant for: minecraft:cave_spider
-[06:04:58] [main/INFO]: Loaded boss variant for: minecraft:zombie
-[06:04:58] [main/INFO]: Loaded boss variant for: minecraft:husk
-[06:04:58] [main/INFO]: Loaded boss variant for: minecraft:evoker
-[06:04:58] [main/INFO]: Loaded boss variant for: minecraft:wandering_trader
-[06:04:58] [main/INFO]: Loaded boss variant for: minecraft:guardian
-[06:04:58] [main/INFO]: Loaded boss variant for: minecraft:vindicator
-[06:04:58] [main/INFO]: Loaded boss variant for: minecraft:shulker
-[06:04:58] [main/INFO]: Loaded boss variant for: minecraft:zoglin
-[06:04:58] [main/INFO]: Loaded boss variant for: minecraft:chicken
-[06:04:58] [main/INFO]: Loaded boss variant for: minecraft:blaze
-[06:04:58] [main/INFO]: Loaded boss variant for: minecraft:witch
-[06:04:58] [main/INFO]: Loaded boss variant for: minecraft:phantom
-[06:04:58] [main/INFO]: Loaded boss variant for: minecraft:mooshroom
-[06:04:58] [main/INFO]: Loaded boss variant for: minecraft:rabbit
-[06:04:58] [main/INFO]: Loaded boss variant for: minecraft:piglin_brute
-[06:04:58] [main/INFO]: Loaded boss variant for: minecraft:ghast
-[06:04:58] [main/INFO]: Loaded boss variant for: minecraft:stray
-[06:04:58] [main/INFO]: Ice And Fire common config version match.
-[06:04:58] [main/INFO]: Successfully reload 2 server config(s).
-[06:04:58] [main/INFO]: Reloading config...
-[06:04:58] [main/WARN]: Could not decode GlobalLootModifier with json id supplementaries:ash_from_burning_mobs - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: moonlight:add_item
-[06:04:58] [main/WARN]: Could not decode GlobalLootModifier with json id supplementaries:straw_from_flax - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: moonlight:add_item
-[06:04:58] [main/WARN]: Could not decode GlobalLootModifier with json id supplementaries:fishing_antique_ink - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: moonlight:add_item
-[06:04:58] [main/WARN]: Could not decode GlobalLootModifier with json id supplementaries:fishing_antique_ink_treasure - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: moonlight:add_item
-[06:04:58] [main/WARN]: Could not decode GlobalLootModifier with json id supplementaries:replace_rope - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: supplementaries:replace_rope
-[06:04:58] [main/INFO]: Loaded 44 chiseling recipes
-[06:04:58] [main/INFO]: Loaded 27 flute songs
-[06:04:58] [main/INFO]: Loaded 9 Stalactite configs!
-[06:04:58] [main/INFO]: Deserializing default trades of profession: villagersplus:alchemist
-[06:04:58] [main/INFO]: Deserializing default trades of profession: villagersplus:horticulturist
-[06:04:58] [main/INFO]: Deserializing default trades of profession: villagersplus:occultist
-[06:04:58] [main/INFO]: Deserializing default trades of profession: villagersplus:oceanographer
-[06:04:58] [main/INFO]: Reloading grave shape (server)
-[06:04:58] [main/INFO]: Grave model and shape reload successful (server)
-[06:04:58] [main/INFO]: Reloading YIGD graveyard data (server)
-[06:04:58] [main/INFO]: Graveyard data successfully reloaded (server)
-[06:04:58] [main/INFO]: Reloading YIGD grave area overrides (server)
-[06:04:58] [main/INFO]: Grave area overrides successfully reloaded (server)
-[06:04:59] [main/INFO]: Applied 7 data villager trades
-[06:04:59] [main/INFO]: Finished additional setup in 0 ms
-[06:04:59] [main/INFO]: Initialized TerraBlender biomes for level stem minecraft:the_nether
-[06:05:00] [main/INFO]: Initialized TerraBlender biomes for level stem minecraft:overworld
-[06:05:00] [main/INFO]: Applied 5408 biome modifications to 277 of 277 new biomes in 133.3 ms
-[06:05:00] [Server thread/INFO]: Loading server config for easyanvils
-[06:05:00] [Thread-3/INFO]: Reloading server config for easyanvils
-[06:05:00] [Server thread/INFO]: Loading server config for easymagic
-[06:05:00] [Thread-3/INFO]: Reloading server config for easyanvils
-[06:05:00] [Thread-3/INFO]: Reloading server config for easymagic
-[06:05:00] [Thread-3/INFO]: Reloading server config for easymagic
-[06:05:00] [Server thread/INFO]: Scanning class appeng.server.testplots.TestPlots for plots
-[06:05:00] [Server thread/INFO]: Scanning class appeng.server.testplots.AutoCraftingTestPlots for plots
-[06:05:00] [Server thread/INFO]: Scanning class appeng.server.testplots.InscriberTestPlots for plots
-[06:05:00] [Server thread/INFO]: Scanning class appeng.server.testplots.P2PTestPlots for plots
-[06:05:00] [Server thread/INFO]: Scanning class appeng.server.testplots.ItemP2PTestPlots for plots
-[06:05:00] [Server thread/INFO]: Scanning class appeng.server.testplots.MemoryCardTestPlots for plots
-[06:05:00] [Server thread/INFO]: Scanning class appeng.server.testplots.PatternProviderLockModePlots for plots
-[06:05:00] [Server thread/INFO]: Scanning class appeng.server.testplots.PatternProviderPlots for plots
-[06:05:00] [Server thread/INFO]: Scanning class appeng.server.testplots.SpatialTestPlots for plots
-[06:05:00] [Server thread/INFO]: Scanning class appeng.server.testplots.QnbTestPlots for plots
-[06:05:00] [Server thread/INFO]: Scanning class appeng.server.testplots.GuidebookPlot for plots
-[06:05:00] [Server thread/INFO]: Scanning class appeng.server.testplots.SubnetPlots for plots
-[06:05:00] [Server thread/INFO]: Scanning class appeng.server.testplots.ChannelTests for plots
-[06:05:00] [Server thread/INFO]: Scanning class appeng.server.testplots.AnnihilationPlaneTests for plots
-[06:05:00] [Server thread/INFO]: Starting minecraft server version 1.20.1
-[06:05:00] [Server thread/INFO]: Loading properties
-[06:05:00] [Server thread/INFO]: Default game type: SURVIVAL
-[06:05:00] [Server thread/INFO]: Generating keypair
-[06:05:00] [Server thread/INFO]: Starting Minecraft server on *:25565
-[06:05:00] [Server thread/INFO]: Using epoll channel type
-[06:05:00] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[06:05:00] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[06:05:00] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[06:05:00] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[06:05:00] [Server thread/INFO]: Preparing level "world"
-[06:05:03] [Server thread/WARN]: Lithium Class Analysis Error: Class com.simibubi.create.content.kinetics.waterwheel.WaterWheelStructuralBlock cannot be analysed, because getting declared methods crashes with NoClassDefFoundError: net/minecraft/class_638. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @Environment(value=EnvType.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
-[06:05:03] [Server thread/WARN]: Lithium Class Analysis Error: Class com.simibubi.create.content.kinetics.waterwheel.WaterWheelStructuralBlock cannot be analysed, because getting declared methods crashes with NoClassDefFoundError: net/minecraft/class_638. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @Environment(value=EnvType.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
-[06:05:03] [Server thread/WARN]: Lithium Class Analysis Error: Class com.simibubi.create.content.kinetics.waterwheel.WaterWheelStructuralBlock cannot be analysed, because getting declared methods crashes with NoClassDefFoundError: net/minecraft/class_638. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @Environment(value=EnvType.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
-[06:05:03] [Server thread/WARN]: Lithium Class Analysis Error: Class com.simibubi.create.content.kinetics.waterwheel.WaterWheelStructuralBlock cannot be analysed, because getting declared methods crashes with NoClassDefFoundError: net/minecraft/class_638. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @Environment(value=EnvType.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
-[06:05:03] [Server thread/WARN]: Lithium Class Analysis Error: Class com.simibubi.create.content.kinetics.waterwheel.WaterWheelStructuralBlock cannot be analysed, because getting declared methods crashes with NoClassDefFoundError: net/minecraft/class_638. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @Environment(value=EnvType.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
-[06:05:03] [Server thread/WARN]: Lithium Class Analysis Error: Class com.simibubi.create.content.kinetics.waterwheel.WaterWheelStructuralBlock cannot be analysed, because getting declared methods crashes with NoClassDefFoundError: net/minecraft/class_638. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @Environment(value=EnvType.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
-[06:05:03] [Server thread/WARN]: Lithium Class Analysis Error: Class com.simibubi.create.content.trains.bogey.AbstractBogeyBlock cannot be analysed, because getting declared methods crashes with NoClassDefFoundError: net/minecraft/class_4587. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @Environment(value=EnvType.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
-[06:05:03] [Server thread/WARN]: Lithium Class Analysis Error: Class com.simibubi.create.content.trains.bogey.AbstractBogeyBlock cannot be analysed, because getting declared methods crashes with NoClassDefFoundError: net/minecraft/class_4587. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @Environment(value=EnvType.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
-[06:05:03] [Server thread/WARN]: Lithium Class Analysis Error: Class com.simibubi.create.content.trains.bogey.AbstractBogeyBlock cannot be analysed, because getting declared methods crashes with NoClassDefFoundError: net/minecraft/class_4587. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @Environment(value=EnvType.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
-[06:05:03] [Server thread/WARN]: Lithium Class Analysis Error: Class com.simibubi.create.content.trains.bogey.AbstractBogeyBlock cannot be analysed, because getting declared methods crashes with NoClassDefFoundError: net/minecraft/class_4587. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @Environment(value=EnvType.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
-[06:05:03] [Server thread/WARN]: Lithium Class Analysis Error: Class com.simibubi.create.content.trains.bogey.AbstractBogeyBlock cannot be analysed, because getting declared methods crashes with NoClassDefFoundError: net/minecraft/class_4587. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @Environment(value=EnvType.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
-[06:05:03] [Server thread/WARN]: Lithium Class Analysis Error: Class com.simibubi.create.content.trains.bogey.AbstractBogeyBlock cannot be analysed, because getting declared methods crashes with NoClassDefFoundError: net/minecraft/class_4587. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @Environment(value=EnvType.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
-[06:05:03] [Server thread/WARN]: Lithium Class Analysis Error: Class com.simibubi.create.content.trains.bogey.AbstractBogeyBlock cannot be analysed, because getting declared methods crashes with NoClassDefFoundError: net/minecraft/class_4587. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @Environment(value=EnvType.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
-[06:05:03] [Server thread/WARN]: Lithium Class Analysis Error: Class com.simibubi.create.content.trains.bogey.AbstractBogeyBlock cannot be analysed, because getting declared methods crashes with NoClassDefFoundError: net/minecraft/class_4587. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @Environment(value=EnvType.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
-[06:05:09] [Server thread/WARN]: Lithium Class Analysis Error: Class twilightforest.block.CloudBlock cannot be analysed, because getting declared methods crashes with NoClassDefFoundError: net/minecraft/class_638. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @Environment(value=EnvType.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
-[06:05:09] [Server thread/WARN]: Lithium Class Analysis Error: Class twilightforest.block.CloudBlock cannot be analysed, because getting declared methods crashes with NoClassDefFoundError: net/minecraft/class_638. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @Environment(value=EnvType.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
-[06:05:09] [Server thread/WARN]: Lithium Class Analysis Error: Class twilightforest.block.CloudBlock cannot be analysed, because getting declared methods crashes with NoClassDefFoundError: net/minecraft/class_638. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @Environment(value=EnvType.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
-[06:05:09] [Server thread/WARN]: Lithium Class Analysis Error: Class twilightforest.block.CloudBlock cannot be analysed, because getting declared methods crashes with NoClassDefFoundError: net/minecraft/class_638. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @Environment(value=EnvType.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
-[06:05:10] [Server thread/WARN]: Lithium Class Analysis Error: Class net.mehvahdjukaar.supplementaries.common.block.blocks.CannonBlock cannot be analysed, because getting declared methods crashes with NoClassDefFoundError: net/minecraft/class_4587. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @Environment(value=EnvType.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
-[06:05:10] [Server thread/WARN]: Lithium Class Analysis Error: Class net.mehvahdjukaar.supplementaries.common.block.blocks.CannonBlock cannot be analysed, because getting declared methods crashes with NoClassDefFoundError: net/minecraft/class_4587. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @Environment(value=EnvType.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
-[06:05:10] [Server thread/WARN]: Lithium Class Analysis Error: Class net.mehvahdjukaar.supplementaries.common.block.blocks.CannonBlock cannot be analysed, because getting declared methods crashes with NoClassDefFoundError: net/minecraft/class_4587. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @Environment(value=EnvType.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
-[06:05:10] [Server thread/WARN]: Lithium Class Analysis Error: Class net.mehvahdjukaar.supplementaries.common.block.blocks.CannonBlock cannot be analysed, because getting declared methods crashes with NoClassDefFoundError: net/minecraft/class_4587. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @Environment(value=EnvType.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
-[06:05:10] [Server thread/WARN]: Lithium Class Analysis Error: Class net.mehvahdjukaar.supplementaries.common.block.blocks.CannonBlock cannot be analysed, because getting declared methods crashes with NoClassDefFoundError: net/minecraft/class_4587. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @Environment(value=EnvType.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
-[06:05:10] [Server thread/WARN]: Lithium Class Analysis Error: Class net.mehvahdjukaar.supplementaries.common.block.blocks.CannonBlock cannot be analysed, because getting declared methods crashes with NoClassDefFoundError: net/minecraft/class_4587. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @Environment(value=EnvType.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
-[06:05:10] [Server thread/WARN]: Lithium Class Analysis Error: Class net.mehvahdjukaar.supplementaries.common.block.blocks.CannonBlock cannot be analysed, because getting declared methods crashes with NoClassDefFoundError: net/minecraft/class_4587. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @Environment(value=EnvType.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
-[06:05:10] [Server thread/WARN]: Lithium Class Analysis Error: Class net.mehvahdjukaar.supplementaries.common.block.blocks.CannonBlock cannot be analysed, because getting declared methods crashes with NoClassDefFoundError: net/minecraft/class_4587. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @Environment(value=EnvType.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
-[06:05:10] [Server thread/WARN]: Lithium Class Analysis Error: Class net.mehvahdjukaar.supplementaries.common.block.blocks.CannonBlock cannot be analysed, because getting declared methods crashes with NoClassDefFoundError: net/minecraft/class_4587. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @Environment(value=EnvType.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
-[06:05:10] [Server thread/WARN]: Lithium Class Analysis Error: Class net.mehvahdjukaar.supplementaries.common.block.blocks.CannonBlock cannot be analysed, because getting declared methods crashes with NoClassDefFoundError: net/minecraft/class_4587. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @Environment(value=EnvType.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
-[06:05:10] [Server thread/WARN]: Lithium Class Analysis Error: Class net.mehvahdjukaar.supplementaries.common.block.blocks.CannonBlock cannot be analysed, because getting declared methods crashes with NoClassDefFoundError: net/minecraft/class_4587. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @Environment(value=EnvType.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
-[06:05:10] [Server thread/WARN]: Lithium Class Analysis Error: Class net.mehvahdjukaar.supplementaries.common.block.blocks.CannonBlock cannot be analysed, because getting declared methods crashes with NoClassDefFoundError: net/minecraft/class_4587. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @Environment(value=EnvType.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
-[06:05:11] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[06:05:11] [Server thread/WARN]: Method overwrite conflict for removeIf in modernfix-common.mixins.json:bugfix.paper_chunk_patches.SortedArraySetMixin from mod modernfix, previously written by me.jellysquid.mods.lithium.mixin.world.chunk_tickets.SortedArraySetMixin. Skipping method.
-[06:05:12] [Server thread/INFO]: Preparing spawn area: 0%
-[06:05:12] [Server thread/INFO]: Preparing spawn area: 0%
-[06:05:12] [Server thread/INFO]: Preparing spawn area: 0%
-[06:05:12] [Server thread/INFO]: Preparing spawn area: 0%
-[06:05:13] [Server thread/INFO]: Preparing spawn area: 68%
-[06:05:13] [Server thread/INFO]: Loaded config for: brutalbosses.json
-[06:05:13] [Server thread/INFO]: Time elapsed: 2285 ms
-[06:05:13] [Server thread/INFO]: Done (12.423s)! For help, type "help"
-[06:05:13] [Server thread/WARN]: Dedicated server took 47.563 seconds to load
-[06:05:13] [Server thread/INFO]: [Dynamic Lights] Sending global config to server...
-[06:05:13] [Server thread/INFO]: [STDOUT]: PREPARING FOR RELOAD
-[06:05:13] [Server thread/INFO]: Start loading plugin from Applied Energistics 2
-[06:05:13] [Server thread/INFO]: Start loading plugin from Ice And Fire Community Edition
-[06:05:13] [Server thread/INFO]: Start loading plugin from Infinity Buttons
-[06:05:13] [Server thread/INFO]: Start loading plugin from Jade
-[06:05:13] [Server thread/INFO]: Start loading plugin from Jade
-[06:05:13] [Server thread/INFO]: Start loading plugin from Jade
-[06:05:13] [Server thread/INFO]: Start loading plugin from Supplementaries
-[06:05:13] [Server thread/INFO]: Start loading plugin from HT's TreeChop
-[06:05:13] [Server thread/INFO]: Start loading plugin from The Twilight Forest
-[06:05:13] [Server thread/INFO]: Start loading plugin from Waystones
-[06:05:13] [Server thread/INFO]: UDP server is started on /[0:0:0:0:0:0:0:0]:25565
-[06:05:22] [Server thread/INFO]: DjGuetta11[/100.71.91.78:63098] logged in with entity id 56 at (-685.5652367708132, 91.62000000476837, -65.00763966427758)
-[06:05:22] [Server thread/INFO]: Syncing config to DjGuetta11 (02ab1a57-0edd-3713-9f58-15ec834d0062)
-[06:05:22] [Server thread/INFO]: Loading config from file...
-[06:05:22] [Netty Epoll Server IO #2/INFO]: Priority overwritten for player DjGuetta11. Claiming: GRAVE / Robbing: INVENTORY
-[06:05:22] [Server thread/INFO]: DjGuetta11 joined the game
-[06:05:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6203ms or 124 ticks behind
-[06:05:28] [Server thread/INFO]: DjTwistfly[/100.95.48.32:60833] logged in with entity id 76 at (-1377.0165087269897, 167.875, 57.307552611325164)
-[06:05:28] [Server thread/INFO]: Syncing config to DjTwistfly (ce1a9492-5b4d-3fbb-9f7e-c74699881e3b)
-[06:05:28] [Server thread/INFO]: Loading config from file...
-[06:05:28] [Server thread/INFO]: DjTwistfly joined the game
-[06:05:28] [Netty Epoll Server IO #4/INFO]: Priority overwritten for player DjTwistfly. Claiming: GRAVE / Robbing: INVENTORY
-[06:05:29] [Server thread/INFO]: MARAVILLA[/100.123.118.39:52259] logged in with entity id 172 at (-1571.3194576223718, 73.5625, -2802.5785959845875)
-[06:05:29] [Server thread/INFO]: Syncing config to MARAVILLA (6ac97a47-3a39-3751-b4fd-e7e9f31640f7)
-[06:05:29] [Server thread/INFO]: Loading config from file...
-[06:05:29] [Server thread/INFO]: MARAVILLA joined the game
-[06:05:29] [Netty Epoll Server IO #6/INFO]: Priority overwritten for player MARAVILLA. Claiming: GRAVE / Robbing: INVENTORY
-[06:14:44] [Server thread/INFO]: DjTwistfly lost connection: Disconnected
-[06:14:44] [Server thread/INFO]: DjTwistfly left the game
-[06:14:44] [Server thread/WARN]: handleDisconnection() called twice
-[06:15:23] [Server thread/INFO]: MARAVILLA lost connection: Disconnected
-[06:15:23] [Server thread/INFO]: MARAVILLA left the game
-[06:16:35] [Server thread/INFO]: DjTwistfly[/100.95.48.32:63451] logged in with entity id 11726 at (-1379.0966521564303, 169.12418707874468, 50.44936902327129)
-[06:16:35] [Server thread/INFO]: Syncing config to DjTwistfly (ce1a9492-5b4d-3fbb-9f7e-c74699881e3b)
-[06:16:35] [Server thread/INFO]: Loading config from file...
-[06:16:35] [Server thread/INFO]: DjTwistfly joined the game
-[06:16:36] [Netty Epoll Server IO #2/INFO]: Priority overwritten for player DjTwistfly. Claiming: GRAVE / Robbing: INVENTORY
-[06:22:03] [Server thread/INFO]: DjTwistfly lost connection: Disconnected
-[06:22:03] [Server thread/INFO]: DjTwistfly left the game
-[06:24:14] [Server thread/INFO]: DjTwistfly[/100.95.48.32:64531] logged in with entity id 19133 at (-727.3000000119209, 54.0, 14.699999988079071)
-[06:24:14] [Server thread/INFO]: Syncing config to DjTwistfly (ce1a9492-5b4d-3fbb-9f7e-c74699881e3b)
-[06:24:14] [Server thread/INFO]: Loading config from file...
-[06:24:14] [Server thread/INFO]: DjTwistfly joined the game
-[06:24:15] [Netty Epoll Server IO #6/INFO]: Priority overwritten for player DjTwistfly. Claiming: GRAVE / Robbing: INVENTORY
-[06:31:47] [Server thread/INFO]: [DjGuetta11: Gave 1 [Dragon Seeker] to DjGuetta11]
-[06:52:06] [Server thread/WARN]: DjTwistfly moved wrongly!
-[06:52:06] [Server thread/WARN]: DjTwistfly moved wrongly!
-[06:52:07] [Server thread/WARN]: DjTwistfly moved wrongly!
-[06:53:39] [Server thread/INFO]: DjTwistfly lost connection: Disconnected
-[06:53:39] [Server thread/INFO]: DjTwistfly left the game
-[06:55:39] [Server thread/INFO]: DjTwistfly[/100.95.48.32:53080] logged in with entity id 49777 at (-710.6388178148803, 167.5, 40.472834272594135)
-[06:55:39] [Server thread/INFO]: Syncing config to DjTwistfly (ce1a9492-5b4d-3fbb-9f7e-c74699881e3b)
-[06:55:39] [Server thread/INFO]: Loading config from file...
-[06:55:39] [Server thread/INFO]: DjTwistfly joined the game
-[06:55:42] [Netty Epoll Server IO #1/INFO]: Priority overwritten for player DjTwistfly. Claiming: GRAVE / Robbing: INVENTORY
-[07:05:20] [Server thread/INFO]: DjGuetta11 has made the advancement [Into Darkness]
-[07:05:32] [Server thread/WARN]: DjTwistfly moved wrongly!
-[07:08:27] [Server thread/INFO]: Named entity class_1642['Yomach the Toxic'/56736, l='ServerLevel[world]', x=-358.50, y=-16.00, z=771.21] died: Yomach the Toxic was shot by DjTwistfly
-[07:10:47] [Server thread/INFO]: Named entity class_1642['Corvin the Rotten'/56694, l='ServerLevel[world]', x=-388.30, y=-26.00, z=739.64] died: Corvin the Rotten was slain by DjGuetta11 using [Martillazo en el ano]
-[07:17:10] [Server thread/INFO]: Named entity class_1564['Vouzhul the Darkmaster'/61829, l='ServerLevel[world]', x=-498.66, y=-44.00, z=599.67] died: Vouzhul the Darkmaster was shot by DjTwistfly
-[07:36:12] [Server thread/INFO]: DjGuetta11 has made the advancement [Taking from the Dead]
-[07:36:18] [Server thread/INFO]: DjGuetta11 has made the advancement [Who turned the lights off?]
-[07:40:25] [Server thread/INFO]: DjTwistfly lost connection: Disconnected
-[07:40:25] [Server thread/INFO]: DjTwistfly left the game
-[07:40:33] [Server thread/INFO]: DjGuetta11 lost connection: Disconnected
-[07:40:33] [Server thread/INFO]: DjGuetta11 left the game
-[07:40:39] [Server thread/INFO]: Stopping the server
-[07:40:39] [Server thread/INFO]: UDP server is stopped
-[07:40:39] [Server thread/INFO]: Stopping server
-[07:40:39] [Server thread/INFO]: Saving players
-[07:40:39] [Server thread/INFO]: Saving worlds
-[07:40:39] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[07:40:39] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[07:40:39] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/deeperdarker:otherside
-[07:40:39] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[07:40:39] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/iceandfire:dread_land
-[07:40:39] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/the_bumblezone:the_bumblezone
-[07:40:39] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/graveyard:past
-[07:40:39] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/twilightforest:twilight_forest
-[07:40:39] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/ae2:spatial_storage
-[07:40:39] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[07:40:39] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[07:40:39] [Server thread/INFO]: ThreadedAnvilChunkStorage (otherside): All chunks are saved
-[07:40:39] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[07:40:39] [Server thread/INFO]: ThreadedAnvilChunkStorage (dread_land): All chunks are saved
-[07:40:39] [Server thread/INFO]: ThreadedAnvilChunkStorage (the_bumblezone): All chunks are saved
-[07:40:39] [Server thread/INFO]: ThreadedAnvilChunkStorage (past): All chunks are saved
-[07:40:39] [Server thread/INFO]: ThreadedAnvilChunkStorage (twilight_forest): All chunks are saved
-[07:40:39] [Server thread/INFO]: ThreadedAnvilChunkStorage (spatial_storage): All chunks are saved
-[07:40:39] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[03:03:06] [main/INFO]: Loaded boss variant for: minecraft:drowned
+[03:03:06] [main/INFO]: Loaded boss variant for: minecraft:iron_golem
+[03:03:06] [main/INFO]: Loaded boss variant for: minecraft:snow_golem
+[03:03:06] [main/INFO]: Loaded boss variant for: minecraft:zombie
+[03:03:06] [main/INFO]: Loaded boss variant for: minecraft:skeleton
+[03:03:06] [main/INFO]: Loaded boss variant for: minecraft:pillager
+[03:03:06] [main/INFO]: Loaded boss variant for: minecraft:vex
+[03:03:06] [main/INFO]: Loaded boss variant for: minecraft:evoker
+[03:03:06] [main/INFO]: Loaded boss variant for: minecraft:zombie
+[03:03:06] [main/INFO]: Loaded boss variant for: minecraft:vindicator
+[03:03:06] [main/INFO]: Loaded boss variant for: minecraft:wither_skeleton
+[03:03:06] [main/INFO]: Loaded boss variant for: minecraft:wither_skeleton
+[03:03:06] [main/INFO]: Loaded boss variant for: minecraft:cave_spider
+[03:03:06] [main/INFO]: Loaded boss variant for: minecraft:zombie
+[03:03:06] [main/INFO]: Loaded boss variant for: minecraft:husk
+[03:03:06] [main/INFO]: Loaded boss variant for: minecraft:evoker
+[03:03:06] [main/INFO]: Loaded boss variant for: minecraft:wandering_trader
+[03:03:06] [main/INFO]: Loaded boss variant for: minecraft:guardian
+[03:03:06] [main/INFO]: Loaded boss variant for: minecraft:vindicator
+[03:03:06] [main/INFO]: Loaded boss variant for: minecraft:shulker
+[03:03:06] [main/INFO]: Loaded boss variant for: minecraft:zoglin
+[03:03:06] [main/INFO]: Loaded boss variant for: minecraft:chicken
+[03:03:06] [main/INFO]: Loaded boss variant for: minecraft:blaze
+[03:03:06] [main/INFO]: Loaded boss variant for: minecraft:witch
+[03:03:06] [main/INFO]: Loaded boss variant for: minecraft:phantom
+[03:03:06] [main/INFO]: Loaded boss variant for: minecraft:mooshroom
+[03:03:06] [main/INFO]: Loaded boss variant for: minecraft:rabbit
+[03:03:06] [main/INFO]: Loaded boss variant for: minecraft:piglin_brute
+[03:03:06] [main/INFO]: Loaded boss variant for: minecraft:ghast
+[03:03:06] [main/INFO]: Loaded boss variant for: minecraft:stray
+[03:03:06] [main/INFO]: Ice And Fire common config version match.
+[03:03:06] [main/INFO]: Successfully reload 2 server config(s).
+[03:03:06] [main/INFO]: Reloading config...
+[03:03:06] [main/WARN]: Could not decode GlobalLootModifier with json id supplementaries:ash_from_burning_mobs - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: moonlight:add_item
+[03:03:06] [main/WARN]: Could not decode GlobalLootModifier with json id supplementaries:straw_from_flax - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: moonlight:add_item
+[03:03:06] [main/WARN]: Could not decode GlobalLootModifier with json id supplementaries:fishing_antique_ink - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: moonlight:add_item
+[03:03:06] [main/WARN]: Could not decode GlobalLootModifier with json id supplementaries:fishing_antique_ink_treasure - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: moonlight:add_item
+[03:03:06] [main/WARN]: Could not decode GlobalLootModifier with json id supplementaries:replace_rope - error: Unknown registry key in ResourceKey[minecraft:root / porting_lib:global_loot_modifier_serializers]: supplementaries:replace_rope
+[03:03:06] [main/INFO]: Loaded 44 chiseling recipes
+[03:03:06] [main/INFO]: Loaded 27 flute songs
+[03:03:06] [main/INFO]: Loaded 9 Stalactite configs!
+[03:03:06] [main/INFO]: Deserializing default trades of profession: villagersplus:alchemist
+[03:03:06] [main/INFO]: Deserializing default trades of profession: villagersplus:horticulturist
+[03:03:06] [main/INFO]: Deserializing default trades of profession: villagersplus:occultist
+[03:03:06] [main/INFO]: Deserializing default trades of profession: villagersplus:oceanographer
+[03:03:06] [main/INFO]: Reloading grave shape (server)
+[03:03:06] [main/INFO]: Grave model and shape reload successful (server)
+[03:03:06] [main/INFO]: Reloading YIGD graveyard data (server)
+[03:03:06] [main/INFO]: Graveyard data successfully reloaded (server)
+[03:03:06] [main/INFO]: Reloading YIGD grave area overrides (server)
+[03:03:06] [main/INFO]: Grave area overrides successfully reloaded (server)
+[03:03:06] [main/INFO]: Applied 7 data villager trades
+[03:03:07] [main/INFO]: Finished additional setup in 0 ms
+[03:03:08] [main/INFO]: Initialized TerraBlender biomes for level stem minecraft:overworld
+[03:03:08] [main/INFO]: Initialized TerraBlender biomes for level stem minecraft:the_nether
+[03:03:08] [main/INFO]: Applied 5408 biome modifications to 277 of 277 new biomes in 125.5 ms
+[03:03:08] [Server thread/INFO]: Loading server config for easyanvils
+[03:03:08] [Server thread/INFO]: Loading server config for easymagic
+[03:03:08] [Thread-3/INFO]: Reloading server config for easyanvils
+[03:03:08] [Thread-3/INFO]: Reloading server config for easyanvils
+[03:03:08] [Server thread/INFO]: Scanning class appeng.server.testplots.TestPlots for plots
+[03:03:08] [Server thread/INFO]: Scanning class appeng.server.testplots.AutoCraftingTestPlots for plots
+[03:03:08] [Server thread/INFO]: Scanning class appeng.server.testplots.InscriberTestPlots for plots
+[03:03:08] [Server thread/INFO]: Scanning class appeng.server.testplots.P2PTestPlots for plots
+[03:03:08] [Server thread/INFO]: Scanning class appeng.server.testplots.ItemP2PTestPlots for plots
+[03:03:08] [Server thread/INFO]: Scanning class appeng.server.testplots.MemoryCardTestPlots for plots
+[03:03:08] [Server thread/INFO]: Scanning class appeng.server.testplots.PatternProviderLockModePlots for plots
+[03:03:08] [Server thread/INFO]: Scanning class appeng.server.testplots.PatternProviderPlots for plots
+[03:03:08] [Server thread/INFO]: Scanning class appeng.server.testplots.SpatialTestPlots for plots
+[03:03:08] [Server thread/INFO]: Scanning class appeng.server.testplots.QnbTestPlots for plots
+[03:03:08] [Server thread/INFO]: Scanning class appeng.server.testplots.GuidebookPlot for plots
+[03:03:08] [Server thread/INFO]: Scanning class appeng.server.testplots.SubnetPlots for plots
+[03:03:08] [Server thread/INFO]: Scanning class appeng.server.testplots.ChannelTests for plots
+[03:03:08] [Server thread/INFO]: Scanning class appeng.server.testplots.AnnihilationPlaneTests for plots
+[03:03:08] [Server thread/INFO]: Starting minecraft server version 1.20.1
+[03:03:08] [Server thread/INFO]: Loading properties
+[03:03:08] [Server thread/INFO]: Default game type: SURVIVAL
+[03:03:08] [Server thread/INFO]: Generating keypair
+[03:03:09] [Server thread/INFO]: Starting Minecraft server on *:25565
+[03:03:09] [Server thread/INFO]: Using epoll channel type
+[03:03:09] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[03:03:09] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[03:03:09] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[03:03:09] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[03:03:09] [Server thread/INFO]: Preparing level "world"
+[03:03:12] [Server thread/WARN]: Lithium Class Analysis Error: Class com.simibubi.create.content.kinetics.waterwheel.WaterWheelStructuralBlock cannot be analysed, because getting declared methods crashes with NoClassDefFoundError: net/minecraft/class_638. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @Environment(value=EnvType.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
+[03:03:12] [Server thread/WARN]: Lithium Class Analysis Error: Class com.simibubi.create.content.kinetics.waterwheel.WaterWheelStructuralBlock cannot be analysed, because getting declared methods crashes with NoClassDefFoundError: net/minecraft/class_638. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @Environment(value=EnvType.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
+[03:03:12] [Server thread/WARN]: Lithium Class Analysis Error: Class com.simibubi.create.content.kinetics.waterwheel.WaterWheelStructuralBlock cannot be analysed, because getting declared methods crashes with NoClassDefFoundError: net/minecraft/class_638. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @Environment(value=EnvType.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
+[03:03:12] [Server thread/WARN]: Lithium Class Analysis Error: Class com.simibubi.create.content.kinetics.waterwheel.WaterWheelStructuralBlock cannot be analysed, because getting declared methods crashes with NoClassDefFoundError: net/minecraft/class_638. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @Environment(value=EnvType.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
+[03:03:12] [Server thread/WARN]: Lithium Class Analysis Error: Class com.simibubi.create.content.kinetics.waterwheel.WaterWheelStructuralBlock cannot be analysed, because getting declared methods crashes with NoClassDefFoundError: net/minecraft/class_638. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @Environment(value=EnvType.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
+[03:03:12] [Server thread/WARN]: Lithium Class Analysis Error: Class com.simibubi.create.content.kinetics.waterwheel.WaterWheelStructuralBlock cannot be analysed, because getting declared methods crashes with NoClassDefFoundError: net/minecraft/class_638. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @Environment(value=EnvType.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
+[03:03:12] [Server thread/WARN]: Lithium Class Analysis Error: Class com.simibubi.create.content.trains.bogey.AbstractBogeyBlock cannot be analysed, because getting declared methods crashes with NoClassDefFoundError: net/minecraft/class_4587. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @Environment(value=EnvType.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
+[03:03:12] [Server thread/WARN]: Lithium Class Analysis Error: Class com.simibubi.create.content.trains.bogey.AbstractBogeyBlock cannot be analysed, because getting declared methods crashes with NoClassDefFoundError: net/minecraft/class_4587. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @Environment(value=EnvType.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
+[03:03:12] [Server thread/WARN]: Lithium Class Analysis Error: Class com.simibubi.create.content.trains.bogey.AbstractBogeyBlock cannot be analysed, because getting declared methods crashes with NoClassDefFoundError: net/minecraft/class_4587. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @Environment(value=EnvType.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
+[03:03:12] [Server thread/WARN]: Lithium Class Analysis Error: Class com.simibubi.create.content.trains.bogey.AbstractBogeyBlock cannot be analysed, because getting declared methods crashes with NoClassDefFoundError: net/minecraft/class_4587. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @Environment(value=EnvType.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
+[03:03:12] [Server thread/WARN]: Lithium Class Analysis Error: Class com.simibubi.create.content.trains.bogey.AbstractBogeyBlock cannot be analysed, because getting declared methods crashes with NoClassDefFoundError: net/minecraft/class_4587. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @Environment(value=EnvType.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
+[03:03:12] [Server thread/WARN]: Lithium Class Analysis Error: Class com.simibubi.create.content.trains.bogey.AbstractBogeyBlock cannot be analysed, because getting declared methods crashes with NoClassDefFoundError: net/minecraft/class_4587. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @Environment(value=EnvType.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
+[03:03:12] [Server thread/WARN]: Lithium Class Analysis Error: Class com.simibubi.create.content.trains.bogey.AbstractBogeyBlock cannot be analysed, because getting declared methods crashes with NoClassDefFoundError: net/minecraft/class_4587. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @Environment(value=EnvType.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
+[03:03:12] [Server thread/WARN]: Lithium Class Analysis Error: Class com.simibubi.create.content.trains.bogey.AbstractBogeyBlock cannot be analysed, because getting declared methods crashes with NoClassDefFoundError: net/minecraft/class_4587. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @Environment(value=EnvType.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
+[03:03:18] [Server thread/WARN]: Lithium Class Analysis Error: Class twilightforest.block.CloudBlock cannot be analysed, because getting declared methods crashes with NoClassDefFoundError: net/minecraft/class_638. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @Environment(value=EnvType.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
+[03:03:18] [Server thread/WARN]: Lithium Class Analysis Error: Class twilightforest.block.CloudBlock cannot be analysed, because getting declared methods crashes with NoClassDefFoundError: net/minecraft/class_638. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @Environment(value=EnvType.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
+[03:03:18] [Server thread/WARN]: Lithium Class Analysis Error: Class twilightforest.block.CloudBlock cannot be analysed, because getting declared methods crashes with NoClassDefFoundError: net/minecraft/class_638. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @Environment(value=EnvType.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
+[03:03:18] [Server thread/WARN]: Lithium Class Analysis Error: Class twilightforest.block.CloudBlock cannot be analysed, because getting declared methods crashes with NoClassDefFoundError: net/minecraft/class_638. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @Environment(value=EnvType.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
+[03:03:20] [Server thread/WARN]: Lithium Class Analysis Error: Class net.mehvahdjukaar.supplementaries.common.block.blocks.CannonBlock cannot be analysed, because getting declared methods crashes with NoClassDefFoundError: net/minecraft/class_4587. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @Environment(value=EnvType.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
+[03:03:20] [Server thread/WARN]: Lithium Class Analysis Error: Class net.mehvahdjukaar.supplementaries.common.block.blocks.CannonBlock cannot be analysed, because getting declared methods crashes with NoClassDefFoundError: net/minecraft/class_4587. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @Environment(value=EnvType.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
+[03:03:20] [Server thread/WARN]: Lithium Class Analysis Error: Class net.mehvahdjukaar.supplementaries.common.block.blocks.CannonBlock cannot be analysed, because getting declared methods crashes with NoClassDefFoundError: net/minecraft/class_4587. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @Environment(value=EnvType.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
+[03:03:20] [Server thread/WARN]: Lithium Class Analysis Error: Class net.mehvahdjukaar.supplementaries.common.block.blocks.CannonBlock cannot be analysed, because getting declared methods crashes with NoClassDefFoundError: net/minecraft/class_4587. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @Environment(value=EnvType.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
+[03:03:20] [Server thread/WARN]: Lithium Class Analysis Error: Class net.mehvahdjukaar.supplementaries.common.block.blocks.CannonBlock cannot be analysed, because getting declared methods crashes with NoClassDefFoundError: net/minecraft/class_4587. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @Environment(value=EnvType.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
+[03:03:20] [Server thread/WARN]: Lithium Class Analysis Error: Class net.mehvahdjukaar.supplementaries.common.block.blocks.CannonBlock cannot be analysed, because getting declared methods crashes with NoClassDefFoundError: net/minecraft/class_4587. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @Environment(value=EnvType.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
+[03:03:20] [Server thread/WARN]: Lithium Class Analysis Error: Class net.mehvahdjukaar.supplementaries.common.block.blocks.CannonBlock cannot be analysed, because getting declared methods crashes with NoClassDefFoundError: net/minecraft/class_4587. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @Environment(value=EnvType.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
+[03:03:20] [Server thread/WARN]: Lithium Class Analysis Error: Class net.mehvahdjukaar.supplementaries.common.block.blocks.CannonBlock cannot be analysed, because getting declared methods crashes with NoClassDefFoundError: net/minecraft/class_4587. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @Environment(value=EnvType.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
+[03:03:20] [Server thread/WARN]: Lithium Class Analysis Error: Class net.mehvahdjukaar.supplementaries.common.block.blocks.CannonBlock cannot be analysed, because getting declared methods crashes with NoClassDefFoundError: net/minecraft/class_4587. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @Environment(value=EnvType.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
+[03:03:20] [Server thread/WARN]: Lithium Class Analysis Error: Class net.mehvahdjukaar.supplementaries.common.block.blocks.CannonBlock cannot be analysed, because getting declared methods crashes with NoClassDefFoundError: net/minecraft/class_4587. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @Environment(value=EnvType.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
+[03:03:20] [Server thread/WARN]: Lithium Class Analysis Error: Class net.mehvahdjukaar.supplementaries.common.block.blocks.CannonBlock cannot be analysed, because getting declared methods crashes with NoClassDefFoundError: net/minecraft/class_4587. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @Environment(value=EnvType.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
+[03:03:20] [Server thread/WARN]: Lithium Class Analysis Error: Class net.mehvahdjukaar.supplementaries.common.block.blocks.CannonBlock cannot be analysed, because getting declared methods crashes with NoClassDefFoundError: net/minecraft/class_4587. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @Environment(value=EnvType.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
+[03:03:21] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[03:03:21] [Server thread/WARN]: Method overwrite conflict for removeIf in modernfix-common.mixins.json:bugfix.paper_chunk_patches.SortedArraySetMixin from mod modernfix, previously written by me.jellysquid.mods.lithium.mixin.world.chunk_tickets.SortedArraySetMixin. Skipping method.
+[03:03:22] [Server thread/INFO]: Preparing spawn area: 0%
+[03:03:22] [Server thread/INFO]: Preparing spawn area: 0%
+[03:03:22] [Server thread/INFO]: Preparing spawn area: 0%
+[03:03:22] [Server thread/INFO]: Preparing spawn area: 0%
+[03:03:23] [Server thread/INFO]: Preparing spawn area: 0%
+[03:03:23] [Server thread/INFO]: Preparing spawn area: 59%
+[03:03:23] [Server thread/INFO]: Loaded config for: brutalbosses.json
+[03:03:23] [Server thread/INFO]: Time elapsed: 2812 ms
+[03:03:23] [Server thread/INFO]: Done (14.628s)! For help, type "help"
+[03:03:23] [Server thread/WARN]: Dedicated server took 54.962 seconds to load
+[03:03:23] [Server thread/INFO]: [Dynamic Lights] Sending global config to server...
+[03:03:23] [Server thread/INFO]: [STDOUT]: PREPARING FOR RELOAD
+[03:03:23] [Server thread/INFO]: Start loading plugin from Applied Energistics 2
+[03:03:23] [Server thread/INFO]: Start loading plugin from Ice And Fire Community Edition
+[03:03:23] [Server thread/INFO]: Start loading plugin from Infinity Buttons
+[03:03:23] [Server thread/INFO]: Start loading plugin from Jade
+[03:03:23] [Server thread/INFO]: Start loading plugin from Jade
+[03:03:24] [Server thread/INFO]: Start loading plugin from Jade
+[03:03:24] [Server thread/INFO]: Start loading plugin from Supplementaries
+[03:03:24] [Server thread/INFO]: Start loading plugin from HT's TreeChop
+[03:03:24] [Server thread/INFO]: Start loading plugin from The Twilight Forest
+[03:03:24] [Server thread/INFO]: Start loading plugin from Waystones
+[03:03:24] [Server thread/INFO]: UDP server is started on /[0:0:0:0:0:0:0:0]:25565
+[03:04:00] [Server thread/INFO]: MARAVILLA[/100.123.118.39:58673] logged in with entity id 63 at (-1576.300000011921, 77.0, -2794.3078808213363)
+[03:04:00] [Server thread/INFO]: Syncing config to MARAVILLA (6ac97a47-3a39-3751-b4fd-e7e9f31640f7)
+[03:04:01] [Server thread/INFO]: Loading config from file...
+[03:04:01] [Server thread/INFO]: MARAVILLA joined the game
+[03:04:02] [Netty Epoll Server IO #3/INFO]: Priority overwritten for player MARAVILLA. Claiming: GRAVE / Robbing: INVENTORY
+[03:04:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7986ms or 159 ticks behind
+[03:07:13] [Server thread/INFO]: DjGuetta11[/100.71.91.78:53822] logged in with entity id 691 at (-369.4059257278082, -2.0, 624.1573542784394)
+[03:07:13] [Server thread/INFO]: Syncing config to DjGuetta11 (02ab1a57-0edd-3713-9f58-15ec834d0062)
+[03:07:13] [Server thread/INFO]: Loading config from file...
+[03:07:13] [Server thread/INFO]: DjGuetta11 joined the game
+[03:07:17] [Netty Epoll Server IO #5/INFO]: Priority overwritten for player DjGuetta11. Claiming: GRAVE / Robbing: INVENTORY
+[03:07:31] [Server thread/INFO]: DjTwistfly[/100.95.48.32:49219] logged in with entity id 1392 at (-485.90522836853944, -33.0, 719.5790510349216)
+[03:07:31] [Server thread/INFO]: Syncing config to DjTwistfly (ce1a9492-5b4d-3fbb-9f7e-c74699881e3b)
+[03:07:31] [Server thread/INFO]: Loading config from file...
+[03:07:31] [Server thread/INFO]: DjTwistfly joined the game
+[03:07:33] [Netty Epoll Server IO #7/INFO]: Priority overwritten for player DjTwistfly. Claiming: GRAVE / Robbing: INVENTORY
