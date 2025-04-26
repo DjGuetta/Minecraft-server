@@ -10630,88 +10630,15 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-24 20:00:37 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_kill": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-24 20:00:37 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-24 20:00:37 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/holy_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-24 20:00:37 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_block": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-24 20:00:37 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/feed_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-24 20:00:37 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-24 20:00:37 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-24 20:00:37 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-24 20:00:37 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_player_hurt": {
-    "criteria": {
-      "requirement": "2025-04-24 20:00:51 +0000",
-      "log_spam_fixer": "2025-04-24 20:00:37 +0000"
-    },
-    "done": true
-  },
-  "incendium:technical/inventory/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-24 20:00:37 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-24 20:00:37 +0000"
-    },
-    "done": false
-  },
-  "takesapillage:pillager_camp": {
-    "criteria": {
-      "in_pillager_camp": "2025-04-24 19:24:10 +0000"
-    },
-    "done": true
-  },
   "infinitybuttons:recipes/redstone/bookshelf_secret_button": {
     "criteria": {
       "has_thing": "2025-04-24 18:49:03 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_cyclops": {
+    "criteria": {
+      "killed_fire_dragon": "2025-04-24 19:13:41 +0000"
     },
     "done": true
   },
@@ -10721,9 +10648,9 @@
     },
     "done": true
   },
-  "iceandfire:recipes/building_blocks/dread_stone_bricks": {
+  "takesapillage:pillager_camp": {
     "criteria": {
-      "has_item": "2025-04-24 19:58:47 +0000"
+      "in_pillager_camp": "2025-04-24 19:24:10 +0000"
     },
     "done": true
   },
@@ -10733,9 +10660,21 @@
     },
     "done": false
   },
-  "iceandfire:iceandfire/kill_cyclops": {
+  "iceandfire:recipes/building_blocks/dread_stone_bricks": {
     "criteria": {
-      "killed_fire_dragon": "2025-04-24 19:13:41 +0000"
+      "has_item": "2025-04-24 19:58:47 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dread_torch": {
+    "criteria": {
+      "has_item": "2025-04-26 05:56:32 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dread_stone": {
+    "criteria": {
+      "has_item": "2025-04-26 05:56:32 +0000"
     },
     "done": true
   },
