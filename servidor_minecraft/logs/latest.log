@@ -2152,3 +2152,12 @@ Caused by: java.util.ConcurrentModificationException
 	at net.minecraft.class_4698.method_23701(class_4698.java:260) ~[server-intermediary.jar:?]
 	... 8 more
 [07:37:16] [Server Watchdog/ERROR]: Considering it to be crashed, server will forcibly shutdown.
+[07:25:24] [Server thread/ERROR]: POI data mismatch: already registered at class_2338{x=-5139, y=-21, z=-975}
+[07:37:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 713069ms or 14261 ticks behind
+[07:37:17] [Server thread/INFO]: DjTwistfly lost connection: Disconnected
+[07:37:17] [Server thread/INFO]: DjTwistfly left the game
+[07:37:17] [Server thread/INFO]: com.mojang.authlib.GameProfile@31d51c2d[id=<null>,name=DjTwistfly,properties={},legacy=false] (/100.95.48.32:50266) lost connection: Disconnected
+[07:37:17] [Server thread/INFO]: com.mojang.authlib.GameProfile@160bf48f[id=<null>,name=DjTwistfly,properties={},legacy=false] (/100.95.48.32:50268) lost connection: Disconnected
+[07:37:17] [Server thread/INFO]: com.mojang.authlib.GameProfile@49d25c7e[id=<null>,name=DjTwistfly,properties={},legacy=false] (/100.95.48.32:50285) lost connection: Disconnected
+[07:37:17] [Server thread/WARN]: Skipped emitting ENTITY_MOUNT game event for entity class_1628['Spider'/47695, l='ServerLevel[world]', x=-5958.63, y=123.00, z=-80.01] as it would cause deadlock
+[07:37:17] [Server Watchdog/ERROR]: This crash report has been saved to: /workspaces/minecraft-server/servidor_minecraft/./crash-reports/crash-2025-04-26_07.37.17-server.txt
