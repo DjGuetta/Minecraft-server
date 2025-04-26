@@ -13047,5 +13047,17 @@
     },
     "done": true
   },
+  "endrem:main/magical_eye": {
+    "criteria": {
+      "magical_eye": "2025-04-26 06:21:24 +0000"
+    },
+    "done": true
+  },
+  "endrem:main/cold_eye": {
+    "criteria": {
+      "cold_eye": "2025-04-26 06:21:45 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
