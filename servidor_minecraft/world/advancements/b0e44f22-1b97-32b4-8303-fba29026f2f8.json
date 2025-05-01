@@ -1294,6 +1294,7 @@
     "criteria": {
       "minecraft:pillager": "2025-04-14 06:16:47 +0000",
       "minecraft:skeleton": "2025-02-19 03:05:45 +0000",
+      "minecraft:ravager": "2025-05-01 23:37:56 +0000",
       "minecraft:ghast": "2025-04-19 06:01:26 +0000",
       "minecraft:vindicator": "2025-04-14 06:26:30 +0000",
       "minecraft:magma_cube": "2025-04-19 05:04:32 +0000",
@@ -10329,81 +10330,93 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
+  "biomesoplenty:recipes/building_blocks/fir_wood": {
     "criteria": {
-      "log_spam_fixer": "2025-05-01 07:02:17 +0000"
+      "has_log": "2025-05-01 05:37:18 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/inventory/sentrys_wrath": {
+  "biomesoplenty:recipes/building_blocks/fir_planks": {
     "criteria": {
-      "log_spam_fixer": "2025-05-01 07:02:17 +0000"
+      "has_logs": "2025-05-01 05:37:18 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/feed_ghastling": {
+  "supplementaries:recipes/decorations/biomesoplenty/sign_post_fir": {
     "criteria": {
-      "log_spam_fixer": "2025-05-01 07:02:17 +0000"
+      "has_item": "2025-05-01 05:37:25 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/on_player_hurt": {
+  "biomesoplenty:recipes/decorations/fir_fence": {
     "criteria": {
-      "log_spam_fixer": "2025-05-01 07:02:17 +0000"
+      "has_planks": "2025-05-01 05:37:25 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/firestorm": {
+  "biomesoplenty:recipes/redstone/fir_door": {
     "criteria": {
-      "log_spam_fixer": "2025-05-01 07:02:17 +0000"
+      "has_planks": "2025-05-01 05:37:25 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/inventory/firestorm": {
+  "biomesoplenty:recipes/building_blocks/fir_slab": {
     "criteria": {
-      "log_spam_fixer": "2025-05-01 07:02:17 +0000"
+      "has_planks": "2025-05-01 05:37:25 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/give_ghastling": {
+  "biomesoplenty:recipes/decorations/fir_sign": {
     "criteria": {
-      "log_spam_fixer": "2025-05-01 07:02:17 +0000"
+      "has_planks": "2025-05-01 05:37:25 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/on_kill": {
+  "biomesoplenty:recipes/redstone/fir_pressure_plate": {
     "criteria": {
-      "log_spam_fixer": "2025-05-01 07:02:17 +0000"
+      "has_planks": "2025-05-01 05:37:25 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/multiplex_crossbow": {
+  "biomesoplenty:recipes/redstone/fir_button": {
     "criteria": {
-      "log_spam_fixer": "2025-05-01 07:02:17 +0000"
+      "has_planks": "2025-05-01 05:37:25 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/on_inventory_change": {
+  "biomesoplenty:recipes/building_blocks/fir_stairs": {
     "criteria": {
-      "log_spam_fixer": "2025-05-01 07:02:17 +0000"
+      "has_planks": "2025-05-01 05:37:25 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/holy_wrath": {
+  "biomesoplenty:recipes/redstone/fir_fence_gate": {
     "criteria": {
-      "log_spam_fixer": "2025-05-01 07:02:17 +0000"
+      "has_planks": "2025-05-01 05:37:25 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/on_block": {
+  "biomesoplenty:recipes/redstone/fir_trapdoor": {
     "criteria": {
-      "log_spam_fixer": "2025-05-01 07:02:17 +0000"
+      "has_planks": "2025-05-01 05:37:25 +0000"
     },
-    "done": false
+    "done": true
   },
   "infinitybuttons:emergency": {
     "criteria": {
       "emergencypush": "2025-05-01 05:41:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/warped_fungus_on_a_stick": {
+    "criteria": {
+      "has_warped_fungus": "2025-05-01 05:42:31 +0000"
+    },
+    "done": true
+  },
+  "nova_structures:adventure/find_pillager_outpost": {
+    "criteria": {
+      "minecraft:pillager_outpost": "2025-05-01 06:18:07 +0000"
     },
     "done": true
   },
@@ -10413,9 +10426,81 @@
     },
     "done": true
   },
-  "supplementaries:recipes/decorations/biomesoplenty/sign_post_fir": {
+  "minecraft:recipes/building_blocks/acacia_stairs": {
     "criteria": {
-      "has_item": "2025-05-01 05:37:25 +0000"
+      "has_planks": "2025-05-01 06:28:49 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/acacia_window": {
+    "criteria": {
+      "has_ingredient": "2025-05-01 06:28:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/acacia_sign": {
+    "criteria": {
+      "has_planks": "2025-05-01 06:28:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-05-01 06:28:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_slab": {
+    "criteria": {
+      "has_planks": "2025-05-01 06:28:49 +0000"
+    },
+    "done": true
+  },
+  "infinitybuttons:recipes/redstone/acacia_plank_secret_button": {
+    "criteria": {
+      "has_thing": "2025-05-01 06:28:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/acacia_fence": {
+    "criteria": {
+      "has_planks": "2025-05-01 06:28:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_button": {
+    "criteria": {
+      "has_planks": "2025-05-01 06:28:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_door": {
+    "criteria": {
+      "has_planks": "2025-05-01 06:28:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-05-01 06:28:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-05-01 06:28:49 +0000"
+    },
+    "done": true
+  },
+  "infinitybuttons:recipes/redstone/acacia_large_button": {
+    "criteria": {
+      "has_thing": "2025-05-01 06:28:49 +0000"
+    },
+    "done": true
+  },
+  "nova_structures:adventure/tavern_quest": {
+    "criteria": {
+      "open_tavern_chest": "2025-05-01 06:42:20 +0000"
     },
     "done": true
   },
@@ -10437,45 +10522,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/acacia_stairs": {
-    "criteria": {
-      "has_planks": "2025-05-01 06:28:49 +0000"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/small_diorite_brick_slab_from_stone_types_diorite_stonecutting": {
     "criteria": {
       "has_stone_types_diorite": "2025-05-01 06:46:40 +0000"
     },
     "done": true
   },
-  "biomesoplenty:recipes/decorations/fir_fence": {
-    "criteria": {
-      "has_planks": "2025-05-01 05:37:25 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/redstone/fir_door": {
-    "criteria": {
-      "has_planks": "2025-05-01 05:37:25 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/diorite_stairs_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-05-01 06:46:40 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/building_blocks/acacia_window": {
-    "criteria": {
-      "has_ingredient": "2025-05-01 06:28:49 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/acacia_sign": {
-    "criteria": {
-      "has_planks": "2025-05-01 06:28:49 +0000"
     },
     "done": true
   },
@@ -10488,12 +10543,6 @@
   "create:recipes/building_blocks/cut_diorite_brick_wall_from_stone_types_diorite_stonecutting": {
     "criteria": {
       "has_stone_types_diorite": "2025-05-01 06:46:40 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/building_blocks/fir_wood": {
-    "criteria": {
-      "has_log": "2025-05-01 05:37:18 +0000"
     },
     "done": true
   },
@@ -10527,12 +10576,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/acacia_pressure_plate": {
-    "criteria": {
-      "has_planks": "2025-05-01 06:28:49 +0000"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/small_diorite_brick_wall_from_stone_types_diorite_stonecutting": {
     "criteria": {
       "has_stone_types_diorite": "2025-05-01 06:46:40 +0000"
@@ -10542,18 +10585,6 @@
   "minecraft:recipes/building_blocks/diorite_slab": {
     "criteria": {
       "has_diorite": "2025-05-01 06:46:40 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/building_blocks/fir_slab": {
-    "criteria": {
-      "has_planks": "2025-05-01 05:37:25 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/acacia_slab": {
-    "criteria": {
-      "has_planks": "2025-05-01 06:28:49 +0000"
     },
     "done": true
   },
@@ -10575,33 +10606,15 @@
     },
     "done": true
   },
-  "biomesoplenty:recipes/decorations/fir_sign": {
-    "criteria": {
-      "has_planks": "2025-05-01 05:37:25 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/diorite_wall_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-05-01 06:46:40 +0000"
     },
     "done": true
   },
-  "nova_structures:adventure/tavern_quest": {
-    "criteria": {
-      "open_tavern_chest": "2025-05-01 06:42:20 +0000"
-    },
-    "done": true
-  },
   "create:recipes/building_blocks/polished_cut_diorite_stairs_from_stone_types_diorite_stonecutting": {
     "criteria": {
       "has_stone_types_diorite": "2025-05-01 06:46:40 +0000"
-    },
-    "done": true
-  },
-  "infinitybuttons:recipes/redstone/acacia_plank_secret_button": {
-    "criteria": {
-      "has_thing": "2025-05-01 06:28:49 +0000"
     },
     "done": true
   },
@@ -10617,18 +10630,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/acacia_fence": {
-    "criteria": {
-      "has_planks": "2025-05-01 06:28:49 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/redstone/fir_pressure_plate": {
-    "criteria": {
-      "has_planks": "2025-05-01 05:37:25 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/polished_diorite_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-05-01 06:46:40 +0000"
@@ -10638,12 +10639,6 @@
   "minecraft:recipes/building_blocks/diorite_stairs": {
     "criteria": {
       "has_diorite": "2025-05-01 06:46:40 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/acacia_button": {
-    "criteria": {
-      "has_planks": "2025-05-01 06:28:49 +0000"
     },
     "done": true
   },
@@ -10659,27 +10654,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/acacia_door": {
-    "criteria": {
-      "has_planks": "2025-05-01 06:28:49 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/polished_diorite_stairs_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-05-01 06:46:40 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/redstone/fir_button": {
-    "criteria": {
-      "has_planks": "2025-05-01 05:37:25 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/building_blocks/fir_stairs": {
-    "criteria": {
-      "has_planks": "2025-05-01 05:37:25 +0000"
     },
     "done": true
   },
@@ -10707,39 +10684,9 @@
     },
     "done": true
   },
-  "biomesoplenty:recipes/building_blocks/fir_planks": {
-    "criteria": {
-      "has_logs": "2025-05-01 05:37:18 +0000"
-    },
-    "done": true
-  },
   "infinitybuttons:recipes/redstone/diorite_button": {
     "criteria": {
       "has_thing": "2025-05-01 06:46:40 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/warped_fungus_on_a_stick": {
-    "criteria": {
-      "has_warped_fungus": "2025-05-01 05:42:31 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/acacia_trapdoor": {
-    "criteria": {
-      "has_planks": "2025-05-01 06:28:49 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/redstone/fir_fence_gate": {
-    "criteria": {
-      "has_planks": "2025-05-01 05:37:25 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/acacia_fence_gate": {
-    "criteria": {
-      "has_planks": "2025-05-01 06:28:49 +0000"
     },
     "done": true
   },
@@ -10755,27 +10702,9 @@
     },
     "done": true
   },
-  "infinitybuttons:recipes/redstone/acacia_large_button": {
-    "criteria": {
-      "has_thing": "2025-05-01 06:28:49 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/redstone/fir_trapdoor": {
-    "criteria": {
-      "has_planks": "2025-05-01 05:37:25 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/diorite_slab_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-05-01 06:46:40 +0000"
-    },
-    "done": true
-  },
-  "nova_structures:adventure/find_pillager_outpost": {
-    "criteria": {
-      "minecraft:pillager_outpost": "2025-05-01 06:18:07 +0000"
     },
     "done": true
   },
