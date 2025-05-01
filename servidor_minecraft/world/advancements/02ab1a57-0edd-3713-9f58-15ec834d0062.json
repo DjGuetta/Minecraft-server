@@ -13359,5 +13359,17 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/dragon_meal": {
+    "criteria": {
+      "bestiary": "2025-05-01 05:41:58 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/dragonscale_bronze_to_dragonscales_bronze": {
+    "criteria": {
+      "has_dragonscale_bronze": "2025-05-01 05:35:53 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

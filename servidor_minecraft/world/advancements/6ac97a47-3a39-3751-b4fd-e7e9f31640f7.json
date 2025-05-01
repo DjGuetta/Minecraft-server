@@ -6790,6 +6790,7 @@
   },
   "deeperdarker:main/kill_all_sculk_mobs": {
     "criteria": {
+      "phantom": "2025-05-01 05:04:48 +0000",
       "warden": "2025-04-15 02:58:37 +0000"
     },
     "done": false
@@ -10656,6 +10657,7 @@
   },
   "repurposed_structures:temples": {
     "criteria": {
+      "in_temple_nether_wasteland": "2025-05-01 05:30:56 +0000",
       "in_temple_taiga": "2025-04-24 19:25:05 +0000"
     },
     "done": false
@@ -10777,6 +10779,12 @@
   "minecraft:recipes/redstone/cherry_fence_gate": {
     "criteria": {
       "has_planks": "2025-04-26 06:35:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_glazed_terracotta": {
+    "criteria": {
+      "has_black_terracotta": "2025-05-01 05:31:14 +0000"
     },
     "done": true
   },
