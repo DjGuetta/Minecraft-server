@@ -9574,6 +9574,7 @@
   "nova_structures:adventure/find_all_illager_structures": {
     "criteria": {
       "swamp_village": "2025-04-23 03:24:39 +0000",
+      "pillager_outpost": "2025-05-01 06:17:44 +0000",
       "illager_camp": "2025-04-23 02:07:55 +0000"
     },
     "done": false
@@ -10285,7 +10286,8 @@
   },
   "repurposed_structures:villages": {
     "criteria": {
-      "in_village_mountains": "2025-04-23 03:33:47 +0000"
+      "in_village_mountains": "2025-04-23 03:33:47 +0000",
+      "in_village_ocean": "2025-05-01 06:04:49 +0000"
     },
     "done": false
   },
@@ -10782,9 +10784,27 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/amphithere_macuahuitl": {
+    "criteria": {
+      "has_item": "2025-05-01 06:18:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/black_glazed_terracotta": {
     "criteria": {
       "has_black_terracotta": "2025-05-01 05:31:14 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/amphithere_arrow": {
+    "criteria": {
+      "has_item": "2025-05-01 06:18:22 +0000"
+    },
+    "done": true
+  },
+  "nova_structures:adventure/find_pillager_outpost": {
+    "criteria": {
+      "minecraft:pillager_outpost": "2025-05-01 06:17:44 +0000"
     },
     "done": true
   },

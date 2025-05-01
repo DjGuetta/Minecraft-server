@@ -8913,6 +8913,7 @@
   },
   "repurposed_structures:villages": {
     "criteria": {
+      "in_village_ocean": "2025-05-01 06:04:30 +0000",
       "in_village_jungle": "2025-04-15 04:44:20 +0000"
     },
     "done": false
@@ -13062,6 +13063,12 @@
   "minecraft:recipes/decorations/grindstone": {
     "criteria": {
       "has_stone_slab": "2025-04-26 06:58:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sponge": {
+    "criteria": {
+      "has_wet_sponge": "2025-05-01 05:50:43 +0000"
     },
     "done": true
   },

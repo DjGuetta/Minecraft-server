@@ -6066,6 +6066,7 @@
     "criteria": {
       "swamp_village": "2025-04-18 23:39:23 +0000",
       "tavern_dark_oak": "2025-04-21 07:25:03 +0000",
+      "pillager_outpost": "2025-05-01 06:18:07 +0000",
       "swamp_hut": "2025-04-18 23:38:32 +0000",
       "illager_camp": "2025-04-14 06:16:42 +0000"
     },
@@ -10334,9 +10335,21 @@
     },
     "done": true
   },
+  "supplementaries:recipes/decorations/sign_post_acacia": {
+    "criteria": {
+      "has_item": "2025-05-01 06:28:49 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/decorations/biomesoplenty/sign_post_fir": {
     "criteria": {
       "has_item": "2025-05-01 05:37:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_stairs": {
+    "criteria": {
+      "has_planks": "2025-05-01 06:28:49 +0000"
     },
     "done": true
   },
@@ -10352,9 +10365,27 @@
     },
     "done": true
   },
+  "create:recipes/building_blocks/acacia_window": {
+    "criteria": {
+      "has_ingredient": "2025-05-01 06:28:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/acacia_sign": {
+    "criteria": {
+      "has_planks": "2025-05-01 06:28:49 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/building_blocks/fir_wood": {
     "criteria": {
       "has_log": "2025-05-01 05:37:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-05-01 06:28:49 +0000"
     },
     "done": true
   },
@@ -10364,15 +10395,45 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/acacia_slab": {
+    "criteria": {
+      "has_planks": "2025-05-01 06:28:49 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/decorations/fir_sign": {
     "criteria": {
       "has_planks": "2025-05-01 05:37:25 +0000"
     },
     "done": true
   },
+  "infinitybuttons:recipes/redstone/acacia_plank_secret_button": {
+    "criteria": {
+      "has_thing": "2025-05-01 06:28:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/acacia_fence": {
+    "criteria": {
+      "has_planks": "2025-05-01 06:28:49 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/redstone/fir_pressure_plate": {
     "criteria": {
       "has_planks": "2025-05-01 05:37:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_button": {
+    "criteria": {
+      "has_planks": "2025-05-01 06:28:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_door": {
+    "criteria": {
+      "has_planks": "2025-05-01 06:28:49 +0000"
     },
     "done": true
   },
@@ -10400,15 +10461,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/acacia_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-05-01 06:28:49 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/redstone/fir_fence_gate": {
     "criteria": {
       "has_planks": "2025-05-01 05:37:25 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/redstone/acacia_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-05-01 06:28:49 +0000"
+    },
+    "done": true
+  },
+  "infinitybuttons:recipes/redstone/acacia_large_button": {
+    "criteria": {
+      "has_thing": "2025-05-01 06:28:49 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/redstone/fir_trapdoor": {
     "criteria": {
       "has_planks": "2025-05-01 05:37:25 +0000"
+    },
+    "done": true
+  },
+  "nova_structures:adventure/find_pillager_outpost": {
+    "criteria": {
+      "minecraft:pillager_outpost": "2025-05-01 06:18:07 +0000"
     },
     "done": true
   },
