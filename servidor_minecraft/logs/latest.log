@@ -1182,3 +1182,38 @@ java.lang.ClassCastException: class net.minecraft.class_1739 cannot be cast to c
 [06:53:24] [Server thread/INFO]: Did not backup data (grave data empty)
 [06:59:06] [Server thread/INFO]: DjGuetta11 lost connection: Disconnected
 [06:59:06] [Server thread/INFO]: DjGuetta11 left the game
+[07:00:47] [Server thread/INFO]: MARAVILLA lost connection: Disconnected
+[07:00:47] [Server thread/INFO]: MARAVILLA left the game
+[07:02:54] [Server thread/INFO]: Santialpz lost connection: Disconnected
+[07:02:54] [Server thread/INFO]: Santialpz left the game
+[07:03:02] [Server thread/INFO]: DjTwistfly lost connection: Disconnected
+[07:03:02] [Server thread/INFO]: DjTwistfly left the game
+[07:03:28] [Server thread/INFO]: Gindaz starved to death
+[07:03:42] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[07:03:42] [Server thread/INFO]: stopstop<--[HERE]
+[07:03:46] [Server thread/INFO]: Stopping the server
+[07:03:47] [Server thread/INFO]: UDP server is stopped
+[07:03:47] [Server thread/INFO]: Stopping server
+[07:03:47] [Server thread/INFO]: Saving players
+[07:03:47] [Server thread/INFO]: Gindaz lost connection: Server closed
+[07:03:47] [Server thread/INFO]: Gindaz left the game
+[07:03:47] [Server thread/INFO]: Saving worlds
+[07:03:47] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[07:03:47] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/iceandfire:dread_land
+[07:03:47] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/graveyard:past
+[07:03:47] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/the_bumblezone:the_bumblezone
+[07:03:47] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[07:03:47] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/deeperdarker:otherside
+[07:03:47] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/twilightforest:twilight_forest
+[07:03:47] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[07:03:47] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/ae2:spatial_storage
+[07:03:47] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[07:03:47] [Server thread/INFO]: ThreadedAnvilChunkStorage (dread_land): All chunks are saved
+[07:03:47] [Server thread/INFO]: ThreadedAnvilChunkStorage (past): All chunks are saved
+[07:03:47] [Server thread/INFO]: ThreadedAnvilChunkStorage (the_bumblezone): All chunks are saved
+[07:03:47] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[07:03:47] [Server thread/INFO]: ThreadedAnvilChunkStorage (otherside): All chunks are saved
+[07:03:47] [Server thread/INFO]: ThreadedAnvilChunkStorage (twilight_forest): All chunks are saved
+[07:03:47] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[07:03:47] [Server thread/INFO]: ThreadedAnvilChunkStorage (spatial_storage): All chunks are saved
+[07:03:47] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
