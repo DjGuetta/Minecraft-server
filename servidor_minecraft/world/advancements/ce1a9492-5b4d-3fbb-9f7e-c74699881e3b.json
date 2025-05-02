@@ -13090,15 +13090,15 @@
     },
     "done": true
   },
-  "supplementaries:recipes/slice_map": {
-    "criteria": {
-      "has_map": "2025-05-02 00:32:10 +0000"
-    },
-    "done": true
-  },
   "takesapillage:bastille": {
     "criteria": {
       "in_bastille": "2025-05-01 23:52:02 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/slice_map": {
+    "criteria": {
+      "has_map": "2025-05-02 00:32:10 +0000"
     },
     "done": true
   },
